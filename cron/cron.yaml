@@ -1,0 +1,4 @@
+cron:
+  - description: "trigger function"
+    url: /triggerfunction
+    schedule: every 8 hours synchronized

@@ -1,5 +1,5 @@
 const http = require('http')
-
+const { httpUsername, httpPassword } = require('./secret.json')
 
 const bodyObj = {
   clientId: process.env.BADADS_CLIENT_ID,
@@ -19,6 +19,7 @@ const reqOptions = {
   port: 8010,
   path: '/badads/us-central1/update',
   method: 'POST',
+  auth: httpUsername + ':' + httpPassword,
   headers: {
     'Content-Type': 'application/json',
     'Content-Length': Buffer.byteLength(bodyJson)
