@@ -1,0 +1,11 @@
+{
+  "name": "list-update",
+  "version": "0.1.0",
+  "description": "",
+  "main": "gcloud.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^26.0.1"
+  }
+}
