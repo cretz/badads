@@ -579,7 +579,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-17T19:25:20.393266Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -775,7 +775,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-17T19:25:15.022803Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2647,7 +2647,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-17T19:25:20.027413Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -3269,11 +3269,12 @@
     {
       "reviewedSite": "eokul-meb.com",
       "mobileSummary": {
-        "lastChangeTime": "2017-06-20T18:30:28.536181612Z",
+        "lastChangeTime": "2018-02-17T19:24:58.381316409Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -9978,7 +9979,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-17T19:25:20.543462Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
