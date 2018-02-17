@@ -1,0 +1,16 @@
+runtime: go
+api_version: go1
+
+handlers:
+- url: /triggerfunction
+  script: _go_app
+  login: admin
+
+env_variables:
+  BADADS_CLIENT_ID: 'TODO'
+  BADADS_CLIENT_SECRET: 'TODO'
+  BADADS_REFRESH_TOKEN: 'TODO'
+  BADADS_REPO_PASSWORD: 'TODO'
+  BADADS_HTTP_URI: 'TODO'
+  BADADS_HTTP_USERNAME: 'TODO'
+  BADADS_HTTP_PASSWORD: 'TODO'
