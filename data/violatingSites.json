@@ -292,7 +292,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-17T18:27:23.881854Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -5280,7 +5280,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-17T14:29:51.239554Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -6464,13 +6464,14 @@
       "reviewedSite": "kouvas.eu",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2017-12-01T00:25:40.958060001Z",
+        "lastChangeTime": "2018-02-17T09:08:24.207151070Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8928,11 +8929,12 @@
     {
       "reviewedSite": "osasuna1920.com",
       "mobileSummary": {
-        "lastChangeTime": "2017-08-18T15:31:15.431082618Z",
+        "lastChangeTime": "2018-02-17T12:49:25.826169780Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -9099,22 +9101,24 @@
     {
       "reviewedSite": "paokvoice.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-02T15:25:04.504852001Z",
+        "lastChangeTime": "2018-02-17T17:36:36.053869813Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-01T19:26:04.486114Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-02-02T08:25:08.160041001Z",
+        "lastChangeTime": "2018-02-17T17:36:19.734936981Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -11011,13 +11015,14 @@
     {
       "reviewedSite": "simplyhealth.today",
       "mobileSummary": {
-        "lastChangeTime": "2018-01-03T15:23:51.613571963Z",
+        "lastChangeTime": "2018-02-17T11:16:26.313632493Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -12371,7 +12376,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-17T07:24:44.352066Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -12876,7 +12881,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-17T08:24:49.213822Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -14108,7 +14113,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-17T17:27:02.849094Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -14261,7 +14266,7 @@
     {
       "reviewedSite": "yokboylebirsey.com.tr",
       "mobileSummary": {
-        "lastChangeTime": "2017-07-07T20:41:29.703592693Z",
+        "lastChangeTime": "2018-02-17T07:22:14.327734Z",
         "region": [
           "REGION_B"
         ],
