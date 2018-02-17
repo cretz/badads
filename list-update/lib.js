@@ -27,6 +27,10 @@ function validateAndPutDefaultsInOptions(options) {
   field('repoUser', 'github-badads')
   field('repoPassword')
   field('repoLocalPath', path.join(os.tmpdir(), 'badads-git'))
+  field('repoCommitterName', 'GitHub Badads')
+  field('repoCommitterEmail', 'github.badads@gmail.com')
+  field('repoAuthorName', 'GitHub Badads')
+  field('repoAuthorEmail', 'github.badads@gmail.com')
   return options
 }
 
@@ -89,12 +93,19 @@ function updateRepo(options, sites) {
 }
 
 function pushRepo(options) {
+  const env = {
+    GIT_COMMITTER_NAME: options.repoCommitterName,
+    GIT_COMMITTER_EMAIL: options.repoCommitterEmail,
+    GIT_AUTHOR_NAME: options.repoAuthorName,
+    GIT_AUTHOR_EMAIL: options.repoAuthorEmail
+  }
   return promiseExec(
-      'git commit --allow-empty -a -m "' + (new Date()).toISOString() + '"', { cwd: options.repoLocalPath }).
+      'git commit --allow-empty -a -m "' + (new Date()).toISOString() + '"', { cwd: options.repoLocalPath, env: env }).
     then(() => {
       // Inject the username and password into the URL
+      // XXX: Yeah yeah, the password ends up in the logs here, who cares
       const repoUrl = url.parse(options.repoUrl)
       repoUrl.auth = options.repoUser + ':' + options.repoPassword
-      return promiseExec('git push ' + repoUrl.format() + ' master', { cwd: options.repoLocalPath })
+      return promiseExec('git push ' + repoUrl.format() + ' master', { cwd: options.repoLocalPath, env: env })
     })
 }
