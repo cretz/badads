@@ -94,8 +94,7 @@ function pushRepo(options) {
     then(() => {
       // Inject the username and password into the URL
       const repoUrl = url.parse(options.repoUrl)
-      repoUrl.username = options.repoUser
-      repoUrl.password = options.repoPassword
-      return promiseExec('git push ' + repoUrl + ' master', { cwd: options.repoLocalPath })
+      repoUrl.auth = options.repoUser + ':' + options.repoPassword
+      return promiseExec('git push ' + repoUrl.format() + ' master', { cwd: options.repoLocalPath })
     })
 }
