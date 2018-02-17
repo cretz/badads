@@ -3,7 +3,7 @@ const lib = require('./lib')
 // Google functions entry point
 exports.update = (req, res) => {
   console.log('Beginning update')
-  lib.run(req.body.options).
+  lib.run(req.body).
     then(() => res.end()).
     catch(err => {
       if (!(err instanceof Error)) err = new Error(err)
