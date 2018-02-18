@@ -2606,11 +2606,12 @@
       "reviewedSite": "deposts.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2017-07-10T19:56:49.113463055Z",
+        "lastChangeTime": "2018-02-18T10:17:22.546132191Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -5428,13 +5429,14 @@
     {
       "reviewedSite": "homeinfo.hu",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-12T19:23:11.735382001Z",
+        "lastChangeTime": "2018-02-18T09:41:45.968462400Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-24T22:27:00.138905Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -7534,7 +7536,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-18T09:24:04.308396Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9332,11 +9334,12 @@
     {
       "reviewedSite": "petel.bg",
       "mobileSummary": {
-        "lastChangeTime": "2017-06-19T17:31:14.816573931Z",
+        "lastChangeTime": "2018-02-18T11:17:18.112873915Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -13005,13 +13008,14 @@
     {
       "reviewedSite": "umbriajournal.com",
       "mobileSummary": {
-        "lastChangeTime": "2017-11-27T20:25:18.354489001Z",
+        "lastChangeTime": "2018-02-18T09:02:46.957885604Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
