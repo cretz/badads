@@ -260,7 +260,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-18T17:26:00.145612Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -548,13 +548,14 @@
       "reviewedSite": "alotporn.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-06T14:25:09.005466001Z",
+        "lastChangeTime": "2018-02-18T19:42:23.730013296Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-08T14:25:09.005466Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4154,7 +4155,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-18T18:29:47.086293Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -9302,7 +9303,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-18T18:29:45.262552Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -11509,11 +11510,12 @@
     {
       "reviewedSite": "sportsport.ba",
       "mobileSummary": {
-        "lastChangeTime": "2017-08-25T08:24:17.448871335Z",
+        "lastChangeTime": "2018-02-18T19:35:31.554815713Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
