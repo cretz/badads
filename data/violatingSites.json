@@ -263,13 +263,13 @@
         "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-02-19T13:19:03.098118423Z",
+        "lastChangeTime": "2018-02-20T07:30:46.706347001Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-22T07:30:46.706347Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -6445,14 +6445,13 @@
       "reviewedSite": "kouvas.eu",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-17T09:08:24.207151070Z",
+        "lastChangeTime": "2018-02-20T05:25:07.976460001Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -6707,11 +6706,12 @@
     {
       "reviewedSite": "leffatykki.com",
       "mobileSummary": {
-        "lastChangeTime": "2017-12-13T23:26:14.441003001Z",
+        "lastChangeTime": "2018-02-20T06:09:38.159894704Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -6886,13 +6886,13 @@
         "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-02-19T13:19:59.988739004Z",
+        "lastChangeTime": "2018-02-20T07:30:48.092337001Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-22T07:30:48.092337Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -12676,6 +12676,19 @@
       }
     },
     {
+      "reviewedSite": "turbovid.me",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-20T06:28:10.604319001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-22T06:28:10.604319Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "turkanime.tv",
       "mobileSummary": {
         "lastChangeTime": "2017-06-15T18:39:08.659478116Z",
@@ -12770,13 +12783,14 @@
     {
       "reviewedSite": "tvmovie.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-01-24T21:52:50.241466872Z",
+        "lastChangeTime": "2018-02-20T07:30:42.044751699Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-23T21:52:50.241466871Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
