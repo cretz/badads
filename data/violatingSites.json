@@ -3973,18 +3973,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "directexpose.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-16T15:08:14.216463890Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "direitapolitica.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -4829,20 +4817,6 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "europamester.dk",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-20T17:11:30.460656122Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-02T18:24:56.734298Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "europeanpharmaceuticalreview.com",
@@ -7416,13 +7390,14 @@
       "reviewedSite": "hhgroups.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:00:28.338460160Z",
+        "lastChangeTime": "2018-02-21T06:40:21.756649886Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:00:28.338460160Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -11313,20 +11288,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "nationaldaycalendar.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-20T23:24:28.028373899Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-18T22:24:12.112037Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "naturopedia.it",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:31:12.983908395Z",
@@ -12475,13 +12436,14 @@
       "reviewedSite": "pescuitul.ro",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:02:50.070497459Z",
+        "lastChangeTime": "2018-02-21T01:21:46.180068877Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:02:50.070497459Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15299,13 +15261,14 @@
     {
       "reviewedSite": "sportsdictator.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T20:01:22.699059454Z",
+        "lastChangeTime": "2018-02-21T03:19:27.562679338Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:01:22.699059454Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-02-20T20:02:29.735323986Z",
@@ -17223,6 +17186,18 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "unionesarda.it",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-21T07:22:30.967950001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "universogay.com",
