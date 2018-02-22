@@ -713,13 +713,14 @@
     {
       "reviewedSite": "alphalife.me",
       "mobileSummary": {
-        "lastChangeTime": "2018-01-25T23:27:07.059357001Z",
+        "lastChangeTime": "2018-02-22T02:23:24.160868100Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-23T14:25:59.215403Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -1221,13 +1222,14 @@
     {
       "reviewedSite": "audiomack.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T20:00:08.000593700Z",
+        "lastChangeTime": "2018-02-22T06:43:29.634794448Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:00:08.000593700Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -2473,16 +2475,7 @@
     },
     {
       "reviewedSite": "carregabenfica.com.pt",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-21T19:08:21.703312725Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2017-12-26T17:24:18.867542001Z",
         "region": [
@@ -9471,28 +9464,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "live-sports365.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-21T19:50:31.120991108Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-02-21T19:50:18.827767247Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T07:30:48.092337Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "live-stream.tv",
       "mobileSummary": {
         "lastChangeTime": "2018-02-16T22:24:21.356636001Z",
@@ -11518,20 +11489,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "newspao.gr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-21T20:39:56.969866484Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
