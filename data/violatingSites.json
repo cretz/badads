@@ -1724,26 +1724,28 @@
       "reviewedSite": "bgdnes.bg",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:02:08.179234349Z",
+        "lastChangeTime": "2018-02-22T15:55:53.450572236Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:02:08.179234349Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
       "reviewedSite": "bgfermer.bg",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:02:10.395937633Z",
+        "lastChangeTime": "2018-02-22T09:43:30.181638497Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:02:10.395937633Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4246,6 +4248,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "e-hentai.org",
+      "mobileSummary": {
+        "lastChangeTime": "2018-02-22T14:57:42.620106465Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -7161,13 +7175,14 @@
       "reviewedSite": "hclips.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-01-30T15:39:17.812599387Z",
+        "lastChangeTime": "2018-02-22T11:07:23.883567592Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-01T15:39:17.812599387Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -10828,13 +10843,14 @@
     {
       "reviewedSite": "motorradonline.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T20:00:05.812876670Z",
+        "lastChangeTime": "2018-02-22T11:11:35.247400838Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:00:05.812876670Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -14755,19 +14771,6 @@
       }
     },
     {
-      "reviewedSite": "slava.bg",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-01-24T10:24:16.644510001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-23T10:24:16.644510Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "smartied.com",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:31:20.578092912Z",
@@ -15715,19 +15718,6 @@
       },
       "desktopSummary": {
         "lastChangeTime": "2018-01-12T14:32:02.706806551Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "taraftarium24tv.link",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2017-06-14T21:36:31.928290878Z",
         "region": [
           "REGION_B"
         ],
@@ -17278,13 +17268,14 @@
       "reviewedSite": "valeacascadelor.ro",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:01:43.764708141Z",
+        "lastChangeTime": "2018-02-22T15:29:29.295163589Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:01:43.764708141Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18418,6 +18409,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "xtube.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-02-22T15:52:37.889808720Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-24T15:52:37.889808719Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
