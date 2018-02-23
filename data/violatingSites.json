@@ -713,14 +713,13 @@
     {
       "reviewedSite": "alphalife.me",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-22T02:23:24.160868100Z",
+        "lastChangeTime": "2018-02-23T00:23:31.009419001Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-02-23T14:25:59.215403Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -790,13 +789,13 @@
     {
       "reviewedSite": "americanupdate.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T21:24:45.757986Z",
+        "lastChangeTime": "2018-02-23T00:23:32.865569001Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:52.875729255Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -2473,20 +2472,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "carregabenfica.com.pt",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-02-22T22:20:54.833116999Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6803,20 +6788,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "gossipetv.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-22T20:52:05.620806841Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T23:24:28.613591Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "gossipextra.com",
       "mobileSummary": {
         "lastChangeTime": "2017-12-18T17:27:03.451078001Z",
@@ -8169,7 +8140,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-23T07:25:03.033036Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13990,7 +13961,7 @@
     {
       "reviewedSite": "rojadirectatv.tv",
       "mobileSummary": {
-        "lastChangeTime": "2018-01-17T18:25:11.530553Z",
+        "lastChangeTime": "2018-02-23T02:25:18.900569Z",
         "region": [
           "REGION_B"
         ],
@@ -14030,20 +14001,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "rottentomatoes.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-22T19:45:48.884578953Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-01T15:57:24.735311115Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -14205,7 +14162,7 @@
     {
       "reviewedSite": "scholieren.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T20:00:14.862836207Z",
+        "lastChangeTime": "2018-02-23T00:23:25.151535001Z",
         "region": [
           "REGION_B"
         ],
@@ -14338,7 +14295,7 @@
     {
       "reviewedSite": "semissourian.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T20:01:15.522945441Z",
+        "lastChangeTime": "2018-02-23T00:23:33.167274001Z",
         "region": [
           "REGION_A"
         ],
@@ -15622,7 +15579,7 @@
     {
       "reviewedSite": "svapo.it",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-21T08:17:53.401846Z",
+        "lastChangeTime": "2018-02-23T00:23:31.097791001Z",
         "region": [
           "REGION_B"
         ],
@@ -15648,11 +15605,12 @@
       "reviewedSite": "svetovnizagadki.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-22T22:24:08.237497001Z",
+        "lastChangeTime": "2018-02-23T07:29:04.126716702Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -16705,13 +16663,13 @@
     {
       "reviewedSite": "truedaily.news",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T21:25:05.171068Z",
+        "lastChangeTime": "2018-02-23T00:23:32.435269001Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:22.438115350Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -17133,6 +17091,18 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "uniondht.org",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-23T00:23:32.589162001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "unionesarda.it",
@@ -18075,7 +18045,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-23T00:25:41.235404Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
