@@ -1406,6 +1406,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "babypips.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-24T00:23:06.683413001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-26T00:23:06.683413Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "badcriminals.com",
       "mobileSummary": {
         "lastChangeTime": "2017-12-26T00:24:02.469123001Z",
@@ -8325,6 +8338,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "jizzbunker.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-24T01:24:17.208372001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-26T01:24:17.208372Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "jornaiserevistas.com",
       "mobileSummary": {
         "lastChangeTime": "2017-12-28T22:24:38.661833001Z",
@@ -8761,6 +8787,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "kinogol.org",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-24T02:24:06.689938001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-26T02:24:06.689938Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -11149,13 +11188,14 @@
     {
       "reviewedSite": "mysomali.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-01-25T21:25:50.798745001Z",
+        "lastChangeTime": "2018-02-24T07:24:30.446991531Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -12091,13 +12131,14 @@
     {
       "reviewedSite": "palmerreport.com",
       "mobileSummary": {
-        "lastChangeTime": "2017-11-21T21:25:07.945662001Z",
+        "lastChangeTime": "2018-02-24T06:26:27.024373038Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13966,6 +14007,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:47.877446293Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "rodopi24.blogspot.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-24T00:23:06.292818001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-26T00:23:06.292818Z",
         "filterStatus": "PENDING"
       }
     },
@@ -16422,6 +16476,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "torrent-kickass1.top",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-24T01:24:15.752351001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-26T01:24:15.752351Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "torteikolacici.com",
       "mobileSummary": {
         "lastChangeTime": "2017-12-12T03:23:55.739168001Z",
@@ -17976,6 +18043,20 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-14T19:23:25.076964Z",
         "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "watchtheofficeonline.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-24T05:24:59.629620554Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "underReview": true,
+        "enforcementTime": "2018-03-26T02:24:04.593244Z",
+        "filterStatus": "PAUSED"
       }
     },
     {
