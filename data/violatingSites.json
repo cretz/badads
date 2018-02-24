@@ -1600,13 +1600,14 @@
     {
       "reviewedSite": "beautyandtips.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-23T23:24:09.190991001Z",
+        "lastChangeTime": "2018-02-24T13:38:06.165672204Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-25T23:24:09.190991Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -8341,13 +8342,14 @@
       "reviewedSite": "jizzbunker.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-24T01:24:17.208372001Z",
+        "lastChangeTime": "2018-02-24T08:59:55.762976910Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-26T01:24:17.208372Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8831,13 +8833,14 @@
       "reviewedSite": "kinovo.org",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-22T23:23:38.837752001Z",
+        "lastChangeTime": "2018-02-24T08:08:24.050181592Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-24T23:23:38.837752Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14228,13 +14231,14 @@
       "reviewedSite": "sardegnasport.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-01-24T18:26:19.896737001Z",
+        "lastChangeTime": "2018-02-24T15:13:58.091048524Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-23T18:26:19.896737Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
