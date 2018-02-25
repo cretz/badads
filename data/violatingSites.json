@@ -8552,13 +8552,14 @@
     {
       "reviewedSite": "kadincatarifler.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-01-24T23:27:03.260938001Z",
+        "lastChangeTime": "2018-02-25T00:01:45.667065691Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-23T23:27:03.260938Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
