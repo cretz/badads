@@ -3036,11 +3036,12 @@
       "reviewedSite": "colorcombos.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2017-12-04T17:25:32.754874001Z",
+        "lastChangeTime": "2018-02-24T16:23:51.063561042Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -4191,7 +4192,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-24T19:32:04.110440Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -8609,7 +8610,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-24T17:25:39.432032Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -8852,7 +8853,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-24T23:27:10.618292Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -8892,7 +8893,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-24T17:25:31.561918Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -15127,22 +15128,24 @@
     {
       "reviewedSite": "sportarad.ro",
       "mobileSummary": {
-        "lastChangeTime": "2017-12-07T18:26:34.057982001Z",
+        "lastChangeTime": "2018-02-24T21:26:27.268634964Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-01-17T00:25:14.192436001Z",
+        "lastChangeTime": "2018-02-24T21:26:56.767778754Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-16T00:25:14.192436Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18576,7 +18579,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-24T17:25:40.508895Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
