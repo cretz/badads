@@ -1598,20 +1598,6 @@
       }
     },
     {
-      "reviewedSite": "beautyandtips.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-24T13:38:06.165672204Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-25T23:24:09.190991Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "bebasket.fr",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:30:46.450198531Z",
@@ -2100,13 +2086,14 @@
     {
       "reviewedSite": "bovision.se",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T20:03:04.005031731Z",
+        "lastChangeTime": "2018-02-26T14:42:19.898695480Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:03:04.005031731Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -3170,11 +3157,12 @@
     {
       "reviewedSite": "corrierece.it",
       "mobileSummary": {
-        "lastChangeTime": "2018-01-03T15:23:51.613571963Z",
+        "lastChangeTime": "2018-02-26T10:40:48.981541022Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -4198,11 +4186,12 @@
     {
       "reviewedSite": "donnamoderna.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-21T18:25:20.538232001Z",
+        "lastChangeTime": "2018-02-26T10:04:46.468835097Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -4711,19 +4700,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "eroxia.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-02-26T03:01:27.449532780Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "eschoolnews.com",
@@ -6380,11 +6356,12 @@
     {
       "reviewedSite": "gamesaktuell.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T20:02:24.192650323Z",
+        "lastChangeTime": "2018-02-26T09:35:23.449056548Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -7915,13 +7892,14 @@
       "reviewedSite": "imagebam.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-01-29T21:45:48.219947933Z",
+        "lastChangeTime": "2018-02-26T09:17:50.845418569Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-28T21:45:48.219947933Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8794,20 +8772,6 @@
       }
     },
     {
-      "reviewedSite": "kinovo.org",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-02-24T08:08:24.050181592Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-24T23:23:38.837752Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "kinowolf.de",
       "mobileSummary": {
         "lastChangeTime": "2018-01-25T23:27:10.618292001Z",
@@ -9064,19 +9028,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "ladnydom.pl",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-26T06:30:52.381087491Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -9441,13 +9392,14 @@
     {
       "reviewedSite": "linternaute.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-23T15:50:45.886635394Z",
+        "lastChangeTime": "2018-02-26T14:39:20.382694678Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-28T21:56:40.756956189Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -10358,20 +10310,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "meanwhileinbritain.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-26T02:24:41.866522410Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-17T23:25:31.402320Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "medianarodowe.com",
       "mobileSummary": {
         "lastChangeTime": "2018-02-15T23:25:30.339892001Z",
@@ -10381,20 +10319,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-17T23:25:30.339892Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "medicinesinfo.org",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-25T15:00:46.838025794Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-25T22:23:15.986454Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -10576,6 +10500,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-28T15:31:06.300367256Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "milfcomix.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-26T08:23:24.261533001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-28T08:23:24.261533Z",
         "filterStatus": "PENDING"
       }
     },
@@ -12543,11 +12480,12 @@
       "reviewedSite": "pinger.pl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:02:35.499864663Z",
+        "lastChangeTime": "2018-02-26T12:09:11.725402898Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -17097,11 +17035,12 @@
       "reviewedSite": "unionesarda.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-21T07:22:30.967950001Z",
+        "lastChangeTime": "2018-02-26T15:18:57.344097127Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -17967,20 +17906,6 @@
       }
     },
     {
-      "reviewedSite": "watchtheofficeonline.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-02-24T05:24:59.629620554Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-26T02:24:04.593244Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "wawalove.pl",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18327,19 +18252,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "wunderweib.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-01-30T22:48:24.502853373Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-01T22:48:24.502853372Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "wunschfee.com",
