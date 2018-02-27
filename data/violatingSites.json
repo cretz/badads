@@ -1219,6 +1219,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "astazi.ro",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-27T01:25:00.568035001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-29T01:25:00.568035Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "astrologi.lv",
       "mobileSummary": {},
       "desktopSummary": {
@@ -6758,6 +6771,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "goodhealthall.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-27T07:40:36.847288001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-29T07:40:36.847288Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -16351,6 +16377,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "toppresa.bg",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-27T07:40:37.305923001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-29T07:40:37.305923Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "topsecretinfodump.com",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:31:24.178015828Z",
@@ -17903,13 +17942,14 @@
       "reviewedSite": "watchfamilyguy.cc",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-26T06:22:50.971649001Z",
+        "lastChangeTime": "2018-02-27T05:19:49.432278541Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-28T06:22:50.971649Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
