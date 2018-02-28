@@ -134,7 +134,15 @@
         "enforcementTime": "2018-03-29T19:24:32.379745Z",
         "filterStatus": "PENDING"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-28T05:26:39.604643001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-30T05:26:39.604643Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "4alltravelers.com",
@@ -591,13 +599,14 @@
     {
       "reviewedSite": "aksam.com.tr",
       "mobileSummary": {
-        "lastChangeTime": "2018-01-29T19:28:33.975848001Z",
+        "lastChangeTime": "2018-02-28T07:57:25.410503339Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -711,20 +720,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "allspicynews.gr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-27T18:11:19.286181521Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -2292,6 +2287,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "btvsports.biz",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-28T00:22:41.933503001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-30T00:22:41.933503Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "btvsports.life",
       "mobileSummary": {},
       "desktopSummary": {
@@ -3542,20 +3550,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "dailyinterlake.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-27T23:18:38.418262697Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -6136,6 +6130,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "fsplay.org",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-28T05:26:30.786859001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-30T05:26:30.786859Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "full-serie.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -6253,13 +6260,14 @@
     {
       "reviewedSite": "funtof.fr",
       "mobileSummary": {
-        "lastChangeTime": "2017-09-18T22:25:38.362117956Z",
+        "lastChangeTime": "2018-02-28T07:08:57.054813318Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -10055,6 +10063,19 @@
       }
     },
     {
+      "reviewedSite": "macyayinlarim1.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-02-28T07:23:21.432177001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-30T07:23:21.432177Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "magazin.ba",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13535,19 +13556,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "rayanworld.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-27T20:13:29.124907602Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "realfarmacy.com",
       "mobileSummary": {
         "lastChangeTime": "2017-07-18T21:52:47.815171257Z",
@@ -15969,19 +15977,6 @@
       }
     },
     {
-      "reviewedSite": "themag.co.uk",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-27T22:59:22.429410660Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "thenewsherald.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18008,20 +18003,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "watchfamilyguy.cc",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-02-27T05:19:49.432278541Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-28T06:22:50.971649Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
