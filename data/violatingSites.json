@@ -345,6 +345,18 @@
       }
     },
     {
+      "reviewedSite": "abendzeitung-muenchen.de",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-01T07:24:03.538389001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "abovetopsecret.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -6488,13 +6500,14 @@
       "reviewedSite": "goodhealthall.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-27T07:40:36.847288001Z",
+        "lastChangeTime": "2018-03-01T06:40:44.787319623Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-29T07:40:36.847288Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8532,20 +8545,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "komando.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-02-28T18:40:25.727295732Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-24T17:25:31.561918Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "komicnistatusi.rs",
@@ -11336,15 +11335,7 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2017-12-20T19:25:58.509253001Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "nuneaton-news.co.uk",
@@ -14370,6 +14361,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "socialmediafeed.me",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-01T07:23:56.346736001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-03-31T07:23:56.346736Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "socuriosidades.eu",
       "mobileSummary": {},
       "desktopSummary": {
@@ -14774,7 +14778,7 @@
       "reviewedSite": "starbuckssecretmenu.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2017-08-31T20:18:10.035660195Z",
+        "lastChangeTime": "2018-03-01T03:04:34.002009Z",
         "region": [
           "REGION_A"
         ],
@@ -16150,20 +16154,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "tubedupe.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-02-28T10:44:51.419633766Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-02T20:25:32.354557Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "tubejames.com",
