@@ -1009,13 +1009,14 @@
       "reviewedSite": "anime1.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2017-11-02T22:25:17.300527001Z",
+        "lastChangeTime": "2018-03-02T11:07:39.185208775Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -1081,11 +1082,12 @@
     {
       "reviewedSite": "antoloji.com",
       "mobileSummary": {
-        "lastChangeTime": "2017-06-20T18:16:38.097060001Z",
+        "lastChangeTime": "2018-03-02T09:36:00.383586690Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -3274,13 +3276,14 @@
     {
       "reviewedSite": "crocotube.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-12T08:23:46.002254001Z",
+        "lastChangeTime": "2018-03-02T10:55:38.085025851Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-14T08:23:46.002254Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -4439,6 +4442,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "emisiunionline.ro",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-02T11:46:18.010867001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-01T11:46:18.010867Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "empatiche.com",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:30:53.370493341Z",
@@ -4664,22 +4680,24 @@
     {
       "reviewedSite": "eurobasket.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T23:24:28.491381001Z",
+        "lastChangeTime": "2018-03-02T13:48:39.542227285Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T23:24:28.491381Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2017-11-27T19:28:01.351955001Z",
+        "lastChangeTime": "2018-03-02T13:46:21.597014195Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6150,11 +6168,12 @@
       "reviewedSite": "gamekult.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-01T23:41:28.709152002Z",
+        "lastChangeTime": "2018-03-02T09:04:34.197365208Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -7599,13 +7618,14 @@
     {
       "reviewedSite": "ilovepalermocalcio.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-01-02T15:25:35.486430001Z",
+        "lastChangeTime": "2018-03-02T11:03:11.201965678Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -7613,13 +7633,14 @@
       "reviewedSite": "imagebam.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-28T16:18:51.913590994Z",
+        "lastChangeTime": "2018-03-02T12:33:39.879413711Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-28T21:45:48.219947933Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8965,13 +8986,14 @@
       "reviewedSite": "lifehacks4you.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-28T19:58:58.846393320Z",
+        "lastChangeTime": "2018-03-02T09:43:43.494857624Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:01:09.986600837Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12773,13 +12795,14 @@
     {
       "reviewedSite": "quizfactory.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-07T15:23:47.136528001Z",
+        "lastChangeTime": "2018-03-02T15:59:04.290337653Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-09T15:23:47.136528Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13707,11 +13730,12 @@
       "reviewedSite": "sedenne.no",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2017-07-07T20:08:52.548613884Z",
+        "lastChangeTime": "2018-03-02T09:11:56.744164986Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -16937,6 +16961,18 @@
       }
     },
     {
+      "reviewedSite": "vipbox.st",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-02T13:23:36.847377001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "vipboxtv.se",
       "mobileSummary": {
         "lastChangeTime": "2018-03-01T19:21:04.930453001Z",
@@ -17311,13 +17347,14 @@
       "reviewedSite": "watchepisodes4.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-01-01T20:24:56.314380001Z",
+        "lastChangeTime": "2018-03-02T13:05:06.049053458Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17545,11 +17582,12 @@
       "reviewedSite": "wiselwisel.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2017-11-27T23:25:50.951720001Z",
+        "lastChangeTime": "2018-03-02T13:17:56.891318025Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -17557,11 +17595,12 @@
       "reviewedSite": "womenshealth.su",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-27T23:25:16.485432001Z",
+        "lastChangeTime": "2018-03-02T09:16:33.333334003Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
