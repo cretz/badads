@@ -4153,18 +4153,6 @@
       }
     },
     {
-      "reviewedSite": "dressupgames.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-23T17:50:29.080452Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "drugsofficial.com",
       "mobileSummary": {
         "lastChangeTime": "2017-12-28T19:25:52.088054001Z",
@@ -4737,13 +4725,14 @@
       "reviewedSite": "eventbranche.nl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:01:37.887631983Z",
+        "lastChangeTime": "2018-03-02T07:05:23.890190008Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:01:37.887631983Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14705,18 +14694,6 @@
       }
     },
     {
-      "reviewedSite": "starbuckssecretmenu.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-01T03:04:34.002009Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "stilemilan.it",
       "mobileSummary": {
         "lastChangeTime": "2017-12-22T22:24:28.030146001Z",
@@ -16884,13 +16861,14 @@
       "reviewedSite": "vidmax.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-01-13T20:25:02.989250001Z",
+        "lastChangeTime": "2018-03-02T05:11:25.876717514Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17905,14 +17883,13 @@
       "reviewedSite": "yenisafak.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-01T12:17:55.432683718Z",
+        "lastChangeTime": "2018-03-02T03:03:23.241128001Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18070,11 +18047,12 @@
       "reviewedSite": "zerozero.pt",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-01T23:56:15.580638002Z",
+        "lastChangeTime": "2018-03-02T00:47:37.638003753Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
