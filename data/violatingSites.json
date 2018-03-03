@@ -3,11 +3,12 @@
     {
       "reviewedSite": "0123movies.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-26T19:24:13.180928001Z",
+        "lastChangeTime": "2018-03-03T14:04:00.254970636Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -40,11 +41,12 @@
     {
       "reviewedSite": "123freemovies.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-26T19:23:55.534072001Z",
+        "lastChangeTime": "2018-03-03T14:08:05.556397991Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -52,11 +54,12 @@
     {
       "reviewedSite": "123moviess.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-26T19:23:51.815921001Z",
+        "lastChangeTime": "2018-03-03T14:09:46.600258226Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -450,13 +453,14 @@
     {
       "reviewedSite": "adultxnxx.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-07T16:23:48.581275001Z",
+        "lastChangeTime": "2018-03-03T09:01:44.222600883Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-09T16:23:48.581275Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -17171,13 +17175,14 @@
       "reviewedSite": "vidzi.tv",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-01-30T22:45:00.086039462Z",
+        "lastChangeTime": "2018-03-03T13:09:00.515171760Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
