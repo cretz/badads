@@ -1562,13 +1562,14 @@
     {
       "reviewedSite": "bahistahminleri2.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-02T23:30:42.279191001Z",
+        "lastChangeTime": "2018-03-03T00:12:20.433096511Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-01T23:30:42.279191Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -8929,6 +8930,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "lanuovasardegna.it",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-03T00:34:25.786189001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "laparisiennelife.com",
       "mobileSummary": {
         "lastChangeTime": "2018-02-20T20:02:20.923382783Z",
@@ -8990,11 +9003,12 @@
     {
       "reviewedSite": "learnmorefacts.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-02T18:04:32.175909001Z",
+        "lastChangeTime": "2018-03-03T07:18:23.404660814Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -9114,11 +9128,12 @@
     {
       "reviewedSite": "lexicanum.com",
       "mobileSummary": {
-        "lastChangeTime": "2017-11-29T23:26:24.130889001Z",
+        "lastChangeTime": "2018-03-03T03:05:23.382893918Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -9733,14 +9748,13 @@
     {
       "reviewedSite": "lyricsfeast.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-01T15:24:26.209089705Z",
+        "lastChangeTime": "2018-03-03T00:20:16.213284001Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14092,6 +14106,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "sexyplasea.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-03T02:27:24.563647001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "sexypussypic.com",
       "mobileSummary": {
         "lastChangeTime": "2018-01-17T18:25:21.696938001Z",
@@ -15132,13 +15158,14 @@
       "reviewedSite": "superstreetonline.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:00:43.950840050Z",
+        "lastChangeTime": "2018-03-03T00:20:43.172035370Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:00:43.950840050Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17180,6 +17207,18 @@
       }
     },
     {
+      "reviewedSite": "vipbox.fi",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-03T02:43:07.625164001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "vipbox.st",
       "mobileSummary": {
         "lastChangeTime": "2018-03-02T13:23:36.847377001Z",
@@ -17574,6 +17613,19 @@
         "enforcementTime": "2018-03-15T17:26:47.578037Z",
         "filterStatus": "PENDING"
       }
+    },
+    {
+      "reviewedSite": "watchdragonballsuper.info",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-03T03:25:02.618449001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-02T03:25:02.618449Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "watchepisodes4.com",
