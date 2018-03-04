@@ -637,7 +637,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-03T18:25:26.246596Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -7098,7 +7098,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-03T18:25:28.481844Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7691,13 +7691,14 @@
       "reviewedSite": "ilfattovesuviano.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-13T17:26:47.133620001Z",
+        "lastChangeTime": "2018-03-03T16:23:32.777078870Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-14T19:23:24.869936Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8471,7 +8472,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-03T23:24:55.747789Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -9416,13 +9417,14 @@
     {
       "reviewedSite": "livexxx.me",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-02T23:25:46.541355001Z",
+        "lastChangeTime": "2018-03-03T17:51:37.766923640Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-01T23:25:46.541355Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13137,7 +13139,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-03T18:25:28.638604Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
