@@ -4191,13 +4191,14 @@
       "reviewedSite": "dosenea.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-01T10:22:58.879774001Z",
+        "lastChangeTime": "2018-03-04T12:44:31.009754797Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-31T10:22:58.879774Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8364,13 +8365,14 @@
       "reviewedSite": "kaminata.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-01-25T17:25:39.432032001Z",
+        "lastChangeTime": "2018-03-04T08:23:54.502942875Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-24T17:25:39.432032Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
