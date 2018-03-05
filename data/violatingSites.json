@@ -2484,13 +2484,14 @@
     {
       "reviewedSite": "buzzcelebrities.com",
       "mobileSummary": {
-        "lastChangeTime": "2017-06-28T18:23:45.280942331Z",
+        "lastChangeTime": "2018-03-04T20:10:17.257972022Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -8976,22 +8977,24 @@
     {
       "reviewedSite": "latelete.tv",
       "mobileSummary": {
-        "lastChangeTime": "2018-01-16T23:24:44.738770Z",
+        "lastChangeTime": "2018-03-04T20:20:44.299139679Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T23:24:44.738770Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-01-26T21:43:17.591017787Z",
+        "lastChangeTime": "2018-03-04T20:20:10.571969709Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -10831,13 +10834,14 @@
       "reviewedSite": "myfxbook.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-28T08:25:15.846092001Z",
+        "lastChangeTime": "2018-03-04T18:38:39.258122922Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-30T08:25:15.846092Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14494,13 +14498,14 @@
     {
       "reviewedSite": "snas.ro",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T20:02:27.531111578Z",
+        "lastChangeTime": "2018-03-04T19:33:35.536971967Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:02:27.531111578Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -17044,34 +17049,37 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-01-12T14:32:02.706806551Z",
+        "lastChangeTime": "2018-03-04T20:17:30.171636309Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
       "reviewedSite": "verliga.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-01T20:24:19.919082Z",
+        "lastChangeTime": "2018-03-04T20:41:42.534946852Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-02-28T23:29:20.769383001Z",
+        "lastChangeTime": "2018-03-04T20:41:29.082252573Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
