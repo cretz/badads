@@ -320,19 +320,6 @@
       }
     },
     {
-      "reviewedSite": "abovetopsecret.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-02-16T06:27:28.630962001Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-18T06:27:28.630962Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "acousticguitar.com",
       "mobileSummary": {
         "lastChangeTime": "2018-01-01T21:25:50.126445001Z",
@@ -3947,19 +3934,6 @@
       }
     },
     {
-      "reviewedSite": "dizimag5.co",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-02-22T23:23:38.938683001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-24T23:23:38.938683Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "dmsur.com",
       "mobileSummary": {
         "lastChangeTime": "2018-01-03T15:23:51.613571963Z",
@@ -4409,6 +4383,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "emportuguescorrecto.pt",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-07T05:57:25.879558001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-06T05:57:25.879558Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "emptylighthouse.com",
@@ -6408,13 +6395,13 @@
     {
       "reviewedSite": "goppresidential.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-01T18:59:01.149293Z",
+        "lastChangeTime": "2018-03-07T01:27:36.394421002Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -7118,20 +7105,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "hnntube.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T18:22:56.571758275Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-04T17:51:50.225584Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "hockeybladet.nu",
@@ -7859,6 +7832,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "ittexnoall.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-07T07:04:58.061073001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-06T07:04:58.061073Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -9423,6 +9409,18 @@
       }
     },
     {
+      "reviewedSite": "lpgasmagazine.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-07T05:45:12.862859001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "lttv.us",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10457,6 +10455,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "moviefree.cc",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-07T05:57:02.123550001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-06T05:57:02.123550Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -11973,6 +11984,18 @@
       }
     },
     {
+      "reviewedSite": "pesterlloyd.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-07T05:46:31.557485001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "peterboroughtoday.co.uk",
       "mobileSummary": {
         "lastChangeTime": "2017-10-17T18:23:12.817145815Z",
@@ -12128,6 +12151,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "pitandquarry.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-07T05:57:11.029508001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-06T05:57:11.029508Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "pixelcanvas.io",
@@ -14903,6 +14939,19 @@
       }
     },
     {
+      "reviewedSite": "strikeout.nu",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-07T01:19:28.129433001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-06T01:19:28.129433Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "studionews24.com",
       "mobileSummary": {
         "lastChangeTime": "2017-08-31T20:18:10.035660195Z",
@@ -15211,14 +15260,12 @@
       "reviewedSite": "tatiemaryse.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-06T20:30:54.986150371Z",
+        "lastChangeTime": "2018-03-07T05:33:56.529152001Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -16190,6 +16237,19 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "tugadownloadshd.pt",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-07T07:49:55.929379001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-06T07:49:55.929379Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "tugafree.net",
@@ -17626,6 +17686,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "winsightgrocerybusiness.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-07T05:56:20.411727001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-06T05:56:20.411727Z",
+        "filterStatus": "PENDING"
       }
     },
     {
