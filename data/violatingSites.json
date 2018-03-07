@@ -1007,7 +1007,7 @@
     {
       "reviewedSite": "antoloji.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-05T21:42:28.890155001Z",
+        "lastChangeTime": "2018-03-07T10:12:14.456969Z",
         "region": [
           "REGION_B"
         ],
@@ -2986,7 +2986,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-07T10:25:36.718700Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -5558,13 +5558,14 @@
       "reviewedSite": "footy.dk",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2017-12-18T18:25:17.621320001Z",
+        "lastChangeTime": "2018-03-07T14:30:48.413007521Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6101,13 +6102,14 @@
     {
       "reviewedSite": "geiletore.de",
       "mobileSummary": {
-        "lastChangeTime": "2017-11-20T19:27:35.808785001Z",
+        "lastChangeTime": "2018-03-07T08:33:39.668921760Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -6516,13 +6518,14 @@
     {
       "reviewedSite": "greenmp3.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-07T18:25:15.857695001Z",
+        "lastChangeTime": "2018-03-07T08:21:32.767281743Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-09T18:25:15.857695Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -7984,27 +7987,6 @@
       }
     },
     {
-      "reviewedSite": "journalreview.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-01-10T10:25:48.971893001Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-01-08T19:24:58.875031001Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "joy.az",
       "mobileSummary": {
         "lastChangeTime": "2018-01-24T23:27:01.175712001Z",
@@ -8810,13 +8792,14 @@
       "reviewedSite": "lavoratorio.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:03:05.132994313Z",
+        "lastChangeTime": "2018-03-07T11:04:45.141486369Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:03:05.132994313Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8866,6 +8849,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "lesrecettesdejacre.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-07T09:53:28.725319001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-06T09:53:28.725319Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -9190,11 +9186,12 @@
     {
       "reviewedSite": "livexxx.me",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-05T23:16:58.387447001Z",
+        "lastChangeTime": "2018-03-07T14:31:31.863717275Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -9537,13 +9534,14 @@
     {
       "reviewedSite": "lyricsfeast.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-03T00:20:16.213284001Z",
+        "lastChangeTime": "2018-03-07T11:19:32.630622228Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -10272,6 +10270,19 @@
       }
     },
     {
+      "reviewedSite": "mmm-online.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-07T14:48:34.315100001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-06T14:48:34.315100Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "mobilepornvideo.net",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10580,19 +10591,21 @@
     {
       "reviewedSite": "multiplayer.it",
       "mobileSummary": {
-        "lastChangeTime": "2017-06-20T18:32:44.178459384Z",
+        "lastChangeTime": "2018-03-07T14:18:47.162630824Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2017-06-21T21:54:06.297246Z",
+        "lastChangeTime": "2018-03-07T14:18:38.105543721Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -14008,13 +14021,14 @@
     {
       "reviewedSite": "sexvcl.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T19:03:39.424549001Z",
+        "lastChangeTime": "2018-03-07T14:04:28.175265783Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-05T19:03:39.424549Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -14503,13 +14517,14 @@
       "reviewedSite": "somosporto.com.pt",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2017-12-29T19:25:12.839458001Z",
+        "lastChangeTime": "2018-03-07T15:10:25.297763227Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14812,18 +14827,6 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "srbijadanas.com",
-      "mobileSummary": {
-        "lastChangeTime": "2017-08-22T12:24:34.491533700Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "stalkture.com",
@@ -15254,18 +15257,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-21T08:22:59.566378Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "tatiemaryse.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-07T05:33:56.529152001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       }
     },
     {
@@ -15728,7 +15719,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-07T11:25:03.344085Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -15877,19 +15868,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "toonget.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2017-12-28T21:25:38.725778001Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      }
     },
     {
       "reviewedSite": "toonova.net",
