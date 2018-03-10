@@ -13997,13 +13997,14 @@
     {
       "reviewedSite": "schlager.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T20:00:16.549175790Z",
+        "lastChangeTime": "2018-03-10T06:47:15.431162340Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:00:16.549175790Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
