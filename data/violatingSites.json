@@ -329,18 +329,6 @@
       }
     },
     {
-      "reviewedSite": "aafp.org",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-01T08:24:39.993780001Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "abcgazetesi.com",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:30:41.006671092Z",
@@ -1300,6 +1288,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "autofacil.es",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-09T19:18:57.651171001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "autolive.be",
       "mobileSummary": {
         "lastChangeTime": "2018-02-20T20:02:50.623407152Z",
@@ -2093,13 +2093,14 @@
       "reviewedSite": "bluearena.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-01-03T21:26:08.411215001Z",
+        "lastChangeTime": "2018-03-09T23:01:51.909562578Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6089,20 +6090,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-09T18:25:16.799381Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "futebol365.pt",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-09T14:45:59.777480331Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
+        "filterStatus": "ON"
       }
     },
     {
@@ -8404,12 +8392,11 @@
     {
       "reviewedSite": "kino-hd720.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-09T09:03:53.540141240Z",
+        "lastChangeTime": "2018-03-09T19:08:38.809095001Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -11890,6 +11877,19 @@
       }
     },
     {
+      "reviewedSite": "packageprinting.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-09T18:44:12.318809001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-08T18:44:12.318809Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "paczaj.pl",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:31:15.654084237Z",
@@ -13405,13 +13405,14 @@
       "reviewedSite": "redmondmag.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:03:01.787999488Z",
+        "lastChangeTime": "2018-03-09T22:44:14.983906665Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:03:01.787999488Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14863,7 +14864,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-09T18:25:15.782982Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -16697,19 +16698,6 @@
       }
     },
     {
-      "reviewedSite": "uaset.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T07:05:13.737426001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-05T07:05:13.737426Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "uclickgames.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -17899,7 +17887,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-09T18:25:16.627572Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -17952,20 +17940,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T05:56:20.411727Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "wootly.ch",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-09T15:29:01.714221567Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18232,6 +18206,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "xxx-escorts.co.uk",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-09T19:40:39.915969001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-08T19:40:39.915969Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "xxxamateurporn.net",
       "mobileSummary": {
         "lastChangeTime": "2018-03-07T17:02:49.468130001Z",
@@ -18406,6 +18393,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "yourporntube.org",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-09T21:20:07.950272001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-08T21:20:07.950272Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
