@@ -245,13 +245,14 @@
     {
       "reviewedSite": "7chudes.in.ua",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-08T21:40:25.202512001Z",
+        "lastChangeTime": "2018-03-10T15:21:57.398719473Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-07T21:40:25.202512Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -7449,7 +7450,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-10T14:23:45.572317Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13256,13 +13257,14 @@
       "reviewedSite": "raisingourkids.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-28T19:59:19.153935246Z",
+        "lastChangeTime": "2018-03-10T15:26:04.325297137Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:03:09.640729132Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17123,43 +17125,43 @@
     {
       "reviewedSite": "vercanalestv.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T20:50:12.529907Z",
+        "lastChangeTime": "2018-03-10T11:04:46.708665Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T22:25:49.005158Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-07T18:43:17.344803401Z",
+        "lastChangeTime": "2018-03-10T11:00:39.186724Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
       "reviewedSite": "verliga.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T00:23:03.530513Z",
+        "lastChangeTime": "2018-03-10T10:55:22.249664Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-05T18:10:33.685790001Z",
+        "lastChangeTime": "2018-03-10T10:53:22.405579Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17178,7 +17180,7 @@
       "reviewedSite": "vertelevisor.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-14T10:24:49.657755001Z",
+        "lastChangeTime": "2018-03-10T11:09:02.479314Z",
         "region": [
           "REGION_B"
         ],
