@@ -243,20 +243,6 @@
       }
     },
     {
-      "reviewedSite": "7chudes.in.ua",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-10T15:21:57.398719473Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-07T21:40:25.202512Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "888.hu",
       "mobileSummary": {},
       "desktopSummary": {
@@ -1204,13 +1190,14 @@
       "reviewedSite": "astazi.ro",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-27T01:25:00.568035001Z",
+        "lastChangeTime": "2018-03-12T06:52:37.427715053Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-29T01:25:00.568035Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -2088,20 +2075,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "bluearena.gr",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-09T23:01:51.909562578Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4089,6 +4062,18 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "dogexplorer.org",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-12T06:02:03.169730001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "dognotebook.com",
@@ -7834,14 +7819,12 @@
     {
       "reviewedSite": "interempresas.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-09T15:59:29.791983379Z",
+        "lastChangeTime": "2018-03-12T01:39:52.825116001Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-07T21:56:56.248688Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -13254,20 +13237,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "raisingourkids.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-10T15:26:04.325297137Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:03:09.640729132Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "ramintu.com",
       "mobileSummary": {
         "lastChangeTime": "2018-02-01T18:25:28.638604001Z",
@@ -13340,20 +13309,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "realitysteve.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-11T22:19:41.474468423Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "realtimepolitics.com",
@@ -13810,16 +13765,7 @@
     },
     {
       "reviewedSite": "rojadirectatv.tv",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-09T13:56:42.211975205Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-16T18:25:11.530553Z",
-        "filterStatus": "PAUSED"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-03-09T13:55:12.434658166Z",
         "region": [
@@ -18460,19 +18406,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:06.911437405Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "zemanceleblegs.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-11T14:54:51.485806665Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
