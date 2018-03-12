@@ -7775,7 +7775,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-11T17:25:15.679104Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13345,13 +13345,14 @@
       "reviewedSite": "realitysteve.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-09T15:24:33.374310001Z",
+        "lastChangeTime": "2018-03-11T22:19:41.474468423Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -16327,7 +16328,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-11T19:24:05.873074Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
