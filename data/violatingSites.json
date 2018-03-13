@@ -1025,6 +1025,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "anyagehairstyle.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-13T14:36:47.049652001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T14:36:47.049652Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "anything2mp3.com",
       "mobileSummary": {
         "lastChangeTime": "2017-11-30T01:25:27.583584001Z",
@@ -3250,11 +3263,12 @@
     {
       "reviewedSite": "cricfree.sc",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-13T02:14:43.792443Z",
+        "lastChangeTime": "2018-03-13T13:40:33.701454852Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
@@ -4387,6 +4401,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "elblogdecineespanol.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-13T14:17:16.435844001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T14:17:16.435844Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "elconfidencialdigital.com",
       "mobileSummary": {
         "lastChangeTime": "2018-02-15T23:25:30.150247001Z",
@@ -4454,6 +4481,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "emailgo.de",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-13T15:56:39.123075001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T15:56:39.123075Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "emisiunionline.ro",
@@ -8534,6 +8574,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "kontrokultura.it",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-13T14:30:35.903413001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "koreadaily.com",
       "mobileSummary": {
         "lastChangeTime": "2017-07-10T19:51:23.120645318Z",
@@ -9318,6 +9370,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "llamando.es",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-13T14:20:15.052362001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T14:20:15.052362Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -10156,19 +10221,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T17:40:00.924998Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "meta.ua",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-12T21:10:30.219457001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-11T21:10:30.219457Z",
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
@@ -12730,6 +12782,19 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "pornicisrpski.ovh",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-13T15:02:46.004766001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T15:02:46.004766Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "pornleak.net",
@@ -17177,16 +17242,7 @@
     },
     {
       "reviewedSite": "verliga.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-12T21:56:47.121860934Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-03-10T10:53:22.405579Z",
         "region": [
@@ -17443,19 +17499,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "viralstudio.uk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2017-10-06T23:23:55.349876680Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      }
     },
     {
       "reviewedSite": "visualstudiomagazine.com",
