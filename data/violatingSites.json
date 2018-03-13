@@ -931,40 +931,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "angrypatriotmovement.com",
-      "mobileSummary": {
-        "lastChangeTime": "2017-06-13T15:23:18.570404029Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2017-07-18T18:22:13.160581860Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "anilinkz.io",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2017-06-02T16:20:12.835285754Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "animaisecompanhia.com",
       "mobileSummary": {
         "lastChangeTime": "2018-02-20T20:01:48.432662380Z",
@@ -1351,6 +1317,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-04T18:50:13.523444Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "autorubik.sk",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-13T06:28:38.307925001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T06:28:38.307925Z",
         "filterStatus": "PENDING"
       }
     },
@@ -1808,6 +1787,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "betvirus.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-13T06:18:57.160037001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T06:18:57.160037Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -3258,14 +3250,12 @@
     {
       "reviewedSite": "cricfree.sc",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-12T13:19:29.413718021Z",
+        "lastChangeTime": "2018-03-13T02:14:43.792443Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-03-12T13:18:46.002183184Z",
@@ -4221,27 +4211,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:08.539333535Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "eaglerising.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-12T20:45:19.128165221Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-12T19:08:44.234503792Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
       }
     },
     {
@@ -5602,20 +5571,6 @@
       }
     },
     {
-      "reviewedSite": "foodservicedirector.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-12T18:57:13.340324735Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:01:18.371717822Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "foot-sur7.fr",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:30:57.756142906Z",
@@ -6094,14 +6049,13 @@
       "reviewedSite": "futbolonline.xyz",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-12T20:19:49.316101629Z",
+        "lastChangeTime": "2018-03-13T07:57:19.408307001Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-03-09T18:25:16.799381Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -8974,20 +8928,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "legendarythings.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-12T22:19:21.267459250Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "lesmoutonsrebelles.com",
       "mobileSummary": {
         "lastChangeTime": "2017-11-14T17:26:07.866171001Z",
@@ -9764,7 +9704,7 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2017-06-27T21:23:39.014372555Z",
+        "lastChangeTime": "2018-03-13T06:25:43.348353001Z",
         "region": [
           "REGION_B"
         ],
@@ -12004,6 +11944,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "padovagoal.it",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-13T06:50:52.078966001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T06:50:52.078966Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "panda-streaming.net",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13670,20 +13623,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:21.469366601Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "restaurantbusinessonline.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-12T18:56:29.808793599Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:03:01.234230789Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -16313,20 +16252,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "totalpackers.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-12T19:20:12.309641294Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:25:24.525353Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "tourtexas.com",
       "mobileSummary": {
         "lastChangeTime": "2018-02-20T20:39:39.097774260Z",
@@ -17820,15 +17745,7 @@
         "enforcementTime": "2018-03-25T19:33:08.479514Z",
         "filterStatus": "PENDING"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-02-13T17:26:47.578037001Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-15T17:26:47.578037Z",
-        "filterStatus": "PENDING"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "watchdragonballsuper.info",
@@ -17867,15 +17784,7 @@
         "enforcementTime": "2018-03-25T19:33:12.237230Z",
         "filterStatus": "PENDING"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-02-13T17:26:40.623210001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-14T19:23:25.076964Z",
-        "filterStatus": "PENDING"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "wawalove.pl",
