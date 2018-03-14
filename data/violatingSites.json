@@ -311,6 +311,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "9emeart.fr",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-13T20:41:05.461564001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T20:41:05.461564Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "9kefa.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -1683,6 +1696,19 @@
         "enforcementTime": "2018-03-22T20:01:45.490484284Z",
         "filterStatus": "PENDING"
       }
+    },
+    {
+      "reviewedSite": "beautybox-addict.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-13T16:44:35.009677001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T16:44:35.009677Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "beautytipps.ch",
@@ -4203,6 +4229,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "dveridomaster.ru",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-13T16:53:45.345587001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "e-hentai.org",
       "mobileSummary": {
         "lastChangeTime": "2018-02-22T14:57:42.620106465Z",
@@ -6535,13 +6573,14 @@
     {
       "reviewedSite": "goppresidential.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-07T01:27:36.394421002Z",
+        "lastChangeTime": "2018-03-13T16:45:43.451999336Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -7658,13 +7697,12 @@
       "reviewedSite": "imfdb.org",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-08T16:59:14.168293Z",
+        "lastChangeTime": "2018-03-13T17:30:20.279653002Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-17T13:24:59.958488Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -8980,6 +9018,32 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "lemurdelolie.fr",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-13T21:12:55.746435001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T21:12:55.746435Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "lepaysdesgourmandises.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-13T21:12:26.505262001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T21:12:26.505262Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "lesmoutonsrebelles.com",
       "mobileSummary": {
         "lastChangeTime": "2017-11-14T17:26:07.866171001Z",
@@ -9560,11 +9624,12 @@
       "reviewedSite": "lpgasmagazine.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-07T05:45:12.862859001Z",
+        "lastChangeTime": "2018-03-13T18:28:57.961720809Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -10283,6 +10348,19 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
+    },
+    {
+      "reviewedSite": "metropolis-koeln.de",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-13T21:26:19.850397001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T21:26:19.850397Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "micromerchant.xyz",
@@ -11734,6 +11812,19 @@
         "enforcementTime": "2018-04-11T14:37:02.861075Z",
         "filterStatus": "PENDING"
       }
+    },
+    {
+      "reviewedSite": "okiemturysty.pl",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-13T22:08:33.510557001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T22:08:33.510557Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "okokoras.gr",
@@ -14042,7 +14133,14 @@
     },
     {
       "reviewedSite": "salamanca24horas.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-13T16:36:56.014537001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2017-11-08T19:26:38.054471001Z",
         "region": [
@@ -15523,6 +15621,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "szex-tett.info",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-13T21:28:44.428125001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T21:28:44.428125Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "szextortenetek.co",
       "mobileSummary": {},
       "desktopSummary": {
@@ -16366,6 +16477,19 @@
       }
     },
     {
+      "reviewedSite": "tradeandindustrydev.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-13T20:32:50.515582001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-12T20:32:50.515582Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "transfermarkt.com",
       "mobileSummary": {
         "lastChangeTime": "2017-12-15T18:26:33.463428001Z",
@@ -17009,13 +17133,14 @@
       "reviewedSite": "upplysning.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:00:35.602965553Z",
+        "lastChangeTime": "2018-03-13T21:32:32.568186107Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:00:35.602965553Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17221,21 +17346,21 @@
     {
       "reviewedSite": "vercanalestv.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-12T21:55:28.203265769Z",
+        "lastChangeTime": "2018-03-13T19:48:04.030845849Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "underReview": true,
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-13T19:38:48.462373210Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "underReview": true,
-        "enforcementTime": "2018-02-15T22:25:49.005158Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-10T11:00:39.186724Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "PAUSED"
       }
@@ -17244,11 +17369,12 @@
       "reviewedSite": "verliga.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-10T10:53:22.405579Z",
+        "lastChangeTime": "2018-03-13T19:39:18.537922772Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "PAUSED"
       }
@@ -17269,11 +17395,12 @@
       "reviewedSite": "vertelevisor.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-10T11:09:02.479314Z",
+        "lastChangeTime": "2018-03-13T19:39:45.131702491Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
