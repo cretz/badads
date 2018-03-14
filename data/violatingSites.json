@@ -1203,13 +1203,14 @@
       "reviewedSite": "astazi.ro",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-12T15:45:18.425910001Z",
+        "lastChangeTime": "2018-03-14T07:04:15.567419497Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-29T01:25:00.568035Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -9551,18 +9552,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "lordsofpain.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2017-08-31T20:18:10.035660195Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "lorientlejour.com",
       "mobileSummary": {
         "lastChangeTime": "2017-12-08T01:24:18.225147001Z",
@@ -9618,19 +9607,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "lpgasmagazine.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-13T18:28:57.961720809Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
       }
     },
     {
@@ -13135,7 +13111,14 @@
         "enforcementTime": "2018-04-07T18:58:22.184103Z",
         "filterStatus": "PENDING"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-14T04:43:38.019981001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "pressmedia.am",
@@ -14141,15 +14124,7 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2017-11-08T19:26:38.054471001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "satumareonline.ro",
@@ -14351,6 +14326,19 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "sexihikayelerioku.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-14T05:31:07.389171001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-13T05:31:07.389171Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "sexkee.com",
@@ -16728,6 +16716,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "turkifsaboxx.blogspot.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-14T03:47:04.485065001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "turkiyegazetesi.com.tr",
       "mobileSummary": {
         "lastChangeTime": "2017-08-31T20:18:10.035660195Z",
@@ -17130,20 +17130,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "upplysning.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-13T21:32:32.568186107Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:00:35.602965553Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "usgang.ch",
       "mobileSummary": {
         "lastChangeTime": "2018-02-20T20:00:27.789614158Z",
@@ -17345,31 +17331,9 @@
     },
     {
       "reviewedSite": "vercanalestv.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-13T19:48:04.030845849Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-13T19:38:48.462373210Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
-      "reviewedSite": "verliga.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-13T19:39:18.537922772Z",
+        "lastChangeTime": "2018-03-13T19:38:48.462373210Z",
         "region": [
           "REGION_B"
         ],
@@ -17390,19 +17354,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "vertelevisor.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-13T19:39:45.131702491Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "viahold.com",
@@ -17717,13 +17668,14 @@
     {
       "reviewedSite": "volantino-az.it",
       "mobileSummary": {
-        "lastChangeTime": "2017-12-07T03:26:21.789242001Z",
+        "lastChangeTime": "2018-03-14T07:21:45.571172111Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
