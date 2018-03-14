@@ -1040,13 +1040,14 @@
     {
       "reviewedSite": "anyagehairstyle.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-13T14:36:47.049652001Z",
+        "lastChangeTime": "2018-03-14T14:13:07.116108979Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-12T14:36:47.049652Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -1203,14 +1204,12 @@
       "reviewedSite": "astazi.ro",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-14T07:04:15.567419497Z",
+        "lastChangeTime": "2018-03-14T15:42:32.188586001Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-29T01:25:00.568035Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -2163,6 +2162,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "boomsbeat.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-14T12:31:42.296647001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-13T12:31:42.296647Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -3290,13 +3302,13 @@
     {
       "reviewedSite": "cricfree.sc",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-13T13:40:33.701454852Z",
+        "lastChangeTime": "2018-03-14T12:52:58.471183Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-13T12:52:58.471183Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-03-12T13:18:46.002183184Z",
@@ -3839,19 +3851,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "diena.lv",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2017-11-22T18:25:25.122033001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      }
     },
     {
       "reviewedSite": "difhockey.se",
@@ -5749,6 +5748,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "forkeratea.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-14T15:42:17.239833001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-13T15:42:17.239833Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "fortherecordmag.com",
@@ -8120,13 +8132,14 @@
     {
       "reviewedSite": "jornaldoave.pt",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-13T06:26:48.612002001Z",
+        "lastChangeTime": "2018-03-14T14:59:58.635804399Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-15T06:26:48.612002Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -17254,13 +17267,14 @@
     {
       "reviewedSite": "varmatin.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-27T10:25:14.802779001Z",
+        "lastChangeTime": "2018-03-14T13:51:00.794673955Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-29T10:25:14.802779Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -17662,20 +17676,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T19:59:55.829418749Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "volantino-az.it",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-14T07:21:45.571172111Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
