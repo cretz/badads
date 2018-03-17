@@ -86,13 +86,14 @@
     {
       "reviewedSite": "24blekinge.se",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T20:01:06.118751276Z",
+        "lastChangeTime": "2018-03-17T12:11:02.769563565Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:01:06.118751276Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-03-05T11:22:23.737864288Z",
@@ -108,21 +109,23 @@
     {
       "reviewedSite": "24uppsala.se",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T20:01:38.474430436Z",
+        "lastChangeTime": "2018-03-17T12:13:09.819098913Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-02-28T20:01:38.097143878Z",
+        "lastChangeTime": "2018-03-17T12:12:30.287749904Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-30T20:01:38.097143878Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -219,13 +222,14 @@
     {
       "reviewedSite": "60-minutos.es",
       "mobileSummary": {
-        "lastChangeTime": "2017-12-05T23:26:52.453368001Z",
+        "lastChangeTime": "2018-03-17T12:36:01.968759287Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -3720,13 +3724,14 @@
     {
       "reviewedSite": "dbzsuper.tv",
       "mobileSummary": {
-        "lastChangeTime": "2017-11-17T22:25:14.963060001Z",
+        "lastChangeTime": "2018-03-17T08:20:45.338181318Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -6692,13 +6697,14 @@
       "reviewedSite": "golfadvisor.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:00:49.944193467Z",
+        "lastChangeTime": "2018-03-17T12:37:08.626607339Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:00:49.944193467Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -13054,13 +13060,14 @@
     {
       "reviewedSite": "porngun.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-21T23:26:00.205176001Z",
+        "lastChangeTime": "2018-03-17T11:07:29.667808540Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-23T23:26:00.205176Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13377,13 +13384,14 @@
       "reviewedSite": "profit.bg",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:00:44.547732167Z",
+        "lastChangeTime": "2018-03-17T12:13:14.549214457Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:00:44.547732167Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15376,7 +15384,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-17T11:24:20.238831Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
