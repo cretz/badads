@@ -691,7 +691,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-17T19:26:53.428049Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -1009,13 +1009,14 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-02-28T20:02:23.109477572Z",
+        "lastChangeTime": "2018-03-17T16:34:40.575230812Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-30T20:02:23.109477572Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4081,13 +4082,14 @@
       "reviewedSite": "direitapolitica.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:02:46.144030103Z",
+        "lastChangeTime": "2018-03-17T16:53:41.836960072Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:02:46.144030103Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4732,13 +4734,14 @@
     {
       "reviewedSite": "encestando.es",
       "mobileSummary": {
-        "lastChangeTime": "2017-12-08T01:24:31.979747001Z",
+        "lastChangeTime": "2018-03-17T21:12:04.414758124Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -10375,7 +10378,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-17T23:25:30.339892Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14109,13 +14112,14 @@
     {
       "reviewedSite": "rocketnewsnow.com",
       "mobileSummary": {
-        "lastChangeTime": "2017-06-14T18:17:02.097721840Z",
+        "lastChangeTime": "2018-03-17T23:39:05.009092374Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -14967,13 +14971,14 @@
     {
       "reviewedSite": "sk1project.org",
       "mobileSummary": {
-        "lastChangeTime": "2017-08-18T15:31:20.282420563Z",
+        "lastChangeTime": "2018-03-17T17:34:06.630202317Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -15835,11 +15840,12 @@
     {
       "reviewedSite": "szexvilag.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-07T16:45:07.816555001Z",
+        "lastChangeTime": "2018-03-17T20:19:58.441424957Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
