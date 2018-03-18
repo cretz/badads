@@ -5542,13 +5542,14 @@
     {
       "reviewedSite": "filmepornoxxx.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-16T01:24:53.143863001Z",
+        "lastChangeTime": "2018-03-18T13:53:50.132690598Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-18T01:24:53.143863Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -6847,13 +6848,14 @@
       "reviewedSite": "gratis.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:01:16.625140341Z",
+        "lastChangeTime": "2018-03-18T12:42:31.009665412Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:01:16.625140341Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -16424,13 +16426,14 @@
     {
       "reviewedSite": "tkoala.fr",
       "mobileSummary": {
-        "lastChangeTime": "2017-08-29T23:23:32.761910937Z",
+        "lastChangeTime": "2018-03-18T10:26:53.159589127Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
