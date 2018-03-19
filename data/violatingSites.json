@@ -1041,7 +1041,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-18T22:24:13.796160Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-01-18T19:25:15.022803001Z",
@@ -2926,7 +2926,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-18T19:24:19.493598Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9465,7 +9465,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-18T22:24:21.356636Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2017-12-12T23:26:41.681567001Z",
@@ -18556,13 +18556,14 @@
     {
       "reviewedSite": "xxx-escorts.co.uk",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-09T19:40:39.915969001Z",
+        "lastChangeTime": "2018-03-18T21:18:08.482703687Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-08T19:40:39.915969Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
