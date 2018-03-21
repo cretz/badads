@@ -610,6 +610,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "aindasoudotempo.blogspot.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-21T06:28:45.700371001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-20T06:28:45.700371Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "airgroup2000.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-20T18:05:58.778612001Z",
@@ -2710,13 +2723,14 @@
     {
       "reviewedSite": "childrensministry.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T20:02:34.946270285Z",
+        "lastChangeTime": "2018-03-21T07:15:59.078962858Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:02:34.946270285Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -7452,20 +7466,6 @@
       }
     },
     {
-      "reviewedSite": "iamnaples.it",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-20T17:30:21.536747639Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-10T14:23:45.572317Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "ibnytt.se",
       "mobileSummary": {
         "lastChangeTime": "2018-02-20T20:00:55.107024623Z",
@@ -8185,20 +8185,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "justintv-izle.tv",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-20T21:51:15.948066149Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -10542,13 +10528,14 @@
       "reviewedSite": "motorcyclistonline.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:00:20.052562725Z",
+        "lastChangeTime": "2018-03-21T07:54:17.042922475Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:00:20.052562725Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -10806,15 +10793,7 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-20T21:51:13.023235187Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "myhomemadecook.com",
@@ -12620,20 +12599,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "porn4u2hub.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-20T20:00:01.073065538Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-18T06:26:24.353702Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "pornbb.org",
       "mobileSummary": {
         "lastChangeTime": "2017-11-28T22:26:03.634757001Z",
@@ -13341,6 +13306,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "rcrwireless.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-21T06:08:03.964787001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-20T06:08:03.964787Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "realfarmacy.com",
       "mobileSummary": {
         "lastChangeTime": "2017-07-18T21:52:47.815171257Z",
@@ -13789,6 +13767,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "roxy-wertheim.de",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-21T02:12:36.155658001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-20T02:12:36.155658Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "rtlec.co.uk",
       "mobileSummary": {
         "lastChangeTime": "2017-06-28T21:16:39.258650985Z",
@@ -13863,20 +13854,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "ruyatabirleri.gen.tr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-20T16:02:56.005085210Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "s00th.com",
@@ -14455,19 +14432,6 @@
         "enforcementTime": "2018-03-22T20:02:48.413933962Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "silenceisconsent.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-20T19:06:16.278373355Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "simplyhealth.today",
@@ -15157,25 +15121,14 @@
     },
     {
       "reviewedSite": "studylight.org",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-20T18:29:55.029046866Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-20T18:27:32.823032905Z",
+        "lastChangeTime": "2018-03-21T05:32:48.332252001Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -16210,6 +16163,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "travelwhip.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-21T02:03:28.823980001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-20T02:03:28.823980Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
