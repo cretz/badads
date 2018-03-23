@@ -364,7 +364,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:50.653882578Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -389,7 +389,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:10.951060801Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -620,7 +620,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:38.003322570Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -883,7 +883,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:31.954376746Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -1024,7 +1024,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:21.893088032Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -1235,7 +1235,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:32.669141331Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -1633,13 +1633,14 @@
       "reviewedSite": "at.ua",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-22T15:18:03.009288002Z",
+        "lastChangeTime": "2018-03-22T16:05:33.214125517Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-14T22:45:12.526565Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -1893,7 +1894,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:55.857567471Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2028,7 +2029,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:19.652587683Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2162,7 +2163,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:54.520209822Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2250,7 +2251,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T19:59:52.997064388Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2302,7 +2303,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:45.490484284Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2400,7 +2401,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:51.681956091Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2470,7 +2471,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:16.981771974Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-02-28T20:01:11.389779550Z",
@@ -2485,13 +2486,14 @@
     {
       "reviewedSite": "bestslogans.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:53:12.398022344Z",
+        "lastChangeTime": "2018-03-22T20:00:41.488145487Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:12.398022344Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -2619,7 +2621,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:43.277675979Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2694,7 +2696,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:30.288514277Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-02-28T20:01:02.376466423Z",
@@ -3041,7 +3043,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:11.091103223Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -3114,7 +3116,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:31.402395578Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -3339,7 +3341,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:07.035420655Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -3364,7 +3366,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:28.632968713Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -3390,13 +3392,14 @@
     {
       "reviewedSite": "byacb4you.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:53:52.000186190Z",
+        "lastChangeTime": "2018-03-22T22:13:37.327463922Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:52.000186190Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -3482,7 +3485,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:56.188612713Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -3494,7 +3497,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:09.282950144Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-02-20T20:02:30.840575060Z",
@@ -3503,7 +3506,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:30.840575060Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -3792,7 +3795,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:45.096731606Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -4018,7 +4021,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:14.637383033Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -4123,7 +4126,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:25.311859524Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -4443,7 +4446,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:05.564048842Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -4841,7 +4844,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:56.962528949Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -5023,7 +5026,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:05.366113215Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -5226,7 +5229,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:48.984638410Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-02-28T20:02:30.089876732Z",
@@ -5273,7 +5276,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:50.095303652Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -5475,7 +5478,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:03.454430137Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-02-20T20:02:19.805017765Z",
@@ -5496,7 +5499,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:51.205363045Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -5581,7 +5584,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:00.367619841Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -5669,7 +5672,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:12.115077732Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -5822,7 +5825,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:08.539333535Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -6153,7 +6156,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:25.479718708Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-02-28T20:02:08.200151335Z",
@@ -6274,7 +6277,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:38.809780139Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -6361,7 +6364,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T19:59:49.412508840Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -6542,7 +6545,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:38.253786695Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -6555,7 +6558,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T23:24:28.491381Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -6601,13 +6604,14 @@
       "reviewedSite": "evianews.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-19T12:42:25.206727001Z",
+        "lastChangeTime": "2018-03-22T21:16:41.400124651Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-18T12:42:25.206727Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6834,7 +6838,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:34.334783883Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -6931,7 +6935,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:44.423182149Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7043,7 +7047,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:03.686610422Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -7152,7 +7156,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:30.144147402Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7223,7 +7227,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:04.247723642Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7542,7 +7546,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:18.687596108Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7614,7 +7618,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:00.338128830Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7666,7 +7670,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:21.715172603Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7876,7 +7880,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:02.583002945Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -7939,7 +7943,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:25.869824234Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7952,7 +7956,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:01.517541954Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7964,7 +7968,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T22:23:15.467537Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -8662,7 +8666,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:43.185546221Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -8790,19 +8794,6 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "goppresidential.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-22T00:39:22.973405Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "gopthedailydose.com",
@@ -9007,7 +8998,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:30.173793765Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9156,7 +9147,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:44.872675501Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9225,7 +9216,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:13.268472761Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -9611,7 +9602,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:57.869877428Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9686,7 +9677,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:40.268274343Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-02-28T20:02:04.948876140Z",
@@ -9862,7 +9853,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:51.178516944Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9949,7 +9940,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:12.992007217Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -10133,7 +10124,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:59.669106073Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -10330,7 +10321,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:14.960841021Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-02-28T20:02:27.643609999Z",
@@ -10409,7 +10400,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:53.980933406Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -10422,7 +10413,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:15.737000594Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -10531,7 +10522,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:31.445417658Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -10636,6 +10627,18 @@
       }
     },
     {
+      "reviewedSite": "jellyshare.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-22T22:25:03.451532001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "jeremstar.fr",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T21:56:00.320278270Z",
@@ -10644,7 +10647,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T19:59:55.004885278Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -10658,7 +10661,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:16.193798620Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -11033,7 +11036,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:42.729087508Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -11162,7 +11165,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:30.889497215Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -11214,6 +11217,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:53:46.510696176Z",
         "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "kinogol.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-22T16:28:48.768818001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -11474,7 +11489,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:13.854142216Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -11713,7 +11728,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:33.776709373Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -11726,7 +11741,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:19.647519114Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -11763,7 +11778,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:20.923382783Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -11839,7 +11854,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:17.564138420Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -11941,7 +11956,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:06.297729112Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -12088,7 +12103,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:04.556198066Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -12159,13 +12174,14 @@
       "reviewedSite": "listor.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:53:44.483469635Z",
+        "lastChangeTime": "2018-03-22T17:01:36.398359432Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:44.483469635Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12302,7 +12318,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:33.223732439Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -12488,7 +12504,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:20.366213522Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -12634,7 +12650,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:18.545379341Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -12694,7 +12710,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:56.410180433Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -12707,7 +12723,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:19.094218675Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -12731,19 +12747,6 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "luxuretv.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-16T12:29:07.591654587Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -12993,7 +12996,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:22.456605392Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -13019,7 +13022,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:47.279001841Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -13107,7 +13110,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:21.344546864Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13299,7 +13302,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:59.100936926Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -13709,13 +13712,14 @@
     {
       "reviewedSite": "mojirecepti.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-01-03T00:25:45.717694001Z",
+        "lastChangeTime": "2018-03-22T17:19:25.157508918Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13793,7 +13797,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:39.917843538Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14151,7 +14155,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:55.633178481Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -14188,7 +14192,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T19:59:58.492898938Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14272,7 +14276,7 @@
       "reviewedSite": "mytotalretail.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:58:13.162165Z",
+        "lastChangeTime": "2018-03-22T20:47:30.722095001Z",
         "region": [
           "REGION_A"
         ],
@@ -14728,13 +14732,13 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:05.929343293Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
       "reviewedSite": "nh.ee",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-22T12:31:36.115898Z",
+        "lastChangeTime": "2018-03-22T21:02:27.714729001Z",
         "region": [
           "REGION_B"
         ],
@@ -15349,7 +15353,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:17.100917765Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -15515,13 +15519,14 @@
       "reviewedSite": "padovagoal.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-13T06:50:52.078966001Z",
+        "lastChangeTime": "2018-03-22T19:03:30.916520025Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-12T06:50:52.078966Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15648,7 +15653,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:56.753729826Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -15828,7 +15833,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:11.504206112Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -15854,7 +15859,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:49.517231928Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -15881,7 +15886,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:26.980019668Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -15937,13 +15942,13 @@
       "reviewedSite": "pharmamanufacturing.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-22T01:45:53.475346Z",
+        "lastChangeTime": "2018-03-22T21:11:29.496031001Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:53:18.833047174Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -16272,7 +16277,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:34.990697713Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-02-28T20:01:36.414119484Z",
@@ -16299,14 +16304,12 @@
     {
       "reviewedSite": "pophitz.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T22:26:25.049396851Z",
+        "lastChangeTime": "2018-03-22T16:30:58.788419001Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-16T04:25:26.777531Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -16566,7 +16569,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:45.002473192Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16657,7 +16660,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:59.026963013Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16830,7 +16833,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:09.097071328Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -17301,7 +17304,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:03.284086941Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -17372,7 +17375,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:21.469366601Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -17551,21 +17554,23 @@
     {
       "reviewedSite": "riddlesandanswers.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:50:25.500929357Z",
+        "lastChangeTime": "2018-03-22T20:01:42.545375983Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:54:06.797665519Z",
+        "lastChangeTime": "2018-03-22T20:01:35.714112756Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:06.797665519Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17680,7 +17685,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:30.843095111Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -17927,13 +17932,14 @@
     {
       "reviewedSite": "samsunhaberim.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:53:38.908709979Z",
+        "lastChangeTime": "2018-03-22T20:01:06.250350083Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:38.908709979Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -18063,7 +18069,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:51.760380131Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18146,7 +18152,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:47.839195580Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18183,7 +18189,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:45.650024053Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -18233,7 +18239,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:40.504733373Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -18371,7 +18377,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:07.591617647Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18548,7 +18554,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:29.183063087Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18599,7 +18605,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:48.413933962Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18709,22 +18715,24 @@
     {
       "reviewedSite": "skyhook.es",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:52:27.126392544Z",
+        "lastChangeTime": "2018-03-22T17:27:07.058531068Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:27.126392544Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:51:31.856497675Z",
+        "lastChangeTime": "2018-03-22T17:26:59.185029942Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:31.856497675Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -19022,7 +19030,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:17.818044333Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -19210,7 +19218,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:26.365228406Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -19374,13 +19382,14 @@
       "reviewedSite": "sqlcourse2.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-22T07:33:02.846120001Z",
+        "lastChangeTime": "2018-03-22T19:29:33.138343244Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-11T14:30:13.279035Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -19413,12 +19422,11 @@
       "reviewedSite": "star.com.tr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-22T14:29:03.937918346Z",
+        "lastChangeTime": "2018-03-22T17:52:38.802874001Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -20088,6 +20096,18 @@
       }
     },
     {
+      "reviewedSite": "tercihiniyap.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-22T16:56:59.276083001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "tesourostv.pt",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T21:54:00.489330894Z",
@@ -20176,7 +20196,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:17.177860402Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -20571,7 +20591,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:15.642558158Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-02-28T20:02:19.911488756Z",
@@ -21008,13 +21028,14 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-02-19T19:27:30.863692001Z",
+        "lastChangeTime": "2018-03-22T19:19:15.538335415Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-21T19:27:30.863692Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -21039,7 +21060,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:51.140111340Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-02-28T20:02:24.705699893Z",
@@ -21192,7 +21213,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:08.552915242Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21216,7 +21237,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:41.633202949Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -21379,7 +21400,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:34.438157086Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21430,14 +21451,12 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-16T14:22:28.167910494Z",
+        "lastChangeTime": "2018-03-22T22:30:59.191423001Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-23T16:22:22.857130597Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -21681,7 +21700,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T22:23:14.303437Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-02-20T20:02:34.396224726Z",
@@ -21690,7 +21709,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:34.396224726Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21802,7 +21821,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:23.642105991Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -22338,7 +22357,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:58.473673937Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-02-28T20:01:16.759610863Z",
@@ -22606,7 +22625,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T22:23:16.888105Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -22671,7 +22690,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:11.293397474Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -23138,7 +23157,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:57.515980166Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -23202,7 +23221,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:28.084045710Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -23328,7 +23347,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:06.911437405Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -23416,7 +23435,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:37.335055013Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -23429,6 +23448,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:52:43.702672319Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "zuri.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-22T17:24:57.214570001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-21T17:24:57.214570Z",
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
