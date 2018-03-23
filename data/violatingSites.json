@@ -1633,14 +1633,13 @@
       "reviewedSite": "at.ua",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-22T16:05:33.214125517Z",
+        "lastChangeTime": "2018-03-23T06:53:50.999061642Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
+        "betterAdsStatus": "WARNING",
         "underReview": true,
-        "enforcementTime": "2018-04-14T22:45:12.526565Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "OFF"
       }
     },
     {
@@ -3941,19 +3940,6 @@
       }
     },
     {
-      "reviewedSite": "citethisforme.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-22T15:38:34.720134259Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "citiesjournal.com",
       "mobileSummary": {
         "lastChangeTime": "2018-01-09T22:25:35.989507001Z",
@@ -5472,16 +5458,16 @@
     {
       "reviewedSite": "discoveries.today",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-20T20:03:03.454430137Z",
+        "lastChangeTime": "2018-03-23T04:30:15.847236Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:03.454430137Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:02:19.805017765Z",
+        "lastChangeTime": "2018-03-23T04:29:30.687372Z",
         "region": [
           "REGION_A"
         ],
@@ -6599,20 +6585,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "evianews.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-22T21:16:41.400124651Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-18T12:42:25.206727Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "eviavima.blogspot.com",
@@ -13710,20 +13682,6 @@
       }
     },
     {
-      "reviewedSite": "mojirecepti.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-22T17:19:25.157508918Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "mojkutak.ovh",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:31:11.614274412Z",
@@ -15516,20 +15474,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "padovagoal.it",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-22T19:03:30.916520025Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-12T06:50:52.078966Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "paintedconfetti.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -16304,11 +16248,12 @@
     {
       "reviewedSite": "pophitz.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-22T16:30:58.788419001Z",
+        "lastChangeTime": "2018-03-23T00:34:58.396084189Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -19382,14 +19327,12 @@
       "reviewedSite": "sqlcourse2.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-22T19:29:33.138343244Z",
+        "lastChangeTime": "2018-03-23T05:31:07.478486001Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-11T14:30:13.279035Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -21027,16 +20970,7 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-22T19:19:15.538335415Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-21T19:27:30.863692Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "trucsettutos.com",
