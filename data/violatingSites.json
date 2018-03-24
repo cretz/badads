@@ -4224,13 +4224,14 @@
         "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:52:57.860318627Z",
+        "lastChangeTime": "2018-03-24T10:56:48.037832839Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:57.860318627Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -5493,13 +5494,14 @@
     {
       "reviewedSite": "discoveries.today",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-23T16:21:53.303685001Z",
+        "lastChangeTime": "2018-03-24T08:40:55.005741363Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:03:03.454430137Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-03-23T04:29:30.687372Z",
@@ -14381,13 +14383,14 @@
       "reviewedSite": "nbatseba.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:52:42.957467656Z",
+        "lastChangeTime": "2018-03-24T12:20:03.952415521Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:42.957467656Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
