@@ -12305,13 +12305,14 @@
       "reviewedSite": "liverpoolbg.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:54:20.101784023Z",
+        "lastChangeTime": "2018-03-24T05:10:34.525356132Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:20.101784023Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
