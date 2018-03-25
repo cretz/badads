@@ -2072,7 +2072,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-25T15:24:59.628091Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -7120,13 +7120,14 @@
     {
       "reviewedSite": "fifa4life-forum.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-20T20:26:20.337102001Z",
+        "lastChangeTime": "2018-03-25T10:18:46.634934182Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-19T20:26:20.337102Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -8201,13 +8202,14 @@
       "reviewedSite": "futbolonline.xyz",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-13T07:57:19.408307001Z",
+        "lastChangeTime": "2018-03-25T09:21:34.729090239Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-09T18:25:16.799381Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
