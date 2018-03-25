@@ -13237,21 +13237,23 @@
     {
       "reviewedSite": "mdlinx.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:56:16.084188423Z",
+        "lastChangeTime": "2018-03-24T20:09:02.155217439Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-02-28T19:59:36.529722254Z",
+        "lastChangeTime": "2018-03-24T20:08:47.216739489Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-30T19:59:36.529722254Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -21048,13 +21050,14 @@
       "reviewedSite": "trgoalstv.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-22T20:23:50.505619001Z",
+        "lastChangeTime": "2018-03-24T17:51:34.053112762Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-24T20:23:50.505619Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -21073,13 +21076,14 @@
     {
       "reviewedSite": "trivenetogoal.it",
       "mobileSummary": {
-        "lastChangeTime": "2018-01-02T19:25:39.856840001Z",
+        "lastChangeTime": "2018-03-24T18:32:42.956812443Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
