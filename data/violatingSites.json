@@ -7920,11 +7920,12 @@
       "reviewedSite": "freshmail.pl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:51:25.069628418Z",
+        "lastChangeTime": "2018-03-26T07:33:35.142368348Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -8196,20 +8197,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:52:19.104479044Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "futbolonline.xyz",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-25T09:21:34.729090239Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-09T18:25:16.799381Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -9315,20 +9302,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "hawtcelebs.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-25T17:55:28.453987764Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T13:54:38.184355Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "hayatmutfakta.com",
@@ -11267,7 +11240,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-26T02:24:06.689938Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16798,7 +16771,15 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-26T05:20:40.189578001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-25T05:20:40.189578Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "pruvitalka.com",
@@ -17334,20 +17315,6 @@
       }
     },
     {
-      "reviewedSite": "relatoseroticosiria.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-23T22:18:25.421744141Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-17T06:24:47.886701Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "remate.pt",
       "mobileSummary": {
         "lastChangeTime": "2017-12-22T22:24:27.829436001Z",
@@ -17673,7 +17640,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-26T00:23:06.292818Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18611,20 +18578,6 @@
       }
     },
     {
-      "reviewedSite": "signification-prenom.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-23T15:23:29.273403024Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "sigurnokladjenje.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18826,27 +18779,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "smithsonianmag.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-23T23:41:24.997816818Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-23T23:41:00.277962277Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "smolyandnes.com",
@@ -20901,7 +20833,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-26T01:24:15.752351Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21051,20 +20983,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "trgoalstv.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-24T17:51:34.053112762Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-24T20:23:50.505619Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "tribundergi.com",
       "mobileSummary": {
         "lastChangeTime": "2017-12-12T22:26:30.358216001Z",
@@ -21074,20 +20992,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "trivenetogoal.it",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-24T18:32:42.956812443Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -22945,20 +22849,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "ww.ge",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-25T20:18:17.463689511Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "wweek.com",
