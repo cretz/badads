@@ -3010,7 +3010,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-25T19:14:22.833146291Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -7464,7 +7464,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-25T19:32:19.701331Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7619,13 +7619,13 @@
       "reviewedSite": "footballnews.ge",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:56:28.500945827Z",
+        "lastChangeTime": "2018-03-25T16:36:44.170022Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:02:00.338128830Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -9320,13 +9320,14 @@
       "reviewedSite": "hawtcelebs.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T13:54:38.184355001Z",
+        "lastChangeTime": "2018-03-25T17:55:28.453987764Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T13:54:38.184355Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -22949,13 +22950,14 @@
       "reviewedSite": "ww.ge",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2017-12-26T17:24:19.667111001Z",
+        "lastChangeTime": "2018-03-25T20:18:17.463689511Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
