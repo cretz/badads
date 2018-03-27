@@ -1796,6 +1796,18 @@
       }
     },
     {
+      "reviewedSite": "autohoje.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-27T06:05:01.910036001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "automoveis-online.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -7066,18 +7078,6 @@
       "reviewedSite": "femcafe.hu",
       "mobileSummary": {
         "lastChangeTime": "2017-08-31T20:18:10.035660195Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "femmeactuelle.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2017-07-07T20:24:12.144360234Z",
         "region": [
           "REGION_B"
         ],
@@ -16349,14 +16349,13 @@
       "reviewedSite": "popcrush.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-26T22:12:38.596738979Z",
+        "lastChangeTime": "2018-03-27T06:00:50.834993001Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-04-25T19:54:54.288490Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -19647,6 +19646,18 @@
       }
     },
     {
+      "reviewedSite": "strikeout.mobi",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-27T04:26:58.629985001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "strikeout.nu",
       "mobileSummary": {
         "lastChangeTime": "2018-03-07T01:19:28.129433001Z",
@@ -22929,6 +22940,19 @@
         "enforcementTime": "2018-04-20T21:52:15.690046839Z",
         "filterStatus": "PAUSED"
       }
+    },
+    {
+      "reviewedSite": "wtfuck.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-27T04:24:59.387237001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-26T04:24:59.387237Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "wunschfee.com",
