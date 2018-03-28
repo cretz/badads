@@ -4351,13 +4351,14 @@
     {
       "reviewedSite": "comregras.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:54:07.504953275Z",
+        "lastChangeTime": "2018-03-28T07:41:54.806547503Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:07.504953275Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -8377,6 +8378,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "gameofthrrones4.blogspot.com.tr",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-28T04:40:16.633610001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "gameplorer.de",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T21:51:45.629513687Z",
@@ -10072,7 +10085,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-28T06:22:54.633880Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -10946,6 +10959,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:55:17.614632125Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "justnetwork.eu",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-28T03:14:25.015437001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-27T03:14:25.015437Z",
         "filterStatus": "PENDING"
       }
     },
@@ -12069,6 +12095,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "letssingit.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-28T01:27:14.734803001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-27T01:27:14.734803Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "lettherebeporn.com",
@@ -14088,11 +14127,12 @@
       "reviewedSite": "mrstiff.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-26T15:21:33.470937001Z",
+        "lastChangeTime": "2018-03-28T05:06:22.491127232Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -15146,7 +15186,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-28T07:24:30.972115Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16165,20 +16205,6 @@
         "enforcementTime": "2018-04-05T18:34:25.755601Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "pickupliness.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-27T21:27:44.655949184Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "pics.vc",
@@ -23524,14 +23550,12 @@
     {
       "reviewedSite": "zaytung.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-27T13:28:57.357910712Z",
+        "lastChangeTime": "2018-03-28T05:58:59.598998001Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:00:06.911437405Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
