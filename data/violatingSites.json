@@ -442,13 +442,14 @@
     {
       "reviewedSite": "8muses.download",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-27T22:24:52.463879001Z",
+        "lastChangeTime": "2018-03-28T15:42:25.594425118Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-29T22:24:52.463879Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -532,19 +533,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "about-ukraine.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-27T16:34:03.007875001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-26T16:34:03.007875Z",
-        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -1359,6 +1347,19 @@
         "enforcementTime": "2018-02-17T19:25:15.022803Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "animehd47.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-28T15:43:01.308277898Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "underReview": true,
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "animeram.cc",
@@ -3630,22 +3631,24 @@
     {
       "reviewedSite": "celebrityleakednudes.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-26T20:20:58.583844001Z",
+        "lastChangeTime": "2018-03-28T15:39:47.490119331Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-25T20:20:58.583844Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-02-28T23:29:21.705919001Z",
+        "lastChangeTime": "2018-03-28T15:38:35.169418246Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-30T23:29:21.705919Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8536,13 +8539,14 @@
     {
       "reviewedSite": "genius.ge",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-15T18:10:20.345228001Z",
+        "lastChangeTime": "2018-03-28T15:27:00.252085461Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-14T18:10:20.345228Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -8672,19 +8676,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "girlishh.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-02T22:55:35.841798001Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-01T22:55:35.841798Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "gitarogrencisi.com",
@@ -9146,13 +9137,14 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2017-12-15T23:26:11.659531001Z",
+        "lastChangeTime": "2018-03-28T14:19:49.063664841Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -9640,13 +9632,14 @@
       "reviewedSite": "hentai-comics.xyz",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-27T19:24:29.222038001Z",
+        "lastChangeTime": "2018-03-28T15:37:30.089341081Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-29T19:24:29.222038Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12933,13 +12926,14 @@
       "reviewedSite": "macizletir.tv",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-01-08T17:25:53.054245001Z",
+        "lastChangeTime": "2018-03-28T14:32:39.948257327Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -13673,7 +13667,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-28T08:23:24.261533Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13693,13 +13687,14 @@
       "reviewedSite": "milftoons.info",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-27T18:25:36.533000001Z",
+        "lastChangeTime": "2018-03-28T15:32:58.882732705Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-29T18:25:36.533Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14120,19 +14115,6 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "mrstiff.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-28T05:06:22.491127232Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -15779,19 +15761,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "parafikir.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-27T16:03:12.153705001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-11T16:45:36.797931Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "paris-supporters.fr",
       "mobileSummary": {
         "lastChangeTime": "2017-08-31T20:18:10.035660195Z",
@@ -17044,6 +17013,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "puretrend.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-28T12:32:58.789323001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "pygodblog.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-08T21:09:40.793611001Z",
@@ -17173,13 +17154,14 @@
     {
       "reviewedSite": "radioaktual.si",
       "mobileSummary": {
-        "lastChangeTime": "2017-12-11T09:24:49.345309001Z",
+        "lastChangeTime": "2018-03-28T13:59:22.584806385Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -21393,6 +21375,18 @@
       }
     },
     {
+      "reviewedSite": "tuttobiciweb.it",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-28T13:21:36.605573001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "tuttosport.com",
       "mobileSummary": {
         "lastChangeTime": "2017-06-21T21:34:54.751554727Z",
@@ -21891,13 +21885,14 @@
     {
       "reviewedSite": "uzmantv.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-26T20:09:58.679205001Z",
+        "lastChangeTime": "2018-03-28T09:11:19.402476234Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-25T16:24:57.024133Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
