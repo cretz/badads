@@ -1335,18 +1335,6 @@
       }
     },
     {
-      "reviewedSite": "animehd47.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-28T21:47:32.102415001Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "animeram.cc",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:30:44.520991192Z",
@@ -5559,13 +5547,13 @@
       "reviewedSite": "diyphotography.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-29T06:17:13.909784001Z",
+        "lastChangeTime": "2018-03-29T12:40:25.081450Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-28T06:17:13.909784Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -9983,6 +9971,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "hurriyetdailynews.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-29T15:10:02.908864001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-28T15:10:02.908864Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "hurtsex.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -12089,6 +12090,19 @@
       }
     },
     {
+      "reviewedSite": "lfshd.live",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-29T15:09:29.746814001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-04-28T15:09:29.746814Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "lfsturkiyemods.blogspot.com.tr",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13159,19 +13173,6 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "marieclaire.gr",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-29T07:42:08.622272750Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -20649,7 +20650,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-29T09:25:26.331633Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -20710,13 +20711,14 @@
     {
       "reviewedSite": "timesdaily.com",
       "mobileSummary": {
-        "lastChangeTime": "2017-11-02T20:25:26.250838001Z",
+        "lastChangeTime": "2018-03-29T15:01:08.961375896Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -22380,6 +22382,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:52:25.782724847Z",
         "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "volksfreund.de",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-03-29T15:13:14.773900001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
