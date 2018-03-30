@@ -1377,13 +1377,14 @@
     {
       "reviewedSite": "animeresistance.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-29T17:14:38.688457001Z",
+        "lastChangeTime": "2018-03-30T15:49:21.724080711Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-28T17:14:38.688457Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -5430,11 +5431,12 @@
       "reviewedSite": "digi24.ro",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2017-08-31T20:18:10.035660195Z",
+        "lastChangeTime": "2018-03-30T11:48:09.459945793Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -5442,11 +5444,12 @@
       "reviewedSite": "digisport.ro",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2017-08-31T20:18:10.035660195Z",
+        "lastChangeTime": "2018-03-30T11:46:45.386971207Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -19577,7 +19580,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-30T08:25:07.025878Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -19955,11 +19958,12 @@
     {
       "reviewedSite": "surf-report.com",
       "mobileSummary": {
-        "lastChangeTime": "2017-12-28T17:24:31.552967001Z",
+        "lastChangeTime": "2018-03-30T11:11:01.092507541Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -22159,13 +22163,14 @@
     {
       "reviewedSite": "vidto.me",
       "mobileSummary": {
-        "lastChangeTime": "2018-01-10T00:26:32.523210Z",
+        "lastChangeTime": "2018-03-30T12:40:21.180105382Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
