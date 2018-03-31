@@ -14489,13 +14489,14 @@
       "reviewedSite": "namethatpornstar.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-29T06:28:44.947584001Z",
+        "lastChangeTime": "2018-03-31T12:32:12.072612207Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-25T15:38:35.457047Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17657,7 +17658,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-31T08:24:41.353277Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21761,7 +21762,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-31T08:24:41.169181Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -22737,7 +22738,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-31T10:22:58.959211Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
