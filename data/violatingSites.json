@@ -5664,13 +5664,14 @@
       "reviewedSite": "djmusiccrate.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:54:50.776577170Z",
+        "lastChangeTime": "2018-03-31T03:54:42.459114921Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:50.776577170Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -19105,7 +19106,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-31T07:23:56.346736Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
