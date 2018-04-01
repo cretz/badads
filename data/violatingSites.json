@@ -608,7 +608,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-31T18:28:41.464053Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -8687,13 +8687,14 @@
     {
       "reviewedSite": "girlfriendwiki.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-08T17:58:13.201006001Z",
+        "lastChangeTime": "2018-03-31T19:09:58.245449286Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-07T17:58:13.201006Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13006,13 +13007,14 @@
       "reviewedSite": "macyayinlar.org",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-06T14:25:59.957093001Z",
+        "lastChangeTime": "2018-03-31T19:01:14.205903133Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-05T14:25:59.957093Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -13039,13 +13041,14 @@
       "reviewedSite": "macyayinlarim1.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-28T07:23:21.432177001Z",
+        "lastChangeTime": "2018-03-31T18:59:27.406921835Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-30T07:23:21.432177Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20541,13 +20544,14 @@
       "reviewedSite": "theflamingvegan.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:52:03.396146383Z",
+        "lastChangeTime": "2018-03-31T21:37:23.329750671Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:03.396146383Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -22305,7 +22309,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-31T19:21:04.930453Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
