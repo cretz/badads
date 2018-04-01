@@ -6335,7 +6335,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-01T11:46:18.010867Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -16951,13 +16951,14 @@
     {
       "reviewedSite": "prlekija-on.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:51:00.365572963Z",
+        "lastChangeTime": "2018-04-01T08:52:33.976032461Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:00.365572963Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
