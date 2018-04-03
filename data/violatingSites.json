@@ -6891,20 +6891,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "eyecarebusiness.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-02T19:25:18.681990354Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-11T15:11:57.572197Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "eyvahbosaniyorum.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -7601,19 +7587,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "finviz.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-02T18:45:29.158907814Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "fireengineering.com",
@@ -8938,6 +8911,19 @@
       }
     },
     {
+      "reviewedSite": "goltelevision.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-03T02:08:18.292023001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-03T02:08:18.292023Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "goodfullness.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10091,19 +10077,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "hurriyetdailynews.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-02T13:15:35.211075001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-28T15:10:02.908864Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "hurtsex.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10800,20 +10773,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "jamanetwork.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-02T20:02:43.407677136Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-15T17:06:56.075194Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "jambase.com",
       "mobileSummary": {
         "lastChangeTime": "2017-11-29T19:26:32.153628001Z",
@@ -10867,13 +10826,14 @@
       "reviewedSite": "jerusalemonline.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:02:16.193798620Z",
+        "lastChangeTime": "2018-04-03T07:15:23.909574244Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:02:16.193798620Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -13959,6 +13919,19 @@
       }
     },
     {
+      "reviewedSite": "moiceleste.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-03T00:51:03.095823001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-03T00:51:03.095823Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "mojkutak.ovh",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:31:11.614274412Z",
@@ -15575,20 +15548,6 @@
       }
     },
     {
-      "reviewedSite": "ophthalmologymanagement.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-02T19:18:35.674443381Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-04T22:37:05.503072Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "opolvo.pt",
       "mobileSummary": {
         "lastChangeTime": "2018-03-07T23:55:51.302665001Z",
@@ -16828,16 +16787,7 @@
         "enforcementTime": "2018-04-19T22:01:51.621511Z",
         "filterStatus": "PENDING"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-02T18:42:42.787265333Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-02T16:53:49.951838Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "pornotube.rs",
@@ -17746,16 +17696,7 @@
         "enforcementTime": "2018-04-07T21:46:26.325335Z",
         "filterStatus": "PENDING"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-02T19:16:08.374779713Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-31T08:24:41.353277Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "reves365.com",
