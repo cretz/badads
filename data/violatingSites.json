@@ -2682,13 +2682,14 @@
       "reviewedSite": "beveragedaily.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:51:20.206084559Z",
+        "lastChangeTime": "2018-04-03T08:55:11.901538530Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:20.206084559Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4978,18 +4979,6 @@
       }
     },
     {
-      "reviewedSite": "dailycannon.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-02T16:37:42.038887001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "dailycheats.org",
       "mobileSummary": {
         "lastChangeTime": "2017-11-20T18:27:26.867264001Z",
@@ -5644,19 +5633,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "diyphotography.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-30T17:30:00.256319002Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-28T06:17:13.909784Z",
-        "filterStatus": "PENDING"
       }
     },
     {
@@ -8198,13 +8174,14 @@
       "reviewedSite": "fullfilmsitesi.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-16T06:32:03.365386001Z",
+        "lastChangeTime": "2018-04-03T15:41:41.898277738Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-04T18:13:01.148002Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12658,19 +12635,6 @@
       }
     },
     {
-      "reviewedSite": "llamando.es",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-14T22:42:36.382394001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-12T14:20:15.052362Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "llanteramunoz.info",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T21:51:01.181796621Z",
@@ -14666,6 +14630,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "neleryokki.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-03T15:36:03.060998001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-03T15:36:03.060998Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "nemetugyek.de",
       "mobileSummary": {
         "lastChangeTime": "2018-02-28T20:02:26.879367535Z",
@@ -15947,7 +15924,7 @@
     {
       "reviewedSite": "pcgames.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-29T20:11:40.967047001Z",
+        "lastChangeTime": "2018-04-03T08:50:51.955927Z",
         "region": [
           "REGION_B"
         ],
@@ -18391,18 +18368,6 @@
       },
       "desktopSummary": {
         "lastChangeTime": "2017-08-22T17:23:35.429248721Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "semana.es",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2017-10-09T22:23:56.183193934Z",
         "region": [
           "REGION_B"
         ],
@@ -22533,18 +22498,6 @@
       }
     },
     {
-      "reviewedSite": "volksfreund.de",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-29T15:13:14.773900001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "volkswagen-transporter-t4.ru",
       "mobileSummary": {
         "lastChangeTime": "2018-03-12T19:58:46.005576001Z",
@@ -23458,19 +23411,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "yenisafak.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-02T16:09:32.443760002Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      }
     },
     {
       "reviewedSite": "yerliturkvideo.blogspot.com.tr",
