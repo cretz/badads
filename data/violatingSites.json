@@ -1038,19 +1038,6 @@
       }
     },
     {
-      "reviewedSite": "alivefootballstreaming.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-03T17:16:57.736828001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-05-03T17:16:57.736828Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "all-funny.info",
       "mobileSummary": {
         "lastChangeTime": "2018-01-30T18:25:53.406312001Z",
@@ -11620,13 +11607,14 @@
     {
       "reviewedSite": "knownetworth.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-02T23:01:31.353035001Z",
+        "lastChangeTime": "2018-04-04T07:46:41.579555941Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-01T23:01:31.353035Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13016,20 +13004,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:19.094218675Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "lusopt.pt",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-03T22:05:22.775831493Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20794,19 +20768,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "thenewsherald.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-03T18:53:19.135424403Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "thenewyorkevening.com",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:31:23.588390735Z",
@@ -22130,20 +22091,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "vamosmisevillafc.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-03T18:42:49.474501447Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "varesenews.it",
