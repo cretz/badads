@@ -1425,13 +1425,14 @@
     {
       "reviewedSite": "anpfiff.info",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-09T07:52:20.110386001Z",
+        "lastChangeTime": "2018-04-05T16:43:28.540425336Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-08T07:52:20.110386Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -1471,20 +1472,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "appelinconnu.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-05T15:05:26.108173599Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-15T15:23:26.763271Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "applosungen.com",
@@ -2365,22 +2352,24 @@
     {
       "reviewedSite": "beautytipps.ch",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-02T21:47:38.475607001Z",
+        "lastChangeTime": "2018-04-05T20:53:51.190672915Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-01T21:47:38.475607Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-05T21:35:41.797900001Z",
+        "lastChangeTime": "2018-04-05T20:03:10.189726491Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-04T21:35:41.797900Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -2525,20 +2514,6 @@
         "enforcementTime": "2018-03-30T20:01:11.389779550Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "bestslogans.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-05T13:09:07.378466072Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:53:12.398022344Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "bestteenpornvideos.com",
@@ -2939,13 +2914,14 @@
       "reviewedSite": "bolamarela.pt",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-01-08T18:26:22.595236001Z",
+        "lastChangeTime": "2018-04-05T16:24:16.796146170Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4074,20 +4050,6 @@
       }
     },
     {
-      "reviewedSite": "colgadosporelfutbol.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-05T10:49:27.346453125Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:50:45.133264481Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "collegefreakz.com",
       "mobileSummary": {
         "lastChangeTime": "2017-06-16T19:12:36.346660001Z",
@@ -4963,13 +4925,14 @@
       "reviewedSite": "defensedaily.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-08T04:02:22.977831001Z",
+        "lastChangeTime": "2018-04-05T18:09:06.517451831Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-07T04:02:22.977831Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -5179,7 +5142,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-05T16:56:40.807151Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -6116,13 +6079,14 @@
       "reviewedSite": "enterprisenetworkingplanet.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:54:50.055085095Z",
+        "lastChangeTime": "2018-04-05T18:36:01.582385524Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:50.055085095Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6799,7 +6763,7 @@
     {
       "reviewedSite": "festivaisverao.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-05T08:51:50.934081575Z",
+        "lastChangeTime": "2018-04-05T17:01:54.488046752Z",
         "region": [
           "REGION_B"
         ],
@@ -11614,7 +11578,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-05T20:13:41.217114Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -14162,14 +14126,13 @@
     {
       "reviewedSite": "newsbtc.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-05T05:43:31.991914325Z",
+        "lastChangeTime": "2018-04-05T16:22:36.133881001Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-05-03T17:23:38.530081Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -15419,13 +15382,14 @@
       "reviewedSite": "pharmamanufacturing.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-22T21:11:29.496031001Z",
+        "lastChangeTime": "2018-04-05T22:49:06.304297423Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:18.833047174Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15482,7 +15446,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-05T18:34:25.755601Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -15569,6 +15533,19 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
+    },
+    {
+      "reviewedSite": "playerwiveswiki.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-05T19:49:27.388625001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-05T19:49:27.388625Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "plazmaburst2.com",
@@ -15698,13 +15675,14 @@
       "reviewedSite": "polizei.news",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:51:10.208241109Z",
+        "lastChangeTime": "2018-04-05T20:57:14.157510338Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:10.208241109Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15767,7 +15745,15 @@
     },
     {
       "reviewedSite": "popnewsmagazine.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-05T16:10:30.391029001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-05T16:10:30.391029Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-02-19T09:23:51.700446001Z",
         "region": [
@@ -16451,18 +16437,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "radiotimes.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-26T20:42:46.459180002Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "raidcall.com",
@@ -17673,7 +17647,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-05T19:17:48.954696Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -17698,7 +17672,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-05T19:03:39.424549Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -18743,7 +18717,14 @@
     },
     {
       "reviewedSite": "star.com.tr",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-05T16:24:52.961520001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-03-22T17:52:38.802874001Z",
         "region": [
@@ -19824,6 +19805,20 @@
         "enforcementTime": "2018-03-30T20:02:19.911488756Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "ticbeat.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-05T17:06:18.171263751Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "underReview": true,
+        "enforcementTime": "2018-05-05T16:15:20.921545Z",
+        "filterStatus": "PAUSED"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "timetobreak.com",
@@ -20984,20 +20979,6 @@
       }
     },
     {
-      "reviewedSite": "varldenshaftigaste.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-04T09:15:22.743512626Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:54:51.575802942Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "varmatin.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-14T19:18:39.652754001Z",
@@ -21560,6 +21541,19 @@
         "enforcementTime": "2018-03-30T20:01:16.759610863Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "wagcenter.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-05T16:31:22.621431001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-05T16:31:22.621431Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "walhalla-kinocenter.de",
