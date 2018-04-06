@@ -1423,20 +1423,6 @@
       }
     },
     {
-      "reviewedSite": "anpfiff.info",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-05T16:43:28.540425336Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-08T07:52:20.110386Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "antena24.ro",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T21:53:03.492225646Z",
@@ -2350,29 +2336,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "beautytipps.ch",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-05T20:53:51.190672915Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-01T21:47:38.475607Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-05T20:03:10.189726491Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-04T21:35:41.797900Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "bebasket.fr",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:30:46.450198531Z",
@@ -2908,20 +2871,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:58:33.588574219Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "bolamarela.pt",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-05T16:24:16.796146170Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -3788,6 +3737,19 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "cio.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-06T07:59:39.621666001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-06T07:59:39.621666Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "ciodive.com",
@@ -4922,20 +4884,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "defensedaily.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-05T18:09:06.517451831Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-07T04:02:22.977831Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "defiantamerica.com",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:30:50.333332939Z",
@@ -5552,11 +5500,12 @@
     {
       "reviewedSite": "dzfoot.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-04T18:03:12.194756001Z",
+        "lastChangeTime": "2018-04-06T07:09:46.980171062Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -6022,7 +5971,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T05:57:25.879558Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -6757,20 +6706,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "festivaisverao.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-05T17:01:54.488046752Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:02:03.686610422Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -10084,7 +10019,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T07:04:58.061073Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -13323,7 +13258,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T05:57:02.123550Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18878,7 +18813,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T01:19:28.129433Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -19807,20 +19742,6 @@
       }
     },
     {
-      "reviewedSite": "ticbeat.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-05T17:06:18.171263751Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-05T16:15:20.921545Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "timetobreak.com",
       "mobileSummary": {
         "lastChangeTime": "2017-06-28T19:22:31.228166579Z",
@@ -20312,7 +20233,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T07:49:55.929379Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -21927,7 +21848,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T05:56:20.411727Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
