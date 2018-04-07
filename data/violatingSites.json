@@ -4677,20 +4677,6 @@
       }
     },
     {
-      "reviewedSite": "dailyentertainmentnews.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-05T14:29:02.551795572Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:56:19.563067736Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "dailyheadlines.net",
       "mobileSummary": {
         "lastChangeTime": "2017-11-29T19:26:48.120735001Z",
@@ -10839,13 +10825,14 @@
     {
       "reviewedSite": "komicnistatusi.rs",
       "mobileSummary": {
-        "lastChangeTime": "2017-08-18T15:31:07.400892238Z",
+        "lastChangeTime": "2018-04-07T15:00:15.613297121Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -15307,14 +15294,12 @@
       "reviewedSite": "pharmamanufacturing.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-05T22:49:06.304297423Z",
+        "lastChangeTime": "2018-04-07T14:29:17.617329676Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:53:18.833047174Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -15595,20 +15580,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "polizei.news",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-05T20:57:14.157510338Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:51:10.208241109Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "polskaracja.com",
@@ -18135,13 +18106,14 @@
       "reviewedSite": "sortirabordeaux.fr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:54:05.485235854Z",
+        "lastChangeTime": "2018-04-07T12:33:42.365456953Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:05.485235854Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
