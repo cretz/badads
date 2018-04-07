@@ -47,7 +47,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T18:09:56.737693Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-03-12T15:35:02.194478001Z",
@@ -602,13 +602,14 @@
       "reviewedSite": "adiantegalicia.es",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-07T16:55:32.401213001Z",
+        "lastChangeTime": "2018-04-06T18:31:59.968443531Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-06T16:55:32.401213Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -859,6 +860,19 @@
         "enforcementTime": "2018-04-20T06:28:45.700371Z",
         "filterStatus": "PENDING"
       }
+    },
+    {
+      "reviewedSite": "aintaboutthatlife.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-06T17:21:41.850564001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-06T17:21:41.850564Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "aircargoworld.com",
@@ -2994,7 +3008,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T21:29:51.019552Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -3348,6 +3362,19 @@
       }
     },
     {
+      "reviewedSite": "caranddriver.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-06T19:57:13.503435001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-06T19:57:13.503435Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "caribbeanpot.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -3383,6 +3410,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "ceesty.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-06T19:48:06.503236001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-06T19:48:06.503236Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -3756,13 +3796,14 @@
       "reviewedSite": "circulpolitic.ro",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:55:07.510898256Z",
+        "lastChangeTime": "2018-04-06T20:43:05.717055958Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:07.510898256Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4647,16 +4688,7 @@
         "enforcementTime": "2018-04-20T21:56:19.563067736Z",
         "filterStatus": "PAUSED"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-05T14:26:53.806327280Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-30T20:00:46.551874878Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "dailyheadlines.net",
@@ -4966,7 +4998,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T18:04:34.776803Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -5201,19 +5233,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "discoveries.today",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-05T01:55:21.309590089Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "diytoolkit.org",
@@ -5622,7 +5641,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T17:00:39.216541Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7102,7 +7121,15 @@
     },
     {
       "reviewedSite": "fm-zocker.de",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-06T16:23:57.752703001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-06T16:23:57.752703Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2017-12-11T19:25:11.011857001Z",
         "region": [
@@ -10749,13 +10776,14 @@
       "reviewedSite": "kioskmarketplace.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-05T21:36:11.378456001Z",
+        "lastChangeTime": "2018-04-06T18:56:58.894978594Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-04T21:36:11.378456Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12056,13 +12084,14 @@
       "reviewedSite": "lugojeanul.ro",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-14T17:06:04.532588001Z",
+        "lastChangeTime": "2018-04-06T17:18:47.272714303Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-13T17:06:04.532588Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12791,7 +12820,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T17:40:00.924998Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14716,7 +14745,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T23:55:51.302665Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14870,13 +14899,14 @@
       "reviewedSite": "packageprinting.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-22T07:36:26.524596001Z",
+        "lastChangeTime": "2018-04-06T19:50:31.839554140Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-08T18:44:12.318809Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15956,19 +15986,6 @@
         "enforcementTime": "2018-04-20T21:50:33.364147176Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "posta.com.tr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-06T14:21:08.805062634Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "posthard.com",
@@ -17202,7 +17219,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T17:19:32.898922Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -17557,7 +17574,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T17:45:53.427807Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -17718,7 +17735,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T16:57:34.766083Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -18178,20 +18195,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "southernminn.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-06T14:46:25.900445131Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "speed24news.com",
@@ -20500,7 +20503,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T16:27:38.088094Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -21824,7 +21827,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T16:19:30.749751Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -22137,7 +22140,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T17:02:49.468130Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -22226,6 +22229,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "yeniakit.com.tr",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-06T19:59:15.835888001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-06T19:59:15.835888Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -22328,7 +22344,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T17:25:49.776659Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
