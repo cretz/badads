@@ -449,7 +449,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-07T22:33:13.277555Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -3346,7 +3346,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-07T16:25:23.539422Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -4814,13 +4814,14 @@
     {
       "reviewedSite": "dbzsuper.tv",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-28T20:37:23.138634002Z",
+        "lastChangeTime": "2018-04-07T21:55:48.784177532Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -6305,7 +6306,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-07T16:13:47.484326Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7531,7 +7532,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-07T17:58:25.266794Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-02-28T05:26:30.786859001Z",
@@ -9662,13 +9663,14 @@
       "reviewedSite": "ilgiornaledellescommesse.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:51:54.534762941Z",
+        "lastChangeTime": "2018-04-07T19:49:56.790715056Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:54.534762941Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -11251,7 +11253,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-07T22:29:19.395253Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -13132,7 +13134,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-07T21:46:36.720584Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -13466,7 +13468,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-07T16:17:34.092227Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -15528,7 +15530,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-07T18:01:06.514214Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -15992,7 +15994,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-07T18:58:22.184103Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-03-14T04:43:38.019981001Z",
@@ -16719,7 +16721,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-07T21:46:26.325335Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -19480,7 +19482,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-07T18:00:51.661706Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
