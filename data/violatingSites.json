@@ -4062,6 +4062,18 @@
       }
     },
     {
+      "reviewedSite": "comingsoon.it",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-09T09:25:57.139596001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "computerseite.net",
       "mobileSummary": {},
       "desktopSummary": {
@@ -4765,14 +4777,13 @@
     {
       "reviewedSite": "dbzsuper.tv",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-07T21:55:48.784177532Z",
+        "lastChangeTime": "2018-04-09T14:22:38.037592001Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -5061,19 +5072,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "digitaldeleon.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:56:40.807151001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-05T16:56:40.807151Z",
-        "filterStatus": "ON"
       }
     },
     {
@@ -5971,13 +5969,14 @@
     {
       "reviewedSite": "enkolayyemekler.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:55:24.685148725Z",
+        "lastChangeTime": "2018-04-09T08:53:50.922421514Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:24.685148725Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -6085,13 +6084,14 @@
       "reviewedSite": "eroticiracconti.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:52:55.919560770Z",
+        "lastChangeTime": "2018-04-09T09:30:52.885845980Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:55.919560770Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8093,13 +8093,13 @@
     {
       "reviewedSite": "gloria.fi",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-04T20:29:26.566849101Z",
+        "lastChangeTime": "2018-04-09T10:39:36.731483Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:50:40.952924424Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -9408,11 +9408,12 @@
     {
       "reviewedSite": "icalendrier.fr",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-29T20:09:23.882926001Z",
+        "lastChangeTime": "2018-04-09T10:26:43.235017076Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -12052,13 +12053,14 @@
     {
       "reviewedSite": "lyricsfeast.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-07T19:06:11.286693001Z",
+        "lastChangeTime": "2018-04-09T14:09:28.777860257Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -15220,14 +15222,7 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2017-06-21T20:53:18.104770070Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "picfox.org",
@@ -16056,18 +16051,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "puretrend.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-28T12:32:58.789323001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -18504,13 +18487,14 @@
       "reviewedSite": "steaualibera.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-07T03:29:21.927215454Z",
+        "lastChangeTime": "2018-04-09T13:57:33.512756773Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:22.681707152Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -21893,6 +21877,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "xn--mxaflfydbbo.gr",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-09T13:16:28.320656001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-09T13:16:28.320656Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "xoxotasgulosas.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -21982,20 +21979,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "xxxrar.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-07T01:28:38.405612739Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-24T17:25:40.508895Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "yabeat.com",
@@ -22109,19 +22092,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:52:21.036606973Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "yfilmy.sk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-09T07:19:19.276240200Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
       }
     },
     {
