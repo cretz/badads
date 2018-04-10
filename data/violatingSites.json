@@ -470,13 +470,14 @@
       "reviewedSite": "929theticket.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-02T16:25:17.809579001Z",
+        "lastChangeTime": "2018-04-09T22:18:04.927355410Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-02T16:25:17.809579Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -3331,19 +3332,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "caranddriver.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-07T01:14:04.301349Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-05-06T19:57:13.503435Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6935,6 +6923,20 @@
       }
     },
     {
+      "reviewedSite": "filmover.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-09T22:55:45.031212174Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "underReview": true,
+        "enforcementTime": "2018-05-09T21:11:33.711536Z",
+        "filterStatus": "PAUSED"
+      }
+    },
+    {
       "reviewedSite": "filmpalast-sulingen.de",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T21:52:33.426581220Z",
@@ -7276,6 +7278,18 @@
         "enforcementTime": "2018-04-20T21:53:51.246939656Z",
         "filterStatus": "PENDING"
       }
+    },
+    {
+      "reviewedSite": "forward.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-09T17:28:39.627765001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "fotbalovavidea.cz",
@@ -8140,6 +8154,18 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
+    },
+    {
+      "reviewedSite": "godtube.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-09T17:34:03.413445001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "gogoanimeonline.com",
@@ -9408,13 +9434,14 @@
     {
       "reviewedSite": "icalendrier.fr",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-09T10:26:43.235017076Z",
+        "lastChangeTime": "2018-04-09T18:00:55.013440780Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
+        "betterAdsStatus": "FAILING",
         "underReview": true,
-        "filterStatus": "OFF"
+        "enforcementTime": "2018-05-09T17:30:44.790200Z",
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -12051,20 +12078,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "lyricsfeast.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-09T14:09:28.777860257Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "lyriczz.com",
       "mobileSummary": {
         "lastChangeTime": "2017-12-20T01:25:41.014537001Z",
@@ -14088,13 +14101,14 @@
       "reviewedSite": "nobunplease.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:53:22.989621714Z",
+        "lastChangeTime": "2018-04-09T18:34:18.593663064Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:22.989621714Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18487,14 +18501,13 @@
       "reviewedSite": "steaualibera.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-09T13:57:33.512756773Z",
+        "lastChangeTime": "2018-04-09T20:14:43.369775002Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:22.681707152Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -19717,6 +19730,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "top10alltime.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-09T17:09:30.269158001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-09T17:09:30.269158Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -21566,13 +21592,14 @@
       "reviewedSite": "wi-fiplanet.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:53:07.629222004Z",
+        "lastChangeTime": "2018-04-09T16:00:34.314101351Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:07.629222004Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
