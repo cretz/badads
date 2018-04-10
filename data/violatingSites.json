@@ -1173,6 +1173,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "americanlibertyreport.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-10T11:19:21.302832001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-10T11:19:21.302832Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "americannews.com",
       "mobileSummary": {
         "lastChangeTime": "2017-07-10T19:37:45.599336847Z",
@@ -1799,19 +1812,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-04T18:50:13.523444Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "autorubik.sk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-14T22:42:11.957426001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-12T06:28:38.307925Z",
-        "filterStatus": "PENDING"
       }
     },
     {
@@ -7265,18 +7265,6 @@
       }
     },
     {
-      "reviewedSite": "forward.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-09T17:28:39.627765001Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "fotbalovavidea.cz",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:30:58.424836712Z",
@@ -7762,6 +7750,19 @@
         "enforcementTime": "2018-04-20T21:55:38.853717792Z",
         "filterStatus": "PENDING"
       }
+    },
+    {
+      "reviewedSite": "galacticbuzz.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-10T15:28:08.953594001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-10T15:28:08.953594Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "gamcore.com",
@@ -12388,6 +12389,19 @@
       }
     },
     {
+      "reviewedSite": "mariejedig.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-10T13:47:09.685680001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-10T13:47:09.685680Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "marijuanatravels.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -12534,6 +12548,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-17T23:25:30.339892Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "medimagazin.com.tr",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-10T10:42:12.047172001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-10T10:42:12.047172Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -12928,19 +12955,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "mlo-online.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-09T07:53:34.592296001Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-08T07:53:34.592296Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "mlphentaicomics.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13117,6 +13131,19 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "motorbox.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-10T13:48:40.571239001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-10T13:48:40.571239Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "motosecrets.com",
@@ -18057,13 +18084,13 @@
       "reviewedSite": "spiderchick.nu",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-07T02:29:19.191487807Z",
+        "lastChangeTime": "2018-04-10T14:12:21.375426Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:17.818044333Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20113,13 +20140,14 @@
       "reviewedSite": "turbovid.me",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-26T15:37:28.159053001Z",
+        "lastChangeTime": "2018-04-10T14:39:46.961808329Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T06:28:10.604319Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
