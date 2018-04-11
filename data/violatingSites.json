@@ -3722,13 +3722,14 @@
       "reviewedSite": "cio.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-06T07:59:39.621666001Z",
+        "lastChangeTime": "2018-04-10T20:09:55.755796599Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-06T07:59:39.621666Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17854,6 +17855,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "sizzlingclicks.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-10T16:46:35.493871001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "smallbusinesscomputing.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18084,13 +18097,13 @@
       "reviewedSite": "spiderchick.nu",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-10T14:12:21.375426Z",
+        "lastChangeTime": "2018-04-10T17:37:25.898644001Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:17.818044333Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21690,6 +21703,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "wikifeet.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-10T22:45:06.894524001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-10T22:45:06.894524Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "windowsitpro.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -21718,13 +21744,14 @@
       "reviewedSite": "winsightgrocerybusiness.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-07T05:56:20.411727001Z",
+        "lastChangeTime": "2018-04-10T17:42:06.744079430Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-06T05:56:20.411727Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
