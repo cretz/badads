@@ -1802,6 +1802,19 @@
       }
     },
     {
+      "reviewedSite": "autoremarketing.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-11T02:12:40.320872001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-11T02:12:40.320872Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "autoreview.bg",
       "mobileSummary": {},
       "desktopSummary": {
@@ -3655,6 +3668,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "cinedom.de",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-11T04:18:23.762657001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-11T04:18:23.762657Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "cinedrom.de",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T19:25:11.233472001Z",
@@ -3717,20 +3743,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "cio.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-10T20:09:55.755796599Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-06T07:59:39.621666Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "ciodive.com",
@@ -6069,20 +6081,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "eroticiracconti.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-09T09:30:52.885845980Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:52:55.919560770Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "erotikfilme.net",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T21:52:38.893049172Z",
@@ -7276,6 +7274,18 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "fotbolldirekt.se",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-11T04:27:37.377904001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "fotopornomature.com",
@@ -9089,6 +9099,18 @@
       }
     },
     {
+      "reviewedSite": "hockeysverige.se",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-11T01:52:29.270685001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "hoglandsnytt.se",
       "mobileSummary": {
         "lastChangeTime": "2018-02-15T18:24:37.434635001Z",
@@ -10699,6 +10721,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "kitco.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-11T01:54:15.268105001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "klammerlose4all.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -11340,6 +11374,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:06.297729112Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "letakomat.sk",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-11T07:55:41.565582631Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "underReview": true,
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -14104,20 +14151,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "nobunplease.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-09T18:34:18.593663064Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:53:22.989621714Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "nogometni.net",
@@ -18444,21 +18477,23 @@
     {
       "reviewedSite": "spruechetante.de",
       "mobileSummary": {
-        "lastChangeTime": "2017-12-13T01:26:26.477170001Z",
+        "lastChangeTime": "2018-04-11T05:59:51.590889194Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-04-02T16:09:11.612914001Z",
+        "lastChangeTime": "2018-04-11T05:57:51.758129124Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-02T16:09:11.612914Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20153,14 +20188,13 @@
       "reviewedSite": "turbovid.me",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-10T14:39:46.961808329Z",
+        "lastChangeTime": "2018-04-11T01:53:10.048153001Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-03-22T06:28:10.604319Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21738,20 +21772,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-06T16:19:30.749751Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "winsightgrocerybusiness.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-10T17:42:06.744079430Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-06T05:56:20.411727Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
