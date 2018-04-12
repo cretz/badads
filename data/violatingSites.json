@@ -381,29 +381,6 @@
       }
     },
     {
-      "reviewedSite": "724filmseyret.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-11T17:01:15.215339304Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-11T17:00:00.147241487Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "83-629.fr",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T21:52:16.382864616Z",
@@ -2503,7 +2480,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-12T06:18:57.160037Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -3514,19 +3491,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "chemicalprocessing.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-04T19:10:00.709687135Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:54:56.254774265Z",
-        "filterStatus": "PENDING"
-      }
     },
     {
       "reviewedSite": "cherchelloise.com",
@@ -8218,6 +8182,18 @@
       }
     },
     {
+      "reviewedSite": "goppresidential.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-12T05:04:46.877854001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "gopthedailydose.com",
       "mobileSummary": {
         "lastChangeTime": "2018-01-10T21:26:48.434240001Z",
@@ -9321,6 +9297,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "humpchies.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-12T01:39:23.318867001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "hunterxhunter.me",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10260,6 +10248,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "justviral.co",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-12T04:49:08.462562001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-12T04:49:08.462562Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -13131,7 +13132,14 @@
         "enforcementTime": "2018-05-10T13:48:40.571239Z",
         "filterStatus": "PENDING"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-12T05:04:05.709925001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "motosecrets.com",
@@ -20752,11 +20760,12 @@
     {
       "reviewedSite": "vchaspik.ua",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-03T21:11:29.998396001Z",
+        "lastChangeTime": "2018-04-12T07:36:16.256684032Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
