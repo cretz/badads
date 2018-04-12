@@ -1068,11 +1068,12 @@
       "reviewedSite": "almeirinense.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:52:34.728818151Z",
+        "lastChangeTime": "2018-04-12T15:07:33.023332661Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -3279,13 +3280,14 @@
       "reviewedSite": "calciozz.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:54:39.464611305Z",
+        "lastChangeTime": "2018-04-12T15:25:09.645739833Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:39.464611305Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4038,19 +4040,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "computerseite.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-19T13:39:33.199209001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-18T13:39:33.199209Z",
-        "filterStatus": "PENDING"
       }
     },
     {
@@ -5709,7 +5698,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-12T14:17:16.435844Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -5843,7 +5832,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-12T15:56:39.123075Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7583,13 +7572,14 @@
       "reviewedSite": "fussballzz.de",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:54:43.658730499Z",
+        "lastChangeTime": "2018-04-12T15:24:57.156258963Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:43.658730499Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18113,18 +18103,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "sport.es",
-      "mobileSummary": {
-        "lastChangeTime": "2018-02-21T18:25:20.234256002Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "sportbosstv.net",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18286,13 +18264,14 @@
     {
       "reviewedSite": "sportnord.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:56:16.807963922Z",
+        "lastChangeTime": "2018-04-12T08:36:48.845297023Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:01:26.365228406Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -19266,13 +19245,14 @@
       "reviewedSite": "thefinalball.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-12T15:45:24.961858001Z",
+        "lastChangeTime": "2018-04-12T15:11:52.132963056Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-11T15:45:24.961858Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20758,19 +20738,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "vchaspik.ua",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-12T07:36:16.256684032Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "velsport24.com",
       "mobileSummary": {
         "lastChangeTime": "2018-02-20T20:02:23.642105991Z",
@@ -21263,6 +21230,19 @@
         "enforcementTime": "2018-04-20T21:50:36.831165961Z",
         "filterStatus": "PENDING"
       }
+    },
+    {
+      "reviewedSite": "vservice.kiev.ua",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-12T15:06:42.467526001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-12T15:06:42.467526Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "wacowny.com",
