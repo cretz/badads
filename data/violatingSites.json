@@ -383,22 +383,24 @@
     {
       "reviewedSite": "724filmseyret.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-01-04T10:24:42.960287001Z",
+        "lastChangeTime": "2018-04-11T17:01:15.215339304Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-01-04T17:26:21.537256001Z",
+        "lastChangeTime": "2018-04-11T17:00:00.147241487Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -1019,7 +1021,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-11T16:50:54.604719Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -8067,13 +8069,13 @@
     {
       "reviewedSite": "gloria.fi",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-09T10:39:36.731483Z",
+        "lastChangeTime": "2018-04-11T22:27:19.824670001Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:50:40.952924424Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -13011,7 +13013,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-11T19:15:25.310319Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -20881,7 +20883,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-11T19:13:24.357403Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
