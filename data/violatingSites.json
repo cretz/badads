@@ -1835,13 +1835,14 @@
     {
       "reviewedSite": "avizoon.site",
       "mobileSummary": {
-        "lastChangeTime": "2018-01-24T23:26:59.152831001Z",
+        "lastChangeTime": "2018-04-13T11:25:15.502878239Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-23T23:26:59.152831Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -2862,7 +2863,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-13T12:31:42.296647Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -4258,7 +4259,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-13T12:52:58.471183Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-03-12T13:18:46.002183184Z",
@@ -4668,13 +4669,14 @@
     {
       "reviewedSite": "dating-sed.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-20T15:24:37.071992001Z",
+        "lastChangeTime": "2018-04-13T14:41:57.372463356Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-19T15:24:37.071992Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -5672,6 +5674,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "eklablog.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-13T13:37:45.313172001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -14523,20 +14537,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-12T22:08:33.510557Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "oknotivi.ru",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-13T07:07:47.965559919Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-13T17:50:57.639970Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
