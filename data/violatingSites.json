@@ -455,7 +455,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-12T20:41:05.461564Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2286,7 +2286,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-12T16:44:35.009677Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -11227,7 +11227,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-12T21:12:55.746435Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -11240,7 +11240,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-12T21:12:26.505262Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -12741,7 +12741,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-12T21:26:19.850397Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14496,7 +14496,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-12T22:08:33.510557Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -15184,11 +15184,12 @@
       "reviewedSite": "pharmamanufacturing.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-07T14:29:17.617329676Z",
+        "lastChangeTime": "2018-04-12T20:30:34.529530567Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -15207,13 +15208,14 @@
     {
       "reviewedSite": "photobucket.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-10T05:17:52.455076001Z",
+        "lastChangeTime": "2018-04-12T17:27:51.734258695Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-10T05:17:52.455076Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -15333,11 +15335,12 @@
       "reviewedSite": "plantservices.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-26T21:30:46.172703001Z",
+        "lastChangeTime": "2018-04-12T20:29:21.689479477Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -16506,22 +16509,24 @@
     {
       "reviewedSite": "relato.pt",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-28T20:02:38.047638093Z",
+        "lastChangeTime": "2018-04-12T16:46:18.789737013Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-30T20:02:38.047638093Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-02-20T20:01:03.284086941Z",
+        "lastChangeTime": "2018-04-12T16:44:26.974053901Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:01:03.284086941Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18793,7 +18798,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-12T21:28:44.428125Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
