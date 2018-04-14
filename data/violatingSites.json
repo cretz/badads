@@ -138,13 +138,14 @@
       "reviewedSite": "24helsingborg.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:51:05.258365253Z",
+        "lastChangeTime": "2018-04-14T07:36:13.155640243Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:05.258365253Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -176,13 +177,14 @@
       "reviewedSite": "24malmo.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-04T19:10:02.515171582Z",
+        "lastChangeTime": "2018-04-14T07:36:44.880287956Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:50:47.840292460Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -202,26 +204,28 @@
       "reviewedSite": "24trelleborg.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-04T19:10:01.724553719Z",
+        "lastChangeTime": "2018-04-14T07:35:47.539760303Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:46.739254045Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
       "reviewedSite": "24ystad.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-04T19:10:02.191636749Z",
+        "lastChangeTime": "2018-04-14T07:36:30.977963648Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:04.538213191Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -1381,13 +1385,14 @@
       "reviewedSite": "anorak.co.uk",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:54:45.974678570Z",
+        "lastChangeTime": "2018-04-14T07:55:53.343836030Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:45.974678570Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -3440,7 +3445,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-14T04:56:04.818769Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7543,20 +7548,6 @@
       }
     },
     {
-      "reviewedSite": "fussballzz.de",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-12T15:24:57.156258963Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:54:43.658730499Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "futbolasturiano.es",
       "mobileSummary": {},
       "desktopSummary": {
@@ -8874,13 +8865,14 @@
       "reviewedSite": "hedonizem.si",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:50:51.991715330Z",
+        "lastChangeTime": "2018-04-14T05:32:28.038626239Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:50:51.991715330Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -9909,13 +9901,14 @@
     {
       "reviewedSite": "ittexnoall.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-07T07:04:58.061073001Z",
+        "lastChangeTime": "2018-04-14T06:59:10.904917645Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-06T07:04:58.061073Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -11162,13 +11155,14 @@
       "reviewedSite": "lavozdeltrubia.es",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:54:14.612549390Z",
+        "lastChangeTime": "2018-04-14T06:00:07.221857930Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:14.612549390Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17428,7 +17422,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-14T04:43:01.385422Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
