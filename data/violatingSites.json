@@ -4381,13 +4381,14 @@
       "reviewedSite": "cstoredecisions.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-04T19:09:55.805673732Z",
+        "lastChangeTime": "2018-04-14T12:46:20.408969226Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:33.843220996Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8926,20 +8927,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "highbury-house.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-13T07:47:36.790602398Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:02:57.869877428Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "hintfilmiizle.com",
       "mobileSummary": {
         "lastChangeTime": "2017-09-11T16:24:03.943097985Z",
@@ -9922,7 +9909,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-14T15:33:42.539039Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -11877,13 +11864,14 @@
     {
       "reviewedSite": "lovepanky.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-04T17:30:14.366438001Z",
+        "lastChangeTime": "2018-04-14T13:27:07.551505258Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-04T17:30:14.366438Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13433,7 +13421,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-14T15:34:33.762404Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16461,20 +16449,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "relato.pt",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-12T16:46:18.789737013Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-30T20:02:38.047638093Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
