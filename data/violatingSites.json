@@ -6283,13 +6283,14 @@
     {
       "reviewedSite": "f-hd.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-16T18:44:32.676396001Z",
+        "lastChangeTime": "2018-04-14T16:11:13.829880147Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-15T18:44:32.676396Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -7753,7 +7754,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-14T16:59:12.400832Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -9380,22 +9381,24 @@
     {
       "reviewedSite": "ifyouonlynews.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:50:37.476373785Z",
+        "lastChangeTime": "2018-04-15T01:04:55.559296277Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:50:37.476373785Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:55:10.734644373Z",
+        "lastChangeTime": "2018-04-15T01:03:25.623946127Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:10.734644373Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -10331,13 +10334,14 @@
       "reviewedSite": "kayasehiristanbul.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:51:55.238828103Z",
+        "lastChangeTime": "2018-04-15T05:26:12.446629315Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:55.238828103Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14551,13 +14555,14 @@
       "reviewedSite": "onlygayvideo.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-05T18:06:12.755770001Z",
+        "lastChangeTime": "2018-04-14T16:28:06.906519485Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15274,19 +15279,6 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "plantservices.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-12T20:29:21.689479477Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -18700,6 +18692,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "svsport.it",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-14T23:59:05.520622001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "swehockey.se",
       "mobileSummary": {
         "lastChangeTime": "2017-07-10T21:00:10.198067502Z",
@@ -19074,7 +19078,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-14T16:58:03.291662Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -20442,7 +20446,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-14T16:11:59.257464Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
