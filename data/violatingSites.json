@@ -135,20 +135,6 @@
       }
     },
     {
-      "reviewedSite": "24helsingborg.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-14T07:36:13.155640243Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:51:05.258365253Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "24kalmar.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -336,7 +322,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-15T15:48:51.383904Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -663,7 +649,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-15T08:56:10.500303Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -1379,20 +1365,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:51:13.709140033Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "anorak.co.uk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-14T07:55:53.343836030Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:54:45.974678570Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -3439,13 +3411,14 @@
       "reviewedSite": "chatstern.de",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-15T04:56:04.818769001Z",
+        "lastChangeTime": "2018-04-15T13:55:34.769961860Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-14T04:56:04.818769Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -7735,13 +7708,14 @@
     {
       "reviewedSite": "gameplorer.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:51:45.629513687Z",
+        "lastChangeTime": "2018-04-15T09:17:05.439212527Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:45.629513687Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -9437,7 +9411,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-15T09:20:59.000279Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9553,13 +9527,14 @@
       "reviewedSite": "ilgiornaledellescommesse.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-09T02:29:25.543019947Z",
+        "lastChangeTime": "2018-04-15T13:17:28.690004316Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:54.534762941Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15255,20 +15230,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "pixgram.me",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-13T23:06:34.905043065Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:54:09.735697476Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "pixroute.com",
