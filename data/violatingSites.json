@@ -245,20 +245,6 @@
       }
     },
     {
-      "reviewedSite": "4actionsport.it",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-16T07:54:03.339535131Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:51:12.311078834Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "4alltravelers.com",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:30:40.657553536Z",
@@ -2381,20 +2367,6 @@
       }
     },
     {
-      "reviewedSite": "bettingrunner.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-16T13:39:07.796482176Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:52:01.940808164Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "betvirus.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -2904,13 +2876,14 @@
       "reviewedSite": "brazzztube.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-16T12:23:24.744138001Z",
+        "lastChangeTime": "2018-04-17T17:48:33.886764102Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-16T12:23:24.744138Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -3190,13 +3163,14 @@
       "reviewedSite": "calcioa5live.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-16T02:30:42.894073732Z",
+        "lastChangeTime": "2018-04-17T22:00:34.054202813Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:41.652381067Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -10821,20 +10795,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "laiki.lv",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-16T09:15:21.064643021Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:51:27.713160166Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "lajfhek.sk",
       "mobileSummary": {
         "lastChangeTime": "2017-08-31T20:18:10.035660195Z",
@@ -14567,13 +14527,14 @@
       "reviewedSite": "paintedconfetti.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:53:00.730518971Z",
+        "lastChangeTime": "2018-04-17T18:45:24.497524861Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:00.730518971Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15882,20 +15843,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "quebeccoquin.ca",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-17T14:21:10.763424966Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-17T05:42:12.299742Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "quicktoptens.com",
@@ -17799,13 +17746,14 @@
     {
       "reviewedSite": "sopawfect.com",
       "mobileSummary": {
-        "lastChangeTime": "2017-08-18T15:31:21.033457348Z",
+        "lastChangeTime": "2018-04-17T18:53:35.059925944Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
