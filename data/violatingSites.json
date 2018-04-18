@@ -3160,20 +3160,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "calcioa5live.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-17T22:00:34.054202813Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:52:41.652381067Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "cambridge-united.co.uk",
       "mobileSummary": {},
       "desktopSummary": {
@@ -8770,6 +8756,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "hentaibox.fr",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-18T03:58:49.879489001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-18T03:58:49.879489Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "heraldandnews.com",
@@ -15894,7 +15893,14 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-18T07:48:10.674752001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "racing1913.com",
@@ -17740,20 +17746,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:53:38.203840641Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "sopawfect.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-17T18:53:35.059925944Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -19757,20 +19749,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:55:28.918638106Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "trudnoca.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-16T11:46:15.643511418Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:00:51.140111340Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
