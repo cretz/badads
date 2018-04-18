@@ -842,7 +842,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T13:36:29.160014Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -3239,13 +3239,14 @@
       "reviewedSite": "ceesty.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-06T19:48:06.503236001Z",
+        "lastChangeTime": "2018-04-18T11:46:54.489957845Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-06T19:48:06.503236Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -3690,20 +3691,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "clickmag.gr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-16T15:00:52.275581928Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:51:03.230687266Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "clictune.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -3957,7 +3944,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T09:10:07.777187Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -4145,14 +4132,12 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-12T13:18:46.002183184Z",
+        "lastChangeTime": "2018-04-18T15:47:08.143783830Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -4391,7 +4376,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T11:55:58.004688Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -5315,7 +5300,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T13:12:34.332288Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -6359,13 +6344,14 @@
       "reviewedSite": "fanreport.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:51:13.033513927Z",
+        "lastChangeTime": "2018-04-18T14:34:46.329041185Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:13.033513927Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6890,13 +6876,14 @@
     {
       "reviewedSite": "foodchannel.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:50:30.338577375Z",
+        "lastChangeTime": "2018-04-18T15:19:41.370207315Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:50:30.338577375Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -7812,11 +7799,12 @@
     {
       "reviewedSite": "gettinenglish.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-02-06T17:24:41.302814001Z",
+        "lastChangeTime": "2018-04-18T13:35:56.363842479Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -8553,13 +8541,13 @@
       "reviewedSite": "hdfilmcehennemi.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-16T16:24:13.461758587Z",
+        "lastChangeTime": "2018-04-18T15:38:18.944329454Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-18T15:38:18.944329453Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -9583,7 +9571,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T14:45:19.189192Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9888,7 +9876,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T13:04:46.120064Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -10123,18 +10111,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "karaoketexty.cz",
-      "mobileSummary": {
-        "lastChangeTime": "2017-09-14T22:24:14.039873212Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "kat.money",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10196,6 +10172,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "kicker.de",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-18T15:53:01.481405370Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -11146,13 +11134,13 @@
       "reviewedSite": "ligaram-me.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-05T13:09:20.058184001Z",
+        "lastChangeTime": "2018-04-18T11:28:43.571684Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:54:54.968577535Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -11939,21 +11927,23 @@
     {
       "reviewedSite": "maluchy.pl",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-04T16:59:23.751636001Z",
+        "lastChangeTime": "2018-04-18T13:36:59.736178957Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-04-02T15:58:21.478805001Z",
+        "lastChangeTime": "2018-04-18T13:36:14.761630319Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-02T15:58:21.478805Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -13072,13 +13062,14 @@
       "reviewedSite": "mtv.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-04T14:07:52.722472001Z",
+        "lastChangeTime": "2018-04-18T15:58:52.262888605Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-04T14:07:52.722472Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14880,7 +14871,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T08:52:05.801146Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -15254,13 +15245,14 @@
     {
       "reviewedSite": "poplyft.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-17T06:38:23.019184001Z",
+        "lastChangeTime": "2018-04-18T13:26:45.388030441Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-17T06:38:23.019184Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -15593,6 +15585,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "powvideo.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-18T15:54:59.435340150Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-18T15:54:59.435340149Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "premierinjuries.com",
@@ -17492,7 +17497,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T12:05:40.808189Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -20993,7 +20998,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T15:09:58.446925Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
