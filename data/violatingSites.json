@@ -5396,13 +5396,14 @@
       "reviewedSite": "echoboomer.pt",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-09T04:26:39.042018001Z",
+        "lastChangeTime": "2018-04-18T20:36:00.848552266Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-06T17:00:39.216541Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -7982,7 +7983,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T16:34:14.827917Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -10274,7 +10275,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T19:11:35.622053Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -10357,7 +10358,7 @@
       "reviewedSite": "kinodum.cz",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-27T16:06:59.288447001Z",
+        "lastChangeTime": "2018-04-18T18:51:23.649071002Z",
         "region": [
           "REGION_B"
         ],
@@ -11134,13 +11135,13 @@
       "reviewedSite": "ligaram-me.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-18T11:28:43.571684Z",
+        "lastChangeTime": "2018-04-18T18:50:41.518740002Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:54:54.968577535Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -11570,13 +11571,14 @@
       "reviewedSite": "lokalo.de",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:52:48.349878131Z",
+        "lastChangeTime": "2018-04-18T18:51:32.101447036Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:48.349878131Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -13059,20 +13061,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "mtv.it",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-18T15:58:52.262888605Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-04T14:07:52.722472Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "muchohentai.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -14512,20 +14500,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "paintedconfetti.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-17T18:45:24.497524861Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:53:00.730518971Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "panathinaikos-press.com",
@@ -16045,7 +16019,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T16:33:07.208917Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -17651,7 +17625,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T16:04:31.029416Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -19913,20 +19887,6 @@
       }
     },
     {
-      "reviewedSite": "tuttobasket.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-17T10:38:30.875211327Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:00:08.552915242Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "tuttobiciweb.it",
       "mobileSummary": {
         "lastChangeTime": "2018-03-28T13:21:36.605573001Z",
@@ -20121,7 +20081,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T22:55:18.521301Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -21368,7 +21328,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T18:03:41.230286Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
