@@ -181,7 +181,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T09:03:54.413554Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -6211,13 +6211,14 @@
       "reviewedSite": "fa-mag.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:50:44.475535610Z",
+        "lastChangeTime": "2018-04-19T13:20:52.498799740Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:50:44.475535610Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6813,7 +6814,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T02:14:38.623220Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7798,19 +7799,6 @@
       }
     },
     {
-      "reviewedSite": "gettinenglish.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-18T13:35:56.363842479Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "giornaledimontesilvano.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -7876,13 +7864,14 @@
     {
       "reviewedSite": "gloria.fi",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-11T22:27:19.824670001Z",
+        "lastChangeTime": "2018-04-19T10:43:35.072004004Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:50:40.952924424Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -8175,7 +8164,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T03:43:24.700974Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -8732,7 +8721,15 @@
         "enforcementTime": "2018-04-01T20:23:36.556136Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-19T01:50:29.359841001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-19T01:50:29.359841Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "henchan.me",
@@ -9520,7 +9517,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T01:46:02.801488Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -10121,7 +10118,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T03:51:55.960663Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -11135,13 +11132,14 @@
       "reviewedSite": "ligaram-me.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-18T18:50:41.518740002Z",
+        "lastChangeTime": "2018-04-19T14:20:28.162754262Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:54.968577535Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -11924,28 +11922,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:51:43.634439508Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "maluchy.pl",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-18T13:36:59.736178957Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-18T13:36:14.761630319Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-02T15:58:21.478805Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12789,20 +12765,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-07T21:46:36.720584Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "morshinska.ua",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-17T14:24:38.531012335Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:02:39.917843538Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -15219,14 +15181,13 @@
     {
       "reviewedSite": "poplyft.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-18T13:26:45.388030441Z",
+        "lastChangeTime": "2018-04-19T07:57:23.945559001Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-05-17T06:38:23.019184Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -16032,7 +15993,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T15:53:27.747761Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16583,13 +16544,14 @@
       "reviewedSite": "rotorandwing.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:51:24.281899536Z",
+        "lastChangeTime": "2018-04-19T15:24:45.496117722Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:24.281899536Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -16858,11 +16820,12 @@
       "reviewedSite": "scientificamerican.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-16T07:33:10.274528001Z",
+        "lastChangeTime": "2018-04-19T13:41:00.892868169Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -18199,22 +18162,24 @@
     {
       "reviewedSite": "stilida.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:55:22.014935084Z",
+        "lastChangeTime": "2018-04-19T11:12:42.918766777Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:22.014935084Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:55:45.347200335Z",
+        "lastChangeTime": "2018-04-19T11:12:19.966091237Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:45.347200335Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
