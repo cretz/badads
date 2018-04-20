@@ -757,7 +757,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T06:28:45.700371Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -3574,13 +3574,14 @@
       "reviewedSite": "ciodive.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:55:25.570885990Z",
+        "lastChangeTime": "2018-04-20T01:16:43.807558380Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:25.570885990Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -5393,20 +5394,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "echoboomer.pt",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-18T20:36:00.848552266Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-06T17:00:39.216541Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "ecoledecrevette.fr",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T21:51:27.014381735Z",
@@ -5447,13 +5434,14 @@
       "reviewedSite": "educationdive.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:52:15.010443172Z",
+        "lastChangeTime": "2018-04-20T01:09:24.383725129Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:15.010443172Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -5555,20 +5543,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:53:52.634347238Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "elblogdecineespanol.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-19T19:44:51.320603253Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-12T14:17:16.435844Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8651,13 +8625,14 @@
       "reviewedSite": "healthcaredive.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:51:05.960418498Z",
+        "lastChangeTime": "2018-04-20T01:16:16.292829447Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:05.960418498Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -9065,13 +9040,14 @@
       "reviewedSite": "hrdive.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:51:02.500363435Z",
+        "lastChangeTime": "2018-04-20T01:15:38.456261915Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:02.500363435Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -11133,14 +11109,12 @@
       "reviewedSite": "ligaram-me.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-19T14:20:28.162754262Z",
+        "lastChangeTime": "2018-04-20T05:29:58.907825001Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:54:54.968577535Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -11564,20 +11538,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-16T16:02:46.750136Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "lokalo.de",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-18T18:51:32.101447036Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:52:48.349878131Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15182,13 +15142,14 @@
     {
       "reviewedSite": "poplyft.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-19T07:57:23.945559001Z",
+        "lastChangeTime": "2018-04-20T00:14:26.811436873Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-17T06:38:23.019184Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -16019,7 +15980,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T06:08:03.964787Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16576,7 +16537,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T02:12:36.155658Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -19615,7 +19576,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T02:03:28.823980Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -20163,20 +20124,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "ultimateclassicrock.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-19T21:56:23.319412429Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-14T16:11:59.257464Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "umdragaonabancada.pt",
@@ -21003,13 +20950,14 @@
       "reviewedSite": "wastedive.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:53:43.831062325Z",
+        "lastChangeTime": "2018-04-20T01:17:16.203887519Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:43.831062325Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
