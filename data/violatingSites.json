@@ -34,7 +34,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T21:07:23.270005Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -795,7 +795,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T18:05:58.778612Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-04-17T08:53:02.160754001Z",
@@ -4881,7 +4881,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T18:05:22.271921Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-04-03T16:26:36.785889001Z",
@@ -5561,13 +5561,14 @@
       "reviewedSite": "elblogdecineespanol.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-14T22:42:13.201121001Z",
+        "lastChangeTime": "2018-04-19T19:44:51.320603253Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-12T14:17:16.435844Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -5592,7 +5593,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T16:05:43.125123Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -6117,7 +6118,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T16:26:32.901146Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -8155,7 +8156,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T18:08:32.368725Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-03-20T03:43:24.700974001Z",
@@ -10940,7 +10941,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T18:08:13.824937Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14646,7 +14647,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T16:31:36.121428Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16614,7 +16615,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T20:03:34.282139Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -16815,19 +16816,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "scientificamerican.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-19T13:41:00.892868169Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "scooterclub-bg.com",
@@ -18609,7 +18597,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T20:56:29.684478Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -20180,13 +20168,14 @@
       "reviewedSite": "ultimateclassicrock.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T13:39:32.163487001Z",
+        "lastChangeTime": "2018-04-19T21:56:23.319412429Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-14T16:11:59.257464Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
