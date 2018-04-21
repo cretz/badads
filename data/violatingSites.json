@@ -5419,20 +5419,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "educationdive.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T01:09:24.383725129Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:52:15.010443172Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "egbertowillies.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -6183,20 +6169,6 @@
       }
     },
     {
-      "reviewedSite": "fa-mag.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-19T13:20:52.498799740Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:50:44.475535610Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "fabulousbetty.com",
       "mobileSummary": {
         "lastChangeTime": "2018-01-03T15:23:51.613571963Z",
@@ -6886,16 +6858,7 @@
         "enforcementTime": "2018-04-20T21:57:00.055548224Z",
         "filterStatus": "PAUSED"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T09:37:51.958590702Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:52:45.057395719Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "footdirect24.net",
@@ -8595,20 +8558,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "healthcaredive.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T01:16:16.292829447Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:51:05.960418498Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "healthcentral.com",
@@ -11896,7 +11845,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-21T14:25:53.273277Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -12658,7 +12607,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-21T14:10:57.653010Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13429,13 +13378,14 @@
       "reviewedSite": "netzabava.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:54:35.114430Z",
+        "lastChangeTime": "2018-04-21T14:46:28.940069334Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:35.114430Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18056,13 +18006,14 @@
     {
       "reviewedSite": "stilida.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-21T06:31:22.999627686Z",
+        "lastChangeTime": "2018-04-21T09:23:04.679209075Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:22.014935084Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -18197,13 +18148,14 @@
       "reviewedSite": "studylight.org",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T15:36:47.489579001Z",
+        "lastChangeTime": "2018-04-21T09:42:14.409642427Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T15:36:47.489579Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18247,13 +18199,14 @@
     {
       "reviewedSite": "supersport.mk",
       "mobileSummary": {
-        "lastChangeTime": "2017-12-06T23:26:49.858937001Z",
+        "lastChangeTime": "2018-04-21T14:05:10.758675106Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -19919,13 +19872,14 @@
     {
       "reviewedSite": "u-trail.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-19T22:55:18.521301001Z",
+        "lastChangeTime": "2018-04-21T12:03:51.907607574Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-18T22:55:18.521301Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
