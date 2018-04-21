@@ -2062,13 +2062,14 @@
       "reviewedSite": "barnebys.fr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:51:29.035220104Z",
+        "lastChangeTime": "2018-04-21T05:28:21.549142004Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:29.035220104Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -3569,20 +3570,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "ciodive.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T01:16:43.807558380Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:55:25.570885990Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "citiesjournal.com",
@@ -7826,14 +7813,13 @@
     {
       "reviewedSite": "gloria.fi",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-19T10:43:35.072004004Z",
+        "lastChangeTime": "2018-04-21T02:30:49.349752473Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-04-20T21:50:40.952924424Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -9026,20 +9012,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "hrdive.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T01:15:38.456261915Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:51:02.500363435Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "huelvaya.es",
       "mobileSummary": {},
       "desktopSummary": {
@@ -9645,7 +9617,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-21T01:06:08.461417Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13122,13 +13094,14 @@
       "reviewedSite": "mymangacomics.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:51:57.912834128Z",
+        "lastChangeTime": "2018-04-21T06:54:59.663967982Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:57.912834128Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18083,14 +18056,13 @@
     {
       "reviewedSite": "stilida.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-19T11:12:42.918766777Z",
+        "lastChangeTime": "2018-04-21T06:31:22.999627686Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:22.014935084Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -20142,7 +20114,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-21T07:00:49.005322Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -21765,13 +21737,14 @@
       "reviewedSite": "ysterografonews.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:54:08.310065606Z",
+        "lastChangeTime": "2018-04-21T06:46:22.331991397Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:08.310065606Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
