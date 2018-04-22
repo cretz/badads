@@ -6847,20 +6847,6 @@
       }
     },
     {
-      "reviewedSite": "football.co.uk",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T09:37:41.916901069Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:57:00.055548224Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "footdirect24.net",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18056,20 +18042,6 @@
       }
     },
     {
-      "reviewedSite": "streaminporn.xyz",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T12:27:41.739326288Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:53:13.761722168Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "streamplay.to",
       "mobileSummary": {},
       "desktopSummary": {
@@ -20832,20 +20804,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "wastedive.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T01:17:16.203887519Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:53:43.831062325Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "watch5s.is",
       "mobileSummary": {
         "lastChangeTime": "2018-01-10T23:24:50.185031Z",
@@ -21885,7 +21843,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-21T17:24:57.214570Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     }
