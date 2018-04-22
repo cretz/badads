@@ -1649,7 +1649,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-22T13:33:45.645583Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -8256,29 +8256,6 @@
       }
     },
     {
-      "reviewedSite": "h2hstats.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T23:26:59.649879939Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:58:22.287838111Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T23:29:03.048533871Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:54:11.874163965Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "haber10.com",
       "mobileSummary": {
         "lastChangeTime": "2017-06-20T18:05:03.139916549Z",
@@ -9463,13 +9440,14 @@
       "reviewedSite": "ioamoilfoggia.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:50:54.823553261Z",
+        "lastChangeTime": "2018-04-22T07:30:41.811388708Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:50:54.823553261Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -13155,13 +13133,14 @@
       "reviewedSite": "naseporodnice.cz",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:51:23.609830582Z",
+        "lastChangeTime": "2018-04-22T15:29:31.526214327Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:23.609830582Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -13587,7 +13566,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-22T11:59:16.364834Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -17680,7 +17659,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-22T12:04:57.710193Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -17891,7 +17870,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-22T11:58:03.381020Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18019,13 +17998,14 @@
       "reviewedSite": "stprn.xyz",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:53:20.304097926Z",
+        "lastChangeTime": "2018-04-22T08:43:01.688127103Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:20.304097926Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -21644,20 +21624,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "ysterografonews.gr",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-21T06:46:22.331991397Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:54:08.310065606Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "ytvideohd.blogspot.com.tr",
