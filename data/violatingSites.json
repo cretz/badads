@@ -2059,20 +2059,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "barnebys.fr",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-21T05:28:21.549142004Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:51:29.035220104Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "barnplaggsguiden.se",
       "mobileSummary": {
         "lastChangeTime": "2018-02-20T20:02:57.321348724Z",
@@ -5080,20 +5066,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "doartenis.ro",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T17:18:38.350236173Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-11T15:02:32.595483Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "doctoral.eu",
@@ -9339,27 +9311,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "independent.ie",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T17:07:05.196071593Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T17:06:22.593397629Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "indycenterbrasil.com.br",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10203,19 +10154,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "kinodum.cz",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-18T18:51:23.649071002Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-26T16:06:59.288447Z",
-        "filterStatus": "PENDING"
-      }
     },
     {
       "reviewedSite": "kinogol.com",
@@ -13007,14 +12945,13 @@
       "reviewedSite": "mymangacomics.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-21T06:54:59.663967982Z",
+        "lastChangeTime": "2018-04-23T02:31:20.448540266Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:57.912834128Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -14097,19 +14034,6 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "ortsdienst.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T17:19:52.447402693Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -17955,18 +17879,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "stlracing.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-01-02T17:26:01.580172001Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "stprn.xyz",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18072,14 +17984,12 @@
       "reviewedSite": "studylight.org",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-21T09:42:14.409642427Z",
+        "lastChangeTime": "2018-04-23T06:56:59.956940001Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T15:36:47.489579Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -18119,20 +18029,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "supersport.mk",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-21T14:05:10.758675106Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "supersporting.net",
@@ -18757,20 +18653,6 @@
       }
     },
     {
-      "reviewedSite": "thelakewoodscoop.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T17:33:48.313868448Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "themysteryreader.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18970,14 +18852,13 @@
       "reviewedSite": "thinkadvisor.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T18:17:47.204447788Z",
+        "lastChangeTime": "2018-04-23T07:01:48.939269001Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-05-10T02:03:35.745758Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -19792,20 +19673,6 @@
         "enforcementTime": "2018-03-22T20:00:34.438157086Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "u-trail.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-21T12:03:51.907607574Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-18T22:55:18.521301Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "ua5.org",
@@ -20740,20 +20607,6 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "warszawawpigulce.pl",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T16:40:15.131346083Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-17T04:06:59.978643Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "watch5s.is",
