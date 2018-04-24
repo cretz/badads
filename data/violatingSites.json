@@ -610,30 +610,6 @@
       }
     },
     {
-      "reviewedSite": "aer-failing-cert-certified.appspot.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2037-12-31T08:00:00Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "aer-failing-cert-expired.appspot.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2017-01-01T08:00:00Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "aetos-grevena.blogspot.gr",
       "mobileSummary": {},
       "desktopSummary": {
@@ -708,6 +684,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "agrointel.ro",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-23T20:36:34.742382001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-23T20:36:34.742382Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -4059,13 +4048,14 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:57:19.596318459Z",
+        "lastChangeTime": "2018-04-23T16:07:14.706928784Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:57:19.596318459Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -13862,13 +13852,14 @@
       "reviewedSite": "odds.pt",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:55:08.179546626Z",
+        "lastChangeTime": "2018-04-23T16:19:37.418719162Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:08.179546626Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17877,20 +17868,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "stilida.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-21T09:23:04.679209075Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:55:22.014935084Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "streamhd.eu",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18609,21 +18586,23 @@
     {
       "reviewedSite": "thehayride.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:55:16.918608326Z",
+        "lastChangeTime": "2018-04-23T22:33:22.139103736Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:58:34.320144622Z",
+        "lastChangeTime": "2018-04-23T22:31:38.094314653Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:58:34.320144622Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
