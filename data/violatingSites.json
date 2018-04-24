@@ -3215,14 +3215,13 @@
       "reviewedSite": "ceesty.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-18T11:46:54.489957845Z",
+        "lastChangeTime": "2018-04-24T14:48:09.556039Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-05-06T19:48:06.503236Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -4234,11 +4233,12 @@
       "reviewedSite": "cugetliber.ro",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-23T14:04:39.107726001Z",
+        "lastChangeTime": "2018-04-24T07:32:55.049133216Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -5971,11 +5971,12 @@
       "reviewedSite": "everyeye.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T14:56:22.224067001Z",
+        "lastChangeTime": "2018-04-24T06:01:19.791985121Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -8461,13 +8462,14 @@
     {
       "reviewedSite": "hdpornstarz.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-27T18:20:12.552518001Z",
+        "lastChangeTime": "2018-04-24T13:50:15.838996201Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-26T18:20:12.552518Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -9376,20 +9378,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "ioamoilfoggia.it",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-22T07:30:41.811388708Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:50:54.823553261Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "iotwock.info",
@@ -13054,20 +13042,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "naseporodnice.cz",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-22T15:29:31.526214327Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:51:23.609830582Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20346,13 +20320,14 @@
       "reviewedSite": "viva.pl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-23T12:55:07.078471001Z",
+        "lastChangeTime": "2018-04-24T12:33:45.944032439Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-23T12:55:07.078471Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
