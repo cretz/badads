@@ -6331,13 +6331,14 @@
       "reviewedSite": "festyy.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-02T13:12:49.152829001Z",
+        "lastChangeTime": "2018-04-25T14:18:37.219209069Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-02T13:12:49.152829Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -13753,20 +13754,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "odds.pt",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-23T16:19:37.418719162Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:55:08.179546626Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "odir.us",
       "mobileSummary": {
         "lastChangeTime": "2018-01-11T14:36:36.452289887Z",
@@ -18021,22 +18008,24 @@
     {
       "reviewedSite": "tahmin112.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:55:29.592192379Z",
+        "lastChangeTime": "2018-04-25T08:47:19.285633130Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:29.592192379Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:52:06.068756591Z",
+        "lastChangeTime": "2018-04-25T08:46:52.720429228Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:06.068756591Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -19509,11 +19498,12 @@
     {
       "reviewedSite": "ua5.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-20T21:02:04.196715001Z",
+        "lastChangeTime": "2018-04-25T09:37:03.805830971Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -20897,7 +20887,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-25T13:09:23.346607Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
