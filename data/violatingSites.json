@@ -825,13 +825,14 @@
       "reviewedSite": "aktuelno24.com.mk",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-19T13:36:29.160014001Z",
+        "lastChangeTime": "2018-04-26T11:13:19.625355128Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-18T13:36:29.160014Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -1632,13 +1633,14 @@
     {
       "reviewedSite": "autoblog.md",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-23T13:33:45.645583001Z",
+        "lastChangeTime": "2018-04-26T10:31:02.825391275Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-22T13:33:45.645583Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -4440,16 +4442,7 @@
         "enforcementTime": "2018-04-20T21:57:16.265641640Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-24T18:43:12.069952050Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:55:30.237296531Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "danceradio.cz",
@@ -5473,20 +5466,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "el-sevillista.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-24T17:57:34.385431046Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:53:52.634347238Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "elconfidencialdigital.com",
       "mobileSummary": {
         "lastChangeTime": "2018-02-15T23:25:30.150247001Z",
@@ -5842,7 +5821,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-26T15:06:18.628501Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -6343,11 +6322,12 @@
       "reviewedSite": "festyy.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-25T16:48:56.549334001Z",
+        "lastChangeTime": "2018-04-26T09:21:22.206826471Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -7402,13 +7382,14 @@
       "reviewedSite": "gabriellajoss.me",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:55:38.853717792Z",
+        "lastChangeTime": "2018-04-26T14:37:20.780624577Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:38.853717792Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14400,13 +14381,14 @@
       "reviewedSite": "pescarasport24.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:54:15.283534798Z",
+        "lastChangeTime": "2018-04-26T14:51:06.662223130Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:15.283534798Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
