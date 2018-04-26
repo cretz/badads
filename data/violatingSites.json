@@ -14795,13 +14795,14 @@
       "reviewedSite": "popcrush.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-27T06:00:50.834993001Z",
+        "lastChangeTime": "2018-04-26T03:06:37.862888924Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-25T19:54:54.288490Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -19568,11 +19569,12 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-22T22:30:59.191423001Z",
+        "lastChangeTime": "2018-04-26T04:23:47.892414578Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
