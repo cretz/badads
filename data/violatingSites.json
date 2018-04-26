@@ -3838,6 +3838,18 @@
       }
     },
     {
+      "reviewedSite": "computerworld.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-25T16:49:26.668767001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "confessionsdunegourmande.com",
       "mobileSummary": {
         "lastChangeTime": "2018-04-04T16:10:45.734171001Z",
@@ -3898,7 +3910,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-25T20:16:40.047890Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-03-19T09:10:07.777187001Z",
@@ -6331,14 +6343,12 @@
       "reviewedSite": "festyy.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-25T14:18:37.219209069Z",
+        "lastChangeTime": "2018-04-25T16:48:56.549334001Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-02T13:12:49.152829Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -8429,20 +8439,6 @@
       }
     },
     {
-      "reviewedSite": "hdpornstarz.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-24T13:50:15.838996201Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-26T18:20:12.552518Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "hdvid.tv",
       "mobileSummary": {},
       "desktopSummary": {
@@ -9758,13 +9754,14 @@
     {
       "reviewedSite": "justviral.co",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-12T04:49:08.462562001Z",
+        "lastChangeTime": "2018-04-25T19:15:54.492360087Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-12T04:49:08.462562Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13437,6 +13434,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "nihonscan.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-25T22:52:52.948296001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-25T22:52:52.948296Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "ninetyminutesonline.com",
       "mobileSummary": {
         "lastChangeTime": "2017-08-31T20:18:10.035660195Z",
@@ -13778,13 +13788,14 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-06T13:35:17.986430001Z",
+        "lastChangeTime": "2018-04-25T20:48:07.423456956Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-05T13:35:17.986430Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14673,6 +14684,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "poetsandquants.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-25T16:47:53.877148001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-25T16:47:53.877148Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "poginta.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-08T18:01:06.514214001Z",
@@ -14777,7 +14801,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-25T19:54:54.288490Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16364,7 +16388,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-25T20:17:33.231741Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-03-05T21:36:39.771651001Z",
@@ -17831,6 +17855,19 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "superbeauties.club",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-25T22:43:07.816446001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-25T22:43:07.816446Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "superfoodnews.gr",
@@ -19498,13 +19535,13 @@
     {
       "reviewedSite": "ua5.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-25T09:37:03.805830971Z",
+        "lastChangeTime": "2018-04-25T22:17:14.829873001Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-25T22:17:14.829873Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -20041,6 +20078,18 @@
         "lastChangeTime": "2018-03-03T02:43:07.625164001Z",
         "region": [
           "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "vipbox.live",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-25T21:12:28.847268001Z",
+        "region": [
+          "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
@@ -21382,6 +21431,18 @@
         "enforcementTime": "2018-04-04T21:56:50.950843Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "ziaruldeiasi.ro",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-25T20:09:36.801546001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "zinema-city.de",
