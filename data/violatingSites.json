@@ -4610,6 +4610,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "delaware1059.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-27T02:58:36.798663001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "dentistryiq.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -9704,7 +9716,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-27T03:14:25.015437Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -11834,18 +11846,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "masterani.me",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2017-06-14T16:37:17.427985Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "mastersexpense.com",
       "mobileSummary": {
         "lastChangeTime": "2018-01-03T15:23:51.613571963Z",
@@ -13503,6 +13503,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "northernstar.info",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-27T01:45:09.477669001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-27T01:45:09.477669Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "notioanatolika.gr",
       "mobileSummary": {},
       "desktopSummary": {
@@ -14769,20 +14782,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-30T20:01:36.414119484Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "popcrush.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-26T03:06:37.862888924Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-25T19:54:54.288490Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17323,13 +17322,14 @@
       "reviewedSite": "spiderchick.nu",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-10T17:37:25.898644001Z",
+        "lastChangeTime": "2018-04-27T07:10:59.027925209Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:01:17.818044333Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17838,6 +17838,19 @@
       }
     },
     {
+      "reviewedSite": "subtitlesbank.online",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-27T02:57:48.149860001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-27T02:57:48.149860Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "superbeauties.club",
       "mobileSummary": {
         "lastChangeTime": "2018-04-25T22:43:07.816446001Z",
@@ -18021,20 +18034,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:52:22.311663999Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "tahmin112.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-25T08:46:52.720429228Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:52:06.068756591Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -21408,11 +21407,12 @@
     {
       "reviewedSite": "ziaruldeiasi.ro",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-25T20:09:36.801546001Z",
+        "lastChangeTime": "2018-04-27T07:55:27.823497862Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
