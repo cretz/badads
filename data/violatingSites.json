@@ -822,20 +822,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "aktuelno24.com.mk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-26T11:13:19.625355128Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-18T13:36:29.160014Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "aktuelno24.mk",
       "mobileSummary": {},
       "desktopSummary": {
@@ -8620,13 +8606,14 @@
       "reviewedSite": "hobbymanie.tv",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:53:18.074003081Z",
+        "lastChangeTime": "2018-04-26T20:47:58.524240581Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:18.074003081Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -10662,11 +10649,12 @@
     {
       "reviewedSite": "legendarymotorsmag.com",
       "mobileSummary": {
-        "lastChangeTime": "2017-08-18T15:31:08.284754806Z",
+        "lastChangeTime": "2018-04-26T19:14:49.588192138Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -11526,14 +11514,13 @@
       "reviewedSite": "maisvalias.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-24T23:27:33.536502511Z",
+        "lastChangeTime": "2018-04-26T18:32:57.740403442Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:34.075989919Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -12854,6 +12841,19 @@
       }
     },
     {
+      "reviewedSite": "mymmanews.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-26T22:11:01.697627001Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-26T22:11:01.697627Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "mynet.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13766,18 +13766,9 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-26T16:39:09.625896Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-25T20:48:07.423456956Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-05T13:35:17.986430Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "oglasi.si",
@@ -13876,7 +13867,14 @@
     },
     {
       "reviewedSite": "onlygayvideo.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-26T22:06:53.611748001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-04-16T04:33:08.648223Z",
         "region": [
@@ -16803,7 +16801,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-26T18:03:30.778382Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-04-02T17:38:33.122277Z",
@@ -18027,16 +18025,7 @@
     },
     {
       "reviewedSite": "tahmin112.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-25T08:47:19.285633130Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:55:29.592192379Z",
-        "filterStatus": "PAUSED"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-04-25T08:46:52.720429228Z",
         "region": [
@@ -21123,7 +21112,7 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-26T17:03:27.779836Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
