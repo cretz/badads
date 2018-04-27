@@ -3510,6 +3510,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "cinemotion-kino.de",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-27T13:09:40.766461001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-27T13:09:40.766461Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "cineplanet.de",
       "mobileSummary": {
         "lastChangeTime": "2018-02-20T20:02:42.177086426Z",
@@ -3652,6 +3665,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "cliomakeup.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-27T11:22:44.071951001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -3977,13 +4002,14 @@
       "reviewedSite": "corneey.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-17T15:48:46.019645001Z",
+        "lastChangeTime": "2018-04-27T12:49:11.952728836Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-17T15:48:46.019645Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6317,19 +6343,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "festyy.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-26T09:21:22.206826471Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "fexburti.ge",
       "mobileSummary": {},
       "desktopSummary": {
@@ -7607,13 +7620,14 @@
       "reviewedSite": "gestyy.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-17T15:48:49.004379001Z",
+        "lastChangeTime": "2018-04-27T12:49:47.402567558Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-17T15:48:49.004379Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8659,7 +8673,14 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-27T11:07:11.177900001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "hollywoodaminn.de",
@@ -10659,19 +10680,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "legendarymotorsmag.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-26T19:14:49.588192138Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "lemurdelolie.fr",
       "mobileSummary": {
         "lastChangeTime": "2018-03-13T21:12:55.746435001Z",
@@ -11523,19 +11531,6 @@
       }
     },
     {
-      "reviewedSite": "maisvalias.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-26T18:32:57.740403442Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:52:34.075989919Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "majorten.com",
       "mobileSummary": {
         "lastChangeTime": "2017-08-18T15:31:10.127183203Z",
@@ -11652,13 +11647,14 @@
       "reviewedSite": "manhwa.co",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-22T14:25:53.273277001Z",
+        "lastChangeTime": "2018-04-27T10:39:11.434427123Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-21T14:25:53.273277Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -21403,19 +21399,6 @@
         "enforcementTime": "2018-04-04T21:56:50.950843Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "ziaruldeiasi.ro",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-27T07:55:27.823497862Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "zinema-city.de",
