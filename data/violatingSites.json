@@ -8642,20 +8642,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "hobbymanie.tv",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-26T20:47:58.524240581Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:53:18.074003081Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "hockeybladet.nu",
       "mobileSummary": {
         "lastChangeTime": "2018-02-20T20:00:40.268274343Z",
@@ -13412,13 +13398,14 @@
     {
       "reviewedSite": "nihonscan.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-25T22:52:52.948296001Z",
+        "lastChangeTime": "2018-04-28T13:50:49.524865643Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-25T22:52:52.948296Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -15341,11 +15328,12 @@
     {
       "reviewedSite": "qruiser.com",
       "mobileSummary": {
-        "lastChangeTime": "2017-07-07T20:29:14.527750150Z",
+        "lastChangeTime": "2018-04-28T13:06:35.127431115Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
