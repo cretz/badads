@@ -150,13 +150,14 @@
       "reviewedSite": "24kristianstad.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-04T19:10:01.973745654Z",
+        "lastChangeTime": "2018-04-27T21:02:12.364196631Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-04T19:10:01.973745654Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -1251,13 +1252,14 @@
     {
       "reviewedSite": "animeram.cc",
       "mobileSummary": {
-        "lastChangeTime": "2017-08-18T15:30:44.520991192Z",
+        "lastChangeTime": "2018-04-27T16:48:42.467168775Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -1613,20 +1615,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "autoblog.md",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-26T10:31:02.825391275Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-22T13:33:45.645583Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -2185,6 +2173,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:52:53.025065500Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "benficaholic0.blogspot.co.uk",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-27T17:48:58.431777001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -5365,6 +5365,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "eclypsia.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-27T23:05:14.211979001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-27T23:05:14.211979Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "ecoledecrevette.fr",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T21:51:27.014381735Z",
@@ -7390,20 +7403,6 @@
       }
     },
     {
-      "reviewedSite": "gabriellajoss.me",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-26T14:37:20.780624577Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:55:38.853717792Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "galacticbuzz.com",
       "mobileSummary": {
         "lastChangeTime": "2018-04-10T15:28:08.953594001Z",
@@ -7705,6 +7704,18 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "globocase.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-04-27T20:17:42.672762001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "gloria.fi",
@@ -9753,20 +9764,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "justviral.co",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-25T19:15:54.492360087Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-12T04:49:08.462562Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "juvmovies.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -11644,20 +11641,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "manhwa.co",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-27T10:39:11.434427123Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-21T14:25:53.273277Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "manmagazin1.sk",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13158,6 +13141,19 @@
       }
     },
     {
+      "reviewedSite": "netspor20.tv",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-27T21:35:18.320315001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-27T21:35:18.320315Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "neue-filmbuehne.de",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T21:54:54.328554810Z",
@@ -14383,20 +14379,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "pescarasport24.it",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-26T14:51:06.662223130Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:54:15.283534798Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "peserialehd.com",
