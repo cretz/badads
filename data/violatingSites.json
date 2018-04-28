@@ -4446,13 +4446,14 @@
     {
       "reviewedSite": "dailystarscy.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:57:16.265641640Z",
+        "lastChangeTime": "2018-04-28T05:08:35.858182661Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:57:16.265641640Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -5418,11 +5419,12 @@
       "reviewedSite": "egbertowillies.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2017-12-26T15:24:15.973773001Z",
+        "lastChangeTime": "2018-04-28T01:53:57.351271132Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -13360,13 +13362,14 @@
       "reviewedSite": "nhlnews.cz",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-23T11:59:16.364834001Z",
+        "lastChangeTime": "2018-04-28T07:27:42.325313109Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-22T11:59:16.364834Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
