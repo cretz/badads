@@ -147,20 +147,6 @@
       }
     },
     {
-      "reviewedSite": "24kristianstad.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-27T21:02:12.364196631Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-04T19:10:01.973745654Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "24malmo.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -1248,20 +1234,6 @@
         "enforcementTime": "2018-02-17T19:25:15.022803Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "animeram.cc",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-27T16:48:42.467168775Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "animeshow.tv",
@@ -4446,14 +4418,13 @@
     {
       "reviewedSite": "dailystarscy.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-28T05:08:35.858182661Z",
+        "lastChangeTime": "2018-04-30T03:31:51.111373922Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-04-20T21:57:16.265641640Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -5414,19 +5385,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "egbertowillies.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-28T01:53:57.351271132Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "egetforum.se",
@@ -7229,19 +7187,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "funmagazin.sk",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-29T14:20:23.925436789Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -13346,20 +13291,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "nhlnews.cz",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-28T07:27:42.325313109Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-22T11:59:16.364834Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "nhlstreams.me",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T21:54:04.710564796Z",
@@ -13393,20 +13324,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-15T20:12:34.175948Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "nihonscan.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-28T13:50:49.524865643Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-25T22:52:52.948296Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -15326,19 +15243,6 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "qruiser.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-28T13:06:35.127431115Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "quattroruote.it",
