@@ -15047,13 +15047,14 @@
       "reviewedSite": "portoatemorrer.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:50:49.884860762Z",
+        "lastChangeTime": "2018-04-29T18:20:27.033049501Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:50:49.884860762Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
