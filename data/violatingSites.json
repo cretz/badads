@@ -3558,6 +3558,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "civonline.it",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-30T17:27:19.049239Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "claimbit.win",
       "mobileSummary": {},
       "desktopSummary": {
@@ -4012,13 +4024,14 @@
     {
       "reviewedSite": "cosmeticsandtoiletries.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-17T05:36:26.689358Z",
+        "lastChangeTime": "2018-04-30T19:27:05.736413Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-17T05:36:26.043318Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -4685,13 +4698,14 @@
       "reviewedSite": "designnews.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-05T13:11:38.390972Z",
+        "lastChangeTime": "2018-04-30T19:34:19.856143Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-05T13:11:37.673455Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6111,6 +6125,18 @@
         "enforcementTime": "2018-02-21T10:25:09.445231Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "f5haber.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-30T17:31:15.399278Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "fabulousbetty.com",
@@ -11863,6 +11889,18 @@
       "reviewedSite": "megasesso.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:25.030784Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "megavintageporn.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-30T16:25:11.741536Z",
         "region": [
           "REGION_B"
         ],
@@ -17711,6 +17749,19 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
+    },
+    {
+      "reviewedSite": "stylesofliving.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-04-30T16:39:38.320844Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-05-30T16:39:37.647214Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "subs4series.com",
