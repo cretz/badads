@@ -3189,14 +3189,12 @@
       "reviewedSite": "ceesty.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-25T07:15:44.418628Z",
+        "lastChangeTime": "2018-05-01T15:08:14.907980Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-06T19:48:06.503236Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -4000,14 +3998,12 @@
       "reviewedSite": "corneey.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-27T12:49:12.865859Z",
+        "lastChangeTime": "2018-05-01T15:13:56.242750Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-17T15:48:46.019645Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -7602,20 +7598,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "gestyy.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-27T12:49:48.214999Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-17T15:48:49.004379Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "getcomics.gq",
@@ -14306,13 +14288,14 @@
     {
       "reviewedSite": "personalliberty.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:31.212519Z",
+        "lastChangeTime": "2018-05-01T14:38:46.875415Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-18T18:29:45.262552Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -15012,20 +14995,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "portoatemorrer.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-29T18:20:27.970696Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:50:49.884860762Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "positivelynaperville.com",
@@ -18351,13 +18320,14 @@
       "reviewedSite": "thebroadwayblog.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:51:21.856126Z",
+        "lastChangeTime": "2018-05-01T13:00:35.716923Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:21.642973497Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
