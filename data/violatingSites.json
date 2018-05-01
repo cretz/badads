@@ -1506,11 +1506,12 @@
       "reviewedSite": "at.ua",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-14T22:45:13.220345Z",
+        "lastChangeTime": "2018-05-01T07:11:34.032893Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -8202,11 +8203,12 @@
     {
       "reviewedSite": "haber46.com.tr",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:13.283455Z",
+        "lastChangeTime": "2018-05-01T02:44:40.779652Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
