@@ -370,13 +370,14 @@
       "reviewedSite": "929thebull.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-02T17:09:29.569378Z",
+        "lastChangeTime": "2018-05-01T16:02:27.223590Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-02T17:09:28.993772Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -1781,11 +1782,12 @@
     {
       "reviewedSite": "babwnews.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:05:57.091663Z",
+        "lastChangeTime": "2018-05-01T23:22:58.040325Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -17219,14 +17221,13 @@
       "reviewedSite": "spiderchick.nu",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-27T07:10:59.573227Z",
+        "lastChangeTime": "2018-05-01T20:33:21.318268Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-03-22T20:01:17.818044333Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -20268,7 +20269,7 @@
       "reviewedSite": "vrouwenvoetbalkrant.be",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:50:37.313877Z",
+        "lastChangeTime": "2018-05-01T18:01:06.081349Z",
         "region": [
           "REGION_B"
         ],
@@ -20838,13 +20839,14 @@
       "reviewedSite": "wyrk.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-02T15:45:22.312046Z",
+        "lastChangeTime": "2018-05-01T16:01:08.038760Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-02T15:45:21.577157Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
