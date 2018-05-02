@@ -172,6 +172,18 @@
       }
     },
     {
+      "reviewedSite": "24video-xxx.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-02T01:38:57.310381Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "300ahora.pt",
       "mobileSummary": {},
       "desktopSummary": {
@@ -2319,18 +2331,6 @@
       }
     },
     {
-      "reviewedSite": "bety.cz",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:05:58.152721Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "bezrealitky.cz",
       "mobileSummary": {},
       "desktopSummary": {
@@ -3191,7 +3191,7 @@
       "reviewedSite": "ceesty.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-01T15:08:14.907980Z",
+        "lastChangeTime": "2018-05-02T07:46:34.130354Z",
         "region": [
           "REGION_B"
         ],
@@ -4000,7 +4000,7 @@
       "reviewedSite": "corneey.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-01T15:13:56.242750Z",
+        "lastChangeTime": "2018-05-02T07:41:21.227122Z",
         "region": [
           "REGION_B"
         ],
@@ -5188,11 +5188,12 @@
       "reviewedSite": "doviz.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:06.181092Z",
+        "lastChangeTime": "2018-05-02T07:32:19.066317Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -12453,20 +12454,22 @@
     {
       "reviewedSite": "motorbox.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-10T13:48:41.348186Z",
+        "lastChangeTime": "2018-05-02T06:53:02.684839Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-10T13:48:40.571239Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-04-12T05:04:06.232869Z",
+        "lastChangeTime": "2018-05-02T06:53:17.928558Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
