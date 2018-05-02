@@ -2608,20 +2608,6 @@
       }
     },
     {
-      "reviewedSite": "bloggkommentatorerna.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-30T14:10:02.597772Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:54:22.986607110Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "blogosfere.it",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:05:58.773800Z",
@@ -9118,6 +9104,18 @@
       }
     },
     {
+      "reviewedSite": "imagetwist.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-02T11:21:18.019417Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "imajbet250.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10334,13 +10332,14 @@
       "reviewedSite": "kungalvsposten.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:52:56.784512Z",
+        "lastChangeTime": "2018-05-02T13:57:45.637261Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:56.535827769Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -11209,13 +11208,14 @@
       "reviewedSite": "lokaltidningensto.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:51:23.199500Z",
+        "lastChangeTime": "2018-05-02T13:58:39.747518Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:22.959196136Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -11812,13 +11812,13 @@
       "reviewedSite": "matzav.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-02T15:42:03.048107Z",
+        "lastChangeTime": "2018-05-02T15:42:02.654967Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-02T15:42:02.239093Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -17692,13 +17692,13 @@
       "reviewedSite": "strikerless.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-02T15:54:00.922746Z",
+        "lastChangeTime": "2018-05-02T15:52:27.589182Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-02T15:52:27.284665Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18319,20 +18319,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "thebroadwayblog.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-01T13:00:35.716923Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:51:21.642973497Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "thefalse9.com",
@@ -19562,13 +19548,14 @@
       "reviewedSite": "umdragaonabancada.pt",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:52:58.782179Z",
+        "lastChangeTime": "2018-05-02T13:08:19.553900Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:58.562195364Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20842,7 +20829,7 @@
       "reviewedSite": "wyrk.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-01T16:01:08.038760Z",
+        "lastChangeTime": "2018-05-02T15:45:22.153501Z",
         "region": [
           "REGION_A"
         ],
