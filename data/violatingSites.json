@@ -4620,19 +4620,6 @@
       }
     },
     {
-      "reviewedSite": "designnews.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-03T20:29:12.051235Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "deutschelesben.com",
       "mobileSummary": {
         "lastChangeTime": "2018-04-06T18:04:35.230025Z",
@@ -10322,20 +10309,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "kungalvsposten.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-02T13:57:45.637261Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:52:56.535827769Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -19522,20 +19495,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "umdragaonabancada.pt",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-02T13:08:19.553900Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:52:58.562195364Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "unfinishedman.com",
