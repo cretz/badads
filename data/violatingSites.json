@@ -3157,11 +3157,12 @@
       "reviewedSite": "ceesty.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-04T22:22:21.057870Z",
+        "lastChangeTime": "2018-05-05T05:37:16.931482Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -3954,11 +3955,12 @@
       "reviewedSite": "corneey.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-04T22:19:01.031361Z",
+        "lastChangeTime": "2018-05-05T05:35:57.821254Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -9086,11 +9088,12 @@
     {
       "reviewedSite": "imagetwist.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-02T11:21:18.019417Z",
+        "lastChangeTime": "2018-05-05T00:51:02.737190Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
