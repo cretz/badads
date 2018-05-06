@@ -4434,20 +4434,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "dbknews.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-04T19:14:00.067532Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:50:57.669575425Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "dbsuperepisode.info",
       "mobileSummary": {
         "lastChangeTime": "2018-04-01T20:23:36.728454Z",
@@ -17479,13 +17465,14 @@
       "reviewedSite": "sportm.mk",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:39.643812Z",
+        "lastChangeTime": "2018-05-06T11:16:42.307440Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
