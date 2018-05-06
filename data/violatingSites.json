@@ -14558,13 +14558,13 @@
     {
       "reviewedSite": "playerwiveswiki.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-05T19:49:28.732366Z",
+        "lastChangeTime": "2018-05-05T19:49:27.912731Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-05T19:49:27.388625Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14753,13 +14753,13 @@
     {
       "reviewedSite": "popnewsmagazine.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-05T16:10:31.142141Z",
+        "lastChangeTime": "2018-05-05T16:10:30.924574Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-05T16:10:30.391029Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-03-21T09:23:52.028322Z",
@@ -20388,13 +20388,13 @@
     {
       "reviewedSite": "wagcenter.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-05T16:31:23.498151Z",
+        "lastChangeTime": "2018-05-05T16:31:23.193579Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-05T16:31:22.621431Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -21113,13 +21113,14 @@
     {
       "reviewedSite": "yeniakit.com.tr",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-06T19:59:17.111831Z",
+        "lastChangeTime": "2018-05-05T20:17:45.876016Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-06T19:59:15.835888Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
