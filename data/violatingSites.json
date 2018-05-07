@@ -684,13 +684,14 @@
     {
       "reviewedSite": "agrointel.ro",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-23T20:36:35.758794Z",
+        "lastChangeTime": "2018-05-06T17:45:52.361188Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-23T20:36:34.742382Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -746,13 +747,13 @@
     {
       "reviewedSite": "aintaboutthatlife.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-06T17:21:43.053101Z",
+        "lastChangeTime": "2018-05-06T17:21:42.189702Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-06T17:21:41.850564Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -3157,7 +3158,7 @@
       "reviewedSite": "ceesty.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-05T05:37:16.931482Z",
+        "lastChangeTime": "2018-05-06T19:48:07.157198Z",
         "region": [
           "REGION_B"
         ],
@@ -6650,13 +6651,13 @@
     {
       "reviewedSite": "fm-zocker.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-06T16:23:59.302856Z",
+        "lastChangeTime": "2018-05-06T16:23:58.038299Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-06T16:23:57.752703Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-03-06T16:06:09.566220Z",
@@ -21100,7 +21101,7 @@
     {
       "reviewedSite": "yeniakit.com.tr",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-05T20:17:45.876016Z",
+        "lastChangeTime": "2018-05-06T19:59:16.620016Z",
         "region": [
           "REGION_B"
         ],
