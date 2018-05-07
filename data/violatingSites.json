@@ -719,13 +719,14 @@
     {
       "reviewedSite": "aintaboutthatlife.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-06T17:21:42.189702Z",
+        "lastChangeTime": "2018-05-07T13:04:35.488967Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-06T17:21:41.850564Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -5733,6 +5734,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "esportsplus.me",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-07T12:05:25.778992Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-06T12:05:25.048689Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "esquire.bg",
@@ -14911,6 +14925,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "pornolarbizden.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-07T11:51:47.065526Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-06T11:51:46.026769Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "pornomamie.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-08T17:58:49.878887Z",
@@ -15303,7 +15330,15 @@
         "enforcementTime": "2018-03-23T19:25:50.307593Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-07T11:59:11.147768Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-06T11:59:10.270681Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "quizfactory.com",
@@ -18326,13 +18361,14 @@
       "reviewedSite": "thefalse9.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:55:12.954359Z",
+        "lastChangeTime": "2018-05-07T14:18:00.637068Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:12.737173589Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -19194,25 +19230,6 @@
       "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-03-14T03:47:05.073061Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "turkiyegazetesi.com.tr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:45.434685Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:45.434685Z",
         "region": [
           "REGION_B"
         ],
