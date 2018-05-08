@@ -719,14 +719,13 @@
     {
       "reviewedSite": "aintaboutthatlife.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-07T13:04:35.488967Z",
+        "lastChangeTime": "2018-05-08T01:00:32.466615Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-05-06T17:21:41.850564Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -3856,25 +3855,15 @@
     {
       "reviewedSite": "contaspoupanca.pt",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-07T18:41:03.922820Z",
+        "lastChangeTime": "2018-05-08T01:52:11.284185Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-04-25T20:16:40.047890Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-07T18:40:18.357662Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-18T09:10:07.777187Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "convert2mp3.net",
@@ -11166,20 +11155,6 @@
       }
     },
     {
-      "reviewedSite": "lokal.hu",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-07T19:59:30.125312Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-16T16:02:46.750136Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "lokaltidningensto.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -14755,6 +14730,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "porkporn.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-08T01:13:29.532750Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "porn00.org",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:32.425837Z",
@@ -15792,20 +15779,6 @@
       }
     },
     {
-      "reviewedSite": "repinned.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-07T19:37:25.006236Z",
-        "region": [
-          "REGION_UNKNOWN"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-06T17:18:26.854569Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "residenzkino.de",
       "mobileSummary": {
         "lastChangeTime": "2018-04-20T21:53:01.764096Z",
@@ -16335,7 +16308,15 @@
     },
     {
       "reviewedSite": "schote.biz",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-08T01:10:45.598280Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-07T01:10:44.970787Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-03-06T16:06:36.957249Z",
         "region": [
@@ -18628,14 +18609,12 @@
     {
       "reviewedSite": "thezoereport.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-07T17:07:31.992568Z",
+        "lastChangeTime": "2018-05-08T01:43:06.185858Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-10T07:28:31.320872Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
