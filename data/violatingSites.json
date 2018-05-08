@@ -1696,6 +1696,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "awesomema.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-07T17:10:53.325305Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-06T17:10:52.573280Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "aworldofpoker.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -3843,22 +3856,24 @@
     {
       "reviewedSite": "contaspoupanca.pt",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-25T20:16:40.336574Z",
+        "lastChangeTime": "2018-05-07T18:41:03.922820Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-25T20:16:40.047890Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-04-18T09:10:08.186997Z",
+        "lastChangeTime": "2018-05-07T18:40:18.357662Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-18T09:10:07.777187Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -7386,20 +7401,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "gazetacaldas.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-03T09:15:37.878969Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:54:23.701020998Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "gcn.com",
@@ -11168,27 +11169,27 @@
       "reviewedSite": "lokal.hu",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-16T16:02:47.621437Z",
+        "lastChangeTime": "2018-05-07T19:59:30.125312Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-16T16:02:46.750136Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
       "reviewedSite": "lokaltidningensto.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-02T13:58:39.747518Z",
+        "lastChangeTime": "2018-05-07T18:34:08.669225Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:22.959196136Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -12137,14 +12138,13 @@
       "reviewedSite": "minuto90.pt",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-03T13:25:14.587424Z",
+        "lastChangeTime": "2018-05-07T21:34:38.663497Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:24.386945116Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -15792,6 +15792,20 @@
       }
     },
     {
+      "reviewedSite": "repinned.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-07T19:37:25.006236Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "underReview": true,
+        "enforcementTime": "2018-06-06T17:18:26.854569Z",
+        "filterStatus": "PAUSED"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "residenzkino.de",
       "mobileSummary": {
         "lastChangeTime": "2018-04-20T21:53:01.764096Z",
@@ -16382,7 +16396,15 @@
         "enforcementTime": "2018-04-13T18:58:35.353036Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-07T16:34:31.632166Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-06T16:34:30.904119Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "scribol.com",
@@ -18606,13 +18628,14 @@
     {
       "reviewedSite": "thezoereport.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-10T07:28:32.671875Z",
+        "lastChangeTime": "2018-05-07T17:07:31.992568Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-10T07:28:31.320872Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
