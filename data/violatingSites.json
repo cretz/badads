@@ -505,6 +505,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "adultboard.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-08T15:32:57.241057Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-07T15:32:56.579491Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "adultcizgi.info",
       "mobileSummary": {
         "lastChangeTime": "2018-03-22T20:00:38.207604Z",
@@ -3855,13 +3868,14 @@
     {
       "reviewedSite": "contaspoupanca.pt",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-08T01:52:11.284185Z",
+        "lastChangeTime": "2018-05-08T14:59:53.262909Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-25T20:16:40.047890Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -5932,6 +5946,18 @@
       }
     },
     {
+      "reviewedSite": "exstreams.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-08T15:00:39.750961Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "extra.cz",
       "mobileSummary": {},
       "desktopSummary": {
@@ -6305,6 +6331,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-13T22:45:33.848573Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "file.ge",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-08T15:07:20.263472Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -8965,18 +9003,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "iha.com.tr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:15.776312Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "ilcaffe.tv",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:16.136927Z",
@@ -9877,6 +9903,18 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "kinneloncinemas.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-08T15:08:00.013084Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "kino-bad-salzuflen.de",
@@ -12995,7 +13033,7 @@
     {
       "reviewedSite": "netgazete.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:27.852378Z",
+        "lastChangeTime": "2018-05-08T15:18:33.393360Z",
         "region": [
           "REGION_B"
         ],
@@ -13993,6 +14031,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "painolympics.org",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-08T15:27:25.904370Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-07T15:27:25.208388Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "panathinaikos-press.com",
@@ -19288,6 +19339,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "tuttotoro.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-08T14:07:35.821183Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "tuyug.blogspot.com.tr",
       "mobileSummary": {
         "lastChangeTime": "2018-03-22T20:02:41.852460Z",
@@ -20314,37 +20377,26 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "wacowny.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-18T15:09:58.779131Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-18T15:09:58.446925Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "wacowsf.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-22T20:02:58.696342Z",
+        "lastChangeTime": "2018-05-08T13:51:59.267145Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:02:58.473673937Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-30T20:01:17.180772Z",
+        "lastChangeTime": "2018-05-08T13:52:12.036997Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-30T20:01:16.759610863Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20659,19 +20711,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "wikifeet.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-10T22:45:07.668199Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-05-10T22:45:06.894524Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "windowsitpro.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -20897,13 +20936,14 @@
       "reviewedSite": "xn--mxaflfydbbo.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-09T13:16:29.011846Z",
+        "lastChangeTime": "2018-05-08T15:33:10.147212Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-09T13:16:28.320656Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -21075,14 +21115,12 @@
     {
       "reviewedSite": "yeniakit.com.tr",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-06T19:59:16.620016Z",
+        "lastChangeTime": "2018-05-08T15:46:21.106414Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-06T19:59:15.835888Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
