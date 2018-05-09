@@ -732,13 +732,14 @@
     {
       "reviewedSite": "aintaboutthatlife.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-08T01:00:32.466615Z",
+        "lastChangeTime": "2018-05-08T17:01:25.460969Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-06T17:21:41.850564Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -3622,11 +3623,12 @@
       "reviewedSite": "cliomakeup.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-27T11:22:44.563629Z",
+        "lastChangeTime": "2018-05-08T21:28:18.710174Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -3862,20 +3864,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-16T18:25:28.397722Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "contaspoupanca.pt",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-08T14:59:53.262909Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-25T20:16:40.047890Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -9778,13 +9766,14 @@
     {
       "reviewedSite": "kart360.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-07T03:08:21.226766Z",
+        "lastChangeTime": "2018-05-08T18:53:35.043Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-06T03:08:20.589440Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13353,6 +13342,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "noa.al",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-08T21:23:36.056701Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "nogometni.net",
       "mobileSummary": {},
       "desktopSummary": {
@@ -16225,7 +16226,14 @@
     },
     {
       "reviewedSite": "runtastic.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-08T16:14:44.789678Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-03-20T09:10:21.000486Z",
         "region": [
@@ -18226,11 +18234,12 @@
       "reviewedSite": "teknolojioku.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-30T12:33:10.857623Z",
+        "lastChangeTime": "2018-05-08T19:53:07.427028Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -18673,13 +18682,14 @@
       "reviewedSite": "thinkadvisor.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-23T07:01:50.102672Z",
+        "lastChangeTime": "2018-05-08T20:19:06.921378Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-10T02:03:35.745758Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20931,20 +20941,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "xn--mxaflfydbbo.gr",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-08T15:33:10.147212Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-09T13:16:28.320656Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "xnxxsexporn.net",
