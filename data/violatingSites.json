@@ -1489,18 +1489,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "astazi.ro",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-29T01:25:01.052830Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "astrologer.gr",
       "mobileSummary": {
         "lastChangeTime": "2018-05-03T17:10:39.572519Z",
@@ -1845,13 +1833,14 @@
     {
       "reviewedSite": "backnangerkinos.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:52:23.210466Z",
+        "lastChangeTime": "2018-05-09T09:51:39.401081Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:22.949434922Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -2101,13 +2090,14 @@
       "reviewedSite": "basketuniverso.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:55:32.055086Z",
+        "lastChangeTime": "2018-05-09T13:15:33.789716Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:31.772166662Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -2253,11 +2243,12 @@
     {
       "reviewedSite": "bergedorf-kino.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:55:42.953642Z",
+        "lastChangeTime": "2018-05-09T09:52:47.088198Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -2474,19 +2465,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-30T20:01:02.376466423Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "biluppgifter.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-09T07:00:13.318623Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
       }
     },
     {
@@ -2943,13 +2921,14 @@
     {
       "reviewedSite": "bruehl-cinema.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:52:09.147630Z",
+        "lastChangeTime": "2018-05-09T10:10:33.122443Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:08.852424807Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -3291,13 +3270,14 @@
     {
       "reviewedSite": "centralkino-wittenberg.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:54:44.949186Z",
+        "lastChangeTime": "2018-05-09T10:12:45.042940Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:44.610717424Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -3471,52 +3451,56 @@
     {
       "reviewedSite": "cine-chiemgau.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:41.360913Z",
+        "lastChangeTime": "2018-05-09T10:13:25.444270Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:41.165715980Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "cine-circus.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:52:52.724549Z",
+        "lastChangeTime": "2018-05-09T09:54:59.579811Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:52.387028224Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "cinecity-crailsheim.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:37.806425Z",
+        "lastChangeTime": "2018-05-09T10:17:30.756768Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:37.553700063Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "cinedom.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-11T04:18:24.505600Z",
+        "lastChangeTime": "2018-05-09T09:56:17.103696Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-11T04:18:23.762657Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -3536,13 +3520,14 @@
     {
       "reviewedSite": "cinema64.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:55.682240Z",
+        "lastChangeTime": "2018-05-09T10:01:33.707366Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:55.399954227Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -3575,11 +3560,12 @@
     {
       "reviewedSite": "cineplanet.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:01.737030Z",
+        "lastChangeTime": "2018-05-09T10:19:17.150550Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -3587,13 +3573,14 @@
     {
       "reviewedSite": "cinexx.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-03T17:25:07.965473Z",
+        "lastChangeTime": "2018-05-09T10:02:07.208263Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-03T17:25:07.231399Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -4468,19 +4455,6 @@
       }
     },
     {
-      "reviewedSite": "dailystarscy.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-30T03:31:51.826070Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:57:16.265641640Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "danceradio.cz",
       "mobileSummary": {},
       "desktopSummary": {
@@ -5136,13 +5110,14 @@
     {
       "reviewedSite": "domstadtkino-merseburg.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-22T20:02:12.378877Z",
+        "lastChangeTime": "2018-05-09T10:02:39.284028Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:02:12.115077732Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -6479,11 +6454,12 @@
     {
       "reviewedSite": "film-palast-schwanewede.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:09.105324Z",
+        "lastChangeTime": "2018-05-09T10:21:42.330469Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -6548,13 +6524,14 @@
     {
       "reviewedSite": "filmhaus-huber.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:54:40.322132Z",
+        "lastChangeTime": "2018-05-09T10:03:24.898180Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:40.097740412Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -6636,26 +6613,28 @@
     {
       "reviewedSite": "filmpalast-sulingen.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:52:33.622461Z",
+        "lastChangeTime": "2018-05-09T10:22:55.518081Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:33.426581220Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "filmstation.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:51:21.196627Z",
+        "lastChangeTime": "2018-05-09T09:03:38.154896Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:20.969527137Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -8110,13 +8089,14 @@
     {
       "reviewedSite": "grefi-kino.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:25.418562Z",
+        "lastChangeTime": "2018-05-09T10:24:36.982254Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:25.050155346Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -8136,13 +8116,14 @@
     {
       "reviewedSite": "groebenlichtspiele.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:51:22.579091Z",
+        "lastChangeTime": "2018-05-09T10:25:07.968557Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:22.283394074Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -8704,13 +8685,14 @@
     {
       "reviewedSite": "hollywoodaminn.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:06.559348Z",
+        "lastChangeTime": "2018-05-09T10:27:38.319451Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:06.200227090Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -10012,13 +9994,14 @@
     {
       "reviewedSite": "kino-bad-salzuflen.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:55:20.836024Z",
+        "lastChangeTime": "2018-05-09T10:29:49.758006Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:20.643774422Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -10037,13 +10020,14 @@
     {
       "reviewedSite": "kino-lemgo.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:15.377302Z",
+        "lastChangeTime": "2018-05-09T13:36:23.915684Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:15.160493654Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -10063,24 +10047,26 @@
     {
       "reviewedSite": "kino-movietown.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-22T20:01:31.118020Z",
+        "lastChangeTime": "2018-05-09T13:41:44.430308Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:01:30.889497215Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "kino-movieworld.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:20.108739Z",
+        "lastChangeTime": "2018-05-09T13:42:38.113647Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -10088,50 +10074,54 @@
     {
       "reviewedSite": "kino-oelde.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:53.639281Z",
+        "lastChangeTime": "2018-05-09T13:43:33.674856Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:53.437157161Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "kino-rheinfelden.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:54:14.169629Z",
+        "lastChangeTime": "2018-05-09T13:47:06.978269Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:13.970271720Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "kino-worms.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:46.728467Z",
+        "lastChangeTime": "2018-05-09T13:49:49.804273Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:46.510696176Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "kinocenter-cuxhaven.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-23T12:23:49.440120Z",
+        "lastChangeTime": "2018-05-09T10:34:22.807707Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -10164,13 +10154,14 @@
     {
       "reviewedSite": "kinomettmann.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:54.481969Z",
+        "lastChangeTime": "2018-05-09T13:40:44.837560Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:54.077893500Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -10198,19 +10189,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "kinowolf.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:20.226283Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-24T23:27:10.618292Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "kitco.com",
@@ -10380,13 +10358,14 @@
     {
       "reviewedSite": "kulisse-ettlingen.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:52:30.090726Z",
+        "lastChangeTime": "2018-05-09T14:17:46.929179Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:29.881498202Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -11286,19 +11265,6 @@
       }
     },
     {
-      "reviewedSite": "lokaltidningensto.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-07T18:34:08.669225Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:51:22.959196136Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "lolo.ge",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:22.732343Z",
@@ -11929,13 +11895,14 @@
     {
       "reviewedSite": "megamovies.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:51:58.835882Z",
+        "lastChangeTime": "2018-05-09T14:20:31.958923Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:58.589114722Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -11979,13 +11946,14 @@
     {
       "reviewedSite": "mein-filmpalast.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:33.651517Z",
+        "lastChangeTime": "2018-05-09T14:21:01.535713Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:33.448084985Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -12130,13 +12098,14 @@
     {
       "reviewedSite": "metropolis-koeln.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-12T21:26:20.289649Z",
+        "lastChangeTime": "2018-05-09T14:21:27.158021Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-12T21:26:19.850397Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13183,24 +13152,26 @@
     {
       "reviewedSite": "neue-filmbuehne.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:54:54.730277Z",
+        "lastChangeTime": "2018-05-09T14:23:00.157866Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:54.328554810Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "neue-welt-kino.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:54:28.597831Z",
+        "lastChangeTime": "2018-05-09T14:23:39.362425Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -15937,13 +15908,14 @@
     {
       "reviewedSite": "residenzkino.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:01.764096Z",
+        "lastChangeTime": "2018-05-09T14:25:39.943456Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:01.482295392Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -16101,13 +16073,14 @@
     {
       "reviewedSite": "ringkino-szb.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:16.092392Z",
+        "lastChangeTime": "2018-05-09T14:26:16.087933Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:15.798668196Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -16241,26 +16214,28 @@
     {
       "reviewedSite": "roxy-wertheim.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T02:12:36.438228Z",
+        "lastChangeTime": "2018-05-09T14:26:51.747416Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T02:12:36.155658Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "royal-muenchen.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:52:49.848854Z",
+        "lastChangeTime": "2018-05-09T14:27:14.536892Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:49.573201985Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -16493,13 +16468,14 @@
     {
       "reviewedSite": "schukurama.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:54:53.215939Z",
+        "lastChangeTime": "2018-05-09T14:36:10.331851Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:52.955795159Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -18520,20 +18496,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "thefalse9.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-07T14:18:00.637068Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:55:12.737173589Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "thefinalball.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -19160,6 +19122,19 @@
       }
     },
     {
+      "reviewedSite": "trackthet.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-09T15:25:06.354323Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-08T15:25:05.507772Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "transfermarkt.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:44.409618Z",
@@ -19783,13 +19758,14 @@
     {
       "reviewedSite": "universum-soest.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-21T07:00:49.604482Z",
+        "lastChangeTime": "2018-05-09T14:38:30.063070Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-21T07:00:49.005322Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -20518,11 +20494,12 @@
     {
       "reviewedSite": "walhalla-kinocenter.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:54:02.531506Z",
+        "lastChangeTime": "2018-05-09T14:38:52.624015Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -21480,13 +21457,14 @@
     {
       "reviewedSite": "zinema-city.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:48.898617Z",
+        "lastChangeTime": "2018-05-09T14:39:36.200334Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:48.531090249Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
