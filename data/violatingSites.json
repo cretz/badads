@@ -2090,20 +2090,6 @@
       }
     },
     {
-      "reviewedSite": "backnangerkinos.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-09T09:51:39.401081Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:52:22.949434922Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "badcriminals.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:05:57.165197Z",
@@ -2286,11 +2272,12 @@
     {
       "reviewedSite": "barcelonafc.dk",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-09T20:39:18.707847Z",
+        "lastChangeTime": "2018-05-11T09:01:01.532812Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -2523,19 +2510,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "bergedorf-kino.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-09T09:52:47.088198Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "berktube.com",
@@ -3530,13 +3504,14 @@
       "reviewedSite": "cascaraamarga.es",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-10T00:38:09.688998Z",
+        "lastChangeTime": "2018-05-11T13:05:11.899444Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-09T00:38:09.169731268Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -3779,20 +3754,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "cine-circus.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-09T09:54:59.579811Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:52:52.387028224Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -4309,6 +4270,18 @@
         ],
         "betterAdsStatus": "WARNING",
         "underReview": true,
+        "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "corriereadriatico.it",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-11T10:34:57.536899Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
     },
@@ -4842,6 +4815,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:55:19.055516902Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "darksta.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-11T11:40:04.184903Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-10T11:40:03.386582771Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -5406,7 +5392,15 @@
     },
     {
       "reviewedSite": "dizifilmsizle.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-11T11:40:04.530331Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-10T11:40:04.097458801Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-05-10T22:37:10.796219Z",
         "region": [
@@ -7135,20 +7129,6 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "filmstation.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-09T09:03:38.154896Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:51:20.969527137Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "filmyhd.cz",
@@ -11863,13 +11843,14 @@
       "reviewedSite": "maimunata.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:23.664786Z",
+        "lastChangeTime": "2018-05-11T12:39:40.756672Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -16805,6 +16786,19 @@
       }
     },
     {
+      "reviewedSite": "serialzone.cz",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-11T10:47:22.968989Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-10T10:47:22.191079Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "seriousaboutrl.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -20675,6 +20669,18 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "war-forum.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-11T10:37:09.009033Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "warcenter.cz",
