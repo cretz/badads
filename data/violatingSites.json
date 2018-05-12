@@ -639,13 +639,14 @@
     {
       "reviewedSite": "aboutthebeatles.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-11T03:36:04.144705Z",
+        "lastChangeTime": "2018-05-11T23:42:23.583572Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-10T03:36:03.586390148Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -1910,13 +1911,14 @@
       "reviewedSite": "autoremarketing.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-11T02:12:40.646420Z",
+        "lastChangeTime": "2018-05-11T20:17:25.166368Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-11T02:12:40.320872Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -2335,14 +2337,13 @@
       "reviewedSite": "basketplus.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-10T08:55:44.061660Z",
+        "lastChangeTime": "2018-05-11T23:36:10.885340Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-06-09T00:38:08.761129578Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -5656,13 +5657,14 @@
     {
       "reviewedSite": "duol.hu",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-03T17:45:47.913922Z",
+        "lastChangeTime": "2018-05-11T16:51:56.808578Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-03T17:45:47.183456Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -8212,6 +8214,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "glennbeck.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-11T17:14:49.959258Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-10T17:14:49.256085Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "globocase.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -8893,6 +8908,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "hdizlesinema.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-11T17:50:37.327228Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-10T17:50:36.612199Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -10139,6 +10167,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "jtvizle.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-11T17:05:49.295018Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-10T17:05:48.473430Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -19543,13 +19584,14 @@
       "reviewedSite": "turbovid.me",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-11T01:53:10.713432Z",
+        "lastChangeTime": "2018-05-11T21:48:53.745495Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T06:28:10.604319Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20667,6 +20709,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-05T16:31:22.621431Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "walnuts.lt",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-11T17:45:05.628001Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
