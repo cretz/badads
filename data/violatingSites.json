@@ -3219,13 +3219,14 @@
       "reviewedSite": "btvsports.biz",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-30T00:22:42.429400Z",
+        "lastChangeTime": "2018-05-12T15:26:26.156181Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-30T00:22:41.933503Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20675,13 +20676,13 @@
     {
       "reviewedSite": "vservice.kiev.ua",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-12T15:06:43.130649Z",
+        "lastChangeTime": "2018-05-12T15:06:43.204819Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-12T15:06:42.467526Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
