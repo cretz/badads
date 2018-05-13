@@ -2272,19 +2272,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "barcelonafc.dk",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-11T09:01:01.532812Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "barnplaggsguiden.se",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:05:57.450055Z",
@@ -3501,20 +3488,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "cascaraamarga.es",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-11T13:05:11.899444Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-09T00:38:09.169731268Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "catalunyadiari.cat",
@@ -5369,13 +5342,13 @@
     {
       "reviewedSite": "dizifilmix.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-13T01:23:34.262723Z",
+        "lastChangeTime": "2018-05-13T01:23:34.143376Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-13T01:23:33.440905Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -7817,13 +7790,13 @@
       "reviewedSite": "futbolenasturias.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-13T07:22:15.590183Z",
+        "lastChangeTime": "2018-05-13T07:22:15.005129Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-13T07:22:14.640094Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18190,13 +18163,13 @@
       "reviewedSite": "superfoodnews.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-13T07:55:24.732950Z",
+        "lastChangeTime": "2018-05-13T07:55:23.839975Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-13T07:55:23.229992Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
