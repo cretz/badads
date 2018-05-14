@@ -637,20 +637,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "aboutthebeatles.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-11T23:42:23.583572Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-10T03:36:03.586390148Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "abrahampineda.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T21:51:38.889425Z",
@@ -1204,13 +1190,13 @@
       "reviewedSite": "almeirinense.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-13T20:32:21.228259Z",
+        "lastChangeTime": "2018-05-13T20:32:20.751073Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-13T20:32:20.247074456Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
