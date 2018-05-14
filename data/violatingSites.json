@@ -1894,20 +1894,6 @@
       }
     },
     {
-      "reviewedSite": "autoremarketing.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-11T20:17:25.166368Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-11T02:12:40.320872Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "autoreview.bg",
       "mobileSummary": {},
       "desktopSummary": {
@@ -3187,20 +3173,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "btvsports.biz",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-12T15:26:26.156181Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-30T00:22:41.933503Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -5615,20 +5587,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "duol.hu",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-11T16:51:56.808578Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-03T17:45:47.183456Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "dveridomaster.ru",
@@ -11829,20 +11787,6 @@
       }
     },
     {
-      "reviewedSite": "maimunata.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-11T12:39:40.756672Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "majorten.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:23.692633Z",
@@ -14198,6 +14142,18 @@
         "lastChangeTime": "2018-03-06T16:06:29.996751Z",
         "region": [
           "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "otohaber.com.tr",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-14T07:54:05.050442Z",
+        "region": [
+          "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
