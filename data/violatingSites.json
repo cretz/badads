@@ -1872,13 +1872,14 @@
       "reviewedSite": "autogrip.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:54:38.385376Z",
+        "lastChangeTime": "2018-05-14T14:10:29.829759Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:38.063990979Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -2923,6 +2924,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "bonoise-recettes.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-14T14:31:41.122241Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "bonusmaniac.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -3692,18 +3705,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "cinedom.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-11T04:18:24.188025Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "cinedrom.de",
       "mobileSummary": {
         "lastChangeTime": "2018-04-20T19:25:11.655581Z",
@@ -4281,20 +4282,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "craiova-maxima.ro",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-13T09:47:34.380395Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-08T17:45:43.418007517Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "creatuforo.com",
@@ -5921,13 +5908,14 @@
       "reviewedSite": "electronics-cooling.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-10T21:36:12.325152Z",
+        "lastChangeTime": "2018-05-14T15:09:58.989736Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-09T21:36:11.639957388Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6871,7 +6859,15 @@
     },
     {
       "reviewedSite": "file.ge",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-14T13:57:46.999584Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-13T13:57:46.407175Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-05-08T15:07:20.263472Z",
         "region": [
@@ -7293,19 +7289,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:55:43.762838700Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "forsal.pl",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-03T01:58:43.841305Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-06-02T01:58:37.707166Z",
-        "filterStatus": "PENDING"
       }
     },
     {
@@ -10424,11 +10407,12 @@
     {
       "reviewedSite": "kinocenter-cuxhaven.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-10T05:42:42.677747Z",
+        "lastChangeTime": "2018-05-14T14:07:44.579315Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -11503,7 +11487,15 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-14T14:48:37.054594Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-13T14:48:36.358450Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "local8now.com",
@@ -12156,7 +12148,15 @@
         "enforcementTime": "2018-05-10T10:42:12.047172Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-14T09:16:39.019581Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-13T09:16:38.115795Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "megasesso.com",
@@ -13677,6 +13677,18 @@
       }
     },
     {
+      "reviewedSite": "noticiasdealava.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-14T09:46:08.118439Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "notioanatolika.gr",
       "mobileSummary": {},
       "desktopSummary": {
@@ -14289,6 +14301,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "paidbooks.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-14T14:31:20.922025Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-13T14:31:20.133570Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -15538,6 +15563,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "punterforum.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-14T14:27:09.611384Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -18909,6 +18946,18 @@
       }
     },
     {
+      "reviewedSite": "timeform.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-14T14:38:07.942935Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "timetobreak.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:43.731043Z",
@@ -19488,12 +19537,11 @@
       "reviewedSite": "turbovid.me",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-11T21:48:53.745495Z",
+        "lastChangeTime": "2018-05-14T15:36:09.016215Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-03-22T06:28:10.604319Z",
         "filterStatus": "PAUSED"
       }
