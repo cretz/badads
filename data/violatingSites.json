@@ -251,6 +251,18 @@
       }
     },
     {
+      "reviewedSite": "24ur.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-14T21:10:03.228225Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "24varberg.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -701,7 +713,15 @@
     },
     {
       "reviewedSite": "adultboard.net",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-14T17:10:39.398500Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-13T17:10:38.751996Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-05-08T15:32:57.241057Z",
         "region": [
@@ -1498,6 +1518,32 @@
         "enforcementTime": "2018-04-20T21:51:13.709140033Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "anon-ib.co",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-14T18:11:23.309125Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-13T18:11:22.666265Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "anon-ib.ru",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-14T17:06:38.888813Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-13T17:06:37.957124Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "antena24.ro",
@@ -4048,6 +4094,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "comicsblog.fr",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-14T18:08:17.592987Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-13T18:08:16.808001Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "comicsxonline.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -4472,11 +4531,12 @@
       "reviewedSite": "cspdailynews.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-10T06:34:52.404853Z",
+        "lastChangeTime": "2018-05-14T21:16:49.846724Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -11734,6 +11794,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "macuisinebleucombava.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-14T17:07:03.199332Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-13T17:07:02.500491Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "macyayinlarim.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:23.298090Z",
@@ -16226,13 +16299,14 @@
       "reviewedSite": "rewardscanada.ca",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:50:55.838484Z",
+        "lastChangeTime": "2018-05-14T17:34:12.931716Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:50:55.517705410Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18118,13 +18192,14 @@
       "reviewedSite": "subtitlesbank.online",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-27T02:57:48.740225Z",
+        "lastChangeTime": "2018-05-14T22:16:11.870326Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-27T02:57:48.149860Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18695,13 +18770,14 @@
       "reviewedSite": "thefly.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-16T17:24:48.869046Z",
+        "lastChangeTime": "2018-05-14T19:34:07.590921Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-16T17:24:48.073211Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -19537,11 +19613,12 @@
       "reviewedSite": "turbovid.me",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-14T15:36:09.016215Z",
+        "lastChangeTime": "2018-05-14T18:12:15.938353Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T06:28:10.604319Z",
         "filterStatus": "PAUSED"
       }
