@@ -3044,20 +3044,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "bosnae.info",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-13T10:54:52.243069Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-08T20:39:18.745769252Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "bostadsuppgifter.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -5095,6 +5081,19 @@
         "enforcementTime": "2018-02-28T17:25:10.006709Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "diariodejerez.es",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-15T15:55:20.687434Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-14T15:55:20.096188Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "diariodesevilla.es",
@@ -8789,6 +8788,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "hbl.fi",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-15T08:05:02.391306Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-14T08:05:01.495251Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "hdfatsex.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:13.793262Z",
@@ -9718,18 +9730,6 @@
       }
     },
     {
-      "reviewedSite": "infor.pl",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-03T15:21:50.706027Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "informer24.net",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10463,19 +10463,6 @@
         "enforcementTime": "2018-04-18T19:11:35.622053Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "kinocenter-cuxhaven.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-14T14:07:44.579315Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "kinogol.com",
@@ -12194,19 +12181,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "medianarodowe.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-17T23:25:30.984808Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-17T23:25:30.339892Z",
-        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14598,19 +14572,6 @@
       }
     },
     {
-      "reviewedSite": "pblv-plusbellelavie.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-17T15:31:27.854048Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-05-17T15:31:26.930556Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "pdxmugshots.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:30.936256Z",
@@ -15625,6 +15586,18 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "publico.pt",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-15T14:26:11.261293Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "puckermob.com",
@@ -18189,20 +18162,6 @@
       }
     },
     {
-      "reviewedSite": "subtitlesbank.online",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-14T22:16:11.870326Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-27T02:57:48.149860Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "superbeauties.club",
       "mobileSummary": {
         "lastChangeTime": "2018-04-25T22:43:08.687612Z",
@@ -18374,6 +18333,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "taboop.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-15T07:09:33.919308Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-14T07:09:33.102735Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "tagthesponsor.com",
@@ -18764,20 +18736,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "thefly.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-14T19:34:07.590921Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-16T17:24:48.073211Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -19608,20 +19566,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "turbovid.me",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-14T18:12:15.938353Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T06:28:10.604319Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "turkanime.tv",
@@ -21165,11 +21109,12 @@
       "reviewedSite": "wowescape.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:49.363744Z",
+        "lastChangeTime": "2018-05-15T12:26:34.057288Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
