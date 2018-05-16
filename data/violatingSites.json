@@ -677,13 +677,14 @@
       "reviewedSite": "accadoo.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-15T21:41:46.416662Z",
+        "lastChangeTime": "2018-05-16T07:55:57.296341Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-14T21:41:45.268646589Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -1445,19 +1446,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "americanactionnews.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-15T19:42:53.355915Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "americanflare.com",
@@ -4143,19 +4131,6 @@
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "clube-fitness.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-15T18:09:20.436482Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -9620,6 +9595,18 @@
       "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-03-06T16:06:15.358045Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "iagro.pl",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-16T06:37:45.178854Z",
         "region": [
           "REGION_B"
         ],
@@ -17845,19 +17832,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "sop.ba",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-15T17:37:38.403660Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "soubenfiquista1904.blogspot.pt",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18342,12 +18316,11 @@
       "reviewedSite": "streetinsider.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-15T20:02:51.387447Z",
+        "lastChangeTime": "2018-05-16T06:35:32.976287Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -21924,19 +21897,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "zerohedge.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-15T20:00:37.498521Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "zg-magazin.com.hr",
