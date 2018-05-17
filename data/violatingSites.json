@@ -1374,13 +1374,13 @@
     {
       "reviewedSite": "allwrestlingnews.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-17T06:25:43.894444Z",
+        "lastChangeTime": "2018-05-17T06:25:43.225936Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-17T06:25:42.926752Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -7697,13 +7697,13 @@
     {
       "reviewedSite": "freaklore.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-17T06:10:52.046437Z",
+        "lastChangeTime": "2018-05-17T06:10:51.621328Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-17T06:10:51.054338Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-03-06T17:55:43.671870Z",
@@ -10975,13 +10975,13 @@
       "reviewedSite": "labusinessjournal.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-17T06:37:56.717582Z",
+        "lastChangeTime": "2018-05-17T06:37:56.535782Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-17T06:37:56.085026Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -12939,13 +12939,13 @@
     {
       "reviewedSite": "mortgageintroducer.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-17T05:41:50.990821Z",
+        "lastChangeTime": "2018-05-17T05:41:50.778633Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-17T05:41:50.333247Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -19302,12 +19302,11 @@
     {
       "reviewedSite": "timeform.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-16T15:33:34.728346Z",
+        "lastChangeTime": "2018-05-17T04:22:32.518297Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
