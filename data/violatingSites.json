@@ -990,13 +990,13 @@
     {
       "reviewedSite": "agilenthawking.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-15T22:15:48.044126Z",
+        "lastChangeTime": "2018-05-16T16:43:16.615273Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-14T21:41:48.938458199Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -4965,6 +4965,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "dauphingourmet.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-16T17:56:29.458100Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-15T17:56:28.799100Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "dbsuperepisode.info",
       "mobileSummary": {
         "lastChangeTime": "2018-04-01T20:23:36.728454Z",
@@ -6592,6 +6605,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "europasur.es",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-16T16:37:23.791790Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-15T16:37:22.724039Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "eurosport.de",
       "mobileSummary": {
         "lastChangeTime": "2018-03-20T16:48:55.101977Z",
@@ -6961,6 +6987,20 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
+    },
+    {
+      "reviewedSite": "farsi1hd.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-16T20:51:42.792444Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "underReview": true,
+        "enforcementTime": "2018-06-15T17:54:23.151392Z",
+        "filterStatus": "PAUSED"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "fbstreams.me",
@@ -19018,6 +19058,31 @@
       }
     },
     {
+      "reviewedSite": "thelakewoodscoop.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-16T17:51:42.748582Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "themustsee.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-16T17:11:46.951275Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-15T17:11:46.238046Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "themysteryreader.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -21611,6 +21676,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:51:48.286557904Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "yat.az",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-16T17:46:14.470401Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-15T17:46:13.374909Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
