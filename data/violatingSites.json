@@ -556,7 +556,15 @@
     },
     {
       "reviewedSite": "9emeart.fr",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-17T08:24:08.841019Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-16T08:24:08.198802Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-04-12T20:41:06.157520Z",
         "region": [
@@ -1016,13 +1024,14 @@
     {
       "reviewedSite": "agriculturaemar.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-15T22:38:09.915297Z",
+        "lastChangeTime": "2018-05-17T13:15:26.096495Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-14T22:38:08.974374778Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -1256,6 +1265,18 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "aliciaskokbok.se",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-17T14:38:40.398878Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "alivefoot.us",
@@ -4422,7 +4443,7 @@
       "reviewedSite": "corneey.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-05T05:35:57.821254Z",
+        "lastChangeTime": "2018-05-17T15:48:48.327298Z",
         "region": [
           "REGION_B"
         ],
@@ -5411,13 +5432,13 @@
     {
       "reviewedSite": "dimensionsofdentalhygiene.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-17T15:30:29.429688Z",
+        "lastChangeTime": "2018-05-17T15:30:28.951121Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-17T15:30:28.628486Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -6987,20 +7008,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "farsi1hd.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-16T20:51:42.792444Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-15T17:54:23.151392Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "fbstreams.me",
@@ -8775,13 +8782,14 @@
       "reviewedSite": "grilling24x7.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-22T20:01:30.385854Z",
+        "lastChangeTime": "2018-05-17T15:19:45.393272Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:01:30.173793765Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -9013,7 +9021,7 @@
       "reviewedSite": "hbl.fi",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-15T08:05:02.391306Z",
+        "lastChangeTime": "2018-05-17T14:17:37.508794Z",
         "region": [
           "REGION_B"
         ],
@@ -9236,19 +9244,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "hentaibox.fr",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-18T03:58:50.921305Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-05-18T03:58:49.879489Z",
-        "filterStatus": "PENDING"
-      }
     },
     {
       "reviewedSite": "heraldandnews.com",
@@ -10207,13 +10202,14 @@
     {
       "reviewedSite": "jeanmarcmorandini.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-04T20:10:36.794766Z",
+        "lastChangeTime": "2018-05-17T15:18:12.171881Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-03T20:10:35.891776Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -19298,18 +19294,6 @@
         "enforcementTime": "2018-03-30T20:02:19.911488756Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "timeform.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-17T04:22:32.518297Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "timetobreak.com",
