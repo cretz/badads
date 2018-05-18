@@ -682,20 +682,6 @@
       }
     },
     {
-      "reviewedSite": "accadoo.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-16T07:55:57.296341Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-14T21:41:45.268646589Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "acnieulesaintes.com",
       "mobileSummary": {
         "lastChangeTime": "2018-05-15T21:41:46.684830Z",
@@ -3545,20 +3531,6 @@
       }
     },
     {
-      "reviewedSite": "businessfacilities.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-16T14:28:38.145541Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:02:07.035420655Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "businesslegions.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -6179,13 +6151,14 @@
       "reviewedSite": "electronics-cooling.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-16T08:37:00.724738Z",
+        "lastChangeTime": "2018-05-17T21:06:38.839567Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-09T21:36:11.639957388Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -10770,6 +10743,19 @@
       }
     },
     {
+      "reviewedSite": "kkponline.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-17T20:27:08.749124Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-16T20:27:07.808628Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "klammerlose4all.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -14692,6 +14678,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "parischampions.fr",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-17T16:38:11.279292Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-16T16:38:10.381373Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
