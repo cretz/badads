@@ -10173,20 +10173,6 @@
       }
     },
     {
-      "reviewedSite": "jeanmarcmorandini.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-17T15:18:12.171881Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-03T20:10:35.891776Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "jellyshare.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-22T22:25:04.238559Z",
@@ -17370,13 +17356,14 @@
     {
       "reviewedSite": "shahvatnak.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-16T13:49:09.249424Z",
+        "lastChangeTime": "2018-05-18T04:36:10.750699Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-16T13:49:08.975415Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -18254,6 +18241,19 @@
         "enforcementTime": "2018-04-20T21:53:23.745639612Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "stadyum.tv",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-18T06:54:52.127960Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-17T06:54:51.317095Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "stalkture.com",
