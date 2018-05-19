@@ -1316,6 +1316,19 @@
       }
     },
     {
+      "reviewedSite": "allergiereunion.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-18T16:37:31.582164Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-17T16:37:30.578655908Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "alligatoah-forum.de",
       "mobileSummary": {},
       "desktopSummary": {
@@ -1345,13 +1358,14 @@
       "reviewedSite": "allnigeriasoccer.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-18T15:37:22.794926Z",
+        "lastChangeTime": "2018-05-18T21:32:50.059386Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-17T15:37:21.732964891Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -1365,6 +1379,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "allscores.co.uk",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-18T16:37:32.144603Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-17T16:37:31.510889929Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "allthingsceleb.com",
@@ -6151,13 +6178,12 @@
       "reviewedSite": "electronics-cooling.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-18T14:12:41.313487Z",
+        "lastChangeTime": "2018-05-18T22:11:21.963332Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-06-09T21:36:11.639957388Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -7062,6 +7088,18 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "feyadoma.ru",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-18T16:32:59.002572Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "ffrm.es",
@@ -11182,6 +11220,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "lbast.ru",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-18T16:29:05.280484Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-17T16:29:04.558963Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "leblogdlapetiteeva.com",
       "mobileSummary": {
         "lastChangeTime": "2018-04-19T18:08:14.119682Z",
@@ -11796,20 +11847,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "loveanalsex.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-18T14:42:09.653026Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-25T05:27:30.167834Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "lovenovels.net",
@@ -21525,14 +21562,13 @@
       "reviewedSite": "xnxxsexporn.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-18T14:48:38.686808Z",
+        "lastChangeTime": "2018-05-18T21:49:17.956679Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-05-30T12:03:47.632202Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
