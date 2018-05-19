@@ -9222,13 +9222,13 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-04-19T01:50:32.341560Z",
+        "lastChangeTime": "2018-05-19T01:50:29.990198Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-19T01:50:29.359841Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -19466,22 +19466,24 @@
     {
       "reviewedSite": "toonova.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:43.979881Z",
+        "lastChangeTime": "2018-05-19T07:19:53.450887Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:43.979881Z",
+        "lastChangeTime": "2018-05-19T07:19:35.829808Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
