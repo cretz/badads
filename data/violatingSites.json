@@ -1541,6 +1541,32 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "amateurgonewild.org",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-21T18:39:15.206119Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-20T18:39:14.256762393Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "amateurlatinavideos.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-21T18:39:15.774736Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-20T18:39:15.000412381Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "amateurmaturepornvideos.com",
       "mobileSummary": {
         "lastChangeTime": "2018-05-21T04:35:47.566734Z",
@@ -5407,13 +5433,14 @@
       "reviewedSite": "diariodesportivo.pt",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-22T20:01:50.325547Z",
+        "lastChangeTime": "2018-05-21T16:30:16.137718Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:01:50.095303652Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -7189,7 +7216,15 @@
     },
     {
       "reviewedSite": "feyadoma.ru",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-21T16:35:07.605889Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-20T16:35:06.949853Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-05-18T16:32:59.002572Z",
         "region": [
@@ -7995,6 +8030,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "fullhdizleten.org",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-21T16:01:36.744101Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-20T16:01:35.632804Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -11595,14 +11643,13 @@
       "reviewedSite": "link.tl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-20T00:09:44.084153Z",
+        "lastChangeTime": "2018-05-21T17:50:14.639883Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -19531,20 +19578,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "toonova.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-19T07:19:53.450887Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
