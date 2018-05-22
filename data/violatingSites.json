@@ -18758,13 +18758,14 @@
       "reviewedSite": "taboop.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-15T07:09:33.919308Z",
+        "lastChangeTime": "2018-05-22T06:40:58.260364Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-14T07:09:33.102735Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
