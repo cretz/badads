@@ -1746,19 +1746,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "and6.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:05:55.185186Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "anekdot.ws",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:05:55.248202Z",
@@ -8034,7 +8021,15 @@
     },
     {
       "reviewedSite": "fullhdizleten.org",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-22T15:55:08.922100Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-21T15:55:08.170704Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-05-21T16:01:36.744101Z",
         "region": [
@@ -8511,13 +8506,14 @@
     {
       "reviewedSite": "gitarogrencisi.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:50:49.620771Z",
+        "lastChangeTime": "2018-05-22T13:27:57.881813Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:50:49.206519524Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -12535,7 +12531,7 @@
       "reviewedSite": "maturepornland.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-21T03:43:09.506517Z",
+        "lastChangeTime": "2018-05-22T15:45:48.994261Z",
         "region": [
           "REGION_B"
         ],
@@ -16048,6 +16044,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "putlockertv.ist",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-22T15:54:03.978907Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-21T15:54:03.301334Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "pygodblog.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-08T21:09:41.600047Z",
@@ -18758,14 +18767,13 @@
       "reviewedSite": "taboop.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-22T06:40:58.260364Z",
+        "lastChangeTime": "2018-05-22T15:35:51.085783Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-06-14T07:09:33.102735Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
