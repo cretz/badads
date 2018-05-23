@@ -1869,6 +1869,19 @@
       }
     },
     {
+      "reviewedSite": "annesogood.org",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-23T14:38:51.021177Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-22T14:38:50.295022484Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "anon-ib.co",
       "mobileSummary": {
         "lastChangeTime": "2018-05-14T18:11:23.309125Z",
@@ -1890,6 +1903,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-13T17:06:37.957124Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "anotresauce.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-23T14:38:51.392652Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-22T14:38:50.877050651Z",
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
@@ -5415,20 +5441,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "diariodesportivo.pt",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-21T16:30:16.137718Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:01:50.095303652Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "dicardiology.com",
@@ -13591,19 +13603,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "nbamaniacs.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-23T06:34:02.056730Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "nbastreams.me",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T21:53:10.914396Z",
@@ -17445,19 +17444,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "sexy-tipp.to",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-14T04:43:01.785909Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-14T04:43:01.385422Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "sexyplasea.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:37.757995Z",
@@ -18778,17 +18764,15 @@
     },
     {
       "reviewedSite": "taboop.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-23T07:12:45.626053Z",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-23T13:57:24.588091Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-14T07:09:33.102735Z",
-        "filterStatus": "PAUSED"
-      }
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "tagthesponsor.com",
