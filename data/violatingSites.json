@@ -17810,6 +17810,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "sixli.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-22T16:19:43.653315Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "sizzlingclicks.com",
       "mobileSummary": {
         "lastChangeTime": "2018-04-10T16:46:36.316536Z",
@@ -21053,6 +21065,19 @@
         "enforcementTime": "2018-04-20T21:51:28.355063836Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "voroniny-online.pw",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-22T16:27:01.889542Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-21T16:27:01.145466Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "voxtribune.com",
