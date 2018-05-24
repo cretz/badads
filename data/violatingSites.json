@@ -16957,19 +16957,21 @@
     {
       "reviewedSite": "runtastic.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-08T16:14:44.789678Z",
+        "lastChangeTime": "2018-05-24T07:11:05.575642Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-03-20T09:10:21.000486Z",
+        "lastChangeTime": "2018-05-24T07:08:55.845738Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -18767,11 +18769,12 @@
     {
       "reviewedSite": "taboop.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-23T13:57:24.588091Z",
+        "lastChangeTime": "2018-05-24T06:47:28.231740Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
