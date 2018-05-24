@@ -2908,22 +2908,24 @@
     {
       "reviewedSite": "berlin-spotter.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:49.548032Z",
+        "lastChangeTime": "2018-05-23T19:45:37.118872Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:49.280049350Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:51:30.763652Z",
+        "lastChangeTime": "2018-05-23T19:44:58.556888Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:30.495843204Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20523,6 +20525,19 @@
         "enforcementTime": "2018-03-22T20:02:34.396224726Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "uw.hu",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-23T16:03:08.009025Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-22T16:03:07.158097Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "uzmantv.com",
