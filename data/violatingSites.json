@@ -2944,29 +2944,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "berlin-spotter.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-23T19:45:37.118872Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:53:49.280049350Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-23T19:44:58.556888Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:51:30.495843204Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "berlindoener.info",
       "mobileSummary": {
         "lastChangeTime": "2018-03-22T20:02:17.213581Z",
@@ -5342,18 +5319,6 @@
         "lastChangeTime": "2018-03-06T16:06:05.055022Z",
         "region": [
           "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "depo.ba",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:05.077291Z",
-        "region": [
-          "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
@@ -21131,13 +21096,14 @@
       "reviewedSite": "vrouwenvoetbalkrant.be",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-01T18:01:06.081349Z",
+        "lastChangeTime": "2018-05-25T10:52:49.475869Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:50:36.831165961Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
