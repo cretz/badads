@@ -6301,18 +6301,6 @@
       }
     },
     {
-      "reviewedSite": "electronics-cooling.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-21T15:22:53.618710Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "eleytheriadhs.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -6721,6 +6709,20 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:52:38.204629076Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "ets2world.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-24T22:05:17.039742Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "underReview": true,
+        "enforcementTime": "2018-06-23T21:05:59.389941Z",
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -13944,6 +13946,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "nextgen-auto.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-24T21:15:43.748078Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "nflhispano.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -16163,6 +16177,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "quizhive.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-24T22:02:05.390723Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "underReview": true,
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "quotidianomolise.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:34.065728Z",
@@ -18156,13 +18183,14 @@
       "reviewedSite": "sporting-rumoaotitulo.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:52:04.942462Z",
+        "lastChangeTime": "2018-05-24T19:25:58.518484Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:52:04.745273943Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18315,6 +18343,18 @@
         "enforcementTime": "2018-04-20T21:51:01.823333264Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "sportsretriever.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-24T17:14:14.276592Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "sportstats.gr",
@@ -18748,12 +18788,11 @@
     {
       "reviewedSite": "taboop.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-24T06:47:28.231740Z",
+        "lastChangeTime": "2018-05-24T21:15:33.780965Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -19755,18 +19794,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "trackinfo.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:44.328743Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "trackthet.com",
