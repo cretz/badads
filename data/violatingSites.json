@@ -1971,6 +1971,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "aquarellement-votre.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-25T01:40:29.338438Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "araba.com",
       "mobileSummary": {
         "lastChangeTime": "2018-05-04T17:48:39.728612Z",
@@ -1980,6 +1992,32 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-04T17:48:39.353820Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "arabakullaniyorum.blogspot.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-25T05:38:45.959277Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-24T05:38:45.413343755Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "arakanui.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-25T05:38:46.387513Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-24T05:38:45.854074337Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -6712,20 +6750,6 @@
       }
     },
     {
-      "reviewedSite": "ets2world.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-24T22:05:17.039742Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-23T21:05:59.389941Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "eugenedailynews.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-22T20:02:38.472227Z",
@@ -10003,18 +10027,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "imfdb.org",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-17T13:25:00.432055Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       }
     },
     {
@@ -16177,19 +16189,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "quizhive.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-24T22:02:05.390723Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "quotidianomolise.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:34.065728Z",
@@ -20279,13 +20278,14 @@
     {
       "reviewedSite": "ua5.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-25T22:17:15.883163Z",
+        "lastChangeTime": "2018-05-25T04:42:44.545137Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-25T22:17:14.829873Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
