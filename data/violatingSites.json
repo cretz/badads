@@ -1908,6 +1908,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "anorthosis365.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-25T21:41:00.228024Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-24T21:40:59.374996980Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "anotresauce.com",
       "mobileSummary": {
         "lastChangeTime": "2018-05-23T14:38:51.392652Z",
@@ -2009,6 +2022,19 @@
       }
     },
     {
+      "reviewedSite": "arabpornoxxx.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-25T18:40:33.614486Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-24T18:40:32.895510819Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "arakanui.com",
       "mobileSummary": {
         "lastChangeTime": "2018-05-25T05:38:46.387513Z",
@@ -2066,6 +2092,32 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "arkansaspatriot.us",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-25T19:39:20.570498Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-24T19:39:19.450187532Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "aromamama.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-25T21:41:00.663910Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-24T21:41:00.068624189Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "articlebio.com",
@@ -9811,13 +9863,14 @@
     {
       "reviewedSite": "idsnews.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-03T23:28:24.780766Z",
+        "lastChangeTime": "2018-05-25T20:57:00.310870Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-02T23:28:23.977330Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -11632,13 +11685,12 @@
       "reviewedSite": "link.tl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-21T17:50:14.639883Z",
+        "lastChangeTime": "2018-05-25T17:39:53.480741Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -15356,13 +15408,14 @@
       "reviewedSite": "poetsandquants.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-25T16:47:54.860636Z",
+        "lastChangeTime": "2018-05-25T20:23:16.966657Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-25T16:47:53.877148Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18579,13 +18632,13 @@
     {
       "reviewedSite": "superbeauties.club",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-25T22:43:08.687612Z",
+        "lastChangeTime": "2018-05-25T22:43:08.386112Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-25T22:43:07.816446Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -18746,18 +18799,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "taboop.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-24T21:15:33.780965Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -20243,14 +20284,13 @@
     {
       "reviewedSite": "ua5.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-25T04:42:44.545137Z",
+        "lastChangeTime": "2018-05-25T22:17:15.602628Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-05-25T22:17:14.829873Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
