@@ -4158,13 +4158,13 @@
       "reviewedSite": "cinemotion-kino.de",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-27T13:09:41.417658Z",
+        "lastChangeTime": "2018-05-27T13:09:41.135476Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-27T13:09:40.766461Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13916,13 +13916,14 @@
       "reviewedSite": "newsf1.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-04T11:08:00.307680Z",
+        "lastChangeTime": "2018-05-27T11:32:08.914513Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-03T11:07:59.553940Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -19033,22 +19034,24 @@
     {
       "reviewedSite": "tesourostv.pt",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:54:00.701486Z",
+        "lastChangeTime": "2018-05-27T09:45:39.078290Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:00.489330894Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:55:11.637326Z",
+        "lastChangeTime": "2018-05-27T09:45:15.330919Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:55:11.444285776Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
