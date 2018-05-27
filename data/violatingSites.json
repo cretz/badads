@@ -2158,18 +2158,6 @@
       }
     },
     {
-      "reviewedSite": "asema.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:51:08.768618Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "ashemaletube.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10614,13 +10602,14 @@
       "reviewedSite": "justnetwork.eu",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-27T03:14:25.268457Z",
+        "lastChangeTime": "2018-05-26T22:51:39.401825Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-27T03:14:25.015437Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -13501,13 +13490,13 @@
     {
       "reviewedSite": "mymmanews.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-26T22:11:02.901232Z",
+        "lastChangeTime": "2018-05-26T22:11:02.168393Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-26T22:11:01.697627Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -18194,20 +18183,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-22T12:04:57.710193Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "sporting-rumoaotitulo.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-24T19:25:58.518484Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:52:04.745273943Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
