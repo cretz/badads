@@ -1151,19 +1151,6 @@
       }
     },
     {
-      "reviewedSite": "ajansspor.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:05:54.424286Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-03T18:25:26.246596Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "aktuel.com.tr",
       "mobileSummary": {
         "lastChangeTime": "2018-03-22T20:02:32.183833Z",
@@ -17322,19 +17309,6 @@
       }
     },
     {
-      "reviewedSite": "serialzone.cz",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-11T10:47:22.968989Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-06-10T10:47:22.191079Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "seriousaboutrl.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18829,13 +18803,14 @@
     {
       "reviewedSite": "szukajdivy.pl",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:41.819247Z",
+        "lastChangeTime": "2018-05-28T09:50:44.631984Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -19090,29 +19065,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:50:48.565763344Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "tesourostv.pt",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-27T09:45:39.078290Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:54:00.489330894Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-27T09:45:15.330919Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:55:11.444285776Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -21718,19 +21670,6 @@
         "enforcementTime": "2018-04-20T21:53:17.364115498Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "xanthinea.gr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-04T19:59:00.225472Z",
-        "region": [
-          "REGION_UNKNOWN"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-06-03T19:58:59.203776Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "xmoviesforyou.com",
