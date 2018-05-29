@@ -3757,6 +3757,18 @@
       }
     },
     {
+      "reviewedSite": "buduaar.ee",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-29T09:06:03.817865Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "budujemydom.pl",
       "mobileSummary": {},
       "desktopSummary": {
@@ -4236,13 +4248,14 @@
     {
       "reviewedSite": "cinedrom.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T19:25:11.655581Z",
+        "lastChangeTime": "2018-05-29T12:02:38.657987Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T19:25:11.233472Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13159,13 +13172,14 @@
     {
       "reviewedSite": "mortgageintroducer.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-17T05:41:50.778633Z",
+        "lastChangeTime": "2018-05-29T15:01:37.534218Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-17T05:41:50.333247Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
