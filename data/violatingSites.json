@@ -1405,18 +1405,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "allyou.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:05:54.769060Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "almeirinense.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -2407,6 +2395,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "atoasttothegoodlife.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-29T01:41:42.343084Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-28T01:41:41.507042433Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "atoutecrire.com",
@@ -4366,18 +4367,6 @@
         "enforcementTime": "2018-03-22T20:03:14.637383033Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "cleantechnica.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:01.991996Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "click-tt.de",
@@ -14023,19 +14012,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-08T07:54:58.747533Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "nextgen-auto.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-28T18:34:10.493222Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
