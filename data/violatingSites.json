@@ -1008,20 +1008,6 @@
       }
     },
     {
-      "reviewedSite": "agriculturaemar.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-17T13:15:26.096495Z",
-        "region": [
-          "REGION_UNKNOWN"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-14T22:38:08.974374778Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "agriniogoal.gr",
       "mobileSummary": {
         "lastChangeTime": "2018-05-15T22:38:10.626337Z",
@@ -2085,14 +2071,13 @@
       "reviewedSite": "aromamama.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-28T07:33:55.123190Z",
+        "lastChangeTime": "2018-05-29T21:43:23.672060Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-06-24T21:41:00.068624189Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -3198,18 +3183,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "bigpara.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-12T15:43:00.693310Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "bigstake.it",
       "mobileSummary": {},
       "desktopSummary": {
@@ -4246,20 +4219,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "cinedrom.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-29T12:02:38.657987Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T19:25:11.233472Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "cinemaplanet.pt",
       "mobileSummary": {
         "lastChangeTime": "2018-04-20T21:53:24.742120Z",
@@ -5025,6 +4984,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "cuisineetgourmandise.fr",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-29T19:38:48.351476Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-28T19:38:46.332483Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "cuisinertoutsimplement.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-21T21:51:15.001114Z",
@@ -5603,6 +5575,27 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-09T22:37:09.227478427Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "didhelikeit.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-29T22:02:27.291732Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-28T22:02:26.135016Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-29T17:56:22.224201Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-28T17:56:21.497603Z",
         "filterStatus": "PENDING"
       }
     },
@@ -10793,6 +10786,18 @@
       }
     },
     {
+      "reviewedSite": "kavalawebnews.gr",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-29T18:08:22.465837Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "kayseriolay.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:19.794356Z",
@@ -11305,6 +11310,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-18T01:24:11.846453Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "lagaleriedelucho.fr",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-29T17:31:10.530596Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -13168,20 +13185,6 @@
         "enforcementTime": "2018-06-03T12:54:48.648597Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "mortgageintroducer.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-29T15:01:37.534218Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-17T05:41:50.333247Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "moskva.tw",
@@ -18792,20 +18795,6 @@
       }
     },
     {
-      "reviewedSite": "szukajdivy.pl",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-28T09:50:44.631984Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "tagthesponsor.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18998,6 +18987,18 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "telegraphherald.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-29T18:08:37.979223Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "tellymasti.com",
@@ -20354,6 +20355,18 @@
       }
     },
     {
+      "reviewedSite": "ukr-biz.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-29T23:54:46.748246Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "ukrainesexguide.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:45.648481Z",
@@ -21153,6 +21166,27 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "wacowny.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-29T20:36:07.605589Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-28T20:36:06.289328Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-29T16:44:49.938765Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-28T16:44:49.178714Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "wagcenter.com",
