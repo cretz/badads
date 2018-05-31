@@ -2656,6 +2656,19 @@
       }
     },
     {
+      "reviewedSite": "avatarshop.com.ua",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-31T02:48:40.049433Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-30T02:48:38.755189700Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "aviationpros.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -7850,19 +7863,6 @@
       }
     },
     {
-      "reviewedSite": "foot-sur7.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-30T20:53:14.364035Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "football-manager.it",
       "mobileSummary": {},
       "desktopSummary": {
@@ -9963,18 +9963,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "humpchies.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-12T01:39:23.977957Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "hunterxhunter.me",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10006,18 +9994,6 @@
         "lastChangeTime": "2018-03-21T21:55:31.706660Z",
         "region": [
           "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "hyperinzerce.cz",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:15.358045Z",
-        "region": [
-          "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
@@ -12630,14 +12606,12 @@
     {
       "reviewedSite": "marfeel.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-30T14:35:24.160424Z",
+        "lastChangeTime": "2018-05-31T07:14:29.444159Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -21988,20 +21962,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-15T17:46:13.374909Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "yeahthatskosher.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-30T17:15:35.868424Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-26T17:03:27.779836Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
