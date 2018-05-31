@@ -2531,6 +2531,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "autocarreleasepreview.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-30T20:39:57.096851Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-29T20:39:56.403992446Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "autoconstruction.net",
       "mobileSummary": {
         "lastChangeTime": "2018-05-10T13:36:04.547489Z",
@@ -2594,6 +2607,18 @@
       }
     },
     {
+      "reviewedSite": "autosamericaines.blogspot.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-30T20:39:57.522060Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "autovia.sk",
       "mobileSummary": {},
       "desktopSummary": {
@@ -2604,6 +2629,19 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
+    },
+    {
+      "reviewedSite": "autoweik.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-30T23:51:14.022778Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-29T23:51:13.254973900Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "avasta.me",
@@ -3047,13 +3085,14 @@
     {
       "reviewedSite": "beatlottery.co.uk",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-10T03:14:05.803572Z",
+        "lastChangeTime": "2018-05-30T19:51:00.874296Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-09T03:14:05.002845800Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -7813,11 +7852,12 @@
     {
       "reviewedSite": "foot-sur7.fr",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:09.829121Z",
+        "lastChangeTime": "2018-05-30T20:53:14.364035Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -18023,20 +18063,6 @@
       }
     },
     {
-      "reviewedSite": "snapcode.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-30T13:10:29.726756Z",
-        "region": [
-          "REGION_UNKNOWN"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-06T01:51:46.280179Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "soccerjumbotv.me",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18706,13 +18732,13 @@
     {
       "reviewedSite": "stylesofliving.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-30T16:39:38.320844Z",
+        "lastChangeTime": "2018-05-30T16:39:38.119683Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-30T16:39:37.647214Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -21968,13 +21994,14 @@
     {
       "reviewedSite": "yeahthatskosher.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-26T17:03:28.100446Z",
+        "lastChangeTime": "2018-05-30T17:15:35.868424Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-26T17:03:27.779836Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
