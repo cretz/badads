@@ -2718,6 +2718,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "avtorem.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-31T15:40:00.734443Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-30T15:39:59.883739326Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "awesomema.com",
       "mobileSummary": {
         "lastChangeTime": "2018-05-07T17:10:53.325305Z",
@@ -17411,19 +17424,6 @@
       }
     },
     {
-      "reviewedSite": "seriousaboutrl.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-22T20:02:48.047482Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-22T20:02:47.839195580Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "sessojimo.xyz",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:37.582947Z",
@@ -19117,19 +19117,6 @@
       }
     },
     {
-      "reviewedSite": "telva.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-15T16:52:27.015241Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-06-14T16:52:26.294912Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "tennis24.bg",
       "mobileSummary": {},
       "desktopSummary": {
@@ -19768,13 +19755,14 @@
     {
       "reviewedSite": "topscan.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-10T14:48:49.676489Z",
+        "lastChangeTime": "2018-05-31T15:47:02.139123Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-09T14:48:49.016789Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
