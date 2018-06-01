@@ -2815,6 +2815,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "babakitchen.be",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-01T15:44:23.860502Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-01T15:44:23.007040634Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "babesnude.info",
       "mobileSummary": {},
       "desktopSummary": {
@@ -3141,20 +3154,6 @@
         "enforcementTime": "2018-03-22T20:01:45.490484284Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "beatlottery.co.uk",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-30T19:51:00.874296Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-09T03:14:05.002845800Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "beautybox-addict.com",
@@ -8795,6 +8794,18 @@
       }
     },
     {
+      "reviewedSite": "gifzentrale.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-01T14:54:56.760154Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "giornaledimontesilvano.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -12854,7 +12865,7 @@
       "reviewedSite": "maturepornland.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-31T17:37:12.325358Z",
+        "lastChangeTime": "2018-06-01T14:40:28.978968Z",
         "region": [
           "REGION_B"
         ],
@@ -16451,19 +16462,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "qzlife.it",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-15T17:28:10.166709Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-06-14T17:28:09.425718Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "racing1913.com",
