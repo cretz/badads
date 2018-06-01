@@ -4433,6 +4433,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "citizenkid.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-31T20:06:15.270864Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-30T20:06:14.272427Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "civonline.it",
       "mobileSummary": {
         "lastChangeTime": "2018-04-30T17:27:19.049239Z",
@@ -9454,13 +9467,14 @@
       "reviewedSite": "hdfilmcehennemi.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-18T15:38:19.373459Z",
+        "lastChangeTime": "2018-05-31T21:09:18.456865Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-18T15:38:18.944329453Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12781,7 +12795,7 @@
       "reviewedSite": "maturepornland.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-30T13:19:41.225073Z",
+        "lastChangeTime": "2018-05-31T17:37:12.325358Z",
         "region": [
           "REGION_B"
         ],
@@ -16823,6 +16837,19 @@
       }
     },
     {
+      "reviewedSite": "replika.in.ua",
+      "mobileSummary": {
+        "lastChangeTime": "2018-05-31T18:06:29.287362Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-30T18:06:27.921995Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "retinalphysician.com",
       "mobileSummary": {
         "lastChangeTime": "2018-04-07T21:46:26.846978Z",
@@ -19753,20 +19780,6 @@
       }
     },
     {
-      "reviewedSite": "topscan.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-31T15:47:02.139123Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-09T14:48:49.016789Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "topsecretinfodump.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:44.141119Z",
@@ -22141,6 +22154,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "yuh3.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-05-31T18:52:32.469554Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-06-30T18:52:31.366179Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "zabava24.info",
