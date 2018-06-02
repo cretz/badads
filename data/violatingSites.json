@@ -190,24 +190,26 @@
       "reviewedSite": "24kalmar.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-10T02:34:00.508201Z",
+        "lastChangeTime": "2018-06-01T20:32:02.650883Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-09T02:33:59.845357Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
       "reviewedSite": "24malmo.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:50:48.429298Z",
+        "lastChangeTime": "2018-06-01T20:33:50.807666Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -215,13 +217,14 @@
       "reviewedSite": "24nybro.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-09T17:45:43.618515Z",
+        "lastChangeTime": "2018-06-01T20:28:03.669561Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-08T17:45:42.394672078Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -2071,13 +2074,14 @@
       "reviewedSite": "aromamama.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-29T21:43:23.672060Z",
+        "lastChangeTime": "2018-06-01T22:31:38.277775Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-24T21:41:00.068624189Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
