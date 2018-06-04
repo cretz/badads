@@ -201,19 +201,6 @@
       }
     },
     {
-      "reviewedSite": "24malmo.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-01T20:33:50.807666Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "24shumen.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -2057,20 +2044,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "aromamama.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-01T22:31:38.277775Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-24T21:41:00.068624189Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "artandfarts.com",
       "mobileSummary": {
         "lastChangeTime": "2018-05-28T04:39:24.539456Z",
@@ -2911,6 +2884,27 @@
       }
     },
     {
+      "reviewedSite": "bahis10line.org",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-04T02:39:16.529562Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-04T02:39:15.879826159Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-04T01:45:23.907132Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-04T01:45:23.248275827Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "bahiscenter.net",
       "mobileSummary": {
         "lastChangeTime": "2018-03-25T15:25:00.062347Z",
@@ -2937,6 +2931,27 @@
       }
     },
     {
+      "reviewedSite": "bahissiteleriof.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-04T03:44:28.343067Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-04T03:44:27.288557274Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-04T01:45:24.400087Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-04T01:45:23.721480881Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "bahsinadresi.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -2947,6 +2962,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:52:32.708774907Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "baixaki.com.pt",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-04T01:45:24.977664Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -2971,6 +2998,32 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "balkanbasket.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-04T01:45:25.541911Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-04T01:45:25.015119693Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "balkanskinavijaci.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-04T01:45:25.832295Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-04T01:45:25.406037035Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -3029,6 +3082,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:00:54.520209822Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "banglachotiz9.blogspot.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-04T02:39:17.003187Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-04T02:39:16.400283572Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -3742,13 +3808,14 @@
       "reviewedSite": "bostadsuppgifter.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-09T01:35:37.390081Z",
+        "lastChangeTime": "2018-06-04T07:41:18.651639Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-08T01:35:36.959578886Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
