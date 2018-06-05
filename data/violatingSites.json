@@ -6299,13 +6299,14 @@
     {
       "reviewedSite": "dokonalazena.cz",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-11T01:36:30.103179Z",
+        "lastChangeTime": "2018-06-05T07:37:29.734483Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-10T01:36:29.418588667Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -8929,13 +8930,14 @@
     {
       "reviewedSite": "gifzentrale.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-04T17:46:37.652839Z",
+        "lastChangeTime": "2018-06-05T07:09:54.742325Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-04T17:46:37.112242Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-06-01T14:54:56.760154Z",
@@ -15366,20 +15368,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "passportmagazine.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-04T19:17:18.839383Z",
-        "region": [
-          "REGION_UNKNOWN"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-02T13:15:31.038344Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "patv.eu",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:30.805784Z",
@@ -18807,7 +18795,7 @@
       "reviewedSite": "stadyum.tv",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-04T16:56:57.118147Z",
+        "lastChangeTime": "2018-06-05T05:46:05.269852Z",
         "region": [
           "REGION_B"
         ],
@@ -21969,6 +21957,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "wp.de",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-05T04:21:25.435833Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "wpfc.org",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:49.345813Z",
@@ -22110,13 +22110,14 @@
     {
       "reviewedSite": "xujan.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-16T18:33:51.545972Z",
+        "lastChangeTime": "2018-06-05T06:36:24.235431Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-16T19:25:59.065508Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
