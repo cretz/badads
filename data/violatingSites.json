@@ -2920,22 +2920,24 @@
     {
       "reviewedSite": "bahissiteleriof.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-04T03:44:28.343067Z",
+        "lastChangeTime": "2018-06-04T22:20:04.138195Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-04T03:44:27.288557274Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-04T01:45:24.400087Z",
+        "lastChangeTime": "2018-06-04T22:20:48.039661Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-04T01:45:23.721480881Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -3157,10 +3159,23 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "basketballstats.gr",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-04T22:45:28.486174Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-04T22:45:27.764500198Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "basketinbelgium.be",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:53:02.514791Z",
+        "lastChangeTime": "2018-06-04T22:45:28.924365Z",
         "region": [
           "REGION_B"
         ],
@@ -5348,6 +5363,19 @@
       }
     },
     {
+      "reviewedSite": "culturehook.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-04T17:51:39.265057Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-04T17:51:38.333581Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "cum-se-scrie.ro",
       "mobileSummary": {},
       "desktopSummary": {
@@ -6999,6 +7027,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-16T07:24:00.144419Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "eraporn.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-04T20:31:15.832893Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-04T20:31:14.498302Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -8887,7 +8928,15 @@
     },
     {
       "reviewedSite": "gifzentrale.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-04T17:46:37.652839Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-04T17:46:37.112242Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-06-01T14:54:56.760154Z",
         "region": [
@@ -9702,6 +9751,18 @@
       }
     },
     {
+      "reviewedSite": "hdmyt.info",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-04T16:29:00.912096Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "hdvid.tv",
       "mobileSummary": {},
       "desktopSummary": {
@@ -9833,6 +9894,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "herzporno.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-04T17:37:23.751483Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-04T17:37:23.116786Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -10378,18 +10452,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "ilgazzettino.it",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:16.236670Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "imajbet250.com",
@@ -14944,6 +15006,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "origo.hu",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-04T20:18:19.063582Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "oslobodjenje.rs",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:29.960473Z",
@@ -15295,13 +15369,14 @@
       "reviewedSite": "passportmagazine.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-02T13:15:31.553619Z",
+        "lastChangeTime": "2018-06-04T19:17:18.839383Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-02T13:15:31.038344Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15702,6 +15777,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "pm360online.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-04T16:41:29.572771Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-04T16:41:28.673191Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "pocuinn.com",
@@ -18713,6 +18801,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:53:23.745639612Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "stadyum.tv",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-04T16:56:57.118147Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-04T16:56:56.332180Z",
+        "filterStatus": "PENDING"
       }
     },
     {
