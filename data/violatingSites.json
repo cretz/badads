@@ -2926,29 +2926,6 @@
       }
     },
     {
-      "reviewedSite": "bahissiteleriof.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-04T22:20:04.138195Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-04T03:44:27.288557274Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-04T22:20:48.039661Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-04T01:45:23.721480881Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "bahsinadresi.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -3231,6 +3208,19 @@
       }
     },
     {
+      "reviewedSite": "baxterarena.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-06T01:53:09.122839Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-06T01:53:08.257849979Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "bd-sanctuary.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -3244,17 +3234,17 @@
       }
     },
     {
-      "reviewedSite": "bearnakedfood.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-22T20:01:45.710908Z",
+      "reviewedSite": "bdsmfilms.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-06T04:46:37.151697Z",
         "region": [
-          "REGION_A"
+          "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-22T20:01:45.490484284Z",
-        "filterStatus": "ON"
-      }
+        "enforcementTime": "2018-07-06T04:46:36.395841900Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "beautybox-addict.com",
@@ -3835,20 +3825,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "bostadsuppgifter.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-04T07:41:18.651639Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-08T01:35:36.959578886Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "boxofficeoutlook.com",
@@ -8726,13 +8702,13 @@
       "reviewedSite": "galiciaenrallys.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-07T07:28:29.173120Z",
+        "lastChangeTime": "2018-06-06T07:28:28.619285Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-06T07:28:28.399441Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9410,13 +9386,13 @@
     {
       "reviewedSite": "greentreemedic.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-07T01:40:06.984020Z",
+        "lastChangeTime": "2018-06-06T01:40:06.306312Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-06T01:40:06.023340Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -10607,13 +10583,13 @@
       "reviewedSite": "ingossip.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-07T07:35:23.919065Z",
+        "lastChangeTime": "2018-06-06T07:35:24.045962Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-06T07:35:23.172203Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21016,13 +20992,13 @@
       "reviewedSite": "varporn.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-07T06:41:50.383273Z",
+        "lastChangeTime": "2018-06-06T06:41:50.028124Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-06T06:41:49.601405Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
