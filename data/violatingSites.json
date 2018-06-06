@@ -188,7 +188,15 @@
     },
     {
       "reviewedSite": "24kalmar.se",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-05T17:26:45.978454Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-05T17:26:44.729648Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-06-04T15:09:36.701947Z",
         "region": [
@@ -3219,19 +3227,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T19:59:52.997064388Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "basketworld.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:55:37.739610Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:55:37.477232212Z",
         "filterStatus": "ON"
       }
     },
@@ -6370,6 +6365,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "draadbreuk.nl",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-05T16:15:48.828101Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "dreamamateurs.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -7940,6 +7947,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "finehomebuilding.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-05T16:42:53.425624Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "underReview": true,
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "fireengineering.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -9489,6 +9509,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "gununbankosu1.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-05T20:14:49.419323Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-05T20:14:48.743490Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "gutscheincodesuchbot.de",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10223,6 +10256,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:12.992007217Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "hurtigmums.dk",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-05T20:12:40.728247Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-05T20:12:39.836325Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -11952,6 +11998,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:06.297729112Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "letemsvetemapplem.eu",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-05T20:15:26.587442Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-05T20:15:25.558079Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -15736,7 +15795,15 @@
     },
     {
       "reviewedSite": "pm360online.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-05T17:42:20.851523Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-05T17:42:19.934440Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-06-04T16:41:29.572771Z",
         "region": [
@@ -17520,6 +17587,19 @@
       }
     },
     {
+      "reviewedSite": "scandal.rs",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-05T19:13:36.419088Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "underReview": true,
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "schote.biz",
       "mobileSummary": {
         "lastChangeTime": "2018-05-08T01:10:45.598280Z",
@@ -18768,6 +18848,18 @@
       }
     },
     {
+      "reviewedSite": "stadionews.it",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-05T17:23:03.868622Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "stadyum.tv",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18947,6 +19039,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-30T16:39:37.647214Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "sublimedirectory.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-05T20:07:15.363560Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-05T20:07:13.888283Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -21115,6 +21220,18 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
+    },
+    {
+      "reviewedSite": "vinereport.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-05T20:10:33.373176Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "vintagepornxxx.net",
