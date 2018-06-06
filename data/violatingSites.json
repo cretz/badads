@@ -234,18 +234,6 @@
       }
     },
     {
-      "reviewedSite": "24ur.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-14T21:10:03.228225Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "24varberg.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -6269,20 +6257,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "dokonalazena.cz",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-05T07:37:29.734483Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-10T01:36:29.418588667Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "dominiodebola.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-26T20:19:40.833581Z",
@@ -7119,13 +7093,13 @@
       "reviewedSite": "esportsplus.me",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-07T12:05:25.778992Z",
+        "lastChangeTime": "2018-06-06T12:05:25.288313Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-06T12:05:25.048689Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9650,14 +9624,12 @@
       "reviewedSite": "hdfilmcehennemi.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-31T21:09:18.456865Z",
+        "lastChangeTime": "2018-06-06T14:20:02.076398Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-18T15:38:18.944329453Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -10238,13 +10210,14 @@
     {
       "reviewedSite": "hurtigmums.dk",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-05T20:12:40.728247Z",
+        "lastChangeTime": "2018-06-06T13:15:10.015691Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-05T20:12:39.836325Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -16154,13 +16127,13 @@
       "reviewedSite": "pornolarbizden.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-07T11:51:47.065526Z",
+        "lastChangeTime": "2018-06-06T11:51:46.283454Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-06T11:51:46.026769Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16594,13 +16567,13 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-05-07T11:59:11.147768Z",
+        "lastChangeTime": "2018-06-06T11:59:10.831421Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-06T11:59:10.270681Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -17128,11 +17101,12 @@
     {
       "reviewedSite": "revijazarja.si",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:35.158507Z",
+        "lastChangeTime": "2018-06-06T10:01:07.735935Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -18839,13 +18813,14 @@
       "reviewedSite": "stadyum.tv",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-05T05:46:05.269852Z",
+        "lastChangeTime": "2018-06-06T11:14:03.026477Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-04T16:56:56.332180Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -21453,6 +21428,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:52:25.782724847Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "volgendevideo.nl",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-06T15:28:47.534560Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-06T15:28:46.602176Z",
+        "filterStatus": "PENDING"
       }
     },
     {
