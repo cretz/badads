@@ -9912,13 +9912,14 @@
     {
       "reviewedSite": "herzporno.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-04T17:37:23.751483Z",
+        "lastChangeTime": "2018-06-07T05:52:45.203983Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-04T17:37:23.116786Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13083,13 +13084,14 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-05-14T09:16:39.019581Z",
+        "lastChangeTime": "2018-06-07T07:38:46.601143Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-13T09:16:38.115795Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17612,13 +17614,13 @@
     {
       "reviewedSite": "schote.biz",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-08T01:10:45.598280Z",
+        "lastChangeTime": "2018-06-07T01:10:45.283894Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-07T01:10:44.970787Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-03-06T16:06:36.957249Z",
@@ -22083,11 +22085,12 @@
       "reviewedSite": "wp.de",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-05T04:21:25.435833Z",
+        "lastChangeTime": "2018-06-07T07:52:45.018612Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
