@@ -728,13 +728,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-05-08T15:32:57.241057Z",
+        "lastChangeTime": "2018-06-07T15:32:56.833214Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-07T15:32:56.579491Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7947,18 +7947,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "finehomebuilding.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-06T16:18:17.887689Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "fireengineering.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -8267,6 +8255,18 @@
         "enforcementTime": "2018-04-20T21:50:42.377863412Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "foxsports.it",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-07T14:25:04.931828Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "foxx.to",
@@ -13075,24 +13075,16 @@
     {
       "reviewedSite": "medimagazin.com.tr",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-10T10:42:12.665917Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-05-10T10:42:12.047172Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-07T07:38:46.601143Z",
+        "lastChangeTime": "2018-06-07T14:24:07.638045Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "underReview": true,
-        "enforcementTime": "2018-06-13T09:16:38.115795Z",
+        "enforcementTime": "2018-05-10T10:42:12.047172Z",
         "filterStatus": "PAUSED"
-      }
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "megasesso.com",
@@ -13825,11 +13817,12 @@
     {
       "reviewedSite": "mujerdeelite.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-06T22:57:11.820519Z",
+        "lastChangeTime": "2018-06-07T14:49:44.358834Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -15243,13 +15236,13 @@
       "reviewedSite": "painolympics.org",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-08T15:27:25.904370Z",
+        "lastChangeTime": "2018-06-07T15:27:25.683152Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-07T15:27:25.208388Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21205,13 +21198,14 @@
       "reviewedSite": "viid.me",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:46.830355Z",
+        "lastChangeTime": "2018-06-07T14:29:38.838668Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -22082,19 +22076,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "wp.de",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-07T07:52:45.018612Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "wpfc.org",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:49.345813Z",
@@ -22178,6 +22159,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "xnxx-pornos.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-07T14:46:01.278007Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-07T14:46:00.164587Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
