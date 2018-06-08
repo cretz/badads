@@ -3449,6 +3449,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "bestcarreleasenews.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-08T08:44:57.669005Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-08T08:44:56.742578679Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "besthdgayporn.com",
       "mobileSummary": {
         "lastChangeTime": "2018-06-08T07:41:59.809036Z",
@@ -3468,6 +3481,32 @@
         "enforcementTime": "2018-07-08T03:39:52.454747719Z",
         "filterStatus": "PENDING"
       }
+    },
+    {
+      "reviewedSite": "besthometheater-system.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-08T11:42:56.502576Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-08T11:42:55.672891024Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "betarena.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-08T12:44:43.931885Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-08T12:44:43.310485663Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "betoniera.bet",
@@ -3608,7 +3647,40 @@
         "enforcementTime": "2018-04-20T21:50:31.014213897Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-08T12:44:44.406946Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-08T12:44:43.793665955Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "biertjeproeven.nl",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-08T12:44:44.616881Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "bigass-booty.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-08T12:44:45.143642Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-08T12:44:44.646755609Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "bigstake.it",
@@ -10023,20 +10095,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "herzporno.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-07T05:52:45.203983Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-04T17:37:23.116786Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "hesgoal.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-26T20:12:29.638172Z",
@@ -10204,18 +10262,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "horoscope-daily-free.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-07T18:03:44.550861Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "hotanime.me",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:14.854482Z",
@@ -10379,18 +10425,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:03:12.992007217Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "hurtigmums.dk",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-06T23:29:20.323742Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -13198,20 +13232,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "medimagazin.com.tr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-07T14:24:07.638045Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-05-10T10:42:12.047172Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "megasesso.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:25.030784Z",
@@ -13564,13 +13584,14 @@
     {
       "reviewedSite": "mixtapemonkey.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-07T20:15:59.449646Z",
+        "lastChangeTime": "2018-06-08T14:10:11.388799Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-07T20:15:58.719060Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -20331,13 +20352,13 @@
     {
       "reviewedSite": "trackthet.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-09T15:25:06.354323Z",
+        "lastChangeTime": "2018-06-08T15:25:05.840373Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-08T15:25:05.507772Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -21083,13 +21104,14 @@
     {
       "reviewedSite": "uw.hu",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-23T16:03:08.009025Z",
+        "lastChangeTime": "2018-06-08T11:19:30.584550Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-22T16:03:07.158097Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
