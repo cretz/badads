@@ -52,20 +52,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "10ztalk.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-08T20:39:17.100864Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-08T20:39:16.577053567Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "123-fragebogen.de",
       "mobileSummary": {
         "lastChangeTime": "2018-04-06T18:09:57.095434Z",
@@ -239,7 +225,7 @@
       "reviewedSite": "24varberg.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-08T20:53:00.629188Z",
+        "lastChangeTime": "2018-06-09T14:36:24.376360Z",
         "region": [
           "REGION_B"
         ],
@@ -350,13 +336,13 @@
       "reviewedSite": "4girlsfingerpaint.org",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-10T11:38:32.290828Z",
+        "lastChangeTime": "2018-06-09T11:38:32.017080Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-09T11:38:31.602653293Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -519,13 +505,13 @@
       "reviewedSite": "96hype.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-10T13:36:05.199737Z",
+        "lastChangeTime": "2018-06-09T13:36:05.269642Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-09T13:36:04.739897940Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -578,13 +564,13 @@
       "reviewedSite": "aadmag.am",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-10T14:36:24.899568Z",
+        "lastChangeTime": "2018-06-09T14:36:24.802386Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-09T14:36:24.445435985Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2496,13 +2482,13 @@
     {
       "reviewedSite": "autoconstruction.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-10T13:36:04.547489Z",
+        "lastChangeTime": "2018-06-09T13:36:04.575605Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-09T13:36:04.003722010Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -3177,13 +3163,14 @@
       "reviewedSite": "basketplus.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-09T00:38:09.370851Z",
+        "lastChangeTime": "2018-06-09T09:05:42.302626Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-09T00:38:08.761129578Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4530,13 +4517,13 @@
     {
       "reviewedSite": "cd.st",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-10T13:36:04.818766Z",
+        "lastChangeTime": "2018-06-09T13:36:05.023507Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-09T13:36:04.460319495Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -5874,13 +5861,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-05-10T12:37:32.775902Z",
+        "lastChangeTime": "2018-06-09T12:37:32.147063Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-09T12:37:31.808574264Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -6987,13 +6974,13 @@
       "reviewedSite": "eleytheriadhs.blogspot.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-10T14:36:25.741914Z",
+        "lastChangeTime": "2018-06-09T14:36:25.487761Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-09T14:36:25.145550870Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
