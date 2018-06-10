@@ -1111,13 +1111,14 @@
     {
       "reviewedSite": "aktuelsepeti.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-15T22:38:12.268359Z",
+        "lastChangeTime": "2018-06-10T14:55:38.761893Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-14T22:38:11.798232654Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -5748,13 +5749,13 @@
     {
       "reviewedSite": "darksta.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-11T11:40:04.184903Z",
+        "lastChangeTime": "2018-06-10T11:40:03.880737Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-10T11:40:03.386582771Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -5783,20 +5784,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "dbta.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-08T16:31:13.479525Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:02:05.366113215Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "dbzsuper.tv",
@@ -6330,23 +6317,16 @@
     },
     {
       "reviewedSite": "dizifilmsizle.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-11T11:40:04.530331Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-06-10T11:40:04.097458801Z",
-        "filterStatus": "PENDING"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-09T22:37:10.589800Z",
+        "lastChangeTime": "2018-06-10T08:47:52.864248Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-09T22:37:10.148681613Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
