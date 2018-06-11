@@ -186,13 +186,14 @@
         "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-09T02:34:00.619563Z",
+        "lastChangeTime": "2018-06-11T13:09:31.126657Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-09T02:33:59.845357Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -3758,13 +3759,14 @@
     {
       "reviewedSite": "bingolnet.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-11T04:42:19.791322Z",
+        "lastChangeTime": "2018-06-11T08:52:10.043439Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-11T04:42:18.672933896Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -3961,6 +3963,19 @@
       }
     },
     {
+      "reviewedSite": "blogatstvo.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-11T10:45:10.362908Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-11T10:45:09.592108139Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "blogosfere.it",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:05:58.773800Z",
@@ -3991,6 +4006,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "blogy.gr",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-11T10:45:10.674135Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-11T10:45:10.231781011Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -4049,6 +4077,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "bonusescom.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-11T11:44:55.962236Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-11T11:44:55.287026552Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -6384,20 +6425,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:55:08.880926755Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "dizifilmsizle.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-10T08:47:52.864248Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-09T22:37:10.148681613Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -10035,6 +10062,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-17T14:29:51.239554Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "healthylifetricks.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-11T15:03:36.907066Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -18314,18 +18353,6 @@
         "enforcementTime": "2018-03-22T20:02:29.183063087Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "siciliainformazioni.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:38.227587Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "siecomenergia.it",
