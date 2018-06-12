@@ -1110,20 +1110,6 @@
       }
     },
     {
-      "reviewedSite": "aktuelsepeti.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-10T14:55:38.761893Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-14T22:38:11.798232654Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "alaplumedemesdoigts.com",
       "mobileSummary": {
         "lastChangeTime": "2018-05-15T22:38:12.541110Z",
@@ -4154,6 +4140,39 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "bosnae.info",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-12T02:50:28.925525Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-12T02:50:28.340753400Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-12T01:58:37.875235Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-12T01:58:37.098949425Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "boutiquedesign.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-12T01:58:38.134075Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "boxofficeoutlook.com",
@@ -21203,14 +21222,13 @@
     {
       "reviewedSite": "uw.hu",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-08T11:19:30.584550Z",
+        "lastChangeTime": "2018-06-12T07:56:42.843320Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-06-22T16:03:07.158097Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
