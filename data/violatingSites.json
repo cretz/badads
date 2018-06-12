@@ -185,16 +185,7 @@
         "enforcementTime": "2018-07-05T17:26:44.729648Z",
         "filterStatus": "PAUSED"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-11T13:09:31.126657Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-09T02:33:59.845357Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "24shumen.com",
@@ -2179,13 +2170,14 @@
     {
       "reviewedSite": "assistante-maternelle.biz",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-09T04:14:35.431962Z",
+        "lastChangeTime": "2018-06-12T13:26:00.903041Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-09T04:14:35.194223259Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -4153,13 +4145,14 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-12T01:58:37.875235Z",
+        "lastChangeTime": "2018-06-12T09:05:40.971646Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-12T01:58:37.098949425Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4173,6 +4166,19 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
+    },
+    {
+      "reviewedSite": "bowlingpark-mannheim.eu",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-12T11:57:10.773164Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-12T11:57:09.666114781Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "boxofficeoutlook.com",
@@ -4220,6 +4226,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "branmorrighan.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-12T11:57:11.029980Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-12T11:57:10.402458510Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -7826,6 +7845,18 @@
         "lastChangeTime": "2018-03-06T16:06:08.758775Z",
         "region": [
           "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "fapdex.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-12T14:33:05.826812Z",
+        "region": [
+          "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
@@ -13330,13 +13361,14 @@
       "reviewedSite": "medimagazin.com.tr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-11T20:36:23.924742Z",
+        "lastChangeTime": "2018-06-12T08:49:39.977285Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-11T20:36:23.118610Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -22048,6 +22080,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "webm.land",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-12T15:29:28.610451Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-12T15:29:27.432127Z",
+        "filterStatus": "PENDING"
       }
     },
     {
