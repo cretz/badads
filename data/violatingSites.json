@@ -7984,7 +7984,15 @@
     },
     {
       "reviewedSite": "fiilmizle.org",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-11T22:01:20.970516Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "underReview": true,
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-06-08T06:58:46.590864Z",
         "region": [
@@ -13300,6 +13308,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "medimagazin.com.tr",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-11T20:36:23.924742Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-11T20:36:23.118610Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "megasesso.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:25.030784Z",
@@ -17587,7 +17608,14 @@
     },
     {
       "reviewedSite": "roomescapewalkthroughs.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-11T17:47:41.490437Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-06-07T17:21:24.612126Z",
         "region": [
@@ -22055,6 +22083,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "wetgaytube.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-11T22:55:57.387154Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-11T22:55:55.744351Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "wetttipps-heute.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:48.049993Z",
@@ -22275,6 +22316,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "wp.de",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-11T23:26:35.294637Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-11T23:26:34.545597Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
