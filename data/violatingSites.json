@@ -2170,14 +2170,13 @@
     {
       "reviewedSite": "assistante-maternelle.biz",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-12T13:26:00.903041Z",
+        "lastChangeTime": "2018-06-13T15:46:35.361127Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-06-09T04:14:35.194223259Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -5759,22 +5758,24 @@
     {
       "reviewedSite": "czech69.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:54:32.491611Z",
+        "lastChangeTime": "2018-06-13T14:22:20.227636Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:32.162816633Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:59:11.547875Z",
+        "lastChangeTime": "2018-06-13T14:21:52.967240Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:59:11.347064464Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8011,7 +8012,7 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-08T06:58:46.590864Z",
+        "lastChangeTime": "2018-06-13T13:44:54.820805Z",
         "region": [
           "REGION_B"
         ],
@@ -12689,13 +12690,13 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-05-14T14:48:37.054594Z",
+        "lastChangeTime": "2018-06-13T14:48:36.764396Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-13T14:48:36.358450Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13328,7 +13329,7 @@
       "reviewedSite": "medimagazin.com.tr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-12T08:49:39.977285Z",
+        "lastChangeTime": "2018-06-13T09:16:38.415076Z",
         "region": [
           "REGION_B"
         ],
@@ -15280,11 +15281,12 @@
     {
       "reviewedSite": "origo.hu",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-04T20:18:19.063582Z",
+        "lastChangeTime": "2018-06-13T10:45:43.477227Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -15462,13 +15464,13 @@
     {
       "reviewedSite": "paidbooks.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-14T14:31:20.922025Z",
+        "lastChangeTime": "2018-06-13T14:31:20.515187Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-13T14:31:20.133570Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -20066,6 +20068,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "thevideobee.to",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-13T09:44:32.688637Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-13T09:44:31.839802Z",
+        "filterStatus": "PENDING"
       }
     },
     {
