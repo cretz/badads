@@ -2268,7 +2268,15 @@
     },
     {
       "reviewedSite": "atdhe.ru",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-12T20:32:07.208685Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-12T20:32:06.262005Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-06-08T18:24:31.970827Z",
         "region": [
@@ -3735,20 +3743,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "bingolnet.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-11T08:52:10.043439Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-11T04:42:18.672933896Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "biomantique.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-16T18:34:08.726706Z",
@@ -3836,6 +3830,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "bitchyourfamous.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-12T16:49:48.612801Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-12T16:49:47.607061Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -4251,6 +4258,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "brazilianporn.com.es",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-12T18:01:38.790167Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-12T18:01:38.185843118Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -5105,19 +5125,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "coffeebreak.pt",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:02.375621Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      }
     },
     {
       "reviewedSite": "cogismith.com",
@@ -6643,19 +6650,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "dreamamateurs.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:06.370317Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      }
     },
     {
       "reviewedSite": "dreena.fr",
@@ -13724,14 +13718,13 @@
     {
       "reviewedSite": "mixtapemonkey.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-08T14:10:11.388799Z",
+        "lastChangeTime": "2018-06-12T20:40:51.058224Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-07-07T20:15:58.719060Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -14996,7 +14989,7 @@
       "reviewedSite": "nudeteenphotos.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-29T22:24:57.660762Z",
+        "lastChangeTime": "2018-06-12T17:16:32.116409Z",
         "region": [
           "REGION_B"
         ],
@@ -15008,13 +15001,14 @@
     {
       "reviewedSite": "numerology.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:28.678239Z",
+        "lastChangeTime": "2018-06-12T18:21:50.611662Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -17306,6 +17300,18 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
+    },
+    {
+      "reviewedSite": "reflectim.fr",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-12T20:52:09.197049Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "regretfulmorning.com",
@@ -22418,6 +22424,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "wunderporno.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-12T20:50:50.028496Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-12T20:50:48.959566Z",
+        "filterStatus": "PENDING"
       }
     },
     {
