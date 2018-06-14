@@ -1819,6 +1819,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "appcheating.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-14T09:44:16.999611Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "applosungen.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-23T14:33:04.095286Z",
@@ -3405,6 +3417,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-08T11:42:55.672891024Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "bet-mate.co",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-14T09:03:48.403934Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-14T09:03:47.549357Z",
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
@@ -6093,13 +6118,13 @@
     {
       "reviewedSite": "diariodejerez.es",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-15T15:55:20.687434Z",
+        "lastChangeTime": "2018-06-14T15:55:20.461566Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-14T15:55:20.096188Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -6419,19 +6444,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "dnevno.rs",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-22T20:01:00.623524Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-22T20:01:00.367619841Z",
-        "filterStatus": "ON"
-      }
     },
     {
       "reviewedSite": "dnvod.tv",
@@ -9105,6 +9117,19 @@
       }
     },
     {
+      "reviewedSite": "generalsta.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-14T12:38:50.105395Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "underReview": true,
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "genvideos.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:11.233364Z",
@@ -9409,19 +9434,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "goppresidential.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-05-16T11:03:49.629683Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-06-15T11:03:48.987318Z",
-        "filterStatus": "PENDING"
       }
     },
     {
@@ -9906,6 +9918,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "hdfilmevreni1.org",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-14T11:47:46.080361Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-14T11:47:45.134302646Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -16263,20 +16288,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "pornohelm.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-11T06:36:43.550725Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-06T23:35:45.183967Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -22788,19 +22799,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "zoopalast-berlin.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-22T20:01:37.579778Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-22T20:01:37.335055013Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "zumbido.es",
