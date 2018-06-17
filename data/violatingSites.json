@@ -9444,18 +9444,6 @@
       }
     },
     {
-      "reviewedSite": "greenindustrypros.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:52:18.343011Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "greenmood.gr",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10316,19 +10304,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "hunza.pro",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-22T20:03:16.197844Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-22T20:03:12.992007217Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "hurtsex.com",
@@ -19680,13 +19655,14 @@
       "reviewedSite": "thevideobee.to",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-13T09:44:32.688637Z",
+        "lastChangeTime": "2018-06-17T05:47:48.473724Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-13T09:44:31.839802Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
