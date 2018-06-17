@@ -176,11 +176,12 @@
     {
       "reviewedSite": "21hub.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-15T17:59:54.068027Z",
+        "lastChangeTime": "2018-06-16T18:56:55.284953Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -4692,19 +4693,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:55:23.336542350Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "chezvanda.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:50:40.678910Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:50:40.216638596Z",
         "filterStatus": "ON"
       },
       "desktopSummary": {}
@@ -11439,13 +11427,13 @@
     {
       "reviewedSite": "kkponline.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-17T20:27:08.749124Z",
+        "lastChangeTime": "2018-06-16T20:27:08.216887Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-16T20:27:07.808628Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -15248,13 +15236,13 @@
     {
       "reviewedSite": "parischampions.fr",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-17T16:38:11.279292Z",
+        "lastChangeTime": "2018-06-16T16:38:10.779349Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-16T16:38:10.381373Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -17499,18 +17487,6 @@
         "lastChangeTime": "2018-05-15T17:42:13.726954Z",
         "region": [
           "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "sanleane.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-21T21:50:59.643687Z",
-        "region": [
-          "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
