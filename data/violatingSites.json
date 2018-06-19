@@ -4750,6 +4750,19 @@
       }
     },
     {
+      "reviewedSite": "ciralihotels.info",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-19T08:12:07.012214Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-19T08:12:06.062686Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "citiesjournal.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -19485,19 +19498,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "thevideobee.to",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-18T20:12:00.103290Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-18T20:11:59.234908Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "thexxx.pro",
