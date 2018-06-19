@@ -13394,19 +13394,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "mondaymondaynetwork.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-18T23:49:46.154643Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "monsterhunterforum.de",
       "mobileSummary": {},
       "desktopSummary": {
@@ -15625,7 +15612,14 @@
         "enforcementTime": "2018-05-05T19:49:27.388625Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-19T04:35:09.997982Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "plazmaburst2.com",
@@ -18942,18 +18936,6 @@
       }
     },
     {
-      "reviewedSite": "taadd.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-18T21:38:38.495196Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "tagthesponsor.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -19515,16 +19497,7 @@
         "enforcementTime": "2018-07-18T20:11:59.234908Z",
         "filterStatus": "PENDING"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-17T05:47:48.473724Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-13T09:44:31.839802Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "thexxx.pro",
@@ -20997,18 +20970,6 @@
       "reviewedSite": "vipbox.live",
       "mobileSummary": {
         "lastChangeTime": "2018-04-25T21:12:29.427855Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "vipbox.st",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:46.873202Z",
         "region": [
           "REGION_A"
         ],
