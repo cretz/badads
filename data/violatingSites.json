@@ -11081,19 +11081,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "kanisette.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:56.268670Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:53:56.036016583Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "kat.money",
       "mobileSummary": {},
       "desktopSummary": {
@@ -11162,18 +11149,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "kicker.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-18T15:53:02.052856Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -11896,19 +11871,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "lesrecettessympatoches.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-22T20:03:06.634807Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-22T20:03:06.297729112Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "letemsvetemapplem.eu",
       "mobileSummary": {
         "lastChangeTime": "2018-06-05T20:15:26.587442Z",
@@ -12026,19 +11988,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "limnosfm100.gr",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:54:19.043440Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:54:18.814731469Z",
-        "filterStatus": "ON"
       }
     },
     {
@@ -12908,20 +12857,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "medimagazin.com.tr",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-20T07:51:25.970822Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-11T20:36:23.118610Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "megasesso.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:25.030784Z",
@@ -13493,19 +13428,6 @@
       }
     },
     {
-      "reviewedSite": "moviemagic-eberswalde.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:42.055397Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:53:41.812651234Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "moviezine.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13837,18 +13759,6 @@
         "enforcementTime": "2018-04-20T21:55:40.904742047Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "mysweetlittlebaby.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:27.286074Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "mytotalretail.com",
@@ -15805,18 +15715,6 @@
         "enforcementTime": "2018-03-21T09:23:51.700446Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "poradnikzdrowie.pl",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:32.425837Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "porkporn.com",
@@ -21731,13 +21629,14 @@
     {
       "reviewedSite": "wp.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-11T23:26:35.294637Z",
+        "lastChangeTime": "2018-06-20T11:41:16.450192Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-11T23:26:34.545597Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
