@@ -14016,7 +14016,15 @@
         "enforcementTime": "2018-04-01T18:24:23.981671Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-19T22:05:20.644812Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-19T22:05:19.906733Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "neleryokki.com",
