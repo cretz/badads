@@ -6157,19 +6157,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "directwrestling.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:54:11.372288Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:54:11.142407228Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "diresport.es",
       "mobileSummary": {},
       "desktopSummary": {
@@ -8193,19 +8180,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "forumzero.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:53:51.496970Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:53:51.246939656Z",
         "filterStatus": "ON"
       }
     },
@@ -10346,7 +10320,15 @@
     },
     {
       "reviewedSite": "igfap.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-21T00:13:17.669844Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-21T00:13:16.946128Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-06-15T16:33:56.618620Z",
         "region": [
@@ -10801,19 +10783,6 @@
         "enforcementTime": "2018-04-20T21:54:22.259879141Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "johannakajsonsblogg.se",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:55:20.150030Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:55:19.898942310Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "jornaiserevistas.com",
@@ -13438,18 +13407,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "moziplusztv.hu",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-21T21:50:57.604438Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "mp3.support",
@@ -19316,19 +19273,6 @@
       }
     },
     {
-      "reviewedSite": "thespiffycookie.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:52:13.144026Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:52:12.938951866Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "thesquander.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -19975,19 +19919,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "turatii.ro",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:52:46.680853Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:52:46.352542866Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "turkanime.tv",
