@@ -298,18 +298,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "4chan.org",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:05:53.516900Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "4girlsfingerpaint.org",
       "mobileSummary": {},
       "desktopSummary": {
@@ -4634,19 +4622,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "cherchelloise.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:54:54.053417Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:54:53.689019560Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "chernomore.bg",
       "mobileSummary": {},
       "desktopSummary": {
@@ -4839,15 +4814,7 @@
     },
     {
       "reviewedSite": "claudiagalliconcha.se",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-30T20:01:54.019234Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-30T20:01:53.364309946Z",
-        "filterStatus": "ON"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-03-22T20:03:14.883651Z",
         "region": [
@@ -7163,18 +7130,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-15T16:37:22.724039Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "eurosport.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-20T16:48:55.101977Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -12382,18 +12337,6 @@
       "reviewedSite": "m4sport.hu",
       "mobileSummary": {
         "lastChangeTime": "2018-04-04T17:51:19.764375Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "macsonuclari.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:23.298090Z",
         "region": [
           "REGION_B"
         ],
@@ -17731,27 +17674,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T12:05:40.808189Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "sims4.eu",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:55:35.063026Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:55:34.770233575Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:59:15.559960Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:59:15.360154127Z",
         "filterStatus": "ON"
       }
     },
