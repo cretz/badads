@@ -1694,13 +1694,13 @@
     {
       "reviewedSite": "annesogood.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-23T14:38:51.021177Z",
+        "lastChangeTime": "2018-06-22T14:38:50.759398Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-22T14:38:50.295022484Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -1746,13 +1746,13 @@
     {
       "reviewedSite": "anotresauce.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-23T14:38:51.392652Z",
+        "lastChangeTime": "2018-06-22T14:38:51.189827Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-22T14:38:50.877050651Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -7572,19 +7572,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "festivalrykten.se",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:50:19.884296Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:50:19.529376374Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "fexburti.ge",
       "mobileSummary": {},
       "desktopSummary": {
@@ -8685,19 +8672,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "gaychat24.eu",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:53:43.429164Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:53:43.152152349Z",
-        "filterStatus": "ON"
-      }
     },
     {
       "reviewedSite": "gayhardfuck.com",
@@ -13724,7 +13698,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-19T22:05:20.644812Z",
+        "lastChangeTime": "2018-06-22T13:44:41.800619Z",
         "region": [
           "REGION_B"
         ],
@@ -18328,6 +18302,19 @@
       }
     },
     {
+      "reviewedSite": "startv.com.tr",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-22T13:24:37.087891Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-22T13:24:35.718860Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "stilemilan.it",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:40.766110Z",
@@ -18568,15 +18555,7 @@
     },
     {
       "reviewedSite": "svejo.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:51:04.091508Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:51:03.866606241Z",
-        "filterStatus": "ON"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-04-20T21:58:20.353958Z",
         "region": [
