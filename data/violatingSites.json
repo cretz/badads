@@ -5185,13 +5185,14 @@
     {
       "reviewedSite": "commonsta.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-23T01:03:41.868627Z",
+        "lastChangeTime": "2018-06-23T09:08:06.095925Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-23T01:03:41.084309138Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -6518,13 +6519,12 @@
     {
       "reviewedSite": "dorffer-patrick.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:58.523852Z",
+        "lastChangeTime": "2018-06-23T08:11:09.553478Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:53:58.307531985Z",
-        "filterStatus": "ON"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -10367,13 +10367,14 @@
       "reviewedSite": "hoqueipatins.pt",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-23T05:01:05.038306Z",
+        "lastChangeTime": "2018-06-23T12:18:17.842469Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-23T05:01:04.273682208Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12994,11 +12995,12 @@
       "reviewedSite": "macsonuclari.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-22T17:59:13.486345Z",
+        "lastChangeTime": "2018-06-23T12:47:56.087283Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -18767,6 +18769,31 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "skaraborgslanstidning.se",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-23T08:11:06.749377Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "skovdenyheter.se",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-23T08:11:09.993027Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-23T08:11:09.436990667Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "skyrock.com",
       "mobileSummary": {
         "lastChangeTime": "2018-04-16T16:13:44.537033Z",
@@ -19882,6 +19909,19 @@
       }
     },
     {
+      "reviewedSite": "teen18porntube.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-23T08:11:07.489525Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-23T08:11:06.779532135Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "teenagegirlssexy.com",
       "mobileSummary": {
         "lastChangeTime": "2018-06-23T00:04:44.453717Z",
@@ -20853,6 +20893,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:51:49.665071597Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "trelleborgsallehanda.se",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-23T08:11:07.844100Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-07-23T08:11:07.232565809Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -22903,6 +22956,25 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "xvideos.com.ru",
+      "mobileSummary": {
+        "lastChangeTime": "2018-06-23T08:11:08.806644Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-06-23T08:11:08.396928Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "xvideoshdporn.info",
