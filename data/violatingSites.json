@@ -2707,13 +2707,13 @@
     {
       "reviewedSite": "avatarshop.com.ua",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-31T02:48:40.049433Z",
+        "lastChangeTime": "2018-06-30T02:48:39.314686Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-30T02:48:38.755189700Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -4531,19 +4531,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "brickunderground.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-25T17:20:56.315896Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "brigittedadaux.com",
@@ -9580,20 +9567,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-25T13:14:49.370669119Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "gayvideo.me",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-28T23:43:22.996891Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-23T05:01:08.124734403Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18873,20 +18846,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "pujcko.cz",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-28T07:34:52.750510Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-28T07:27:03.323226057Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "punterforum.com",
       "mobileSummary": {
         "lastChangeTime": "2018-05-14T14:27:09.611384Z",
@@ -21521,20 +21480,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "sportipserrabizarro.pt",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-26T15:16:26.187458Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "sportlarissa.gr",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:39.643812Z",
@@ -21624,20 +21569,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "sportski.mk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-28T06:31:48.340420Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-28T04:29:00.352916362Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -22251,20 +22182,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "taratur.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-28T07:34:54.879600Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-28T07:27:01.709528593Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
