@@ -2134,20 +2134,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "arkada-bt.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-29T05:02:29.837025Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-29T04:13:28.530541715Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "arkansaspatriot.us",
       "mobileSummary": {
         "lastChangeTime": "2018-06-24T19:39:19.975330Z",
@@ -2769,13 +2755,13 @@
     {
       "reviewedSite": "avtorem.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-31T15:40:00.734443Z",
+        "lastChangeTime": "2018-06-30T15:40:00.660574Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-30T15:39:59.883739326Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -4902,20 +4888,6 @@
       }
     },
     {
-      "reviewedSite": "catnamers.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-28T18:21:13.890828Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-26T15:04:37.414165184Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "caymancompass.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -5004,20 +4976,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "cg-fudbal.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-28T13:02:12.950077Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-28T12:12:14.136641914Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "chaostrophic.com",
@@ -5668,20 +5626,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "consumerelectronicsnet.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-28T13:00:26.655119Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-28T12:12:12.880622096Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "cook.ge",
@@ -9781,29 +9725,6 @@
         "betterAdsStatus": "FAILING",
         "underReview": true,
         "enforcementTime": "2018-07-28T09:19:35.283999325Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
-      "reviewedSite": "gfnudephotos.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-28T15:50:13.624854Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-26T06:07:00.911934711Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-26T11:17:37.707163Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-25T13:14:50.311603127Z",
         "filterStatus": "PAUSED"
       }
     },
@@ -14299,19 +14220,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-25T18:05:34.768946346Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "manmagazin.sk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-28T21:02:17.853485Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
       }
     },
     {
@@ -20996,20 +20904,6 @@
       }
     },
     {
-      "reviewedSite": "slimibas.lv",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-28T08:44:49.126522Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-28T07:27:02.847159731Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "smalandsdagblad.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -22612,19 +22506,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "theevertonforum.co.uk",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-29T08:52:24.892540Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "thefinalball.com",
