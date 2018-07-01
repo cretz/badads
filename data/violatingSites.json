@@ -2795,34 +2795,34 @@
       "reviewedSite": "ayakkabimarkalari.co",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-01T03:56:52.216025Z",
+        "lastChangeTime": "2018-07-01T03:56:51.889892Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-01T03:56:51.182082812Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
       "reviewedSite": "azginhikayeler.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-01T05:57:38.351649Z",
+        "lastChangeTime": "2018-07-01T05:57:37.870455Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-01T05:57:37.562076713Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-01T05:57:37.755629Z",
+        "lastChangeTime": "2018-07-01T05:57:37.100312Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-01T05:57:36.433326543Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -5524,29 +5524,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "comregras.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-29T10:32:42.797873Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-27T09:13:34.492617821Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-29T10:32:13.669259Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-28T04:28:57.531552183Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -9717,16 +9694,7 @@
         "enforcementTime": "2018-07-29T07:23:08.593803191Z",
         "filterStatus": "PAUSED"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-28T09:31:08.302101Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-28T09:19:35.283999325Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "gifsitesi.com",
@@ -10810,13 +10778,13 @@
       "reviewedSite": "hentaipulse.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-01T05:21:48.103770Z",
+        "lastChangeTime": "2018-07-01T05:21:47.439399Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-01T05:21:47.148098Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -22772,20 +22740,6 @@
       }
     },
     {
-      "reviewedSite": "thisisfutbol.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-29T09:33:06.060280Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-29T09:20:11.678363563Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "thotsextapes.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:43.567911Z",
@@ -25991,13 +25945,13 @@
     {
       "reviewedSite": "yuh3.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-01T06:07:40.786354Z",
+        "lastChangeTime": "2018-07-01T06:07:39.974892Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-01T06:07:39.747648Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-06-30T18:52:32.006046Z",
