@@ -10414,20 +10414,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "hammersheadlines.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-29T07:14:17.199427Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-26T18:16:09.365049680Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "hamnen.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13047,20 +13033,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "lekturygimnazjum.pl",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-29T12:27:57.751918Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-28T15:09:03.792921398Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "lemurdelolie.fr",
@@ -19168,20 +19140,6 @@
       }
     },
     {
-      "reviewedSite": "rangersfcnews.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-29T07:17:22.629488Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-27T03:14:52.323576884Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "rapeasian.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -19537,13 +19495,13 @@
     {
       "reviewedSite": "replika.in.ua",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-31T18:06:29.287362Z",
+        "lastChangeTime": "2018-06-30T18:06:28.431040Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-30T18:06:27.921995Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -25553,13 +25511,14 @@
     {
       "reviewedSite": "xnxx-pornos.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-07T14:46:01.278007Z",
+        "lastChangeTime": "2018-06-30T20:03:29.559969Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-07T14:46:00.164587Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -26041,13 +26000,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-05-31T18:52:32.469554Z",
+        "lastChangeTime": "2018-06-30T18:52:32.006046Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-30T18:52:31.366179Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
