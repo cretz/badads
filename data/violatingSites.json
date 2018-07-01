@@ -2840,13 +2840,13 @@
     {
       "reviewedSite": "babakitchen.be",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-01T15:44:23.860502Z",
+        "lastChangeTime": "2018-07-01T15:44:23.633435Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-01T15:44:23.007040634Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -3303,20 +3303,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-25T06:59:25.064968949Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "beaute-addict.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-29T15:07:18.415235Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-23T00:04:44.325642397Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -4789,20 +4775,6 @@
         "enforcementTime": "2018-04-20T21:52:47.710728068Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "caminteresse.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-29T15:00:38.052727Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-23T03:05:48.813232920Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "capecod.com",
@@ -6336,20 +6308,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "df11faces.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-29T11:59:56.724456Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:52:47.008477089Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "diariodejerez.es",
       "mobileSummary": {
         "lastChangeTime": "2018-06-14T15:55:20.461566Z",
@@ -7399,13 +7357,14 @@
       "reviewedSite": "eraporn.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-04T20:31:15.832893Z",
+        "lastChangeTime": "2018-07-01T12:38:15.765774Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-04T20:31:14.498302Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8517,20 +8476,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "foodreporter.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-29T15:03:43.420270Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-23T02:03:47.987091915Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "football-manager.it",
@@ -12679,11 +12624,12 @@
     {
       "reviewedSite": "kurjer.info",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-25T09:04:47.182876Z",
+        "lastChangeTime": "2018-07-01T15:27:40.613492Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -18869,19 +18815,6 @@
       }
     },
     {
-      "reviewedSite": "radio-kranj.si",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:54:17.588414Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:54:17.374292399Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "radio1.si",
       "mobileSummary": {
         "lastChangeTime": "2018-05-10T06:43:27.148274Z",
@@ -23163,20 +23096,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-25T04:59:40.658250005Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "tranastidning.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-26T12:27:55.796840Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-25T11:59:35.156809094Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
