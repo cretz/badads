@@ -27,6 +27,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "100x100musica.es",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-02T02:37:46.958754Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-01T02:37:45.874007549Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "10elotto5.it",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:05:53.279705Z",
@@ -2888,13 +2901,13 @@
       "reviewedSite": "backlaybettingcalculator.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-02T00:42:22.779072Z",
+        "lastChangeTime": "2018-07-02T00:42:22.515571Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-02T00:42:21.824460428Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -4780,13 +4793,14 @@
       "reviewedSite": "capecod.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-29T21:32:45.139447Z",
+        "lastChangeTime": "2018-07-02T01:02:01.053727Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-29T21:32:44.294504Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4812,6 +4826,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "cartagenadeley.es",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-02T04:11:02.538183Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-01T04:11:01.677535800Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -10139,19 +10166,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "guachosvermelhos.blogspot.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-13T16:42:57.201128Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-13T16:42:56.666193Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "guiadecadiz.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:13.092639Z",
@@ -11350,6 +11364,19 @@
       }
     },
     {
+      "reviewedSite": "inevros.gr",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-02T04:11:05.155145Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-01T04:11:04.007660721Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "informer24.net",
       "mobileSummary": {},
       "desktopSummary": {
@@ -11385,6 +11412,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-26T04:10:52.199862220Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "inktattoovoorbeelden.nl",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-02T04:11:04.227795Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-01T04:11:03.102340754Z",
         "filterStatus": "PENDING"
       }
     },
@@ -12429,20 +12469,6 @@
         "enforcementTime": "2018-04-04T19:23:06.573693Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "knigamedika.in.ua",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-29T18:58:14.833974Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-29T09:20:05.538362858Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "kodihome.blogspot.com",
@@ -13942,6 +13968,19 @@
       }
     },
     {
+      "reviewedSite": "madeinportugalmusica.pt",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-02T04:11:06.023298Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-01T04:11:04.922661149Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "magazin.ba",
       "mobileSummary": {},
       "desktopSummary": {
@@ -14010,7 +14049,7 @@
       "reviewedSite": "maltafootball.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:51:43.842550Z",
+        "lastChangeTime": "2018-07-02T04:11:00.658300Z",
         "region": [
           "REGION_B"
         ],
@@ -16736,7 +16775,7 @@
       "reviewedSite": "oparlapipas.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:50:28.392989Z",
+        "lastChangeTime": "2018-07-02T04:11:03.073249Z",
         "region": [
           "REGION_B"
         ],
@@ -17597,6 +17636,19 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "play-arena.ro",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-02T04:11:01.812336Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-01T04:11:00.688228088Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "playerwiveswiki.com",
@@ -20974,19 +21026,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "sondakika.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-29T19:36:59.710893Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "soombo.com",
       "mobileSummary": {
         "lastChangeTime": "2018-06-26T19:13:39.135079Z",
@@ -21340,7 +21379,7 @@
       "reviewedSite": "sportstats.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:55:33.349256Z",
+        "lastChangeTime": "2018-07-02T04:11:06.681925Z",
         "region": [
           "REGION_B"
         ],
@@ -24822,6 +24861,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "warszawa.cz",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-02T06:11:27.092898Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
