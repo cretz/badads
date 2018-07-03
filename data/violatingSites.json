@@ -475,6 +475,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "7dnifutbol.bg",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-03T04:31:19.821740Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-02T04:31:18.782909Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "846ai.com",
       "mobileSummary": {
         "lastChangeTime": "2018-06-10T02:36:35.076602Z",
@@ -4601,6 +4614,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "buradanizle.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-03T01:29:02.935810Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-02T01:29:01.891603055Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "burdanhdfilmizle.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -4845,6 +4871,27 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-25T14:59:54.354543148Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "caxemirabet.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-07-03T01:29:04.443605Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-02T01:29:03.884302588Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-03T01:29:04.035304Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-02T01:29:03.261343389Z",
         "filterStatus": "PENDING"
       }
     },
@@ -7323,20 +7370,6 @@
       }
     },
     {
-      "reviewedSite": "eraporn.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-01T12:38:15.765774Z",
-        "region": [
-          "REGION_UNKNOWN"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-04T20:31:14.498302Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "eratrf.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -8961,13 +8994,12 @@
     {
       "reviewedSite": "frprn.xxx",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-22T22:23:15.842566Z",
+        "lastChangeTime": "2018-07-03T00:07:47.147554Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-22T22:23:15.467537Z",
-        "filterStatus": "ON"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -12630,15 +12662,7 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:20.653715Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "kumb.com",
@@ -14307,19 +14331,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "markukule.mk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:23.982879Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-18T09:24:04.308396Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "marshalpress.ge",
       "mobileSummary": {},
       "desktopSummary": {
@@ -14545,19 +14556,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "megawrzuta.pl",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-22T20:01:59.330712Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-22T20:01:59.100936926Z",
-        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -25953,6 +25951,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-08T21:20:07.950272Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "youxxxporn.org",
+      "mobileSummary": {
+        "lastChangeTime": "2018-07-03T01:29:03.404928Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-02T01:29:02.785063390Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
