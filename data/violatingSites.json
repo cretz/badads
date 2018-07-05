@@ -1856,13 +1856,14 @@
       "reviewedSite": "animeshow.tv",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:05:55.365849Z",
+        "lastChangeTime": "2018-07-05T14:59:10.264206Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4427,13 +4428,13 @@
     {
       "reviewedSite": "brigittedadaux.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-05T14:51:40.699875Z",
+        "lastChangeTime": "2018-07-05T14:51:40.851923Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-05T14:51:40.037735Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -9595,19 +9596,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "glpress.it",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:11.979480Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "gm-worldmag.com",
@@ -15136,18 +15124,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "mugshotssantacruz.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:26.603117Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "mujerhoy.com",
       "mobileSummary": {
         "lastChangeTime": "2018-05-15T16:48:40.338230Z",
@@ -18715,13 +18691,13 @@
     {
       "reviewedSite": "radioportuense.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-05T14:58:15.849612Z",
+        "lastChangeTime": "2018-07-05T14:58:15.464573Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-05T14:58:15.044881Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-06-04T15:25:47.363657Z",
@@ -20640,19 +20616,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "snaiper-bg.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-18T16:04:31.314199Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-18T16:04:31.029416Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "soccerjumbotv.me",
       "mobileSummary": {},
       "desktopSummary": {
@@ -21984,6 +21947,27 @@
       }
     },
     {
+      "reviewedSite": "terminalmilazzo.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-07-05T09:27:04.136401Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-04T09:27:03.126757023Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-05T09:27:03.354136Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-04T09:27:02.261638693Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "termo.bg",
       "mobileSummary": {
         "lastChangeTime": "2018-06-29T08:14:22.456529Z",
@@ -22430,7 +22414,7 @@
       "reviewedSite": "thexxx.pro",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-29T09:25:26.790566Z",
+        "lastChangeTime": "2018-07-05T09:26:47.844796Z",
         "region": [
           "REGION_B"
         ],
@@ -22576,6 +22560,19 @@
         "enforcementTime": "2018-02-17T07:24:44.352066Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "tittenbilder.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-07-05T11:10:27.625307Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-04T11:10:26.834355765Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "tlife.gr",
@@ -23278,6 +23275,18 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "tv2csoport.hu",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-05T09:15:24.770976Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "tvboxuzivogledanje.blogspot.rs",
@@ -24387,13 +24396,14 @@
       "reviewedSite": "volosfans.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-29T09:20:10.577860Z",
+        "lastChangeTime": "2018-07-05T12:44:43.434922Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-29T09:20:09.905013205Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -24471,15 +24481,7 @@
         "enforcementTime": "2018-06-17T14:47:32.161369Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-28T20:08:58.657513Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-21T21:48:27.863748Z",
-        "filterStatus": "PENDING"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "wacowny.com",
@@ -24779,7 +24781,14 @@
         "enforcementTime": "2018-02-23T00:25:41.235404Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-05T09:15:56.632923Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "wgrz.com",
