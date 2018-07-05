@@ -3144,13 +3144,13 @@
       "reviewedSite": "basketballstats.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-04T22:45:28.486174Z",
+        "lastChangeTime": "2018-07-04T22:45:28.503308Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-04T22:45:27.764500198Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -4807,20 +4807,6 @@
       }
     },
     {
-      "reviewedSite": "caymancompass.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-03T14:46:57.895785Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-25T02:59:19.786279605Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "cd.st",
       "mobileSummary": {
         "lastChangeTime": "2018-06-09T13:36:05.023507Z",
@@ -5883,13 +5869,13 @@
     {
       "reviewedSite": "culturehook.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-04T17:51:39.265057Z",
+        "lastChangeTime": "2018-07-04T17:51:39.015867Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-04T17:51:38.333581Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -13639,7 +13625,7 @@
       "reviewedSite": "lsmodteam.pl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-07T16:55:41.536895Z",
+        "lastChangeTime": "2018-07-04T17:50:53.654218Z",
         "region": [
           "REGION_B"
         ],
@@ -15850,6 +15836,18 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "newsbtc.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-04T16:59:57.854118Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "newsitaliane.it",
@@ -21235,13 +21233,13 @@
       "reviewedSite": "stadyum.tv",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-28T21:43:23.812486Z",
+        "lastChangeTime": "2018-07-04T16:56:56.737605Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-04T16:56:56.332180Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
