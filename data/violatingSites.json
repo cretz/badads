@@ -5608,19 +5608,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "cosmopolitan.pl",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-26T15:47:21.236404Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-26T15:47:19.647160Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "cotemaison.fr",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:03.452130Z",
@@ -8573,14 +8560,7 @@
         "enforcementTime": "2018-05-17T06:10:51.054338Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T17:55:43.671870Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "freeamateurebonyporn.com",
@@ -11131,11 +11111,12 @@
     {
       "reviewedSite": "imggram.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-22T23:06:51.732473Z",
+        "lastChangeTime": "2018-07-06T12:05:39.481032Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -11687,11 +11668,12 @@
     {
       "reviewedSite": "jolygram.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-22T22:08:29.696020Z",
+        "lastChangeTime": "2018-07-06T12:05:03.469577Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -12093,13 +12075,14 @@
       "reviewedSite": "kidscreen.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-25T03:57:17.125642Z",
+        "lastChangeTime": "2018-07-06T13:21:39.828879Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-25T03:57:16.058761935Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18676,19 +18659,6 @@
       }
     },
     {
-      "reviewedSite": "radioportuense.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-05T14:58:15.464573Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-05T14:58:15.044881Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "radioscoop.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:34.241937Z",
@@ -21587,11 +21557,12 @@
     {
       "reviewedSite": "tagsfeed.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-26T19:13:35.960350Z",
+        "lastChangeTime": "2018-07-06T11:45:09.936354Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
