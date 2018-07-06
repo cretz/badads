@@ -9870,20 +9870,6 @@
       }
     },
     {
-      "reviewedSite": "govtech.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-04T05:11:06.014454Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-25T04:59:38.231101071Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "gozar.pt",
       "mobileSummary": {},
       "desktopSummary": {
@@ -9933,13 +9919,14 @@
       "reviewedSite": "greektvlive.info",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-02T20:44:45.384523Z",
+        "lastChangeTime": "2018-07-05T23:42:10.282685Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-01T20:44:44.160576Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -10046,13 +10033,13 @@
     {
       "reviewedSite": "gununbankosu1.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-05T20:14:49.419323Z",
+        "lastChangeTime": "2018-07-05T20:14:49.074974Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-05T20:14:48.743490Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -12986,13 +12973,13 @@
     {
       "reviewedSite": "letemsvetemapplem.eu",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-05T20:15:26.587442Z",
+        "lastChangeTime": "2018-07-05T20:15:25.852050Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-05T20:15:25.558079Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -15365,19 +15352,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "mysports.ge",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:55:41.180713Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:55:40.904742047Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "mytop.fm",
       "mobileSummary": {},
       "desktopSummary": {
@@ -17475,7 +17449,7 @@
     {
       "reviewedSite": "pm360online.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-02T21:24:21.823296Z",
+        "lastChangeTime": "2018-07-05T17:42:20.489407Z",
         "region": [
           "REGION_UNKNOWN"
         ],
@@ -18700,11 +18674,12 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-04T15:25:47.363657Z",
+        "lastChangeTime": "2018-07-05T18:38:57.505519Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -21435,13 +21410,13 @@
     {
       "reviewedSite": "sublimedirectory.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-05T20:07:15.363560Z",
+        "lastChangeTime": "2018-07-05T20:07:14.213086Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-05T20:07:13.888283Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -24363,21 +24338,23 @@
     {
       "reviewedSite": "volgendevideo.nl",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-06T23:27:00.179879Z",
+        "lastChangeTime": "2018-07-05T18:42:02.163438Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-06T15:28:47.534560Z",
+        "lastChangeTime": "2018-07-05T18:39:33.738657Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-06T15:28:46.602176Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -25101,18 +25078,6 @@
       "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-07-04T08:14:54.929051Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "x-caleta2.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:49.630798Z",
         "region": [
           "REGION_B"
         ],
