@@ -7444,20 +7444,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "eventioggi.eu",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-06T06:37:51.139317Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-04T07:25:09.878926222Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "everythingorganized.org",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:08.381836Z",
@@ -15300,21 +15286,23 @@
     {
       "reviewedSite": "myhentaicomics.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:27.109848Z",
+        "lastChangeTime": "2018-07-07T15:28:58.410099Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-29T21:19:59.482054Z",
+        "lastChangeTime": "2018-07-07T15:28:37.143288Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-29T21:19:58.544349Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18998,23 +18986,16 @@
     {
       "reviewedSite": "recentnews.ro",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:57.802160Z",
+        "lastChangeTime": "2018-07-07T12:46:20.718685Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:53:57.592831162Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:54:10.636162Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:54:10.437685456Z",
-        "filterStatus": "ON"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "recettesaucompanion.com",
@@ -25134,7 +25115,7 @@
     {
       "reviewedSite": "xnxx-pornos.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-30T20:03:29.559969Z",
+        "lastChangeTime": "2018-07-07T14:46:01.120009Z",
         "region": [
           "REGION_B"
         ],
