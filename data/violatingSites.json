@@ -1448,22 +1448,24 @@
     {
       "reviewedSite": "altyapibasket.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-26T21:27:16.082538Z",
+        "lastChangeTime": "2018-07-08T15:48:56.210849Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-26T03:10:11.542763624Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-28T06:22:10.888270Z",
+        "lastChangeTime": "2018-07-08T15:48:11.665993Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-25T10:05:03.477238306Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -3509,13 +3511,13 @@
     {
       "reviewedSite": "bestcarreleasenews.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-08T08:44:57.669005Z",
+        "lastChangeTime": "2018-07-08T08:44:57.667733Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-08T08:44:56.742578679Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -3543,13 +3545,13 @@
     {
       "reviewedSite": "besthometheater-system.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-08T11:42:56.502576Z",
+        "lastChangeTime": "2018-07-08T11:42:56.253586Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-08T11:42:55.672891024Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -3569,13 +3571,13 @@
     {
       "reviewedSite": "betarena.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-03T21:36:48.686255Z",
+        "lastChangeTime": "2018-07-08T12:44:43.861994Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-08T12:44:43.310485663Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -3726,13 +3728,13 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-08T12:44:44.406946Z",
+        "lastChangeTime": "2018-07-08T12:44:44.330002Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-08T12:44:43.793665955Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -3751,13 +3753,13 @@
       "reviewedSite": "bigass-booty.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-08T12:44:45.143642Z",
+        "lastChangeTime": "2018-07-08T12:44:45.120808Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-08T12:44:44.646755609Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -4294,6 +4296,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "bozporn.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-08T08:09:37.851620Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-07T08:09:36.845523Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "brain-magazine.fr",
@@ -11117,19 +11132,6 @@
       }
     },
     {
-      "reviewedSite": "imggram.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-06T12:05:39.481032Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "imgs.to",
       "mobileSummary": {},
       "desktopSummary": {
@@ -11684,19 +11686,6 @@
         "enforcementTime": "2018-07-25T17:05:31.257276645Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "jolygram.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-06T12:05:03.469577Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "jornaiserevistas.com",
@@ -14657,7 +14646,15 @@
     },
     {
       "reviewedSite": "misterdocafe.blogspot.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-07-08T10:51:40.276716Z",
+        "region": [
+          "REGION_UNKNOWN"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-07T10:51:38.792837Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-07-03T10:09:53.495727Z",
         "region": [
@@ -17476,20 +17473,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "pm360online.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-05T17:42:20.489407Z",
-        "region": [
-          "REGION_UNKNOWN"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-05T17:42:19.934440Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
