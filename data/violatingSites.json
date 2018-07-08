@@ -3633,7 +3633,14 @@
     },
     {
       "reviewedSite": "betvirus.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-07-07T23:22:33.577782Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-07-02T16:57:27.982471Z",
         "region": [
@@ -8170,7 +8177,15 @@
     },
     {
       "reviewedSite": "firstincest.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-07-07T18:24:53.952014Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-06T18:24:53.150737Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-07-02T16:37:58.639177Z",
         "region": [
@@ -8180,19 +8195,6 @@
         "enforcementTime": "2018-08-01T16:37:57.832988Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "firstrows.xyz",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-15T21:57:23.008267Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-10T20:25:27.467177Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "fitnessrxformen.com",
@@ -14721,7 +14723,7 @@
     {
       "reviewedSite": "mixtapemonkey.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-07T00:50:44.608191Z",
+        "lastChangeTime": "2018-07-07T20:16:09.013749Z",
         "region": [
           "REGION_A"
         ],
@@ -18518,13 +18520,14 @@
       "reviewedSite": "qdick.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:33.839568Z",
+        "lastChangeTime": "2018-07-07T21:06:01.114471Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-17T19:25:20.543462Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -21179,13 +21182,14 @@
       "reviewedSite": "stadyum.tv",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-04T16:56:56.737605Z",
+        "lastChangeTime": "2018-07-07T17:47:48.187745Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-04T16:56:56.332180Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -21568,6 +21572,18 @@
         "enforcementTime": "2018-04-08T05:17:49.494678Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "szextortenetek.info",
+      "mobileSummary": {
+        "lastChangeTime": "2018-07-07T20:11:46.166114Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "szextortenetek.top",
@@ -25109,20 +25125,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-26T19:13:37.621923719Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "xnxx-pornos.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-07T14:46:01.120009Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-07T14:46:00.164587Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
