@@ -2401,13 +2401,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-08T18:24:31.970827Z",
+        "lastChangeTime": "2018-07-08T18:24:31.212076Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-08T18:24:30.896192Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -3623,26 +3623,26 @@
     {
       "reviewedSite": "betvigo1.tv",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-08T17:43:02.054003Z",
+        "lastChangeTime": "2018-07-08T17:43:01.622346Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-08T17:43:01.168754193Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "betvigo2.tv",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-08T16:42:49.811372Z",
+        "lastChangeTime": "2018-07-08T16:42:49.721453Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-08T16:42:49.229247335Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -18315,13 +18315,14 @@
     {
       "reviewedSite": "programki.com.ua",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T07:23:12.085748Z",
+        "lastChangeTime": "2018-07-08T16:00:51.070091Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-29T07:23:11.503898193Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -18975,20 +18976,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-03T16:24:06.698170Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "recentnews.ro",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-07T12:46:20.718685Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:53:57.592831162Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -23923,13 +23910,14 @@
       "reviewedSite": "vasculardiseasemanagement.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-28T07:27:04.315490Z",
+        "lastChangeTime": "2018-07-08T19:24:35.363982Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-28T07:27:03.825430523Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
