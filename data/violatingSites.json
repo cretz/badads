@@ -3487,13 +3487,13 @@
     {
       "reviewedSite": "bet-mate.co",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-14T09:03:48.403934Z",
+        "lastChangeTime": "2018-07-14T09:03:47.979168Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-14T09:03:47.549357Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -9573,20 +9573,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "gewinnzahlen.guru",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-29T07:30:03.326764Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-29T07:23:08.593803191Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "gifsitesi.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10419,13 +10405,13 @@
       "reviewedSite": "hdfilmevreni1.org",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-14T11:47:46.080361Z",
+        "lastChangeTime": "2018-07-14T11:47:45.734099Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-14T11:47:45.134302646Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -11420,20 +11406,6 @@
       }
     },
     {
-      "reviewedSite": "institutionalinvestor.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-13T02:20:03.135017Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-25T11:12:03.902482199Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "insurancebusinessmag.com",
       "mobileSummary": {
         "lastChangeTime": "2018-06-26T07:10:47.246571Z",
@@ -11576,20 +11548,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-22T20:01:31.445417658Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "itbrief.com.au",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-13T02:31:42.250969Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-12T02:20:26.550593348Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -13632,13 +13590,14 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-13T14:48:36.764396Z",
+        "lastChangeTime": "2018-07-14T12:30:38.926178Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-13T14:48:36.358450Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14590,15 +14549,7 @@
         "enforcementTime": "2018-04-20T21:54:19.450136030Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:54:16.895233Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:54:16.690225379Z",
-        "filterStatus": "ON"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "menorcaaldia.com",
@@ -20414,13 +20365,14 @@
       "reviewedSite": "seasonedsprinkles.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-13T01:23:33.414617Z",
+        "lastChangeTime": "2018-07-14T15:08:27.989507Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-12T01:23:32.483072692Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
