@@ -4999,19 +4999,6 @@
       }
     },
     {
-      "reviewedSite": "cinemaplanet.pt",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-20T21:53:24.742120Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:53:24.428116846Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "cinemotion-kino.de",
       "mobileSummary": {},
       "desktopSummary": {
@@ -6611,11 +6598,12 @@
     {
       "reviewedSite": "dragonballtime.tv",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-26T20:53:16.929294Z",
+        "lastChangeTime": "2018-07-14T16:18:15.752770Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -8579,13 +8567,13 @@
       "reviewedSite": "fraccata.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-14T18:05:47.109717Z",
+        "lastChangeTime": "2018-07-14T18:05:46.713811Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-14T18:05:46.251067Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -15144,13 +15132,13 @@
       "reviewedSite": "moviezine.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-14T20:01:02.633941Z",
+        "lastChangeTime": "2018-07-14T20:01:02.304520Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-14T20:01:01.916507628Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18044,13 +18032,13 @@
       "reviewedSite": "porncomix.site",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-14T20:01:02.104743Z",
+        "lastChangeTime": "2018-07-14T20:01:01.606437Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-14T20:01:01.399099119Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18388,13 +18376,14 @@
     {
       "reviewedSite": "pornot.cz",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-06T21:36:47.987613Z",
+        "lastChangeTime": "2018-07-14T19:02:08.370078Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-05T21:36:46.698486Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
