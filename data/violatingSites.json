@@ -5931,13 +5931,14 @@
       "reviewedSite": "dabancada.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-03-22T20:00:57.191673Z",
+        "lastChangeTime": "2018-07-17T18:02:33.932802Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-03-22T20:00:56.962528949Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8865,20 +8866,6 @@
       }
     },
     {
-      "reviewedSite": "freenews.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-16T10:59:51.451875Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-23T01:03:39.910533245Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "freepornotv.net",
       "mobileSummary": {
         "lastChangeTime": "2018-03-22T20:01:02.830519Z",
@@ -9299,13 +9286,14 @@
       "reviewedSite": "fxstreet.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-22T20:07:27.748056Z",
+        "lastChangeTime": "2018-07-17T21:15:22.349259Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-22T20:07:27.132893767Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -10160,20 +10148,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-11T14:25:19.504352783Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "governing.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-17T15:27:31.713450Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-22T18:10:52.481287153Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14630,13 +14604,14 @@
       "reviewedSite": "masteringpersiancooking.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-11T13:05:23.852805Z",
+        "lastChangeTime": "2018-07-17T19:39:39.985431Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-10T13:05:23.011354041Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20703,6 +20678,19 @@
       }
     },
     {
+      "reviewedSite": "schrank.info",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-17T17:00:38.991194Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-16T17:00:37.814650424Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "schul-wissen.de",
       "mobileSummary": {
         "lastChangeTime": "2018-06-29T08:14:23.593017Z",
@@ -21352,20 +21340,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "simplemost.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-17T13:16:28.564641Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-09T14:02:52.878967Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "simplyhealth.today",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:38.273388Z",
@@ -21961,19 +21935,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-02T16:23:08.547585Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "sporter.ge",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:52:44.604580Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:52:44.383311956Z",
         "filterStatus": "ON"
       }
     },
@@ -22644,6 +22605,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-15T15:45:56.281023301Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "sweetmagazine.com.au",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-17T17:00:39.964451Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-16T17:00:38.877976873Z",
         "filterStatus": "PENDING"
       }
     },
@@ -26138,6 +26112,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "willbakeforbooks.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-17T18:54:34.104813Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-16T18:54:32.957117844Z",
+        "filterStatus": "PENDING"
       }
     },
     {
