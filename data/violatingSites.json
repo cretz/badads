@@ -1788,15 +1788,7 @@
         "enforcementTime": "2018-03-18T22:24:13.796160Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:05:55.334474Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-17T19:25:15.022803Z",
-        "filterStatus": "ON"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "animela.com",
@@ -5931,20 +5923,6 @@
       }
     },
     {
-      "reviewedSite": "dabancada.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-17T18:02:33.932802Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:00:56.962528949Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "dachyb2b.pl",
       "mobileSummary": {},
       "desktopSummary": {
@@ -6528,6 +6506,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "dkick.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-19T03:03:24.615156Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-18T03:03:23.997779805Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -8378,14 +8369,13 @@
       "reviewedSite": "flixreel.is",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-17T09:35:57.538339Z",
+        "lastChangeTime": "2018-07-19T06:59:15.993700Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-07-22T20:07:22.999852852Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -13852,19 +13842,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "lmndaily.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:22.552438Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "local8now.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:22.506358Z",
@@ -19095,13 +19072,14 @@
     {
       "reviewedSite": "pregnancything.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-16T13:42:04.609563Z",
+        "lastChangeTime": "2018-07-19T02:46:20.870844Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-15T13:42:03.954553013Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -24132,20 +24110,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "totalfantasy.es",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-17T09:11:47.246441Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-08T09:31:51.661157013Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "totalfootball.am",
       "mobileSummary": {},
       "desktopSummary": {
@@ -24383,6 +24347,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-25T01:59:04.190743809Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "tsontes-mounia.blogspot.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-19T03:03:24.128733Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-18T03:03:23.379008635Z",
         "filterStatus": "PENDING"
       }
     },
