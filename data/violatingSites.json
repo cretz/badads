@@ -11232,13 +11232,13 @@
     {
       "reviewedSite": "igfap.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-21T00:13:17.669844Z",
+        "lastChangeTime": "2018-07-21T00:13:17.842465Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-21T00:13:16.946128Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-06-21T17:38:02.128267Z",
@@ -12309,20 +12309,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-19T03:51:55.960663Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "kathrynskitchenblog.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-19T20:09:27.615461Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-17T02:45:27.666083531Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -16297,20 +16283,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-12T07:57:59.002825710Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "newlifeayahuasca.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-19T23:46:47.667019Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-18T23:33:48.396914150Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -20503,19 +20475,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "russian-luxus.de",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-20T21:53:45.384689Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:53:45.124986800Z",
-        "filterStatus": "ON"
       }
     },
     {
