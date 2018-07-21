@@ -19746,13 +19746,14 @@
       "reviewedSite": "rar.bg",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-12T03:16:16.304934Z",
+        "lastChangeTime": "2018-07-21T09:46:11.974010Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-11T03:16:15.618067961Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20059,19 +20060,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "repage6.de",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-22T20:02:21.689532Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-22T20:02:21.469366601Z",
-        "filterStatus": "ON"
-      }
     },
     {
       "reviewedSite": "replika.in.ua",
@@ -25925,13 +25913,14 @@
     {
       "reviewedSite": "wartokupic.co",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-17T10:46:17.269686Z",
+        "lastChangeTime": "2018-07-21T10:30:54.056562Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-16T10:46:16.436424314Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -27225,13 +27214,14 @@
       "reviewedSite": "zamunda.bg",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-28T06:22:11.683002Z",
+        "lastChangeTime": "2018-07-21T09:44:18.389864Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-28T06:22:10.773958782Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
