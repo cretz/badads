@@ -11106,13 +11106,14 @@
     {
       "reviewedSite": "hurriyetoto.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-23T00:04:46.147634Z",
+        "lastChangeTime": "2018-07-22T11:06:47.769232Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-23T00:04:45.718720866Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -19115,13 +19116,14 @@
       "reviewedSite": "primetweets.com.ng",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-25T16:00:12.510833Z",
+        "lastChangeTime": "2018-07-22T12:37:24.054273Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-25T16:00:11.973466004Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -19727,20 +19729,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "rar.bg",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-21T09:46:11.974010Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-11T03:16:15.618067961Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "ratkojat.fi",
@@ -22216,19 +22204,6 @@
         "enforcementTime": "2018-04-22T11:58:03.381020Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "sporturkiye.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-20T16:42:25.565560Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "sportvsonlineshds.com",
@@ -27194,20 +27169,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-25T20:07:57.529181973Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "zamunda.bg",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-21T09:44:18.389864Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-28T06:22:10.773958782Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
