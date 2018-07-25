@@ -14139,13 +14139,14 @@
       "reviewedSite": "live-agones.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-23T20:20:05.219057Z",
+        "lastChangeTime": "2018-07-24T20:59:09.233860Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-22T20:20:04.041565Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18422,7 +18423,7 @@
       "reviewedSite": "pauznet.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-23T22:59:03.659006Z",
+        "lastChangeTime": "2018-07-24T23:26:04.784500Z",
         "region": [
           "REGION_B"
         ],
@@ -22604,12 +22605,11 @@
       "reviewedSite": "sonnikpro.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-24T05:50:38.194113Z",
+        "lastChangeTime": "2018-07-24T20:56:53.309466Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -25048,20 +25048,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "tralala.gr",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-22T22:18:40.814593Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-25T04:59:40.658250005Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "transex-live.eu",
@@ -28277,20 +28263,6 @@
         "betterAdsStatus": "FAILING",
         "underReview": true,
         "enforcementTime": "2018-07-25T18:05:33.032217078Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
-      "reviewedSite": "zeitklicks.de",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-23T10:09:52.371799Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-25T02:59:18.718586527Z",
         "filterStatus": "PAUSED"
       }
     },
