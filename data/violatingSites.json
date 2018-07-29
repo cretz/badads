@@ -1878,13 +1878,13 @@
     {
       "reviewedSite": "appcheating.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T14:10:05.584690Z",
+        "lastChangeTime": "2018-07-29T14:10:05.005775Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T14:10:04.598041595Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-07-15T03:00:04.469786Z",
@@ -5777,11 +5777,12 @@
       "reviewedSite": "cuisineculinaire.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-23T17:56:18.100624Z",
+        "lastChangeTime": "2018-07-29T15:40:39.507436Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -6308,13 +6309,14 @@
       "reviewedSite": "didimmarket.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-06T05:15:28.906504Z",
+        "lastChangeTime": "2018-07-29T09:42:01.135356Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-05T05:15:28.019788303Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6607,13 +6609,13 @@
       "reviewedSite": "dobreporno.pl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-29T10:09:46.540685Z",
+        "lastChangeTime": "2018-07-29T10:09:45.882464Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T10:09:45.590967520Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -8698,13 +8700,13 @@
       "reviewedSite": "forex-ratings.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-29T12:13:48.354976Z",
+        "lastChangeTime": "2018-07-29T12:13:48.060371Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T12:13:47.656770410Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9177,13 +9179,13 @@
     {
       "reviewedSite": "freeyoungebonyporn.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T10:09:51.271154Z",
+        "lastChangeTime": "2018-07-29T10:09:50.783137Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T10:09:50.408047886Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -12224,13 +12226,13 @@
       "reviewedSite": "janusznosacz.pl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-29T10:09:52.116471Z",
+        "lastChangeTime": "2018-07-29T10:09:51.385573Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T10:09:51.090582548Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -12641,13 +12643,13 @@
     {
       "reviewedSite": "kactaaciliyor.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T09:20:06.841782Z",
+        "lastChangeTime": "2018-07-29T09:20:06.564891Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T09:20:06.241311310Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-07-28T13:44:26.714765Z",
@@ -14440,13 +14442,13 @@
       "reviewedSite": "localbiz-timis.ro",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-29T09:20:11.053077Z",
+        "lastChangeTime": "2018-07-29T09:20:10.832854Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T09:20:10.438024439Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -14756,13 +14758,14 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-07T01:39:51.305657Z",
+        "lastChangeTime": "2018-07-29T11:11:07.069879Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15215,13 +15218,13 @@
       "reviewedSite": "mathewtegha.com.ng",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-29T10:09:49.381609Z",
+        "lastChangeTime": "2018-07-29T10:09:48.633398Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T10:09:48.383545129Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -20116,13 +20119,13 @@
     {
       "reviewedSite": "publicaffairsnews.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T09:20:09.006120Z",
+        "lastChangeTime": "2018-07-29T09:20:08.779142Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T09:20:08.352517051Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -20579,13 +20582,13 @@
     {
       "reviewedSite": "readnewcastle.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T08:14:21.053898Z",
+        "lastChangeTime": "2018-07-29T08:14:20.664431Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T08:14:20.285103910Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -20932,13 +20935,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-29T15:10:44.225446Z",
+        "lastChangeTime": "2018-07-29T15:10:43.526958Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T15:10:43.142597920Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21510,22 +21513,22 @@
     {
       "reviewedSite": "schul-wissen.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T08:14:23.593017Z",
+        "lastChangeTime": "2018-07-29T08:14:23.331810Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T08:14:23.129431051Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-29T08:14:23.216286Z",
+        "lastChangeTime": "2018-07-29T08:14:22.955683Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T08:14:22.329338377Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21673,22 +21676,22 @@
     {
       "reviewedSite": "sei80.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T10:09:48.173754Z",
+        "lastChangeTime": "2018-07-29T10:09:47.633069Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T10:09:47.437891054Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-29T10:09:47.533351Z",
+        "lastChangeTime": "2018-07-29T10:09:47.055844Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T10:09:46.634941957Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -22375,13 +22378,13 @@
     {
       "reviewedSite": "skriptomaniya.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T09:20:12.041434Z",
+        "lastChangeTime": "2018-07-29T09:20:11.420249Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T09:20:10.936485602Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -24090,22 +24093,22 @@
     {
       "reviewedSite": "termo.bg",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T08:14:22.456529Z",
+        "lastChangeTime": "2018-07-29T08:14:22.240284Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T08:14:21.935992367Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-29T08:14:22.094762Z",
+        "lastChangeTime": "2018-07-29T08:14:21.945860Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T08:14:21.495817339Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -25042,13 +25045,13 @@
       "reviewedSite": "topxx.xyz",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-29T10:09:50.650675Z",
+        "lastChangeTime": "2018-07-29T10:09:49.757486Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T10:09:49.348212445Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
