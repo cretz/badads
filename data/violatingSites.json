@@ -4262,13 +4262,13 @@
       "reviewedSite": "budowlane-abc.pl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-29T07:23:13.799556Z",
+        "lastChangeTime": "2018-07-29T07:23:13.097448Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T07:23:12.886169530Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -8169,13 +8169,13 @@
     {
       "reviewedSite": "fetischfilme.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T06:07:03.055194Z",
+        "lastChangeTime": "2018-07-29T06:07:02.608810Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T06:07:02.153919182Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -8735,13 +8735,13 @@
     {
       "reviewedSite": "forgotify.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T07:23:11.649229Z",
+        "lastChangeTime": "2018-07-29T07:23:11.399629Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T07:23:10.857498881Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -12594,13 +12594,13 @@
     {
       "reviewedSite": "k--k.club",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T07:23:12.972562Z",
+        "lastChangeTime": "2018-07-29T07:23:12.369924Z",
         "region": [
           "REGION_UNKNOWN"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T07:23:11.967108993Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-07-28T15:09:04.830253Z",
@@ -15985,20 +15985,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "molndalsposten.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-27T08:09:38.365443Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-25T17:05:29.880072387Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "mon-showcolat-mes-gourmandises.com",
       "mobileSummary": {
         "lastChangeTime": "2018-04-11T19:15:25.648382Z",
@@ -16973,13 +16959,13 @@
     {
       "reviewedSite": "newcarreleasenews.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T06:07:05.012787Z",
+        "lastChangeTime": "2018-07-29T06:07:04.990502Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T06:07:04.417733218Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -20567,24 +20553,25 @@
     {
       "reviewedSite": "readceltic.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T06:07:02.357088Z",
+        "lastChangeTime": "2018-07-29T06:07:02.084072Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T06:07:01.713793242Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "readingeagle.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-10T12:24:32.846498Z",
+        "lastChangeTime": "2018-07-29T02:59:36.549027Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -20605,13 +20592,13 @@
     {
       "reviewedSite": "readsouthampton.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-29T06:07:00.833386Z",
+        "lastChangeTime": "2018-07-29T06:07:00.497442Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T06:07:00.006282073Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
