@@ -3983,7 +3983,7 @@
       "reviewedSite": "borsainside.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-25T21:13:06.287804Z",
+        "lastChangeTime": "2018-07-31T13:01:54.802757Z",
         "region": [
           "REGION_B"
         ],
@@ -5776,13 +5776,13 @@
       "reviewedSite": "cuisineculinaire.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-29T15:40:39.507436Z",
+        "lastChangeTime": "2018-07-31T15:37:43.366307Z",
         "region": [
           "REGION_UNKNOWN"
         ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-30T15:37:42.632018Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -7544,19 +7544,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "eroticiracconti.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-30T08:17:04.628499Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "erotikfilme.net",
       "mobileSummary": {
         "lastChangeTime": "2018-06-26T18:16:10.419400Z",
@@ -8302,12 +8289,13 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-05-18T16:32:59.002572Z",
+        "lastChangeTime": "2018-07-31T14:08:03.627413Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-30T14:08:02.068570Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -13377,13 +13365,14 @@
       "reviewedSite": "koncentruotai.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-30T14:34:37.945724Z",
+        "lastChangeTime": "2018-07-31T08:29:11.148840Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-29T14:34:37.002344425Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15028,16 +15017,7 @@
         "enforcementTime": "2018-08-09T19:21:27.382923Z",
         "filterStatus": "PENDING"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-29T11:11:07.069879Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "madeinportugalmusica.pt",
@@ -15083,6 +15063,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:52:50.323228210Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "magnetpip.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-07-31T12:33:30.766869Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-30T12:33:29.346164767Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -19161,6 +19154,19 @@
         "enforcementTime": "2018-05-09T04:59:29.911989Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "pixelbrush.ru",
+      "mobileSummary": {
+        "lastChangeTime": "2018-07-31T12:33:31.766466Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-30T12:33:30.657260335Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "pixelcanvas.io",
@@ -27899,6 +27905,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "winterbluemusic.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-07-31T12:33:32.909420Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-30T12:33:31.688257669Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
