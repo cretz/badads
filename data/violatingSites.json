@@ -83,7 +83,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-02T20:02:23.681498Z",
+        "lastChangeTime": "2018-08-02T06:16:24.212274Z",
         "region": [
           "REGION_B"
         ],
@@ -509,7 +509,7 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-10T01:18:23.958349Z",
+        "lastChangeTime": "2018-08-02T04:31:19.216602Z",
         "region": [
           "REGION_B"
         ],
@@ -4299,13 +4299,13 @@
       "reviewedSite": "buradanizle.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-03T01:29:02.935810Z",
+        "lastChangeTime": "2018-08-02T01:29:02.439213Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-02T01:29:01.891603055Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -4610,22 +4610,22 @@
     {
       "reviewedSite": "caxemirabet.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-03T01:29:04.443605Z",
+        "lastChangeTime": "2018-08-02T01:29:04.230258Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-02T01:29:03.884302588Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-03T01:29:04.035304Z",
+        "lastChangeTime": "2018-08-02T01:29:03.681541Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-02T01:29:03.261343389Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -19918,6 +19918,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "pornokil.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-02T01:43:45.324528Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "pornolarbizden.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -21656,7 +21668,7 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-02T19:33:11.017998Z",
+        "lastChangeTime": "2018-08-02T05:44:26.205981Z",
         "region": [
           "REGION_B"
         ],
@@ -23078,18 +23090,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "sonnikpro.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-24T20:56:53.309466Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "soombo.com",
       "mobileSummary": {
         "lastChangeTime": "2018-06-26T19:13:39.135079Z",
@@ -23582,6 +23582,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-30T08:25:07.025878Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "sportygossip.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-02T01:43:46.981027Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-01T01:43:45.728116517Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -26504,28 +26517,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "unacasapiugrande.it",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-31T16:06:01.068947Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-31T16:05:11.694069Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-30T02:38:32.820322027Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "undermyumbrella.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -28818,13 +28809,13 @@
     {
       "reviewedSite": "youxxxporn.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-03T01:29:03.404928Z",
+        "lastChangeTime": "2018-08-02T01:29:03.010800Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-02T01:29:02.785063390Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
