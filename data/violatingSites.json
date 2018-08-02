@@ -3061,12 +3061,13 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-25T20:18:39.170993Z",
+        "lastChangeTime": "2018-08-01T23:00:09.921794Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-08-31T23:00:08.807319Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -5878,13 +5879,13 @@
       "reviewedSite": "cyprusbasket.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-02T16:22:11.818222Z",
+        "lastChangeTime": "2018-08-01T16:22:11.570812Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-01T16:22:11.133840699Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -8670,13 +8671,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-02T16:37:58.639177Z",
+        "lastChangeTime": "2018-08-01T16:37:58.126507Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-01T16:37:57.832988Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9998,13 +9999,14 @@
       "reviewedSite": "gerila.rs",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-01T15:14:36.644849Z",
+        "lastChangeTime": "2018-08-01T16:12:33.028910Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-01T15:14:35.899051939Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12186,13 +12188,14 @@
       "reviewedSite": "inplantgraphics.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-04T08:14:54.221571Z",
+        "lastChangeTime": "2018-08-01T17:57:04.003953Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-03T08:14:53.357257295Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12503,13 +12506,13 @@
     {
       "reviewedSite": "jebovizija.info",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-02T17:12:26.881344Z",
+        "lastChangeTime": "2018-08-01T17:12:26.172530Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-01T17:12:25.771980Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -13413,20 +13416,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "koncentruotai.blogspot.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-31T08:29:11.148840Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-29T14:34:37.002344425Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "koreadaily.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:20.478060Z",
@@ -13479,13 +13468,13 @@
     {
       "reviewedSite": "kpsstabanpuanlari.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-02T17:19:10.023851Z",
+        "lastChangeTime": "2018-08-01T17:19:09.460610Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-01T17:19:08.956323715Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -15777,13 +15766,13 @@
       "reviewedSite": "melihozdamar.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-02T18:16:50.305824Z",
+        "lastChangeTime": "2018-08-01T18:16:49.919829Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-01T18:16:49.460635343Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18503,13 +18492,12 @@
     {
       "reviewedSite": "ovarnews.pt",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-15T23:42:29.896520Z",
+        "lastChangeTime": "2018-08-01T22:26:06.692969Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-15T23:42:29.470941Z",
-        "filterStatus": "ON"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -23489,13 +23477,13 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-02T19:58:03.354684Z",
+        "lastChangeTime": "2018-08-01T19:58:02.988259Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-01T19:58:02.429852Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -24854,13 +24842,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-02T20:11:44.146555Z",
+        "lastChangeTime": "2018-08-01T20:11:43.476865Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-01T20:11:43.215238Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
