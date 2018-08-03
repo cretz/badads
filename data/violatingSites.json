@@ -2256,7 +2256,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-08T18:24:31.212076Z",
+        "lastChangeTime": "2018-08-03T00:32:24.688667Z",
         "region": [
           "REGION_B"
         ],
@@ -12233,19 +12233,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "iranx.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-03T17:03:12.344488Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-28T18:10:00.774776Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "irish-boxing.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13015,6 +13002,18 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "kdf.org",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-03T00:51:12.174142Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "kdhnews.com",
@@ -18918,19 +18917,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "perekool.ee",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-02T22:19:53.186521Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "perfect-ask.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:31.124803Z",
@@ -19136,19 +19122,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "pikdo.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-06T21:00:50.406957Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-08-05T21:00:49.541280Z",
-        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
