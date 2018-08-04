@@ -8609,6 +8609,18 @@
       }
     },
     {
+      "reviewedSite": "financialjuneteenth.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-04T04:15:34.840073Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "financialpatrol.com",
       "mobileSummary": {
         "lastChangeTime": "2018-04-28T20:07:32.051452Z",
@@ -9913,22 +9925,22 @@
     {
       "reviewedSite": "geo-bg.bg",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-05T04:24:53.646648Z",
+        "lastChangeTime": "2018-08-04T04:24:53.432870Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-04T04:24:53.131849550Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-05T04:24:53.280963Z",
+        "lastChangeTime": "2018-08-04T04:24:52.973082Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-04T04:24:52.468405236Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -14491,7 +14503,7 @@
         "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-27T10:50:47.949652Z",
+        "lastChangeTime": "2018-08-04T07:03:31.021074Z",
         "region": [
           "REGION_B"
         ],
@@ -19245,13 +19257,13 @@
     {
       "reviewedSite": "playerwiveswiki.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-05T06:23:46.257088Z",
+        "lastChangeTime": "2018-08-04T06:23:45.805192Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-04T06:23:45.279989Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -19278,6 +19290,18 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "pm360online.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-04T04:05:31.074874Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "pocko.cz",
@@ -25456,13 +25480,13 @@
       "reviewedSite": "totalfootball.am",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-05T05:27:30.457180Z",
+        "lastChangeTime": "2018-08-04T05:27:29.924923Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-04T05:27:29.566631769Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -28731,13 +28755,13 @@
       "reviewedSite": "zanas.eu",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-05T07:31:12.550241Z",
+        "lastChangeTime": "2018-08-04T07:31:11.688903Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-04T07:31:11.306178Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
