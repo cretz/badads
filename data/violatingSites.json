@@ -13056,11 +13056,12 @@
       "reviewedSite": "kidzactivities.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-02T19:32:18.028905Z",
+        "lastChangeTime": "2018-08-04T08:17:12.721180Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -17045,13 +17046,14 @@
     {
       "reviewedSite": "nature-and-garden.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-26T18:16:09.338348Z",
+        "lastChangeTime": "2018-08-04T08:29:10.777805Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-26T18:16:08.953688107Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -24455,22 +24457,22 @@
     {
       "reviewedSite": "terminalmilazzo.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-05T09:27:04.136401Z",
+        "lastChangeTime": "2018-08-04T09:27:03.458762Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-04T09:27:03.126757023Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-05T09:27:03.354136Z",
+        "lastChangeTime": "2018-08-04T09:27:02.814040Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-04T09:27:02.261638693Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -25240,13 +25242,13 @@
     {
       "reviewedSite": "tittenbilder.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-05T11:10:27.625307Z",
+        "lastChangeTime": "2018-08-04T11:10:27.424122Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-04T11:10:26.834355765Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -26708,13 +26710,14 @@
     {
       "reviewedSite": "vedmedyk69.in.ua",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-31T01:32:55.537591Z",
+        "lastChangeTime": "2018-08-04T14:32:29.764925Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-30T01:32:54.438465302Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
