@@ -21545,13 +21545,14 @@
     {
       "reviewedSite": "ruyalarinanlami.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-26T07:10:46.501381Z",
+        "lastChangeTime": "2018-08-04T22:22:40.196467Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-26T07:10:46.026530913Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
