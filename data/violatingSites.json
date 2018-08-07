@@ -234,13 +234,13 @@
     {
       "reviewedSite": "24trelleborg.se",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-08T00:36:24.666172Z",
+        "lastChangeTime": "2018-08-07T00:36:23.789480Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-07T00:36:23.317183Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -11688,13 +11688,13 @@
       "reviewedSite": "hubpornnet.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-08T05:49:09.711244Z",
+        "lastChangeTime": "2018-08-07T05:49:09.453703Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-07T05:49:08.892914Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16202,20 +16202,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "moderntiredealer.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-06T22:40:05.890785Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-09T09:09:31.811864Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "moffittoaks.com",
