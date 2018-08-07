@@ -1982,7 +1982,15 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-06T18:18:08.999260Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-05T18:18:08.022005Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "arconaitv.co",
@@ -6562,6 +6570,19 @@
       }
     },
     {
+      "reviewedSite": "diziyo2.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-06T22:15:33.817432Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-05T22:15:32.172370Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "dizmir.com",
       "mobileSummary": {
         "lastChangeTime": "2018-07-30T17:33:09.489125Z",
@@ -8635,13 +8656,13 @@
     {
       "reviewedSite": "firstincest.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-07T18:24:53.952014Z",
+        "lastChangeTime": "2018-08-06T18:24:53.657101Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-06T18:24:53.150737Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-08-01T16:37:58.126507Z",
@@ -11026,6 +11047,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "hdfilmekrani.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-06T16:40:50.593553Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-05T16:40:49.289343Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "hdfilmevreni.co",
@@ -16172,13 +16206,14 @@
     {
       "reviewedSite": "moderntiredealer.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-10T09:09:32.780756Z",
+        "lastChangeTime": "2018-08-06T22:40:05.890785Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-09T09:09:31.811864Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -16949,7 +16984,7 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-03T09:22:04.931637Z",
+        "lastChangeTime": "2018-08-06T18:16:17.404341Z",
         "region": [
           "REGION_B"
         ],
@@ -18215,7 +18250,7 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-04-16T04:33:09.539939Z",
+        "lastChangeTime": "2018-08-06T21:44:15.047882Z",
         "region": [
           "REGION_B"
         ],
@@ -22213,13 +22248,14 @@
     {
       "reviewedSite": "sexualstories.club",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-24T08:34:27.889840Z",
+        "lastChangeTime": "2018-08-06T21:20:31.688514Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-23T08:34:26.777039033Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
