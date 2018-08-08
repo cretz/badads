@@ -3735,7 +3735,15 @@
         "enforcementTime": "2018-07-12T16:49:47.607061Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-07T17:43:28.048745Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-06T17:43:27.067375Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "bitigee.com",
@@ -8178,18 +8186,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-01T14:17:53.785379311Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "fapdex.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-12T14:33:05.826812Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       }
     },
     {
@@ -12802,6 +12798,19 @@
       }
     },
     {
+      "reviewedSite": "justintv-izle.tv",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-07T19:10:48.800386Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-06T19:10:47.630134Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "justintvizle.tv",
       "mobileSummary": {},
       "desktopSummary": {
@@ -17265,7 +17274,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-26T14:55:45.588141Z",
+        "lastChangeTime": "2018-08-07T18:36:59.042617Z",
         "region": [
           "REGION_B"
         ],
@@ -19099,6 +19108,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "perfectgirls.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-07T21:49:25.575555Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "underReview": true,
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "perfectlady.ro",
@@ -23792,20 +23814,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "status.kh.ua",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-06T07:53:47.945886Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-25T08:36:14.100158366Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "stealthestyle.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -24100,13 +24108,14 @@
       "reviewedSite": "sustainmycrafthabit.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-18T06:42:56.584359Z",
+        "lastChangeTime": "2018-08-07T19:41:03.083309Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-17T06:42:55.900746984Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
