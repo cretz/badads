@@ -2151,11 +2151,12 @@
       "reviewedSite": "asthune.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-23T15:33:22.799714Z",
+        "lastChangeTime": "2018-08-09T11:34:23.720731Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -6027,13 +6028,14 @@
       "reviewedSite": "dailypress-bg.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-05T05:15:29.680799Z",
+        "lastChangeTime": "2018-08-09T13:34:25.660245Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-05T05:15:28.943259336Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15531,13 +15533,14 @@
       "reviewedSite": "mahaslovelyhome.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-17T02:48:02.382690Z",
+        "lastChangeTime": "2018-08-09T14:58:18.959998Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-16T02:48:01.511376845Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -24104,13 +24107,13 @@
       "reviewedSite": "sprinklesandsauce.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-10T08:06:22.258348Z",
+        "lastChangeTime": "2018-08-09T08:06:21.970380Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-09T08:06:21.474415464Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -26861,13 +26864,13 @@
       "reviewedSite": "twinmom.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-10T09:10:19.384001Z",
+        "lastChangeTime": "2018-08-09T09:10:19.236788Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-09T09:10:18.836915862Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -29487,13 +29490,14 @@
     {
       "reviewedSite": "zarabotok.net.ua",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-12T12:10:19.719596Z",
+        "lastChangeTime": "2018-08-09T12:33:11.624113Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-11T12:10:19.041279716Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
