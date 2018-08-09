@@ -4548,13 +4548,13 @@
     {
       "reviewedSite": "carreleasepreview.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-10T02:16:34.115664Z",
+        "lastChangeTime": "2018-08-09T02:16:32.952895Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-09T02:16:32.573738285Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -8280,13 +8280,13 @@
     {
       "reviewedSite": "fantamaster.it",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-10T02:16:34.682457Z",
+        "lastChangeTime": "2018-08-09T02:16:34.304235Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-09T02:16:33.850014543Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -8587,17 +8587,9 @@
     },
     {
       "reviewedSite": "fiilmizle.org",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-15T11:53:01.828864Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-15T11:53:01.364878Z",
-        "filterStatus": "ON"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-13T13:44:54.820805Z",
+        "lastChangeTime": "2018-08-09T05:20:22.521533Z",
         "region": [
           "REGION_B"
         ],
@@ -10486,12 +10478,13 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-06-01T05:36:19.400549Z",
+        "lastChangeTime": "2018-08-09T03:09:57.890638Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-08T03:09:57.151253Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -14529,13 +14522,13 @@
       "reviewedSite": "letsbeyummy.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-10T03:10:59.274576Z",
+        "lastChangeTime": "2018-08-09T03:10:58.746091Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-09T03:10:58.302563385Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -17400,13 +17393,13 @@
       "reviewedSite": "najciekawszeprojekty.pl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-10T02:16:31.045483Z",
+        "lastChangeTime": "2018-08-09T02:16:30.468354Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-09T02:16:30.073828562Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -20255,13 +20248,13 @@
     {
       "reviewedSite": "pornlolz.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-10T02:16:32.492344Z",
+        "lastChangeTime": "2018-08-09T02:16:32.219935Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-09T02:16:31.969998284Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -21900,13 +21893,13 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-10T07:09:33.777340Z",
+        "lastChangeTime": "2018-08-09T07:09:33.169250Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-09T07:09:32.850649958Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -28412,13 +28405,14 @@
       "reviewedSite": "wikifeet.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-08T21:58:59.865730Z",
+        "lastChangeTime": "2018-08-09T07:46:21.887498Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-07T21:58:58.266358Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
