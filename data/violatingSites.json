@@ -10366,20 +10366,6 @@
       }
     },
     {
-      "reviewedSite": "giornaledelnuovo.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-10T16:14:05.427109Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-15T13:42:07.390042544Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "giornaledimontesilvano.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13512,13 +13498,14 @@
     {
       "reviewedSite": "kayseriolay.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:19.794356Z",
+        "lastChangeTime": "2018-08-11T22:47:13.596020Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -19792,13 +19779,13 @@
     {
       "reviewedSite": "pharmacymagazine.co.uk",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-12T16:21:33.272486Z",
+        "lastChangeTime": "2018-08-11T16:21:32.799330Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-11T16:21:32.452588836Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -20648,13 +20635,13 @@
     {
       "reviewedSite": "pornomonster.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-12T22:56:44.026660Z",
+        "lastChangeTime": "2018-08-11T22:56:43.323830Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-11T22:56:42.949876279Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -22086,13 +22073,13 @@
       "reviewedSite": "rideaurouge.fr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-12T20:16:07.042540Z",
+        "lastChangeTime": "2018-08-11T20:16:06.138472Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-11T20:16:05.813820300Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -22765,13 +22752,13 @@
     {
       "reviewedSite": "ser.im",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-12T22:56:45.506007Z",
+        "lastChangeTime": "2018-08-11T22:56:44.178679Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-11T22:56:43.819069274Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -29684,22 +29671,22 @@
     {
       "reviewedSite": "zbrojovaci.cz",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-12T22:56:46.408275Z",
+        "lastChangeTime": "2018-08-11T22:56:45.527401Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-11T22:56:45.219631024Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-12T21:17:32.622972Z",
+        "lastChangeTime": "2018-08-11T21:17:32.135612Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-11T21:17:31.679363362Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
