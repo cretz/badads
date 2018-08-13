@@ -6005,22 +6005,24 @@
     {
       "reviewedSite": "daily-news.gr",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-11T15:33:21.624192Z",
+        "lastChangeTime": "2018-08-12T18:59:19.334207Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-07T13:33:24.533277297Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-11T15:33:21.452911Z",
+        "lastChangeTime": "2018-08-12T18:59:09.469725Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-06T12:32:28.789227667Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15727,13 +15729,13 @@
       "reviewedSite": "makrowin.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-13T19:15:03.653747Z",
+        "lastChangeTime": "2018-08-12T19:15:03.207744Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-12T19:15:02.842738892Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18059,13 +18061,13 @@
     {
       "reviewedSite": "newsfantacalcio.it",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-13T17:18:54.030151Z",
+        "lastChangeTime": "2018-08-12T17:18:53.783891Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-12T17:18:53.450727030Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -20286,20 +20288,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "porncomix.site",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-11T01:39:02.533997Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-14T20:01:01.399099119Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "pornevaluations.com",
