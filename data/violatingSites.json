@@ -4030,13 +4030,14 @@
     {
       "reviewedSite": "boxofficeoutlook.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-03T15:44:12.856152Z",
+        "lastChangeTime": "2018-08-13T21:28:03.145431Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-06-03T15:44:12.389812Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -4241,6 +4242,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-29T07:23:12.886169530Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "budowlanki.pl",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-13T22:34:28.746707Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -6229,6 +6242,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "datacentrenews.eu",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-13T22:34:29.295526Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-12T22:34:28.776850607Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "dauphingourmet.com",
       "mobileSummary": {
         "lastChangeTime": "2018-06-15T17:56:29.265525Z",
@@ -7892,13 +7918,14 @@
       "reviewedSite": "erkekvetrend.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-12T06:18:19.679931Z",
+        "lastChangeTime": "2018-08-13T20:41:37.915378Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-12T06:18:19.293407775Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -9246,19 +9273,6 @@
         "enforcementTime": "2018-08-08T03:19:16.779400645Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "forumprofi.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-05T21:53:18.581313Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-08-05T21:53:18.188631Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "fotbalovavidea.cz",
@@ -11984,7 +11998,15 @@
     },
     {
       "reviewedSite": "hockeymagasinet.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-13T16:53:30.063693Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-12T16:53:29.151430Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-08-08T09:31:30.939504Z",
         "region": [
@@ -12505,6 +12527,18 @@
       }
     },
     {
+      "reviewedSite": "ilovenovels.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-13T16:12:24.726270Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "imajbet250.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13009,6 +13043,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "jablonka.info",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-13T17:27:15.026845Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-12T17:27:14.201824Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -18717,7 +18764,7 @@
       "reviewedSite": "nudecollect.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-31T19:02:51.739317Z",
+        "lastChangeTime": "2018-08-13T22:53:08.800400Z",
         "region": [
           "REGION_B"
         ],
@@ -27690,6 +27737,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "ultrasloko.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-13T16:39:42.478137Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "undermyumbrella.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -28185,6 +28244,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-23T19:25:49.626949Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "vigeoismonbourg.fr",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-13T17:35:20.478234Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
