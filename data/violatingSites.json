@@ -4028,20 +4028,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "boxofficeoutlook.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-13T21:28:03.145431Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-06-03T15:44:12.389812Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "bozporn.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -4398,6 +4384,18 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "bureau21.fr",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-14T11:34:23.739104Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "buryfc.co.uk",
@@ -6420,19 +6418,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-30T17:33:24.440535814Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "delfi.lt",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-08T18:48:21.595158Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-07T18:48:20.809999Z",
         "filterStatus": "PENDING"
       }
     },
@@ -26411,13 +26396,14 @@
       "reviewedSite": "thevideobee.to",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-31T18:12:28.990350Z",
+        "lastChangeTime": "2018-08-14T11:43:05.810496Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-30T18:12:27.977572Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
