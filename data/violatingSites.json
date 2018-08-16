@@ -12119,13 +12119,13 @@
       "reviewedSite": "hookers.rs",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-17T13:11:08.012160Z",
+        "lastChangeTime": "2018-08-16T13:11:07.909642Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-16T13:11:07.475431518Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13323,22 +13323,24 @@
     {
       "reviewedSite": "jornaldeleiria.pt",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-26T18:16:07.332621Z",
+        "lastChangeTime": "2018-08-16T11:49:05.828815Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-26T18:16:06.877556336Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-25T20:07:58.959082Z",
+        "lastChangeTime": "2018-08-16T11:48:45.374487Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-25T20:07:58.382053084Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14108,13 +14110,13 @@
       "reviewedSite": "kodiboss.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-17T13:11:09.450514Z",
+        "lastChangeTime": "2018-08-16T13:11:08.815067Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-16T13:11:08.376994244Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16385,20 +16387,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-10T13:47:09.685680Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "mariestadstidningen.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-15T06:07:36.415137Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-25T04:59:40.178095094Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -22821,19 +22809,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "rtn.ch",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-19T20:03:35.035425Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-19T20:03:34.282139Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "rtpa.es",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:35.990376Z",
@@ -24107,20 +24082,6 @@
       }
     },
     {
-      "reviewedSite": "sla.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-15T06:40:38.597047Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-25T06:59:28.078447870Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "slet.org.ua",
       "mobileSummary": {
         "lastChangeTime": "2018-07-30T16:31:46.520936Z",
@@ -25005,13 +24966,13 @@
       "reviewedSite": "srpski-porno.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-17T08:42:39.817678Z",
+        "lastChangeTime": "2018-08-16T08:42:38.888552Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-16T08:42:38.426567348Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
