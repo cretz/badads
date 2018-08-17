@@ -711,18 +711,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "acousticguitar.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-06T22:21:48.167620Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "aculpaedoslb.blogspot.pt",
       "mobileSummary": {},
       "desktopSummary": {
@@ -9205,6 +9193,18 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "footy.dk",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-16T21:08:35.098597Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "forexkredihaber.com",
@@ -20673,13 +20673,14 @@
     {
       "reviewedSite": "poplife.it",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-23T17:30:52.705904Z",
+        "lastChangeTime": "2018-08-16T23:07:28.094195Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-22T17:30:51.886626708Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -23064,13 +23065,13 @@
       "reviewedSite": "schrank.info",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-17T17:00:38.991194Z",
+        "lastChangeTime": "2018-08-16T17:00:38.309857Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-16T17:00:37.814650424Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -25443,13 +25444,13 @@
       "reviewedSite": "sweetmagazine.com.au",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-17T17:00:39.964451Z",
+        "lastChangeTime": "2018-08-16T17:00:39.223499Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-16T17:00:38.877976873Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -26511,18 +26512,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "thesquander.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-16T08:38:24.171152Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       }
     },
     {
@@ -28510,6 +28499,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "vimedbarn.se",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-16T22:24:45.146245Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "vinereport.com",
       "mobileSummary": {
         "lastChangeTime": "2018-06-05T20:10:33.373176Z",
@@ -29320,13 +29321,13 @@
       "reviewedSite": "willbakeforbooks.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-17T18:54:34.104813Z",
+        "lastChangeTime": "2018-08-16T18:54:33.430752Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-16T18:54:32.957117844Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
