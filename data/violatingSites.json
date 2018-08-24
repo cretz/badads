@@ -179,7 +179,14 @@
     },
     {
       "reviewedSite": "24kristianstad.se",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T17:57:46.978024Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-07-27T23:40:00.147082Z",
         "region": [
@@ -266,15 +273,14 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "24ystad.se",
+      "reviewedSite": "24video.club",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-08T11:48:15.341704Z",
+        "lastChangeTime": "2018-08-23T16:34:41.293893Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-08-08T11:48:14.650703Z",
-        "filterStatus": "ON"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -865,19 +871,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "ageofshitlords.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:05:54.218665Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "agriniogoal.gr",
       "mobileSummary": {
         "lastChangeTime": "2018-08-20T10:33:35.220475Z",
@@ -1129,7 +1122,7 @@
     {
       "reviewedSite": "all-funny.info",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:05:54.619976Z",
+        "lastChangeTime": "2018-08-23T17:59:25.812410Z",
         "region": [
           "REGION_A"
         ],
@@ -1737,14 +1730,7 @@
     },
     {
       "reviewedSite": "arbitro10.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-09T20:09:22.090835Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-08-06T18:18:08.999260Z",
         "region": [
@@ -2042,6 +2028,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-20T07:34:27.091457550Z",
         "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "autocentrum.pl",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:02:45.339521Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -2554,15 +2552,7 @@
     },
     {
       "reviewedSite": "beachbabes.info",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-28T22:22:21.316526Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-28T22:22:20.985042Z",
-        "filterStatus": "ON"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-08-01T23:00:09.921794Z",
         "region": [
@@ -2805,7 +2795,14 @@
     },
     {
       "reviewedSite": "bestclearomizer.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:03:56.736807Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-07-11T16:08:26.356278Z",
         "region": [
@@ -3051,13 +3048,12 @@
     {
       "reviewedSite": "bitchyourfamous.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-12T16:49:48.395289Z",
+        "lastChangeTime": "2018-08-23T18:05:04.081980Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-12T16:49:47.607061Z",
-        "filterStatus": "ON"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-08-07T17:43:28.048745Z",
@@ -3460,7 +3456,15 @@
         "enforcementTime": "2018-07-21T19:46:05.569565Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-23T16:49:06.052235Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-22T16:49:05.185207Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "brickunderground.com",
@@ -3970,7 +3974,7 @@
     {
       "reviewedSite": "carrumorsrelease.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-13T00:27:03.429898Z",
+        "lastChangeTime": "2018-08-23T17:37:54.521496Z",
         "region": [
           "REGION_A"
         ],
@@ -4391,7 +4395,7 @@
     {
       "reviewedSite": "classicpornfree.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-26T21:27:13.508217Z",
+        "lastChangeTime": "2018-08-23T18:37:26.987081Z",
         "region": [
           "REGION_B"
         ],
@@ -4458,6 +4462,18 @@
         "lastChangeTime": "2018-03-06T16:06:02.079570Z",
         "region": [
           "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "clicklancashire.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:07:44.218582Z",
+        "region": [
+          "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
@@ -4647,13 +4663,12 @@
     {
       "reviewedSite": "comicsblog.fr",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-13T18:08:17.082742Z",
+        "lastChangeTime": "2018-08-23T18:08:08.013587Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-06-13T18:08:16.808001Z",
-        "filterStatus": "ON"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -4691,6 +4706,18 @@
         "enforcementTime": "2018-08-15T11:38:49.405434584Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "comunicare-ms.org",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:08:17.484560Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "confessionsdunegourmande.com",
@@ -4938,7 +4965,7 @@
     {
       "reviewedSite": "crazyxbox.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-12T13:20:33.727428Z",
+        "lastChangeTime": "2018-08-23T18:37:27.882795Z",
         "region": [
           "REGION_B"
         ],
@@ -4986,19 +5013,6 @@
         "enforcementTime": "2018-09-21T00:34:25.985266435Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "cricfree.sc",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-13T12:52:58.760624Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-13T12:52:58.471183Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "cricfree.sx",
@@ -5329,7 +5343,14 @@
     },
     {
       "reviewedSite": "dailystarscy.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:09:36.853961Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-07-27T17:05:30.953288Z",
         "region": [
@@ -5722,7 +5743,7 @@
     {
       "reviewedSite": "dierennamen.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-26T08:10:20.251149Z",
+        "lastChangeTime": "2018-08-23T16:34:41.943028Z",
         "region": [
           "REGION_B"
         ],
@@ -6091,7 +6112,7 @@
     {
       "reviewedSite": "dognotebook.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-10T20:55:28.317063Z",
+        "lastChangeTime": "2018-08-23T18:12:54.120350Z",
         "region": [
           "REGION_A"
         ],
@@ -6594,6 +6615,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "ecstasymodel.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:15:02.477725Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "ecupirates.com",
       "mobileSummary": {
         "lastChangeTime": "2018-08-20T08:33:17.143676Z",
@@ -7005,6 +7038,18 @@
       }
     },
     {
+      "reviewedSite": "enjoyfuck.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:15:41.029043Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "enteresan.com",
       "mobileSummary": {
         "lastChangeTime": "2018-08-20T07:36:44.512978Z",
@@ -7090,7 +7135,14 @@
     },
     {
       "reviewedSite": "epmag.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:15:47.911646Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-07-23T19:53:13.966113Z",
         "region": [
@@ -7175,7 +7227,7 @@
     {
       "reviewedSite": "erotikfilme.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-26T18:16:10.419400Z",
+        "lastChangeTime": "2018-08-23T16:34:42.801412Z",
         "region": [
           "REGION_B"
         ],
@@ -7284,7 +7336,7 @@
     {
       "reviewedSite": "estudiaruniversidad.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-26T18:16:08.917950Z",
+        "lastChangeTime": "2018-08-23T16:34:43.462126Z",
         "region": [
           "REGION_B"
         ],
@@ -7343,18 +7395,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "evdekimseyok74.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-13T20:33:35.752244Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -7672,18 +7712,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "fantasti.cc",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:08.758775Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "fantastictvsite.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -7695,6 +7723,18 @@
         "enforcementTime": "2018-08-01T14:17:53.785379311Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "fapd.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:17:41.057365Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "farmwifefeeds.com",
@@ -7774,6 +7814,19 @@
       }
     },
     {
+      "reviewedSite": "feat.az",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:18:18.649303Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "underReview": true,
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "federalisttribune.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:08.862221Z",
@@ -7851,7 +7904,7 @@
     {
       "reviewedSite": "feyadoma.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-20T16:35:07.295849Z",
+        "lastChangeTime": "2018-08-23T18:18:40.044341Z",
         "region": [
           "REGION_B"
         ],
@@ -8444,7 +8497,7 @@
     {
       "reviewedSite": "fotbollsvm.se",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-23T12:33:42.118057Z",
+        "lastChangeTime": "2018-08-23T18:37:28.536292Z",
         "region": [
           "REGION_B"
         ],
@@ -8494,7 +8547,14 @@
     },
     {
       "reviewedSite": "fraccata.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:21:15.756387Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-07-26T20:43:42.824961Z",
         "region": [
@@ -8686,18 +8746,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "frprn.xxx",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-03T00:07:47.147554Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "frtorrent.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -8864,13 +8912,12 @@
     {
       "reviewedSite": "fullyawaremind.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:10.352596Z",
+        "lastChangeTime": "2018-08-23T18:23:01.781116Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -9218,7 +9265,14 @@
     },
     {
       "reviewedSite": "geiletaschenporno.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:24:35.928974Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-08-06T13:22:12.554090Z",
         "region": [
@@ -9542,15 +9596,7 @@
     },
     {
       "reviewedSite": "goga.tv",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-09T17:52:20.293179Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-08-09T17:50:52.097331Z",
         "region": [
@@ -9851,6 +9897,18 @@
       }
     },
     {
+      "reviewedSite": "gratis-mmorpg.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:26:16.767186Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "gravia-studio.ru",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10025,6 +10083,18 @@
       }
     },
     {
+      "reviewedSite": "haaretz.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:27:08.427557Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "haber10.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:13.283455Z",
@@ -10139,7 +10209,7 @@
     {
       "reviewedSite": "hausfrauen-pornos.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-15T17:45:09.814757Z",
+        "lastChangeTime": "2018-08-23T16:34:44.159384Z",
         "region": [
           "REGION_B"
         ],
@@ -10320,12 +10390,13 @@
     {
       "reviewedSite": "hdpornfree.club",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-15T20:39:06.619280Z",
+        "lastChangeTime": "2018-08-23T18:28:02.084428Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-22T18:27:59.995167Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -10339,18 +10410,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-29T14:34:36.069509806Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "hdvid.tv",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-26T16:56:28.075117Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -10388,6 +10447,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-17T14:29:51.239554Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "healthydiet24.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:28:24.199396Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -10566,6 +10637,18 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
+    },
+    {
+      "reviewedSite": "hollyfame.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:29:19.675773Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "homeaquaponics.website",
@@ -10981,15 +11064,7 @@
     },
     {
       "reviewedSite": "igfap.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-21T00:13:17.842465Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-21T00:13:16.946128Z",
-        "filterStatus": "ON"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-08-07T11:13:53.218260Z",
         "region": [
@@ -11192,7 +11267,7 @@
     {
       "reviewedSite": "infos24.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-15T05:38:35.319985Z",
+        "lastChangeTime": "2018-08-23T18:37:29.088504Z",
         "region": [
           "REGION_B"
         ],
@@ -11213,12 +11288,13 @@
     {
       "reviewedSite": "insidefutbol.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-27T02:15:25.196818Z",
+        "lastChangeTime": "2018-08-23T17:37:55.734422Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-22T17:37:54.550206743Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -11394,6 +11470,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "ittexnoall.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:31:34.310108Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "iv.pl",
       "mobileSummary": {},
       "desktopSummary": {
@@ -11510,18 +11598,6 @@
       "reviewedSite": "jellyshare.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-22T22:25:04.238559Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "jewsnews.co.il",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:17.885401Z",
         "region": [
           "REGION_A"
         ],
@@ -11968,7 +12044,7 @@
     {
       "reviewedSite": "kiddie-events.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-27T04:33:56.890065Z",
+        "lastChangeTime": "2018-08-23T18:37:29.689734Z",
         "region": [
           "REGION_B"
         ],
@@ -11988,18 +12064,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-26T19:13:38.093183540Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "kimcartoon.io",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-10T21:20:27.051729Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -12224,12 +12288,13 @@
     {
       "reviewedSite": "komikler.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-26T13:06:19.540435Z",
+        "lastChangeTime": "2018-08-23T16:34:44.919521Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-22T16:34:44.188078768Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -12645,13 +12710,12 @@
     {
       "reviewedSite": "legorafi.fr",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-05T23:50:47.983677Z",
+        "lastChangeTime": "2018-08-23T18:33:46.130822Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-08-05T23:50:47.624605Z",
-        "filterStatus": "ON"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -13115,16 +13179,7 @@
     },
     {
       "reviewedSite": "livemacizle.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-08T20:06:59.673208Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-08T20:06:58.901634Z",
-        "filterStatus": "PAUSED"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-08-04T07:03:31.021074Z",
         "region": [
@@ -13853,6 +13908,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "makeyourlifehealthier.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:37:24.230229Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "maktel.mk",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13864,6 +13931,18 @@
         "enforcementTime": "2018-07-25T13:14:48.416990585Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "malgusto.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:37:49.594958Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "maltafootball.com",
@@ -14120,6 +14199,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "matemasextape.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:38:57.766770Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "mathewtegha.com.ng",
       "mobileSummary": {},
       "desktopSummary": {
@@ -14181,6 +14272,20 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-18T03:53:08.502128878Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "maxicep.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T20:14:05.768289Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "underReview": true,
+        "enforcementTime": "2018-09-22T18:40:09.595293Z",
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -14292,18 +14397,6 @@
         "enforcementTime": "2018-02-18T07:24:28.038455Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "memecenter.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-03T22:32:32.603224Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "memekmanja.com",
@@ -14684,7 +14777,7 @@
     {
       "reviewedSite": "molibaike.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-16T00:52:32.449461Z",
+        "lastChangeTime": "2018-08-23T17:37:56.055225Z",
         "region": [
           "REGION_A"
         ],
@@ -15041,6 +15134,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "multiplesclerosisnewstoday.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:42:00.042997Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "mundogoal.tv",
       "mobileSummary": {
         "lastChangeTime": "2018-08-13T06:33:19.123717Z",
@@ -15206,13 +15311,12 @@
     {
       "reviewedSite": "mymmanews.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-26T22:11:02.168393Z",
+        "lastChangeTime": "2018-08-23T18:42:54.113442Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-05-26T22:11:01.697627Z",
-        "filterStatus": "ON"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -15235,6 +15339,18 @@
         "lastChangeTime": "2018-04-17T05:37:02.456978Z",
         "region": [
           "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "mysteriousearth.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:43:09.827571Z",
+        "region": [
+          "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
@@ -15302,15 +15418,7 @@
     },
     {
       "reviewedSite": "nakedbeach.info",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-08T20:13:51.720872Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-08-08T20:13:51.093380Z",
-        "filterStatus": "ON"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-08-06T18:16:17.404341Z",
         "region": [
@@ -15595,7 +15703,7 @@
     {
       "reviewedSite": "neufshares.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-08T14:35:11.092755Z",
+        "lastChangeTime": "2018-08-23T16:34:45.376496Z",
         "region": [
           "REGION_B"
         ],
@@ -15608,12 +15716,13 @@
     {
       "reviewedSite": "neukvideo.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-31T02:38:30.200334Z",
+        "lastChangeTime": "2018-08-23T17:37:57.478934Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-22T17:37:56.085306777Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -15698,12 +15807,11 @@
     {
       "reviewedSite": "newravel.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:28.002200Z",
+        "lastChangeTime": "2018-08-23T18:44:21.078904Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -15968,7 +16076,7 @@
     {
       "reviewedSite": "northcountrynow.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-05T21:09:04.311560Z",
+        "lastChangeTime": "2018-08-23T18:45:00.424064Z",
         "region": [
           "REGION_A"
         ],
@@ -16153,13 +16261,12 @@
     {
       "reviewedSite": "nudeteenphotos.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-15T17:24:45.921073Z",
+        "lastChangeTime": "2018-08-23T18:45:36.685946Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-15T17:24:45.643643Z",
-        "filterStatus": "ON"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-08-20T14:34:18.036378Z",
@@ -16222,7 +16329,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-12T06:18:20.926278Z",
+        "lastChangeTime": "2018-08-23T17:37:57.788708Z",
         "region": [
           "REGION_B"
         ],
@@ -16317,6 +16424,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "odelices.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:45:59.163734Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-22T18:45:56.864464Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -16484,12 +16604,13 @@
     {
       "reviewedSite": "onlygayvideo.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-26T22:06:54.544699Z",
+        "lastChangeTime": "2018-08-23T18:46:29.385699Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-22T18:46:26.750310Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-08-06T21:44:15.047882Z",
@@ -16542,7 +16663,7 @@
     {
       "reviewedSite": "ophthalmologymanagement.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-03T13:33:40.507960Z",
+        "lastChangeTime": "2018-08-23T18:46:36.600224Z",
         "region": [
           "REGION_A"
         ],
@@ -16739,19 +16860,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "paidbooks.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-13T14:31:20.515187Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-06-13T14:31:20.133570Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "painolympics.org",
       "mobileSummary": {},
       "desktopSummary": {
@@ -16800,6 +16908,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-12T09:33:58.417165601Z",
         "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "parentsdome.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:47:14.284646Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -17194,7 +17314,7 @@
     {
       "reviewedSite": "pharmacymagazine.co.uk",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-11T16:21:32.799330Z",
+        "lastChangeTime": "2018-08-23T19:39:37.127445Z",
         "region": [
           "REGION_B"
         ],
@@ -17391,6 +17511,18 @@
       "reviewedSite": "plbold.dk",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:32.056832Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "pleermp3.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:48:58.973190Z",
         "region": [
           "REGION_B"
         ],
@@ -17609,19 +17741,6 @@
       }
     },
     {
-      "reviewedSite": "porn00.org",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:32.425837Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "pornblackebony.com",
       "mobileSummary": {
         "lastChangeTime": "2018-08-21T05:33:42.335363Z",
@@ -17724,7 +17843,7 @@
     {
       "reviewedSite": "pornissimo.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-29T21:30:46.323890Z",
+        "lastChangeTime": "2018-08-23T18:50:25.592897Z",
         "region": [
           "REGION_B"
         ],
@@ -17819,7 +17938,20 @@
     {
       "reviewedSite": "porno-shara.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-11T18:10:15.674515Z",
+        "lastChangeTime": "2018-08-23T17:37:58.796771Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-22T17:37:57.817535569Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "pornodiesel.tv",
+      "mobileSummary": {
+        "lastChangeTime": "2018-03-06T16:06:32.336086Z",
         "region": [
           "REGION_B"
         ],
@@ -17829,9 +17961,9 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "pornodiesel.tv",
+      "reviewedSite": "pornofelix.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:32.336086Z",
+        "lastChangeTime": "2018-08-23T18:51:26.642318Z",
         "region": [
           "REGION_B"
         ],
@@ -17891,18 +18023,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "pornomovies.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:32.413212Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "pornorama.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:32.413212Z",
@@ -17931,7 +18051,7 @@
     {
       "reviewedSite": "pornosexefr.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-27T02:15:25.720504Z",
+        "lastChangeTime": "2018-08-23T17:37:58.997550Z",
         "region": [
           "REGION_B"
         ],
@@ -17995,7 +18115,14 @@
     },
     {
       "reviewedSite": "pornslurp.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:53:12.349559Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-08-07T11:51:44.216577Z",
         "region": [
@@ -18172,7 +18299,7 @@
     {
       "reviewedSite": "pressclub.az",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-09T17:32:19.264080Z",
+        "lastChangeTime": "2018-08-23T18:54:15.255200Z",
         "region": [
           "REGION_B"
         ],
@@ -18278,6 +18405,18 @@
         "enforcementTime": "2018-03-29T17:23:36.414131Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "projektoskop.pl",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:54:40.232471Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "pronews.gr",
@@ -18501,20 +18640,6 @@
       }
     },
     {
-      "reviewedSite": "quizfactory.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-23T04:22:36.758226Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-09T15:23:47.136528Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "quotidianomolise.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:34.065728Z",
@@ -18546,6 +18671,18 @@
         "enforcementTime": "2018-04-20T21:50:27.051343318Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "racinguismo.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:55:52.655506Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "radio1.si",
@@ -18696,6 +18833,33 @@
       }
     },
     {
+      "reviewedSite": "rap4ever.org",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:56:21.823465Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "underReview": true,
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "rapdaily.org",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T22:49:33.400865Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "underReview": true,
+        "enforcementTime": "2018-09-22T18:56:25.485460Z",
+        "filterStatus": "PAUSED"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "rapeasian.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18707,19 +18871,6 @@
         "enforcementTime": "2018-04-19T15:53:27.747761Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "raped-moms.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-06T22:41:15.054518Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-06T22:41:14.446108Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "ratkojat.fi",
@@ -18824,13 +18975,12 @@
     {
       "reviewedSite": "reaxxion.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-03T16:24:07.324678Z",
+        "lastChangeTime": "2018-08-23T18:56:58.573747Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-06-03T16:24:06.698170Z",
-        "filterStatus": "ON"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -19375,7 +19525,7 @@
     {
       "reviewedSite": "sab.bz",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-08T06:29:57.798852Z",
+        "lastChangeTime": "2018-08-23T18:58:32.682970Z",
         "region": [
           "REGION_B"
         ],
@@ -19556,19 +19706,6 @@
       }
     },
     {
-      "reviewedSite": "scribol.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:37.110182Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "se-skepseis.gr",
       "mobileSummary": {},
       "desktopSummary": {
@@ -19672,6 +19809,18 @@
         "enforcementTime": "2018-08-15T19:50:07.733374032Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "seqsports.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T18:59:16.059015Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "ser.im",
@@ -20102,7 +20251,7 @@
     {
       "reviewedSite": "shkodranews.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-30T14:34:36.872170Z",
+        "lastChangeTime": "2018-08-23T17:37:59.777980Z",
         "region": [
           "REGION_B"
         ],
@@ -20203,13 +20352,13 @@
     {
       "reviewedSite": "simchaspot.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-30T10:49:03.498841Z",
+        "lastChangeTime": "2018-08-23T19:02:16.088164Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-22T19:02:14.112688Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -20651,7 +20800,7 @@
     {
       "reviewedSite": "soombo.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-26T19:13:39.135079Z",
+        "lastChangeTime": "2018-08-23T18:37:30.224679Z",
         "region": [
           "REGION_B"
         ],
@@ -21197,7 +21346,7 @@
     {
       "reviewedSite": "stars-hommes-nus.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-26T21:27:14.653150Z",
+        "lastChangeTime": "2018-08-23T18:37:31.009941Z",
         "region": [
           "REGION_B"
         ],
@@ -21248,7 +21397,7 @@
     {
       "reviewedSite": "storieslesbian.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-26T12:07:02.905481Z",
+        "lastChangeTime": "2018-08-23T18:37:31.914618Z",
         "region": [
           "REGION_B"
         ],
@@ -21453,13 +21602,12 @@
     {
       "reviewedSite": "superbeauties.club",
       "mobileSummary": {
-        "lastChangeTime": "2018-05-25T22:43:08.386112Z",
+        "lastChangeTime": "2018-08-23T19:04:18.346677Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-05-25T22:43:07.816446Z",
-        "filterStatus": "ON"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -21675,13 +21823,13 @@
     {
       "reviewedSite": "szextortenetek.info",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-31T16:35:31.990380Z",
+        "lastChangeTime": "2018-08-23T19:05:08.828528Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-22T19:05:07.016998Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-07-31T16:35:06.263932Z",
@@ -21795,7 +21943,15 @@
     },
     {
       "reviewedSite": "taskopruhaber.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T19:39:38.022569Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-22T19:39:37.156644821Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-08-22T05:34:08.400811Z",
         "region": [
@@ -21882,7 +22038,7 @@
     {
       "reviewedSite": "teen19porn.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-06-26T14:05:45.520269Z",
+        "lastChangeTime": "2018-08-23T19:39:38.190395Z",
         "region": [
           "REGION_B"
         ],
@@ -22067,6 +22223,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "teknolojisor.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T19:39:36.642684Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-22T19:39:35.870289535Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "tellymasti.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -22217,6 +22386,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-14T16:58:03.291662Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "thatpervert.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T19:06:30.329065Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -22605,6 +22786,19 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "thetabpost.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T19:07:30.369848Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-22T19:07:28.633272Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "thevideobee.to",
@@ -23055,7 +23249,7 @@
     {
       "reviewedSite": "transex-live.eu",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-16T04:48:04.474244Z",
+        "lastChangeTime": "2018-08-23T19:39:51.418414Z",
         "region": [
           "REGION_B"
         ],
@@ -23323,7 +23517,7 @@
     {
       "reviewedSite": "tuinkruiden.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-22T13:30:59.008507Z",
+        "lastChangeTime": "2018-08-23T19:40:01.918601Z",
         "region": [
           "REGION_B"
         ],
@@ -23351,6 +23545,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-19T04:33:55.664970083Z",
         "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "turf-pronostics.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T19:09:42.627938Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -23711,7 +23917,7 @@
     {
       "reviewedSite": "ubmedia.biz",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-26T14:05:47.758578Z",
+        "lastChangeTime": "2018-08-23T19:40:15.529364Z",
         "region": [
           "REGION_A"
         ],
@@ -23970,6 +24176,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "upplysning.se",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T19:10:59.618286Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "upsmetegelo.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -24129,7 +24347,14 @@
     },
     {
       "reviewedSite": "varporn.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-23T19:11:04.780850Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-08-15T14:57:14.449477Z",
         "region": [
@@ -24388,7 +24613,7 @@
     {
       "reviewedSite": "vintageporn.cc",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-15T17:45:06.177823Z",
+        "lastChangeTime": "2018-08-23T19:40:16.318092Z",
         "region": [
           "REGION_B"
         ],
@@ -24419,19 +24644,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "vipboxtv.se",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-31T19:21:05.299862Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-31T19:21:04.930453Z",
-        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -24825,15 +25037,7 @@
     },
     {
       "reviewedSite": "webm.land",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-15T17:03:38.868297Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-15T17:03:38.450284Z",
-        "filterStatus": "ON"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-07-26T20:40:08.801475Z",
         "region": [
@@ -24918,19 +25122,6 @@
         "enforcementTime": "2018-09-19T01:33:44.141633207Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "wetgaytube.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-11T22:55:56.457851Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-11T22:55:55.744351Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "wetttipps-heute.com",
@@ -25068,13 +25259,12 @@
     {
       "reviewedSite": "wijzespreuken.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-09T17:36:26.261286Z",
+        "lastChangeTime": "2018-08-23T19:14:41.744987Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-18T18:03:41.230286Z",
-        "filterStatus": "ON"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-08-03T17:40:24.801943Z",
@@ -25257,19 +25447,6 @@
       }
     },
     {
-      "reviewedSite": "wp.de",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-26T08:29:34.211796Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "wpfc.org",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:49.345813Z",
@@ -25346,14 +25523,7 @@
     },
     {
       "reviewedSite": "wwehd.info",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-10T18:08:15.086602Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-08-08T18:06:34.458133Z",
         "region": [
@@ -25550,12 +25720,13 @@
     {
       "reviewedSite": "xtrajuicy.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-09T09:31:53.048256Z",
+        "lastChangeTime": "2018-08-23T20:35:07.022082Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-22T20:35:05.757601527Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -25970,20 +26141,19 @@
     {
       "reviewedSite": "yourporntube.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-08T21:20:08.342201Z",
+        "lastChangeTime": "2018-08-23T19:19:21.947706Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-08T21:20:07.950272Z",
-        "filterStatus": "ON"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "youwife.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-31T04:32:38.714181Z",
+        "lastChangeTime": "2018-08-23T20:35:07.258043Z",
         "region": [
           "REGION_B"
         ],
@@ -26179,7 +26349,7 @@
     {
       "reviewedSite": "ziarulargesul.ro",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-27T05:15:31.508854Z",
+        "lastChangeTime": "2018-08-23T16:34:40.619927Z",
         "region": [
           "REGION_B"
         ],
