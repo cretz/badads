@@ -3788,7 +3788,7 @@
     {
       "reviewedSite": "buksi.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-10T07:33:07.123703Z",
+        "lastChangeTime": "2018-08-25T00:34:47.791601Z",
         "region": [
           "REGION_B"
         ],
@@ -4499,7 +4499,7 @@
     {
       "reviewedSite": "civil-rada.in.ua",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-10T07:33:08.883666Z",
+        "lastChangeTime": "2018-08-25T00:34:48.536744Z",
         "region": [
           "REGION_B"
         ],
@@ -5858,7 +5858,7 @@
     {
       "reviewedSite": "dialoguewebcam.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-10T06:34:25.001950Z",
+        "lastChangeTime": "2018-08-25T00:34:49.288850Z",
         "region": [
           "REGION_B"
         ],
@@ -6321,7 +6321,7 @@
       "reviewedSite": "dominikanische-republik-info.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-10T23:34:20.456564Z",
+        "lastChangeTime": "2018-08-25T00:34:50.652984Z",
         "region": [
           "REGION_B"
         ],
@@ -7039,7 +7039,7 @@
     {
       "reviewedSite": "elitni-mebli.kiev.ua",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-10T05:32:54.697303Z",
+        "lastChangeTime": "2018-08-25T00:34:50.064892Z",
         "region": [
           "REGION_B"
         ],
@@ -9301,7 +9301,7 @@
       "reviewedSite": "gaypornmarket.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-11T03:19:59.122533Z",
+        "lastChangeTime": "2018-08-25T00:34:51.757172Z",
         "region": [
           "REGION_B"
         ],
@@ -9866,7 +9866,7 @@
       "reviewedSite": "gomes.club",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-10T23:34:21.427336Z",
+        "lastChangeTime": "2018-08-25T00:34:52.382112Z",
         "region": [
           "REGION_B"
         ],
@@ -11990,7 +11990,7 @@
       "reviewedSite": "justintvizlex.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-30T07:32:52.644492Z",
+        "lastChangeTime": "2018-08-25T00:34:46.042055Z",
         "region": [
           "REGION_B"
         ],
@@ -13000,18 +13000,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-22T13:30:59.986287416Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "lescrabesdansentaucroisic.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-13T06:33:18.300141Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -15697,13 +15685,13 @@
     {
       "reviewedSite": "nefakt.info",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-26T04:41:29.033115Z",
+        "lastChangeTime": "2018-08-25T04:41:28.461896Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-25T04:41:28.115902477Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -16241,7 +16229,7 @@
     {
       "reviewedSite": "notioanatolika.gr",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-11T03:16:15.311729Z",
+        "lastChangeTime": "2018-08-25T02:33:51.457269Z",
         "region": [
           "REGION_B"
         ],
@@ -17167,12 +17155,13 @@
     {
       "reviewedSite": "paycall.co.il",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-08T21:33:27.010316Z",
+        "lastChangeTime": "2018-08-25T02:33:52.320062Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-24T02:33:51.492363209Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -17973,13 +17962,13 @@
     {
       "reviewedSite": "porno-sex-geschichten.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T12:35:40.041932Z",
+        "lastChangeTime": "2018-08-25T06:36:16.461542Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-25T06:36:16.145871531Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -18248,13 +18237,14 @@
       "reviewedSite": "portoatemorrer.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-24T23:34:58.587943Z",
+        "lastChangeTime": "2018-08-25T00:02:28.832861Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-23T23:34:57.592823033Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18286,22 +18276,22 @@
     {
       "reviewedSite": "poultrytimes.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T13:34:13.694998Z",
+        "lastChangeTime": "2018-08-25T06:36:17.529850Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-25T06:36:17.340187851Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-22T23:34:52.863092Z",
+        "lastChangeTime": "2018-08-25T06:36:17.141450Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-25T06:36:16.770539062Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -19616,13 +19606,13 @@
       "reviewedSite": "salutsunderland.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-24T19:34:43.518601Z",
+        "lastChangeTime": "2018-08-25T07:32:58.589440Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-25T07:32:58.182473153Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -25239,19 +25229,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "worldsbestwines.eu",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-23T04:26:24.082642Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "worldstarporn.net",
