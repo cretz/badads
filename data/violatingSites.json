@@ -4576,13 +4576,13 @@
     {
       "reviewedSite": "classicretropornmovies.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T05:36:39.772088Z",
+        "lastChangeTime": "2018-08-25T14:38:00.343093Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-25T14:37:59.980686813Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -6633,13 +6633,14 @@
     {
       "reviewedSite": "ecowoman-bosnian.tk",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-31T18:33:14.783010Z",
+        "lastChangeTime": "2018-08-25T13:11:05.276369Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-30T18:33:13.999587622Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -16299,13 +16300,14 @@
     {
       "reviewedSite": "nrgplayer.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T12:35:37.826827Z",
+        "lastChangeTime": "2018-08-25T09:19:05.313355Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-23T12:35:36.981608845Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -17327,18 +17329,6 @@
       "reviewedSite": "peterboroughtoday.co.uk",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:31.208489Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "petitrandonneur.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-13T06:33:19.654007Z",
         "region": [
           "REGION_B"
         ],
@@ -21202,6 +21192,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
@@ -21389,19 +21380,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-26T21:27:14.100857991Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "statusnoc.ru",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-13T06:33:21.070458Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-12T06:33:20.476051917Z",
-        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
