@@ -4002,19 +4002,6 @@
       }
     },
     {
-      "reviewedSite": "c-mw.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-13T06:33:22.480004Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-12T06:33:21.450519029Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "caasimada.net",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:05:59.947843Z",
@@ -4110,19 +4097,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-22T17:30:53.424921149Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "cardinal-balthasar.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-13T05:36:44.560886Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-12T05:36:43.525474657Z",
-        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -5312,13 +5286,14 @@
       "reviewedSite": "cuisineculinaire.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-31T15:37:43.366307Z",
+        "lastChangeTime": "2018-08-25T16:14:37.956155Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-30T15:37:42.632018Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -5809,18 +5784,6 @@
       "reviewedSite": "derryjournal.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:05.084022Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "desvelosdanslatete.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-13T07:34:28.581349Z",
         "region": [
           "REGION_B"
         ],
@@ -6340,19 +6303,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-19T03:33:33.205091150Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "domow.pl",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-13T02:32:51.863606Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-12T02:32:51.012252758Z",
         "filterStatus": "PENDING"
       }
     },
@@ -9289,13 +9239,13 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-26T20:43:20.201584Z",
+        "lastChangeTime": "2018-08-25T20:43:20.047685Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-25T20:43:19.496974Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -25548,20 +25498,6 @@
         "enforcementTime": "2018-07-25T01:59:07.035423663Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "xtrajuicy.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-24T00:55:55.306934Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-22T20:35:05.757601527Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "xtubeporn.com.es",
