@@ -9802,19 +9802,6 @@
       }
     },
     {
-      "reviewedSite": "goroskopohobvfw.appspot.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-13T08:34:10.368791Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-12T08:34:09.377160763Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "goruzont.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -11533,18 +11520,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "j-nora.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-13T02:32:55.040378Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "jablonka.info",
       "mobileSummary": {},
       "desktopSummary": {
@@ -11741,19 +11716,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-16T09:34:55.642914162Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "jukunude.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-13T02:32:56.115421Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-12T02:32:55.069792900Z",
         "filterStatus": "PENDING"
       }
     },
@@ -21634,13 +21596,13 @@
       "reviewedSite": "szextortenetek.website",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-27T16:23:19.342446Z",
+        "lastChangeTime": "2018-08-26T16:23:18.738006Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-26T16:23:18.305721Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
