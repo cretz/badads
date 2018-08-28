@@ -3740,18 +3740,6 @@
       }
     },
     {
-      "reviewedSite": "budowlanki.pl",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-13T22:34:28.746707Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "buduaar.ee",
       "mobileSummary": {},
       "desktopSummary": {
@@ -7336,7 +7324,7 @@
     {
       "reviewedSite": "estunt.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-14T00:37:05.224509Z",
+        "lastChangeTime": "2018-08-27T22:34:38.451286Z",
         "region": [
           "REGION_B"
         ],
@@ -7662,7 +7650,7 @@
     {
       "reviewedSite": "familyguytv.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-31T04:32:39.299906Z",
+        "lastChangeTime": "2018-08-27T19:35:40.230395Z",
         "region": [
           "REGION_B"
         ],
@@ -13017,7 +13005,7 @@
       "reviewedSite": "live-agones.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-07-24T20:59:09.233860Z",
+        "lastChangeTime": "2018-08-27T23:55:32.179917Z",
         "region": [
           "REGION_B"
         ],
@@ -21814,7 +21802,7 @@
     {
       "reviewedSite": "teknolojisor.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-23T19:39:36.642684Z",
+        "lastChangeTime": "2018-08-27T19:35:41.551302Z",
         "region": [
           "REGION_B"
         ],
@@ -23554,12 +23542,13 @@
       "reviewedSite": "ultrasloko.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-13T16:39:42.478137Z",
+        "lastChangeTime": "2018-08-27T17:36:24.761809Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-26T17:36:23.983825262Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -24896,7 +24885,7 @@
       "reviewedSite": "wunderporno.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-07T12:00:12.424925Z",
+        "lastChangeTime": "2018-08-27T23:04:38.193337Z",
         "region": [
           "REGION_B"
         ],
@@ -25359,13 +25348,13 @@
     {
       "reviewedSite": "ylet.by",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-27T10:56:35.766948Z",
+        "lastChangeTime": "2018-08-27T19:11:58.044347Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-08T03:19:16.260574398Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
