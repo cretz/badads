@@ -1616,19 +1616,6 @@
       }
     },
     {
-      "reviewedSite": "ansa.it",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-06-29T20:58:35.218345Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "antena24.ro",
       "mobileSummary": {
         "lastChangeTime": "2018-08-24T19:32:28.119733Z",
@@ -2102,6 +2089,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -5519,19 +5507,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T23:34:58.919785570Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "datacentrenews.eu",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-13T22:34:29.295526Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-12T22:34:28.776850607Z",
         "filterStatus": "PENDING"
       }
     },
@@ -9575,14 +9550,13 @@
       "reviewedSite": "goga.tv",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-09T17:50:52.097331Z",
+        "lastChangeTime": "2018-08-28T02:27:21.143342Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-09-08T03:09:57.151253Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -10694,9 +10668,17 @@
     },
     {
       "reviewedSite": "hot4k.org",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-28T00:33:48.168833Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-27T00:33:47.449720095Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-14T00:37:05.790528Z",
+        "lastChangeTime": "2018-08-28T00:33:47.416742Z",
         "region": [
           "REGION_B"
         ],
@@ -13205,7 +13187,7 @@
       "reviewedSite": "localbiz-braila.ro",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-14T03:35:06.058339Z",
+        "lastChangeTime": "2018-08-28T02:33:01.417060Z",
         "region": [
           "REGION_B"
         ],
@@ -13722,19 +13704,6 @@
         "enforcementTime": "2018-09-22T10:44:20.879538154Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "maisfcporto.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-14T03:35:06.848363Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-13T03:35:05.936772359Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "maisopiniao.com",
@@ -15930,7 +15899,7 @@
     {
       "reviewedSite": "noticiaonline.pt",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-14T04:34:35.154630Z",
+        "lastChangeTime": "2018-08-28T03:33:35.451745Z",
         "region": [
           "REGION_B"
         ],
@@ -16486,7 +16455,7 @@
     {
       "reviewedSite": "orderclomid.info",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-14T04:34:35.542949Z",
+        "lastChangeTime": "2018-08-28T03:33:36.003395Z",
         "region": [
           "REGION_A"
         ],
@@ -17552,6 +17521,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "porngun.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-28T02:51:54.155097Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-27T02:51:53.354887Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "pornhubo.net",
@@ -19406,7 +19388,7 @@
       "reviewedSite": "securitybrief.asia",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-14T05:34:02.244424Z",
+        "lastChangeTime": "2018-08-28T06:34:57.231769Z",
         "region": [
           "REGION_A"
         ],
@@ -20798,16 +20780,7 @@
         "underReview": true,
         "filterStatus": "OFF"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-24T20:08:56.310883Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-01T19:58:02.429852Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "sportsonair.gr",
@@ -21409,16 +21382,7 @@
         "enforcementTime": "2018-09-22T19:05:07.016998Z",
         "filterStatus": "PENDING"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-31T16:35:06.263932Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-29T16:57:55.038445Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "szextortenetek.website",
