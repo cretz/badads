@@ -3871,18 +3871,6 @@
       }
     },
     {
-      "reviewedSite": "bureau21.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-14T11:34:23.739104Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "buryfc.co.uk",
       "mobileSummary": {},
       "desktopSummary": {
@@ -8249,18 +8237,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "foodandeverythingelsetoo.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-14T16:37:39.339356Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "footballbh.net",
       "mobileSummary": {},
       "desktopSummary": {
@@ -8421,13 +8397,14 @@
     {
       "reviewedSite": "fotbollsvm.se",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-23T18:37:28.536292Z",
+        "lastChangeTime": "2018-08-28T11:50:16.055941Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-23T12:33:41.701857675Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
