@@ -1404,6 +1404,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "amcarparts.co.uk",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-30T09:35:58.042379Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "americanflare.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:05:55.121988Z",
@@ -1465,6 +1477,19 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "amoozeshgaha.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-30T14:57:31.837775Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-29T14:57:31.150304077Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "amorsporting.com",
@@ -1641,6 +1666,19 @@
         "enforcementTime": "2018-09-19T12:36:26.960466168Z",
         "filterStatus": "PENDING"
       }
+    },
+    {
+      "reviewedSite": "annyeong-korea.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-30T14:57:32.441023Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-29T14:57:31.782915976Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "anon-ib.co",
@@ -7880,13 +7918,13 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-31T14:08:03.627413Z",
+        "lastChangeTime": "2018-08-30T14:08:02.429816Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-30T14:08:02.068570Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -10486,7 +10524,7 @@
       "reviewedSite": "hip-hopvibe.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-19T16:08:42.936284Z",
+        "lastChangeTime": "2018-08-30T15:14:04.120514Z",
         "region": [
           "REGION_A"
         ],
@@ -13645,13 +13683,13 @@
       "reviewedSite": "magnetpip.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T07:37:21.120012Z",
+        "lastChangeTime": "2018-08-30T12:33:29.653274Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-30T12:33:29.346164767Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -17038,13 +17076,13 @@
     {
       "reviewedSite": "pixelbrush.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-27T07:34:35.854915Z",
+        "lastChangeTime": "2018-08-30T12:33:30.946978Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-30T12:33:30.657260335Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -23823,18 +23861,6 @@
         "lastChangeTime": "2018-03-06T16:06:46.873202Z",
         "region": [
           "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "vipbox.live",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-25T21:12:29.427855Z",
-        "region": [
-          "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
