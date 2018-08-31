@@ -3138,6 +3138,20 @@
       }
     },
     {
+      "reviewedSite": "bestknew.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-31T04:13:06.750957Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "underReview": true,
+        "enforcementTime": "2018-09-30T02:37:36.420317870Z",
+        "filterStatus": "PAUSED"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "bet-mate.co",
       "mobileSummary": {
         "lastChangeTime": "2018-07-14T09:03:47.979168Z",
@@ -3149,6 +3163,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "bettingtips365.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-31T02:37:38.641567Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-30T02:37:38.001204848Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "betverified.com",
@@ -3217,6 +3244,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "bifilmizlesene.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-31T02:37:39.167759Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-30T02:37:38.584421526Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -3350,6 +3390,19 @@
       }
     },
     {
+      "reviewedSite": "biscatrain.fr",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-31T03:35:54.678927Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-30T03:35:54.144397660Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "bitchyf.it",
       "mobileSummary": {
         "lastChangeTime": "2018-03-14T16:34:49.177069Z",
@@ -3420,6 +3473,19 @@
       }
     },
     {
+      "reviewedSite": "blackbutler-fr.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-31T05:37:07.413199Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-30T05:37:06.787932900Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "blackmotherporn.com",
       "mobileSummary": {
         "lastChangeTime": "2018-08-21T05:33:41.466777Z",
@@ -3483,6 +3549,19 @@
       }
     },
     {
+      "reviewedSite": "blandine-la-voyageuse.fr",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-31T04:38:20.213199Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-30T04:38:19.592361504Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "bleachernewsletter.com",
       "mobileSummary": {
         "lastChangeTime": "2018-08-24T15:36:05.510257Z",
@@ -3506,6 +3585,30 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "blog-du-fil.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-31T05:37:07.843035Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "blogdelazare.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-31T05:37:08.189806Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "bloggkommentatorerna.se",
@@ -3564,6 +3667,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-11T10:45:10.231781011Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "bnatbnaat.blogspot.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-31T07:37:30.483455Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-30T07:37:29.762695981Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -12036,13 +12152,13 @@
       "reviewedSite": "kettlebell-vergleich.de",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-22T19:33:43.145229Z",
+        "lastChangeTime": "2018-08-31T04:32:42.304716Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-31T04:32:41.939276724Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16394,18 +16510,6 @@
         "lastChangeTime": "2018-03-12T21:51:10.628047Z",
         "region": [
           "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "olympicstreams.me",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-20T20:03:18.302320Z",
-        "region": [
-          "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
@@ -22568,6 +22672,19 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "toppresa.bg",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-31T03:32:02.705663Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-30T03:32:01.972696Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "topsecretinfodump.com",
