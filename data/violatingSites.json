@@ -2266,13 +2266,14 @@
     {
       "reviewedSite": "autoexpert.ro",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:05:56.675748Z",
+        "lastChangeTime": "2018-08-31T14:29:03.640865Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -3703,6 +3704,19 @@
       }
     },
     {
+      "reviewedSite": "bolupostasi.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-08-31T09:47:24.936223Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-30T09:47:24.217885423Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "bombuj.eu",
       "mobileSummary": {
         "lastChangeTime": "2018-03-25T19:14:23.309457Z",
@@ -3826,6 +3840,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-07T08:09:36.845523Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "brain-damage.co.uk",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-08-31T15:46:17.088463Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-09-30T15:46:16.519084256Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -7514,13 +7541,14 @@
       "reviewedSite": "espalhafactos.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-24T23:34:55.858827Z",
+        "lastChangeTime": "2018-08-31T10:36:42.959371Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-23T23:34:54.837306160Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -9549,13 +9577,14 @@
     {
       "reviewedSite": "gfnudephotos.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-27T06:33:11.749573Z",
+        "lastChangeTime": "2018-08-31T12:03:53.250409Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-26T06:33:10.976033341Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-08-26T10:40:15.583564Z",
@@ -13203,20 +13232,6 @@
       }
     },
     {
-      "reviewedSite": "live-agones.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-27T23:55:32.179917Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-22T20:20:04.041565Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "live4x.ru",
       "mobileSummary": {
         "lastChangeTime": "2018-08-24T17:33:37.219045Z",
@@ -14067,22 +14082,24 @@
     {
       "reviewedSite": "manslife.gr",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-21T07:34:28.448611Z",
+        "lastChangeTime": "2018-08-31T10:20:23.678490Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-20T07:34:27.696089017Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-21T03:34:52.681699Z",
+        "lastChangeTime": "2018-08-31T10:19:31.658846Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-20T03:34:52.034948769Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -16371,13 +16388,13 @@
       "reviewedSite": "octopusgirl.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-22T23:34:50.573761Z",
+        "lastChangeTime": "2018-08-31T11:37:02.029246Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-31T11:37:01.752489034Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -20711,13 +20728,14 @@
       "reviewedSite": "sportcategory.org",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-30T16:08:43.423534Z",
+        "lastChangeTime": "2018-08-31T12:47:30.877016Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-30T16:08:43.084483Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
