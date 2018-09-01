@@ -5530,14 +5530,12 @@
       "reviewedSite": "cspdailynews.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-30T20:14:15.953558Z",
+        "lastChangeTime": "2018-09-01T02:34:10.301052Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-19T03:33:30.867580067Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -9901,13 +9899,14 @@
       "reviewedSite": "goga.tv",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-28T02:27:21.143342Z",
+        "lastChangeTime": "2018-09-01T03:20:05.318065Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-08T03:09:57.151253Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15714,19 +15713,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "neguzelmesajlar.blogspot.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-19T22:05:20.236052Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-19T22:05:19.906733Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "neleryokki.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -16941,7 +16927,7 @@
       "reviewedSite": "painolympics.org",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-06-07T15:27:25.683152Z",
+        "lastChangeTime": "2018-09-01T00:54:51.041282Z",
         "region": [
           "REGION_B"
         ],
@@ -21065,13 +21051,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-24T19:34:44.046605Z",
+        "lastChangeTime": "2018-09-01T01:43:45.937120Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-01T01:43:45.728116517Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
