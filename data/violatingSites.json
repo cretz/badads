@@ -5058,20 +5058,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "commonsta.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-23T01:03:41.421671Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-23T01:03:41.084309138Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "comoapostar.pt",
       "mobileSummary": {
         "lastChangeTime": "2018-08-24T05:36:40.248174Z",
@@ -8301,16 +8287,7 @@
     },
     {
       "reviewedSite": "filipparadin.se",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-02T14:25:05.163863Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:52:35.430851286Z",
-        "filterStatus": "PAUSED"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-08-30T21:35:18.471631Z",
         "region": [
@@ -10963,20 +10940,6 @@
       }
     },
     {
-      "reviewedSite": "hoqueipatins.pt",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-23T05:01:04.617321Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-23T05:01:04.273682208Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "horasur.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:14.715020Z",
@@ -11433,22 +11396,24 @@
     {
       "reviewedSite": "inaek.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T08:33:56.238067Z",
+        "lastChangeTime": "2018-09-01T17:16:48.126798Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-22T13:30:56.869385838Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T08:38:51.438165Z",
+        "lastChangeTime": "2018-09-01T17:16:21.113864Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-22T05:32:18.929498015Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -11556,20 +11521,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-05T10:11:48.294546Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "inter-news.it",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-23T07:08:09.044101Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-23T07:08:08.730663296Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14393,13 +14344,14 @@
       "reviewedSite": "med-test.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-20T01:33:46.753512Z",
+        "lastChangeTime": "2018-09-01T18:29:07.300100Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-19T01:33:46.035160690Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -21291,20 +21243,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "styleroom.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-29T10:06:19.777422Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-22T18:10:54.794674281Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
