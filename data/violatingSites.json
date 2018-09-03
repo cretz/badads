@@ -12448,13 +12448,13 @@
       "reviewedSite": "kumanovskimuabeti.mk",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-03T20:59:13.325673Z",
+        "lastChangeTime": "2018-09-02T20:59:12.813128Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-02T20:59:12.452966Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13225,22 +13225,24 @@
     {
       "reviewedSite": "livredireto.pt",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T20:34:08.432552Z",
+        "lastChangeTime": "2018-09-02T18:23:20.160679Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:51:59.308487322Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T10:44:23.219675Z",
+        "lastChangeTime": "2018-09-02T18:22:55.257454Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:50:45.804853391Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -13834,13 +13836,13 @@
       "reviewedSite": "maisvalias.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-03T17:19:41.674020Z",
+        "lastChangeTime": "2018-09-02T17:19:40.900710Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-02T17:19:40.718245Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -24501,13 +24503,13 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-03T17:40:24.801943Z",
+        "lastChangeTime": "2018-09-02T17:40:24.106656Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-02T17:40:23.879029Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
