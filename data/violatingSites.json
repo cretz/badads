@@ -3041,13 +3041,13 @@
       "reviewedSite": "benficaholic1.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-24T21:34:08.235174Z",
+        "lastChangeTime": "2018-09-03T21:29:03.280901Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-20T09:33:19.153575366Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -3166,19 +3166,6 @@
         "enforcementTime": "2018-07-08T03:39:52.454747719Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "bet-mate.co",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-14T09:03:47.979168Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-14T09:03:47.549357Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "betonline.net.pl",
@@ -5843,12 +5830,13 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-27T17:05:30.953288Z",
+        "lastChangeTime": "2018-09-03T17:32:40.096463Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-03T17:32:39.191429Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -8716,6 +8704,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "foodprocessing.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-03T16:49:20.360223Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-03T16:49:19.655130Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "footballbh.net",
       "mobileSummary": {},
       "desktopSummary": {
@@ -11029,6 +11030,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "hitportal.com.mk",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-03T16:44:08.759023Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-03T16:44:07.835192Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "hockeymagasinet.com",
@@ -13671,29 +13685,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "livredireto.pt",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-02T18:23:20.160679Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:51:59.308487322Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-02T18:22:55.257454Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:50:45.804853391Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "ljepotazdravlje.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13976,6 +13967,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "lovinglondon.de",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-03T17:36:39.080671Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-03T17:36:38.595700548Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "lowetide.ca",
@@ -14531,6 +14535,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "maschinewerkzeug.de",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-03T18:45:29.694383Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-03T18:45:29.027493827Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -20919,6 +20936,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "skipper-bootshandel.de",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-03T16:53:11.186271Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-03T16:53:10.650730183Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "skriptomaniya.ru",
       "mobileSummary": {
         "lastChangeTime": "2018-08-27T07:34:36.980278Z",
@@ -22864,13 +22894,14 @@
       "reviewedSite": "thehornysloth.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-03T12:33:48.838047Z",
+        "lastChangeTime": "2018-09-03T23:15:46.273449Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-03T12:33:48.262980011Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -23960,7 +23991,14 @@
         "enforcementTime": "2018-08-05T23:14:45.258862Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-03T20:29:28.109500Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "tv2csoport.hu",
@@ -25230,6 +25268,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "wba.co.uk",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-03T17:36:38.643823Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-03T17:36:38.141444488Z",
+        "filterStatus": "PENDING"
       }
     },
     {
