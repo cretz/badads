@@ -2108,19 +2108,6 @@
       }
     },
     {
-      "reviewedSite": "atdhe.al",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:05:56.315660Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "atdhe.ru",
       "mobileSummary": {
         "lastChangeTime": "2018-07-12T20:32:06.906955Z",
@@ -3169,7 +3156,15 @@
     },
     {
       "reviewedSite": "betonline.net.pl",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-04T07:36:11.641855Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-04T07:36:10.870083726Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-09-03T06:34:06.243439Z",
         "region": [
@@ -4546,7 +4541,15 @@
         "enforcementTime": "2018-10-03T09:36:42.830769946Z",
         "filterStatus": "PENDING"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-04T04:35:14.446127Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-04T04:35:13.938498819Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "celebrityweightloss.com",
@@ -11823,6 +11826,19 @@
       }
     },
     {
+      "reviewedSite": "istanbultokikonutlari.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-04T03:34:56.206047Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-04T03:34:55.614408879Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "itacafamily.club",
       "mobileSummary": {
         "lastChangeTime": "2018-08-24T20:34:10.645010Z",
@@ -12534,18 +12550,6 @@
       }
     },
     {
-      "reviewedSite": "kinohobia.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-15T17:52:21.262824Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "kinoline.lv",
       "mobileSummary": {},
       "desktopSummary": {
@@ -12727,7 +12731,15 @@
     },
     {
       "reviewedSite": "kotasport.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-04T07:36:12.152911Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-04T07:36:11.621537679Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-09-03T10:34:32.961119Z",
         "region": [
@@ -14700,20 +14712,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-03T13:33:34.863172569Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "med-test.it",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-03T07:38:54.976383Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-19T01:33:46.035160690Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -16837,20 +16835,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "odelices.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-03T10:00:04.929865Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-22T18:45:56.864464Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -19795,6 +19779,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-26T00:23:06.292818Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "roi-nj.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-04T05:34:09.383071Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-04T05:34:08.790597170Z",
+        "filterStatus": "PENDING"
       }
     },
     {
