@@ -1866,20 +1866,6 @@
       }
     },
     {
-      "reviewedSite": "apples4theteacher.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-07T00:22:02.750631Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-29T16:38:06.449721694Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "applosungen.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-23T14:33:04.095286Z",
@@ -7478,6 +7464,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -14085,13 +14072,14 @@
       "reviewedSite": "leaprate.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-03T11:45:39.486303Z",
+        "lastChangeTime": "2018-09-08T15:25:32.866738Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-03T11:45:39.017891622Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18288,20 +18276,6 @@
       }
     },
     {
-      "reviewedSite": "oldhamathletic.co.uk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-06T15:15:48.258984Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-25T19:02:48.411365803Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "oldladyporn.net",
       "mobileSummary": {
         "lastChangeTime": "2018-08-21T13:33:51.923559Z",
@@ -20175,20 +20149,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "precisionag.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-06T19:47:03.080292Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-06T14:40:29.403985993Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
