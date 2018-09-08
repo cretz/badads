@@ -4498,6 +4498,19 @@
       }
     },
     {
+      "reviewedSite": "carreleasedate.us",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-08T02:38:43.836911Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-08T02:38:43.256437614Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "carreleasepreview.com",
       "mobileSummary": {
         "lastChangeTime": "2018-08-24T06:42:49.964891Z",
@@ -6118,13 +6131,14 @@
       "reviewedSite": "datacenternews.asia",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-24T23:34:59.822185Z",
+        "lastChangeTime": "2018-09-08T06:38:47.019932Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-23T23:34:58.919785570Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -7160,20 +7174,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "eavisa.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-06T10:53:23.855709Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-19T11:38:40.569598687Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -11419,18 +11419,17 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "hdw7.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-07T04:55:51.008810Z",
+      "reviewedSite": "hdsrulad.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-08T02:06:58.807487Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-07T04:41:33.294724033Z",
-        "filterStatus": "PAUSED"
-      }
+        "enforcementTime": "2018-10-08T02:06:58.037416Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "headlineleak.com",
@@ -14690,6 +14689,18 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "livesport.bg",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-08T01:05:55.497825Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "livestreamclub.xyz",
@@ -21096,20 +21107,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "releasemama.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-03T13:31:38.328675Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-03T11:45:39.432027511Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "remate.pt",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:34.841065Z",
@@ -21822,13 +21819,14 @@
       "reviewedSite": "securitybrief.asia",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-28T06:34:57.231769Z",
+        "lastChangeTime": "2018-09-08T06:37:25.217927Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-13T05:34:01.762295631Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
