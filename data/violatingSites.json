@@ -13037,6 +13037,7 @@
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -16554,13 +16555,13 @@
       "reviewedSite": "mortgageintroducer.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-09T18:51:06.275099Z",
+        "lastChangeTime": "2018-09-08T18:51:04.763006Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-08T18:51:04.640333Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
