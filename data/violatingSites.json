@@ -4855,20 +4855,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "child-hood.ru",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-10T11:41:19.464663Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-10T08:39:50.891625631Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "chilitv.tv",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10260,7 +10246,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-28T22:49:35.466489Z",
+        "lastChangeTime": "2018-09-11T15:53:53.673277Z",
         "region": [
           "REGION_A"
         ],
@@ -10973,6 +10959,19 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
+    },
+    {
+      "reviewedSite": "goroskoptntsfat.appspot.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-11T08:35:55.508223Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-11T08:35:54.928298932Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "goruzont.blogspot.com",
@@ -18348,6 +18347,19 @@
       }
     },
     {
+      "reviewedSite": "novenaclinica.pl",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-11T15:37:43.415471Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-11T15:37:42.860674863Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "novini24online.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:28.574077Z",
@@ -18383,20 +18395,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-28T07:24:30.972115Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "nudegirlspicture.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-09T03:01:29.432045Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-05T13:30:20.430297Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -19739,6 +19737,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-09T04:59:29.911989Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "pitandquarry.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-11T14:47:12.521295Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-11T14:47:11.557801Z",
+        "filterStatus": "PENDING"
       }
     },
     {
