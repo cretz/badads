@@ -2136,7 +2136,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-03T00:32:24.688667Z",
+        "lastChangeTime": "2018-09-11T19:39:15.740997Z",
         "region": [
           "REGION_B"
         ],
@@ -3877,7 +3877,7 @@
       "reviewedSite": "bozporn.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-07T08:09:37.390246Z",
+        "lastChangeTime": "2018-09-11T16:51:39.431172Z",
         "region": [
           "REGION_B"
         ],
@@ -4416,6 +4416,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -5139,20 +5140,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "claudiagalliconcha.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-10T09:53:33.440054Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-03-22T20:03:14.637383033Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "click-tt.de",
@@ -6136,13 +6123,14 @@
       "reviewedSite": "dailyinterlake.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-10T18:27:02.549549Z",
+        "lastChangeTime": "2018-09-11T22:51:43.550210Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-10T18:27:02.230694Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -11671,6 +11659,19 @@
       }
     },
     {
+      "reviewedSite": "healtheconomics.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-11T21:36:43.846671Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-11T21:36:43.137650690Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "healthimaging.com",
       "mobileSummary": {
         "lastChangeTime": "2018-09-05T13:35:00.687615Z",
@@ -15748,29 +15749,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "madeinportugalmusica.pt",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-09T22:33:07.909074Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-01T15:14:36.712912999Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-09T22:32:41.097992Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-01T04:11:04.922661149Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "madinanursery.info",
       "mobileSummary": {
         "lastChangeTime": "2018-08-24T20:34:11.236778Z",
@@ -17558,7 +17536,7 @@
       "reviewedSite": "nakedbeach.info",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-06T18:16:17.404341Z",
+        "lastChangeTime": "2018-09-11T21:17:03.537085Z",
         "region": [
           "REGION_B"
         ],
@@ -19300,20 +19278,6 @@
       }
     },
     {
-      "reviewedSite": "paulas.me",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-10T09:53:48.462844Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-21T04:34:38.071426057Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "pausenspiele.net",
       "mobileSummary": {
         "lastChangeTime": "2018-06-08T17:34:26.144124Z",
@@ -19325,7 +19289,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-07-30T06:48:08.664422Z",
+        "lastChangeTime": "2018-09-11T16:05:06.093336Z",
         "region": [
           "REGION_B"
         ],
@@ -19455,18 +19419,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "perfektdamen.eu",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-06T15:02:22.519778Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "periberry.com",
@@ -21865,20 +21817,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-06T06:41:29.613965397Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "rjb.ch",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-10T09:21:25.613736Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-03T10:34:29.917382209Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -25902,6 +25840,19 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "tr-brazzers.blogspot.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-11T21:36:44.439183Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-11T21:36:43.792528554Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "trabesp.com",
