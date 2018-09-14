@@ -2196,6 +2196,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "auto.it",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-14T12:36:32.732511Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-14T12:36:31.976215Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "autocadom.ru",
       "mobileSummary": {
         "lastChangeTime": "2018-07-10T01:41:01.877365Z",
@@ -8963,19 +8976,6 @@
       }
     },
     {
-      "reviewedSite": "filmingcops.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-06T21:08:22.554241Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "filmizleburda.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:09.167399Z",
@@ -12359,13 +12359,14 @@
     {
       "reviewedSite": "il24.it",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-04T15:33:51.683407Z",
+        "lastChangeTime": "2018-09-14T11:37:44.168242Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-04T15:33:51.053855252Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -12826,19 +12827,6 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "ittexnoall.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-23T18:31:34.310108Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -14638,28 +14626,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "lesfrontaliers.lu",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-12T15:14:05.344866Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-03T07:34:45.939512520Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-03T06:34:03.890715Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "lesmoutonsrebelles.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:21.868188Z",
@@ -16119,6 +16085,19 @@
       }
     },
     {
+      "reviewedSite": "mariejeannejourdan.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-14T12:37:53.210303Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-14T12:37:52.313537237Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "mariejedig.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -16681,6 +16660,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-07T03:35:57.485171184Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "misterbricolo.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-14T12:37:54.050431Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-14T12:37:53.154247329Z",
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
@@ -25192,19 +25184,6 @@
         "enforcementTime": "2018-08-22T01:32:35.223430369Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "thefappeninghq.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-08T13:59:36.696661Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-08-08T13:59:36.127099Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "thefinalball.com",
