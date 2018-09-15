@@ -274,15 +274,7 @@
     },
     {
       "reviewedSite": "24trelleborg.se",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-07T00:36:23.789480Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-08-07T00:36:23.317183Z",
-        "filterStatus": "ON"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-09-04T16:21:03.917222Z",
         "region": [
@@ -4818,6 +4810,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "chicagobusiness.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-15T02:45:42.498536Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "chilitv.tv",
       "mobileSummary": {},
       "desktopSummary": {
@@ -5196,20 +5200,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "codedfilm.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-13T22:13:57.837248Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-10T01:35:20.578171021Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -11879,13 +11869,13 @@
     {
       "reviewedSite": "homeaquaponics.website",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-29T00:33:32.281811Z",
+        "lastChangeTime": "2018-09-15T00:32:48.091992Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-15T00:32:47.907531306Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -17131,13 +17121,13 @@
     {
       "reviewedSite": "mp3-indir.top",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-29T02:34:06.564214Z",
+        "lastChangeTime": "2018-09-15T00:32:49.162037Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-15T00:32:48.989671221Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -18834,6 +18824,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "operz.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-15T00:38:22.013919Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-15T00:38:20.812412383Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "ophthalmologymanagement.com",
       "mobileSummary": {
         "lastChangeTime": "2018-08-23T18:46:36.600224Z",
@@ -19884,13 +19887,13 @@
     {
       "reviewedSite": "pmrgid.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-29T04:34:36.979481Z",
+        "lastChangeTime": "2018-09-15T00:32:49.697095Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-15T00:32:49.503404668Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -22291,13 +22294,14 @@
       "reviewedSite": "securitybrief.co.nz",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-24T03:36:09.643948Z",
+        "lastChangeTime": "2018-09-15T05:21:26.954888Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-23T03:36:09.040735839Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -23460,13 +23464,13 @@
     {
       "reviewedSite": "soziologie-politik.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-29T09:34:23.652308Z",
+        "lastChangeTime": "2018-09-15T00:32:52.386134Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-15T00:32:52.118010109Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -23799,13 +23803,13 @@
     {
       "reviewedSite": "sportprotivspirta.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-29T09:34:24.283504Z",
+        "lastChangeTime": "2018-09-15T00:32:53.362067Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-15T00:32:53.015380189Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -24027,6 +24031,18 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "stilida.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-15T00:37:30.422656Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "stockspinoffs.com",
@@ -26038,6 +26054,19 @@
       }
     },
     {
+      "reviewedSite": "trome.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-15T00:38:19.934415Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-15T00:38:19.595225820Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "troyanexpress.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -27446,6 +27475,18 @@
       }
     },
     {
+      "reviewedSite": "visionmonday.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-15T03:38:37.082798Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "vitisport.cz",
       "mobileSummary": {},
       "desktopSummary": {
@@ -27977,13 +28018,14 @@
     {
       "reviewedSite": "who-calls-me.us",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-07T08:35:00.200319Z",
+        "lastChangeTime": "2018-09-15T06:21:30.286609Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-07T08:34:59.809939072Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
