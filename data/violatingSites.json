@@ -141,7 +141,15 @@
     },
     {
       "reviewedSite": "2020mag.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-16T00:26:23.334975Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-16T00:26:22.335252Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-09-06T00:19:37.892879Z",
         "region": [
@@ -4351,13 +4359,13 @@
       "reviewedSite": "byslarna.cf",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-17T06:34:23.721484Z",
+        "lastChangeTime": "2018-09-16T06:34:22.829552Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-16T06:34:22.646254093Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -5332,18 +5340,6 @@
         "enforcementTime": "2018-08-15T11:38:49.405434584Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "comunicare-ms.org",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-23T18:08:17.484560Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "confessionsdunegourmande.com",
@@ -7425,20 +7421,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-19T09:33:59.155814518Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "educationworld.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-31T21:03:36.128002Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-30T19:35:32.679706879Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14904,6 +14886,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "liveshemalecams.eu",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-16T00:37:55.752367Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-16T00:37:55.129332693Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "livesport.bg",
       "mobileSummary": {},
       "desktopSummary": {
@@ -15785,6 +15780,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "mahmure.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-16T00:37:56.094057Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "maiandrosnews.gr",
       "mobileSummary": {},
       "desktopSummary": {
@@ -15872,20 +15879,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-03T01:35:00.245570254Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "maltafootball.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-14T05:54:38.918437Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:51:43.634439508Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -25961,6 +25954,18 @@
       }
     },
     {
+      "reviewedSite": "tri-poplavka.ru",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-16T00:37:54.385443Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "tribunaem.info",
       "mobileSummary": {
         "lastChangeTime": "2018-08-27T09:34:20.443505Z",
@@ -26571,22 +26576,22 @@
     {
       "reviewedSite": "uitdrukkingen.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-17T00:38:34.142061Z",
+        "lastChangeTime": "2018-09-16T00:38:33.789842Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-16T00:38:33.671483578Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-17T00:38:33.741387Z",
+        "lastChangeTime": "2018-09-16T00:38:33.362078Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-16T00:38:33.175563151Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
