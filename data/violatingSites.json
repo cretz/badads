@@ -979,13 +979,13 @@
       "reviewedSite": "aindasoudotempo.blogspot.pt",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-17T22:18:51.829841Z",
+        "lastChangeTime": "2018-09-16T22:18:51.283095Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-16T22:18:51.034207Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2771,13 +2771,14 @@
       "reviewedSite": "basketincontro.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-07T19:11:10.882831Z",
+        "lastChangeTime": "2018-09-16T18:32:03.133172Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-07T19:11:10.594859Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6053,6 +6054,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "dailynews24.it",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-16T17:17:33.731861Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "dailypress-bg.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -7187,13 +7200,13 @@
       "reviewedSite": "earhustle411.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-17T16:56:10.802094Z",
+        "lastChangeTime": "2018-09-16T16:56:09.296715Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-16T16:56:09.035025Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13284,13 +13297,14 @@
     {
       "reviewedSite": "kamubilgi.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-14T00:38:41.650319Z",
+        "lastChangeTime": "2018-09-16T21:58:21.601345Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-14T00:38:41.155350183Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -14833,6 +14847,19 @@
         "enforcementTime": "2018-08-23T02:31:50.164893083Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "live-sports365.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-16T20:49:56.954399Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-16T20:49:55.955376Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "live4x.ru",
@@ -16626,7 +16653,7 @@
     {
       "reviewedSite": "misterdocafe.blogspot.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-07T10:51:39.393800Z",
+        "lastChangeTime": "2018-09-16T18:22:31.392615Z",
         "region": [
           "REGION_B"
         ],
@@ -23902,6 +23929,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "srv101.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-16T22:36:54.121007Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-16T22:36:53.457279995Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "standard-rouche.be",
       "mobileSummary": {},
       "desktopSummary": {
@@ -24801,6 +24841,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "telezombi.ru",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-16T22:36:52.917478Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "tellymasti.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -24832,6 +24884,18 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
+    },
+    {
+      "reviewedSite": "tenisportal.si",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-16T19:34:57.780234Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "tennis24.bg",
@@ -25995,13 +26059,13 @@
       "reviewedSite": "trivadeon.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-17T19:35:41.384484Z",
+        "lastChangeTime": "2018-09-16T19:35:40.798471Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-16T19:35:40.618215344Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -27970,14 +28034,13 @@
     {
       "reviewedSite": "who-calls-me.us",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-15T06:21:30.286609Z",
+        "lastChangeTime": "2018-09-16T20:34:34.296655Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-10-07T08:34:59.809939072Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
