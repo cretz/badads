@@ -323,7 +323,14 @@
     },
     {
       "reviewedSite": "24ystad.se",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-17T23:46:13.877641Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-09-07T20:57:52.251121Z",
         "region": [
@@ -1172,14 +1179,13 @@
       "reviewedSite": "alivefootballstreaming.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-09T01:15:53.083518Z",
+        "lastChangeTime": "2018-09-17T16:39:14.229732Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-10-05T14:56:08.603244Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -2171,13 +2177,13 @@
       "reviewedSite": "auto.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-17T14:28:25.153777Z",
+        "lastChangeTime": "2018-09-17T17:50:52.964215Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-14T12:36:31.976215Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -3163,6 +3169,19 @@
         "enforcementTime": "2018-04-12T06:18:57.160037Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "bety.cz",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-17T23:16:31.023503Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-17T23:16:30.049216Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "bia2sh.com",
@@ -15338,7 +15357,7 @@
       "reviewedSite": "loveanalsex.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-13T16:24:57.585348Z",
+        "lastChangeTime": "2018-09-17T18:00:37.548275Z",
         "region": [
           "REGION_B"
         ],
@@ -18849,7 +18868,7 @@
     {
       "reviewedSite": "opolvo.pt",
       "mobileSummary": {
-        "lastChangeTime": "2018-04-11T12:53:49.948391Z",
+        "lastChangeTime": "2018-09-17T18:07:04.948054Z",
         "region": [
           "REGION_B"
         ],
@@ -25410,13 +25429,14 @@
       "reviewedSite": "thinkadvisor.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-14T22:28:05.750065Z",
+        "lastChangeTime": "2018-09-17T16:41:28.582588Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-14T22:28:05.574720Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -25526,6 +25546,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-07T11:25:03.344085Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "tiobarnsmamman.se",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-17T23:37:09.023407Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-17T23:37:08.166861783Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -25989,19 +26022,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "tresubresdobles.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-23T14:03:01.144835Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "tri-poplavka.ru",
