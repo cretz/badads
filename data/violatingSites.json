@@ -251,13 +251,14 @@
       "reviewedSite": "24nybro.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-20T06:35:36.141906Z",
+        "lastChangeTime": "2018-09-18T07:30:22.620858Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-19T06:35:35.551483839Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -3171,19 +3172,6 @@
       }
     },
     {
-      "reviewedSite": "bety.cz",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-17T23:16:31.023503Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-10-17T23:16:30.049216Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "bia2sh.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -4397,6 +4385,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-03T08:37:14.151779659Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "caopornx.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-18T02:36:00.035983Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-18T02:35:59.283197832Z",
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
@@ -5964,13 +5965,14 @@
       "reviewedSite": "cyberscoop.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-20T04:33:58.818140Z",
+        "lastChangeTime": "2018-09-18T05:02:07.278991Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-19T04:33:58.057792215Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8561,13 +8563,14 @@
       "reviewedSite": "fedscoop.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-04T18:34:45.783039Z",
+        "lastChangeTime": "2018-09-18T05:02:53.665197Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-04T18:34:45.222668518Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -9091,6 +9094,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:50:18.770635260Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "floralovezone.blogspot.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-18T05:35:09.138655Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-18T05:35:08.099346324Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -25744,6 +25760,19 @@
       }
     },
     {
+      "reviewedSite": "topinworld.ru",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-18T00:35:32.696991Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-18T00:35:32.013876426Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "topirl.ru",
       "mobileSummary": {
         "lastChangeTime": "2018-08-20T04:33:57.174565Z",
@@ -26201,13 +26230,14 @@
     {
       "reviewedSite": "turbonsk.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-20T04:33:56.265737Z",
+        "lastChangeTime": "2018-09-18T06:52:45.662449Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-19T04:33:55.664970083Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -26927,6 +26957,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-07T14:35:33.456427156Z",
         "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "usatoday24x7.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-18T00:35:33.008321Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -28125,6 +28167,18 @@
         "lastChangeTime": "2018-05-04T20:01:48.734635Z",
         "region": [
           "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "witkowo24.info",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-18T01:36:30.311308Z",
+        "region": [
+          "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
