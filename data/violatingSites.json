@@ -1065,12 +1065,13 @@
     {
       "reviewedSite": "alertas.eu",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-09T20:32:25.078160Z",
+        "lastChangeTime": "2018-09-19T18:13:56.229391Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-19T18:13:55.548420Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -1657,13 +1658,13 @@
       "reviewedSite": "animalog.online",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-20T19:37:13.459510Z",
+        "lastChangeTime": "2018-09-19T19:37:12.808186Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-19T19:37:12.613029654Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -1696,13 +1697,13 @@
       "reviewedSite": "annasiwer.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-20T19:37:14.005356Z",
+        "lastChangeTime": "2018-09-19T19:37:13.648517Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-19T19:37:13.259943572Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -1908,13 +1909,13 @@
     {
       "reviewedSite": "arabporntube.me",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-20T18:34:37.341241Z",
+        "lastChangeTime": "2018-09-19T18:34:36.958401Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-19T18:34:36.746975078Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -2758,13 +2759,13 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-20T19:37:12.696746Z",
+        "lastChangeTime": "2018-09-19T19:37:11.979157Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-19T19:37:11.683681639Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -4686,6 +4687,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -10671,6 +10673,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "golfdom.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-19T17:52:36.472319Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-19T17:52:35.607230Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "goll.ge",
       "mobileSummary": {},
       "desktopSummary": {
@@ -12505,6 +12520,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T14:45:19.189192Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "interferencetechnology.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-19T17:59:20.347485Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -14814,13 +14841,14 @@
     {
       "reviewedSite": "livehd.es",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-11T04:37:04.804687Z",
+        "lastChangeTime": "2018-09-19T21:39:29.555275Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-11T04:37:03.778159313Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -17461,18 +17489,6 @@
       }
     },
     {
-      "reviewedSite": "n4mosg.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-28T16:23:18.541890Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "naijahotmag.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -17507,7 +17523,15 @@
     },
     {
       "reviewedSite": "nakedbeach.info",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-19T22:23:57.040271Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-19T22:23:56.331639Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-09-11T21:17:03.537085Z",
         "region": [
@@ -20801,17 +20825,15 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "prosvet.cz",
+      "reviewedSite": "propertycasualty360.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-12T16:34:03.835299Z",
+        "lastChangeTime": "2018-09-19T16:55:59.491117Z",
         "region": [
-          "REGION_B"
+          "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-12T01:27:59.107134Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
@@ -21280,13 +21302,13 @@
       "reviewedSite": "ratses.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-20T17:18:47.188407Z",
+        "lastChangeTime": "2018-09-19T17:18:46.699964Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-19T17:18:46.540660Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -24934,22 +24956,22 @@
     {
       "reviewedSite": "tesourostv.pt",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-20T18:34:38.426219Z",
+        "lastChangeTime": "2018-09-19T18:34:38.054358Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-19T18:34:37.804115099Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-20T16:34:10.187969Z",
+        "lastChangeTime": "2018-09-19T16:34:09.668699Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-19T16:34:09.201077401Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
