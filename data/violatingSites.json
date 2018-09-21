@@ -15499,6 +15499,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "macyayinlar.org",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-21T10:44:31.732639Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-21T10:44:30.817439Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "macyayinlari.com",
       "mobileSummary": {
         "lastChangeTime": "2018-09-14T04:38:28.905663Z",
@@ -16367,13 +16380,13 @@
       "reviewedSite": "mignews.info",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-22T15:34:52.719473Z",
+        "lastChangeTime": "2018-09-21T15:34:52.418649Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-21T15:34:52.164799669Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18733,15 +18746,7 @@
     },
     {
       "reviewedSite": "opolvo.pt",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-17T18:07:04.948054Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-09-21T07:43:32.575355Z",
         "region": [
