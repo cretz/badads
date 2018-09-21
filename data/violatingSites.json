@@ -2386,13 +2386,13 @@
       "reviewedSite": "aworldofpoker.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-21T22:34:29.113106Z",
+        "lastChangeTime": "2018-09-20T22:34:28.884992Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-20T22:34:28.385006985Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2835,13 +2835,13 @@
       "reviewedSite": "beetchee.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-21T23:37:31.990484Z",
+        "lastChangeTime": "2018-09-20T23:37:31.444742Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-20T23:37:31.041846418Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -14248,20 +14248,6 @@
       }
     },
     {
-      "reviewedSite": "lerugbynistere.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-20T14:21:31.972238Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-28T20:13:13.850298Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "les-caves-a-vin.fr",
       "mobileSummary": {
         "lastChangeTime": "2018-08-24T11:36:01.631232Z",
@@ -14320,7 +14306,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-29T03:23:48.915489Z",
+        "lastChangeTime": "2018-09-20T17:56:57.999316Z",
         "region": [
           "REGION_B"
         ],
@@ -16955,13 +16941,13 @@
       "reviewedSite": "moziplusztv.hu",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-21T18:34:46.240332Z",
+        "lastChangeTime": "2018-09-20T18:34:45.675736Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-20T18:34:45.545333973Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -17600,7 +17586,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-29T17:41:43.168833Z",
+        "lastChangeTime": "2018-09-20T19:44:41.973472Z",
         "region": [
           "REGION_B"
         ],
@@ -21954,6 +21940,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "rynekbudowlany.pl",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-20T16:38:16.789518Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "s00th.com",
       "mobileSummary": {
         "lastChangeTime": "2018-09-19T00:18:09.485651Z",
@@ -25134,13 +25132,13 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-21T16:34:40.005095Z",
+        "lastChangeTime": "2018-09-20T16:34:39.511786Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-20T16:34:39.382601136Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -26777,12 +26775,11 @@
     {
       "reviewedSite": "upplysning.se",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-23T19:10:59.618286Z",
+        "lastChangeTime": "2018-09-20T20:06:17.075147Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
