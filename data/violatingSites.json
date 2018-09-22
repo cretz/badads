@@ -233,13 +233,13 @@
       "reviewedSite": "24livescore.sk",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T10:44:21.053262Z",
+        "lastChangeTime": "2018-09-22T10:44:20.840170Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T10:44:20.339266954Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -1958,13 +1958,13 @@
       "reviewedSite": "arvikanyheter.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T11:36:16.538461Z",
+        "lastChangeTime": "2018-09-22T11:36:15.636040Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T11:36:15.398794670Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2323,22 +2323,24 @@
     {
       "reviewedSite": "avozdarazao.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T15:36:04.312098Z",
+        "lastChangeTime": "2018-09-22T15:51:01.804564Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-23T15:36:03.510709157Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-22T05:28:01.392557Z",
+        "lastChangeTime": "2018-09-22T15:50:37.155649Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-22T05:28:01.062281242Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -5351,13 +5353,13 @@
       "reviewedSite": "controldesign.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-22T04:45:56.777746Z",
+        "lastChangeTime": "2018-09-22T11:36:14.921657Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T11:36:14.576229525Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9111,13 +9113,13 @@
       "reviewedSite": "forapartida.eu",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T09:40:26.691184Z",
+        "lastChangeTime": "2018-09-22T09:40:25.888175Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T09:40:25.678941343Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -10850,13 +10852,13 @@
       "reviewedSite": "greekvolley.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T11:36:13.377866Z",
+        "lastChangeTime": "2018-09-22T11:36:12.811905Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T11:36:12.673360478Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13156,13 +13158,13 @@
       "reviewedSite": "karlskogatidning.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T13:35:50.931012Z",
+        "lastChangeTime": "2018-09-22T13:35:50.121125Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T13:35:49.842752180Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -15415,13 +15417,13 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T09:40:27.608732Z",
+        "lastChangeTime": "2018-09-22T09:40:26.541193Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T09:40:26.389896456Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -15640,13 +15642,13 @@
       "reviewedSite": "maiandrosnews.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T10:44:21.753755Z",
+        "lastChangeTime": "2018-09-22T10:44:21.060816Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T10:44:20.879538154Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16709,13 +16711,13 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T14:34:03.245843Z",
+        "lastChangeTime": "2018-09-22T14:34:02.738150Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T14:34:02.565843667Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -19650,13 +19652,13 @@
       "reviewedSite": "plantservices.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-22T04:45:57.308281Z",
+        "lastChangeTime": "2018-09-22T08:38:53.005837Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T08:38:52.744712632Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21998,13 +22000,14 @@
     {
       "reviewedSite": "saqlamheyat.az",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-20T06:33:19.883060Z",
+        "lastChangeTime": "2018-09-22T09:13:23.527907Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-20T06:33:19.607550070Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -23516,13 +23519,13 @@
       "reviewedSite": "sporter.ge",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T08:38:53.055289Z",
+        "lastChangeTime": "2018-09-22T08:38:52.401797Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T08:38:52.103622489Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -26055,13 +26058,13 @@
       "reviewedSite": "tugavicio.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T09:40:28.692638Z",
+        "lastChangeTime": "2018-09-22T09:40:28.044038Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T09:40:27.914327563Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -27321,13 +27324,13 @@
       "reviewedSite": "viraliaseto.eu",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T09:40:29.498743Z",
+        "lastChangeTime": "2018-09-22T09:40:28.747491Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T09:40:28.517312777Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
