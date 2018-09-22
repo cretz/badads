@@ -163,24 +163,22 @@
     {
       "reviewedSite": "24blekinge.se",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-20T14:42:59.295795Z",
+        "lastChangeTime": "2018-09-22T04:45:55.915344Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-10-20T14:37:31.215323255Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-20T08:20:20.305438Z",
+        "lastChangeTime": "2018-09-22T04:45:55.663904Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-09-20T03:34:51.480253832Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2334,13 +2332,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T05:28:01.554215Z",
+        "lastChangeTime": "2018-09-22T05:28:01.392557Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T05:28:01.062281242Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -4785,13 +4783,13 @@
       "reviewedSite": "chilitv.tv",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T06:12:16.533716Z",
+        "lastChangeTime": "2018-09-22T06:12:15.998236Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T06:12:15.854228913Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -5353,14 +5351,13 @@
       "reviewedSite": "controldesign.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-20T14:34:26.285930Z",
+        "lastChangeTime": "2018-09-22T04:45:56.777746Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-09-22T11:36:14.576229525Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -8421,13 +8418,13 @@
       "reviewedSite": "fcportoeosamigos1893-v2.blogspot.pt",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T06:38:48.290064Z",
+        "lastChangeTime": "2018-09-22T06:38:47.704811Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T06:38:47.474988483Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -8945,13 +8942,13 @@
       "reviewedSite": "flixreel.co",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T06:38:48.531584Z",
+        "lastChangeTime": "2018-09-22T06:38:48.332632Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T06:38:48.074349991Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9462,13 +9459,13 @@
       "reviewedSite": "freevbcode.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T06:38:49.264841Z",
+        "lastChangeTime": "2018-09-22T06:38:48.638695Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T06:38:48.434476301Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -10057,6 +10054,18 @@
         "lastChangeTime": "2018-06-29T15:51:30.537813Z",
         "region": [
           "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "gcmonline.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-22T00:36:11.846692Z",
+        "region": [
+          "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
@@ -12026,7 +12035,15 @@
     },
     {
       "reviewedSite": "icra.az",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-22T00:36:12.800719Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-22T00:36:11.875703374Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-09-21T19:39:16.892479Z",
         "region": [
@@ -19633,14 +19650,13 @@
       "reviewedSite": "plantservices.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-20T14:33:04.561159Z",
+        "lastChangeTime": "2018-09-22T04:45:57.308281Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-09-22T08:38:52.744712632Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -27554,13 +27570,13 @@
       "reviewedSite": "wacowsf.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T03:15:19.739842Z",
+        "lastChangeTime": "2018-09-22T03:15:18.933279Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T03:15:18.800764346Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -28488,6 +28504,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "xvideospanish.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-22T00:14:23.377439Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-22T00:14:22.561301Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "xxnx.in",
       "mobileSummary": {},
       "desktopSummary": {
@@ -29068,13 +29097,13 @@
       "reviewedSite": "zbudujmydom.pl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-23T05:28:00.793036Z",
+        "lastChangeTime": "2018-09-22T05:28:00.513324Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T05:28:00.194743058Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
