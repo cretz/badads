@@ -14234,13 +14234,13 @@
     {
       "reviewedSite": "les-caves-a-vin.fr",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T11:36:01.631232Z",
+        "lastChangeTime": "2018-09-23T11:36:00.807406Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T11:36:00.622961011Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-08-22T19:33:44.489665Z",
@@ -18720,22 +18720,24 @@
     {
       "reviewedSite": "opinieochwilowkach.pl",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T21:34:07.696258Z",
+        "lastChangeTime": "2018-09-23T11:16:59.555427Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-23T21:34:06.868838388Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-23T01:39:55.966942Z",
+        "lastChangeTime": "2018-09-23T11:16:36.532673Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-23T01:39:55.720474780Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20065,13 +20067,13 @@
     {
       "reviewedSite": "pornhubo.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T12:35:39.757657Z",
+        "lastChangeTime": "2018-09-23T12:35:39.103718Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T12:35:38.928824781Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -22914,13 +22916,13 @@
     {
       "reviewedSite": "skaraborgsbygden.se",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T13:34:15.758900Z",
+        "lastChangeTime": "2018-09-23T13:34:15.297541Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T13:34:15.164759811Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -28480,26 +28482,26 @@
     {
       "reviewedSite": "xvideokostenlos.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T14:33:42.641248Z",
+        "lastChangeTime": "2018-09-23T14:33:41.949622Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T14:33:41.758418291Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "xvideosesso.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T14:33:43.036525Z",
+        "lastChangeTime": "2018-09-23T14:33:42.466604Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T14:33:42.346458010Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
