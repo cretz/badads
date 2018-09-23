@@ -495,13 +495,13 @@
       "reviewedSite": "99re.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-24T05:36:37.084442Z",
+        "lastChangeTime": "2018-09-23T05:36:35.825078Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T05:36:35.531249314Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2821,13 +2821,13 @@
     {
       "reviewedSite": "beestonhockeyclub.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T05:36:35.746402Z",
+        "lastChangeTime": "2018-09-23T05:36:34.887085Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T05:36:34.677452916Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -5457,13 +5457,13 @@
       "reviewedSite": "coomeet.live",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-24T01:39:57.163716Z",
+        "lastChangeTime": "2018-09-23T01:39:56.941825Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T01:39:56.281416872Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9153,13 +9153,13 @@
       "reviewedSite": "formula1.life",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-24T01:39:56.016999Z",
+        "lastChangeTime": "2018-09-23T01:39:55.072866Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T01:39:54.950679444Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -10629,13 +10629,13 @@
     {
       "reviewedSite": "goodbrokerguide.co.uk",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T04:35:27.512341Z",
+        "lastChangeTime": "2018-09-23T04:35:27.224488Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T04:35:26.949994100Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-08-23T01:34:57.869268Z",
@@ -18729,13 +18729,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-24T01:39:56.452908Z",
+        "lastChangeTime": "2018-09-23T01:39:55.966942Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T01:39:55.720474780Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -23936,13 +23936,13 @@
       "reviewedSite": "storstadsmamman.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-24T01:39:58.560616Z",
+        "lastChangeTime": "2018-09-23T01:39:57.756504Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T01:39:57.598663584Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -24990,13 +24990,13 @@
     {
       "reviewedSite": "thebeast2.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T04:35:30.117601Z",
+        "lastChangeTime": "2018-09-23T04:35:29.182882Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T04:35:29.018606475Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-08-22T05:34:10.727800Z",
@@ -25109,22 +25109,16 @@
     },
     {
       "reviewedSite": "thelibertydaily.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-21T16:34:40.199822Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-20T16:34:39.511786Z",
+        "lastChangeTime": "2018-09-23T03:24:43.761030Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-20T16:34:39.382601136Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
