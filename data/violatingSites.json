@@ -2872,13 +2872,14 @@
       "reviewedSite": "benefitspro.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-23T18:33:05.838797Z",
+        "lastChangeTime": "2018-09-24T14:55:26.990635Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-23T18:33:05.608835903Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12719,6 +12720,19 @@
       }
     },
     {
+      "reviewedSite": "jadorechambery.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-24T15:36:58.651727Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-24T15:36:58.025980886Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "janemarina.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13251,18 +13265,6 @@
       }
     },
     {
-      "reviewedSite": "kfiatki.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-07-10T21:26:35.351506Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "kiddie-events.de",
       "mobileSummary": {
         "lastChangeTime": "2018-08-26T04:33:56.728873Z",
@@ -13539,6 +13541,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "kokteyl.az",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-24T15:36:59.419743Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-24T15:36:58.598185965Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "komikler.com",
       "mobileSummary": {
         "lastChangeTime": "2018-09-22T16:34:44.638732Z",
@@ -13550,6 +13565,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "konekuriiri.fi",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-24T15:36:59.974479Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-24T15:36:59.367285683Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "koreadaily.com",
@@ -14895,6 +14923,19 @@
       }
     },
     {
+      "reviewedSite": "localbiz-bistrita-nasaud.ro",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-24T15:37:00.335279Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-24T15:36:59.866010916Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "localbiz-botosani.ro",
       "mobileSummary": {},
       "desktopSummary": {
@@ -14943,6 +14984,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-04T18:34:44.747034788Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "localbiz-caras-severin.ro",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-24T15:37:00.614175Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-24T15:37:00.263859858Z",
         "filterStatus": "PENDING"
       }
     },
@@ -15694,6 +15748,19 @@
         "enforcementTime": "2018-09-22T10:44:20.879538154Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "main-netz.de",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-24T15:37:01.416207Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-24T15:37:00.599087405Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "maisopiniao.com",
@@ -22209,13 +22276,14 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-20T13:33:54.037842Z",
+        "lastChangeTime": "2018-09-24T15:42:30.760444Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-20T13:33:53.810268077Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
