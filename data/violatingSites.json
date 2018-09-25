@@ -1025,13 +1025,14 @@
     {
       "reviewedSite": "akgazete.com.tr",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-27T05:34:48.696521Z",
+        "lastChangeTime": "2018-09-25T07:43:17.564506Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-26T05:34:47.721881418Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -1808,23 +1809,16 @@
     },
     {
       "reviewedSite": "appcheating.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-21T10:36:50.978245Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-29T14:10:04.598041595Z",
-        "filterStatus": "ON"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-21T10:36:50.566603Z",
+        "lastChangeTime": "2018-09-25T04:00:35.252365Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-15T03:00:03.947928783Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -5793,6 +5787,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -21905,13 +21900,14 @@
     {
       "reviewedSite": "romashka-smile.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:35.752737Z",
+        "lastChangeTime": "2018-09-25T00:15:20.108796Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -24185,6 +24181,7 @@
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
@@ -28813,18 +28810,6 @@
       "reviewedSite": "yemek.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:49.976093Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "yeniakit.com.tr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-08T15:46:21.106414Z",
         "region": [
           "REGION_B"
         ],
