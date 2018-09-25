@@ -1893,7 +1893,14 @@
     },
     {
       "reviewedSite": "arbitro10.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-24T17:38:12.510474Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-09-13T04:48:10.075216Z",
         "region": [
@@ -3763,7 +3770,14 @@
     },
     {
       "reviewedSite": "boxrox.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-24T21:06:58.578096Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-09-17T08:20:53.970568Z",
         "region": [
@@ -5417,13 +5431,14 @@
       "reviewedSite": "cookingwithmaryandfriends.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-26T02:32:47.424744Z",
+        "lastChangeTime": "2018-09-24T16:26:00.508826Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-26T02:32:46.812019581Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15492,6 +15507,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "lyoncapitale.fr",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-24T21:36:35.803823Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-24T21:36:34.713043Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "m-2141.ru",
       "mobileSummary": {
         "lastChangeTime": "2018-09-10T09:46:00.243519Z",
@@ -15760,7 +15788,14 @@
         "enforcementTime": "2018-10-24T15:37:00.599087405Z",
         "filterStatus": "PENDING"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-24T18:37:41.123884Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "maisopiniao.com",
@@ -15982,18 +16017,6 @@
       "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-03-21T18:41:06.672447Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "marieclaire.gr",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-24T15:34:15.231048Z",
         "region": [
           "REGION_B"
         ],
@@ -18297,6 +18320,19 @@
       }
     },
     {
+      "reviewedSite": "nottooscary.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-09-24T22:37:50.329471Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-24T22:37:49.591563494Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "novenaclinica.pl",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18825,29 +18861,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "opinieochwilowkach.pl",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-23T11:16:59.555427Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-23T21:34:06.868838388Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-23T11:16:36.532673Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-23T01:39:55.720474780Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "orderclomid.info",
@@ -19715,13 +19728,14 @@
       "reviewedSite": "pitandquarry.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-11T14:47:12.521295Z",
+        "lastChangeTime": "2018-09-24T18:55:37.142622Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-11T14:47:11.557801Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20288,19 +20302,6 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "pornofelix.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-23T18:51:26.642318Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -22266,15 +22267,7 @@
     },
     {
       "reviewedSite": "sedaliademocrat.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-21T13:33:55.021819Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-26T15:04:35.986811674Z",
-        "filterStatus": "ON"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-09-24T15:42:30.760444Z",
         "region": [
@@ -22610,7 +22603,14 @@
     },
     {
       "reviewedSite": "sexvcl.net",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-24T16:44:05.945387Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-09-13T11:57:55.139151Z",
         "region": [
@@ -23502,7 +23502,14 @@
     },
     {
       "reviewedSite": "spielregeln.de",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-24T17:57:50.844389Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-09-13T14:29:58.688645Z",
         "region": [
@@ -24172,7 +24179,14 @@
     },
     {
       "reviewedSite": "studylight.org",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-24T22:58:23.603735Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-09-13T10:59:51.507452Z",
         "region": [
@@ -25077,18 +25091,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "the-share.club",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-07-26T12:55:13.397650Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "the-walking-dead-greek-fanatics.gr",
       "mobileSummary": {
         "lastChangeTime": "2018-08-20T17:35:41.518428Z",
@@ -25241,20 +25243,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "thelibertydaily.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-23T03:24:43.761030Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-20T16:34:39.382601136Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "themanwiththehat.de",
@@ -26624,7 +26612,7 @@
     {
       "reviewedSite": "ucoz.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:45.504437Z",
+        "lastChangeTime": "2018-09-24T20:56:17.967170Z",
         "region": [
           "REGION_B"
         ],
