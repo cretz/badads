@@ -5387,20 +5387,6 @@
       }
     },
     {
-      "reviewedSite": "cookingwithmaryandfriends.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-24T16:26:00.508826Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-08-26T02:32:46.812019581Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "cooknco.fr",
       "mobileSummary": {
         "lastChangeTime": "2018-09-11T01:37:25.966559Z",
@@ -8326,18 +8312,6 @@
         "enforcementTime": "2018-08-01T14:17:53.785379311Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "fapd.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-23T18:17:41.057365Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "fargo-online.net",
@@ -11601,7 +11575,7 @@
     {
       "reviewedSite": "hgsavinagiac.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-16T08:34:40.362440Z",
+        "lastChangeTime": "2018-09-26T03:37:06.682598Z",
         "region": [
           "REGION_B"
         ],
@@ -11816,7 +11790,7 @@
       "reviewedSite": "hotmetalonline.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-16T08:34:40.856803Z",
+        "lastChangeTime": "2018-09-26T03:37:07.240083Z",
         "region": [
           "REGION_B"
         ],
@@ -12329,13 +12303,13 @@
     {
       "reviewedSite": "infobiber.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-27T05:34:46.882289Z",
+        "lastChangeTime": "2018-09-26T05:34:46.479420Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-26T05:34:46.274731538Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -12732,7 +12706,7 @@
       "reviewedSite": "javsubtitle.ml",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-16T09:34:55.176514Z",
+        "lastChangeTime": "2018-09-26T05:37:39.750231Z",
         "region": [
           "REGION_A"
         ],
@@ -12912,19 +12886,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-10T17:05:48.473430Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "jukujodouga-amour.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-16T09:34:55.885656Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-16T09:34:55.642914162Z",
         "filterStatus": "ON"
       }
     },
@@ -15071,19 +15032,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-28T07:27:04.185052428Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "localbiz-salaj.ro",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-16T10:35:55.560604Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-16T10:35:55.112925290Z",
         "filterStatus": "ON"
       }
     },
@@ -22222,20 +22170,6 @@
       }
     },
     {
-      "reviewedSite": "sedaliademocrat.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-24T15:42:30.760444Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-20T13:33:53.810268077Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "sedecouvrir.fr",
       "mobileSummary": {},
       "desktopSummary": {
@@ -24473,13 +24407,13 @@
     {
       "reviewedSite": "taban-puani.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-27T05:34:45.727438Z",
+        "lastChangeTime": "2018-09-26T05:34:44.779083Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-26T05:34:44.586281640Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
