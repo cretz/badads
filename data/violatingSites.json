@@ -173,13 +173,14 @@
         "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-22T04:45:55.663904Z",
+        "lastChangeTime": "2018-09-26T12:12:11.844170Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-20T03:34:51.480253832Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -1807,20 +1808,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "appcheating.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-25T04:00:35.252365Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-15T03:00:03.947928783Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "applosungen.com",
@@ -3734,6 +3721,7 @@
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
@@ -11675,19 +11663,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "hoodamateurs.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:14.691653Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "hookers.rs",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18541,7 +18516,7 @@
     {
       "reviewedSite": "odessanews.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-16T13:35:47.831168Z",
+        "lastChangeTime": "2018-09-26T15:38:00.759165Z",
         "region": [
           "REGION_B"
         ],
@@ -19066,13 +19041,14 @@
     {
       "reviewedSite": "parolesmania.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-03T08:37:14.207119Z",
+        "lastChangeTime": "2018-09-26T10:54:09.932641Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-03T08:37:13.633685064Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -21557,13 +21533,14 @@
       "reviewedSite": "respawn.fi",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-03T06:34:07.192591Z",
+        "lastChangeTime": "2018-09-26T15:52:27.733771Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-03T06:34:06.704702755Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -27507,13 +27484,14 @@
     {
       "reviewedSite": "voxcatch.fr",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-03T09:36:42.324815Z",
+        "lastChangeTime": "2018-09-26T09:48:44.629372Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-03T09:36:41.889285019Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
