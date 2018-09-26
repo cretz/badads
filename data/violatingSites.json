@@ -2323,29 +2323,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "avozdarazao.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-22T15:51:01.804564Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-23T15:36:03.510709157Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-22T15:50:37.155649Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-22T05:28:01.062281242Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "avtorem.net",
       "mobileSummary": {
         "lastChangeTime": "2018-08-21T09:33:18.248092Z",
@@ -2869,20 +2846,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "benefitspro.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-24T14:55:26.990635Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-23T18:33:05.608835903Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "benficaholic0.blogspot.be",
@@ -4336,12 +4299,13 @@
       "reviewedSite": "canariasahora.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-17T03:35:08.062430Z",
+        "lastChangeTime": "2018-09-25T16:37:42.419199Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-25T16:37:41.708979242Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -10958,13 +10922,14 @@
       "reviewedSite": "gudelnews.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-05T04:35:40.527263Z",
+        "lastChangeTime": "2018-09-25T19:46:52.152231Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-05T04:35:39.868751313Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20464,7 +20429,7 @@
     {
       "reviewedSite": "pornslurp.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-23T18:53:12.349559Z",
+        "lastChangeTime": "2018-09-25T18:18:09.498356Z",
         "region": [
           "REGION_B"
         ],
@@ -22652,6 +22617,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "sexynudepics.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-25T22:08:30.157714Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "sexyplasea.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:37.757995Z",
@@ -23102,6 +23079,19 @@
         "enforcementTime": "2018-10-03T12:33:47.792105646Z",
         "filterStatus": "PENDING"
       }
+    },
+    {
+      "reviewedSite": "skyrock.mobi",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-25T23:56:29.661711Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-25T23:56:28.526946Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "slaouiblog.com",
@@ -26324,20 +26314,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "tv-only.org",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-24T06:16:02.113428Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-07-23T02:03:47.161849586Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "tv-series.gr",
       "mobileSummary": {},
       "desktopSummary": {
@@ -29148,6 +29124,18 @@
         "enforcementTime": "2018-04-20T21:52:19.745790430Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "zandxvillas.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-25T17:38:42.989742Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "zapleczebudowlane.pl",
