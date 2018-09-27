@@ -260,13 +260,14 @@
       "reviewedSite": "24livescore.sk",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-22T10:44:20.840170Z",
+        "lastChangeTime": "2018-09-27T12:26:38.626140Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-22T10:44:20.339266954Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4644,6 +4645,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-05T15:34:53.201119088Z",
         "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "celebritygossip.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-27T11:24:59.353916Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -10989,20 +11002,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T22:34:17.656193078Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "gudelnews.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-25T19:46:52.152231Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-05T04:35:39.868751313Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17559,6 +17558,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "mysynonyms.ru",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-27T09:35:36.486143Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-27T09:35:36.035781065Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "mytop.fm",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18475,6 +18487,18 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "nudecelebvideo.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-09-27T09:31:11.372892Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "nudecollect.com",
@@ -24394,6 +24418,7 @@
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
