@@ -185,29 +185,6 @@
       }
     },
     {
-      "reviewedSite": "24blekinge.se",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-25T13:37:42.856111Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-20T14:37:31.215323255Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-26T12:12:11.844170Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-20T03:34:51.480253832Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "24emmaboda.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -2657,22 +2634,24 @@
     {
       "reviewedSite": "bancadadistrital.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-27T16:38:17.559663Z",
+        "lastChangeTime": "2018-09-28T08:51:09.136285Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-27T16:38:17.130111439Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-27T17:38:34.207151Z",
+        "lastChangeTime": "2018-09-28T08:50:34.995582Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-27T17:38:33.530036630Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -5081,13 +5060,14 @@
     {
       "reviewedSite": "clashofduty.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-23T19:34:47.070286Z",
+        "lastChangeTime": "2018-09-28T14:52:15.430874Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-23T19:34:46.936284637Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -5877,13 +5857,13 @@
       "reviewedSite": "cuisineculinaire.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-29T16:03:26.075488Z",
+        "lastChangeTime": "2018-09-28T14:33:23.018783Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-28T14:33:22.290415Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -20397,20 +20377,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "porngun.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-27T22:29:00.462072Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-27T02:51:53.354887Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "pornhubo.net",
       "mobileSummary": {
         "lastChangeTime": "2018-09-23T12:35:39.103718Z",
@@ -21923,20 +21889,6 @@
       }
     },
     {
-      "reviewedSite": "respawn.fi",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-26T15:52:27.733771Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-03T06:34:06.704702755Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "resultadosdirecto.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -22174,20 +22126,6 @@
         "enforcementTime": "2018-10-03T11:45:36.824404832Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "romashka-smile.ru",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-25T00:15:20.108796Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "roomescapewalkthroughs.com",
@@ -24518,14 +24456,7 @@
         "underReview": true,
         "filterStatus": "OFF"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-13T10:59:51.507452Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "stylesofliving.com",
@@ -24574,19 +24505,6 @@
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "superbhub.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-26T22:23:25.697719Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -25770,14 +25688,12 @@
       "reviewedSite": "thinkadvisor.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-17T16:41:28.582588Z",
+        "lastChangeTime": "2018-09-28T14:17:30.820329Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-14T22:28:05.574720Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       }
     },
     {
