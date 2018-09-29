@@ -246,20 +246,6 @@
       }
     },
     {
-      "reviewedSite": "24livescore.sk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-27T12:26:38.626140Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-22T10:44:20.339266954Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "24nybro.se",
       "mobileSummary": {
         "lastChangeTime": "2018-09-18T09:37:39.654163Z",
@@ -17566,20 +17552,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "mymangacomics.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-27T04:24:04.310025Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-20T21:51:57.912834128Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "mymmanews.com",
       "mobileSummary": {
         "lastChangeTime": "2018-08-23T18:42:54.113442Z",
@@ -24446,19 +24418,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "studylight.org",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-24T22:58:23.603735Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "stylesofliving.com",
       "mobileSummary": {
         "lastChangeTime": "2018-05-30T16:39:38.119683Z",
@@ -26501,20 +26460,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "turkulainen.fi",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-27T05:47:42.375601Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-03T01:34:59.689645515Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -29035,13 +28980,13 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-29T16:35:27.903279Z",
+        "lastChangeTime": "2018-09-28T16:35:26.945564Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-28T16:35:26.747273Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
