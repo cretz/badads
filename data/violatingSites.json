@@ -54,13 +54,13 @@
     {
       "reviewedSite": "1069008.pw",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-30T00:34:53.765327Z",
+        "lastChangeTime": "2018-09-29T00:34:53.244727Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-29T00:34:52.870736413Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -955,13 +955,13 @@
       "reviewedSite": "ahfree.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-30T01:41:32.737295Z",
+        "lastChangeTime": "2018-09-29T01:41:32.670596Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-29T01:41:31.996253479Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -1134,25 +1134,25 @@
       "reviewedSite": "alia.ge",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-30T03:33:48.218511Z",
+        "lastChangeTime": "2018-09-29T03:33:47.979207Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-29T03:33:47.543737942Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
       "reviewedSite": "alicekaramedium.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-30T03:33:48.654991Z",
+        "lastChangeTime": "2018-09-29T03:33:48.264287Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-29T03:33:48.143788243Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -1275,22 +1275,22 @@
     {
       "reviewedSite": "alltommtb.se",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-30T06:34:20.268767Z",
+        "lastChangeTime": "2018-09-29T06:34:19.922558Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-29T06:34:19.699939996Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-30T05:34:07.032175Z",
+        "lastChangeTime": "2018-09-29T05:34:06.674563Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-29T05:34:06.507071636Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -27476,13 +27476,14 @@
     {
       "reviewedSite": "viendongdaily.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-03T08:37:16.529279Z",
+        "lastChangeTime": "2018-09-29T00:03:37.434112Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-03T08:37:15.976320105Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
