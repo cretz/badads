@@ -1524,13 +1524,13 @@
     {
       "reviewedSite": "anafranil.club",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-30T16:38:05.048911Z",
+        "lastChangeTime": "2018-09-29T16:38:04.226095Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-29T16:38:04.059329390Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -1576,26 +1576,26 @@
     {
       "reviewedSite": "angel-cast.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-30T16:38:06.149247Z",
+        "lastChangeTime": "2018-09-29T16:38:05.760315Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-29T16:38:05.477213354Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "angelaleroy.fr",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-30T16:38:06.493615Z",
+        "lastChangeTime": "2018-09-29T16:38:06.210562Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-29T16:38:06.094829928Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -1641,13 +1641,13 @@
       "reviewedSite": "angus.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-30T21:35:17.614287Z",
+        "lastChangeTime": "2018-09-29T21:35:17.060644Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-29T21:35:16.870393187Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9086,13 +9086,13 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-30T16:08:57.853103Z",
+        "lastChangeTime": "2018-09-29T16:08:57.146251Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-29T16:08:56.968185Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -12670,20 +12670,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-22T07:31:14.752124889Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "istanbultokikonutlari.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-28T07:41:26.059891Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-04T03:34:55.614408879Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18937,13 +18923,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-30T16:21:15.888607Z",
+        "lastChangeTime": "2018-09-29T16:21:15.468264Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-29T16:21:15.186446Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -25717,13 +25703,14 @@
     {
       "reviewedSite": "timeturk.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-31T18:39:48.229487Z",
+        "lastChangeTime": "2018-09-29T20:14:05.103764Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-30T18:39:47.731402487Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -26535,20 +26522,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "tv-series.gr",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-27T20:15:22.709411Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-21T06:34:03.889359062Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "tv-set.in.ua",
