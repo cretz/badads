@@ -3606,13 +3606,13 @@
     {
       "reviewedSite": "bolupostasi.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-31T09:47:24.936223Z",
+        "lastChangeTime": "2018-09-30T09:47:24.356266Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-30T09:47:24.217885423Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -3759,13 +3759,13 @@
       "reviewedSite": "brain-damage.co.uk",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-31T15:46:17.088463Z",
+        "lastChangeTime": "2018-09-30T15:46:16.706990Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-30T15:46:16.519084256Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -24827,13 +24827,13 @@
       "reviewedSite": "taxidrivermovie.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-07T11:02:30.350527Z",
+        "lastChangeTime": "2018-09-30T15:31:34.095188Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-07T11:02:29.652620Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -27406,20 +27406,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-11T19:13:24.357403Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "viendongdaily.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-29T00:03:37.434112Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-03T08:37:15.976320105Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
