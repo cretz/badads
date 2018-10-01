@@ -894,7 +894,14 @@
     },
     {
       "reviewedSite": "afgmp3.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-01T14:40:46.728456Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-10-01T02:39:48.766579Z",
         "region": [
@@ -906,7 +913,15 @@
     },
     {
       "reviewedSite": "afree.ir",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-01T15:37:59.812239Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-31T15:37:59.052616804Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-10-01T02:39:49.843215Z",
         "region": [
@@ -4437,13 +4452,14 @@
     {
       "reviewedSite": "caq.fr",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-06T06:41:29.701391Z",
+        "lastChangeTime": "2018-10-01T15:08:19.366476Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-06T06:41:28.956092234Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -4657,22 +4673,24 @@
     {
       "reviewedSite": "cbnews.fr",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-03T09:36:43.582159Z",
+        "lastChangeTime": "2018-10-01T09:28:35.987534Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-03T09:36:42.830769946Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-04T04:35:14.446127Z",
+        "lastChangeTime": "2018-10-01T09:28:04.634632Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-04T04:35:13.938498819Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -5994,19 +6012,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "cutimes.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-05T16:51:25.363263Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-10-05T16:51:24.571482Z",
-        "filterStatus": "PENDING"
-      }
     },
     {
       "reviewedSite": "cvetymudrosti.com.ua",
@@ -11498,20 +11503,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "hdsrulad.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-01T07:37:20.516891Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-08T02:06:58.037416Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "headlineleak.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:13.814Z",
@@ -13861,18 +13852,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "kwiss.me",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-25T14:51:55.298394Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "l-eaualabouche.com",
@@ -18688,16 +18667,10 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-05T14:54:30.111700Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "o-posts.com",
