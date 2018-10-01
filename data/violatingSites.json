@@ -2384,13 +2384,13 @@
     {
       "reviewedSite": "azeriseks.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-31T18:39:48.684255Z",
+        "lastChangeTime": "2018-09-30T18:39:48.472596Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-30T18:39:48.179562988Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -2982,13 +2982,14 @@
       "reviewedSite": "best-binary-options-strategy.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-23T21:34:08.246719Z",
+        "lastChangeTime": "2018-09-30T18:37:37.278117Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-23T21:34:08.044445971Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -3719,13 +3720,13 @@
     {
       "reviewedSite": "bourguignon-la-passion.fr",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-31T18:39:46.580015Z",
+        "lastChangeTime": "2018-09-30T18:39:46.088998Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-30T18:39:45.862497544Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14723,13 +14724,14 @@
     {
       "reviewedSite": "limpa.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-05T06:33:58.980191Z",
+        "lastChangeTime": "2018-09-30T21:00:09.055659Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-05T06:33:58.508395887Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
