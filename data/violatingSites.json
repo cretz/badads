@@ -27,6 +27,19 @@
       }
     },
     {
+      "reviewedSite": "0xxx.info",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-01T03:36:53.964607Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-31T03:36:53.279298918Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "1001historyfact.ru",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:05:53.293066Z",
@@ -194,6 +207,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "24falkenberg.se",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-01T04:36:27.821727Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-31T04:36:27.052697353Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -489,6 +515,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "502porn.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-01T01:40:11.008063Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-31T01:40:10.601677557Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "50sretroporn.com",
@@ -852,6 +891,31 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "afgmp3.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-01T02:39:48.766579Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "afree.ir",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-01T02:39:49.843215Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-31T02:39:49.067586160Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "afrikapornos.com",
@@ -2384,13 +2448,14 @@
     {
       "reviewedSite": "azeriseks.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-30T18:39:48.472596Z",
+        "lastChangeTime": "2018-10-01T04:13:22.479614Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-30T18:39:48.179562988Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -3594,13 +3659,14 @@
     {
       "reviewedSite": "bolagsplatsen.se",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-06T12:34:35.997471Z",
+        "lastChangeTime": "2018-10-01T07:34:44.613385Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-06T12:34:35.500908554Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -11434,13 +11500,14 @@
     {
       "reviewedSite": "hdsrulad.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-08T02:06:58.807487Z",
+        "lastChangeTime": "2018-10-01T07:37:20.516891Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-08T02:06:58.037416Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -25662,20 +25729,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "timeturk.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-29T20:14:05.103764Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-30T18:39:47.731402487Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
