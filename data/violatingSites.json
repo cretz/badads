@@ -65,6 +65,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "100limites.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-01T18:39:10.507391Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-31T18:39:09.740830387Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "1069008.pw",
       "mobileSummary": {
         "lastChangeTime": "2018-09-29T00:34:53.244727Z",
@@ -384,6 +397,20 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
+    },
+    {
+      "reviewedSite": "30kapel.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-01T20:46:37.480222Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "underReview": true,
+        "enforcementTime": "2018-10-31T18:39:10.356236377Z",
+        "filterStatus": "PAUSED"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "33rap.com",
@@ -933,6 +960,19 @@
       }
     },
     {
+      "reviewedSite": "africashowmag.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-01T16:40:07.690975Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-31T16:40:06.894026444Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "afrikapornos.com",
       "mobileSummary": {
         "lastChangeTime": "2018-08-20T10:33:36.827310Z",
@@ -1015,6 +1055,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-06-14T22:38:10.404585115Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "agrotep.ru",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-01T16:40:09.225642Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -1135,6 +1187,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "akmemotors.ru",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-01T19:39:54.169919Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-31T19:39:53.209897488Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -1630,13 +1695,13 @@
       "reviewedSite": "andreanorrman.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-29T11:55:18.680905Z",
+        "lastChangeTime": "2018-10-01T17:52:24.115489Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-29T16:38:04.808290224Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18322,13 +18387,14 @@
     {
       "reviewedSite": "nordpresse.be",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:28.449369Z",
+        "lastChangeTime": "2018-10-01T19:04:26.833297Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -18658,19 +18724,6 @@
         "enforcementTime": "2018-08-11T01:11:47.518774846Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "nyheter24.se",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-07T18:18:09.233654Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "o-posts.com",
@@ -20340,6 +20393,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "porngun.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-01T21:48:20.243443Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "pornhubo.net",
       "mobileSummary": {
         "lastChangeTime": "2018-09-23T12:35:39.103718Z",
@@ -20720,7 +20785,15 @@
     },
     {
       "reviewedSite": "pornx.com.es",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-01T17:37:25.942175Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-10-31T17:37:25.258832621Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-09-27T17:38:35.039327Z",
         "region": [
