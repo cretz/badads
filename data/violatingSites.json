@@ -219,6 +219,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -226,13 +227,14 @@
       "reviewedSite": "24falkenberg.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-01T04:36:27.821727Z",
+        "lastChangeTime": "2018-10-02T13:41:15.363691Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-31T04:36:27.052697353Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -244,6 +246,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -256,19 +259,21 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
     {
       "reviewedSite": "24kalmar.se",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-26T18:07:28.856719Z",
+        "lastChangeTime": "2018-10-02T13:41:55.537556Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-26T18:07:28.157580Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -281,6 +286,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -300,22 +306,24 @@
     {
       "reviewedSite": "24oland.se",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-27T07:36:30.152927Z",
+        "lastChangeTime": "2018-10-02T13:42:59.087921Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-27T07:36:29.708434993Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-27T07:36:29.726207Z",
+        "lastChangeTime": "2018-10-02T13:43:07.265417Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-27T07:36:29.382945829Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -340,6 +348,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -352,6 +361,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -387,6 +397,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
@@ -395,6 +406,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -4744,29 +4756,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-02T01:29:03.261343389Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "cbnews.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-01T09:28:35.987534Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-03T09:36:42.830769946Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-01T09:28:04.634632Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-04T04:35:13.938498819Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -22038,13 +22027,14 @@
     {
       "reviewedSite": "rfj.ch",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-03T08:37:17.370271Z",
+        "lastChangeTime": "2018-10-02T11:49:57.758618Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-03T08:37:16.938992920Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
