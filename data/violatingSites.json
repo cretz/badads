@@ -595,6 +595,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "91freeporn.vip",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-02T01:44:27.182888Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "99re.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -3127,14 +3139,13 @@
       "reviewedSite": "best-binary-options-strategy.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-30T18:37:37.278117Z",
+        "lastChangeTime": "2018-10-02T07:38:49.211301Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-09-23T21:34:08.044445971Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -14835,14 +14846,12 @@
     {
       "reviewedSite": "limpa.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-30T21:00:09.055659Z",
+        "lastChangeTime": "2018-10-02T00:14:56.571332Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-05T06:33:58.508395887Z",
-        "filterStatus": "PAUSED"
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
