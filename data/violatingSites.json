@@ -2550,20 +2550,6 @@
       }
     },
     {
-      "reviewedSite": "azeriseks.org",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-01T04:13:22.479614Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-30T18:39:48.179562988Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "azxeber.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:05:57.074634Z",
@@ -2823,13 +2809,14 @@
     {
       "reviewedSite": "banjaluka.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-03T08:37:15.583327Z",
+        "lastChangeTime": "2018-10-02T21:09:37.862706Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-03T08:37:15.059832060Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -3760,20 +3747,6 @@
       }
     },
     {
-      "reviewedSite": "bolagsplatsen.se",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-01T07:34:44.613385Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-06T12:34:35.500908554Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "bolupostasi.com",
       "mobileSummary": {
         "lastChangeTime": "2018-09-30T09:47:24.356266Z",
@@ -4536,20 +4509,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "caq.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-01T15:08:19.366476Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-06T06:41:28.956092234Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "car-collector.net",
@@ -6879,13 +6838,14 @@
       "reviewedSite": "dj2download.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-03T12:33:46.104063Z",
+        "lastChangeTime": "2018-10-02T22:19:55.101228Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-03T12:33:45.466059379Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -7500,13 +7460,14 @@
       "reviewedSite": "edscoop.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-19T09:33:59.341270Z",
+        "lastChangeTime": "2018-10-02T18:13:25.048811Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-19T09:33:59.155814518Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -29052,13 +29013,14 @@
     {
       "reviewedSite": "yfsmagazine.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-05T07:40:02.224031Z",
+        "lastChangeTime": "2018-10-02T20:32:12.633212Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-05T07:40:01.654603916Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
