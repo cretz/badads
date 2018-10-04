@@ -13877,13 +13877,13 @@
     {
       "reviewedSite": "kotasport.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-04T07:36:12.152911Z",
+        "lastChangeTime": "2018-10-04T07:36:11.800872Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-04T07:36:11.621537679Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-10-03T10:34:32.528778Z",
@@ -21004,13 +21004,14 @@
     {
       "reviewedSite": "prevuemeetings.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-07T07:34:54.274383Z",
+        "lastChangeTime": "2018-10-04T03:59:31.583945Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-07T07:34:53.773562703Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -22163,13 +22164,13 @@
       "reviewedSite": "roi-nj.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-04T05:34:09.383071Z",
+        "lastChangeTime": "2018-10-04T05:34:09.019613Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-04T05:34:08.790597170Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -24684,13 +24685,14 @@
     {
       "reviewedSite": "svepomoci.cz",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-09T22:40:00.957393Z",
+        "lastChangeTime": "2018-10-04T01:31:32.361115Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-08-09T22:40:00.321976Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
