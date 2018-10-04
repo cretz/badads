@@ -211,46 +211,6 @@
       }
     },
     {
-      "reviewedSite": "24falkenberg.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-02T13:41:15.363691Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-31T04:36:27.052697353Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
-      "reviewedSite": "24halmstad.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-03T02:33:59.192756Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
-    },
-    {
-      "reviewedSite": "24helsingborg.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-03T07:34:47.508675Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "24kalmar.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -298,25 +258,15 @@
     },
     {
       "reviewedSite": "24oland.se",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-02T13:42:59.087921Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-27T07:36:29.708434993Z",
-        "filterStatus": "PAUSED"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-02T13:43:07.265417Z",
+        "lastChangeTime": "2018-10-03T16:04:31.937892Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-10-27T07:36:29.382945829Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -330,19 +280,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-19T05:34:56.011937022Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "24uppsala.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-21T08:33:47.848300Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
       }
     },
     {
@@ -391,14 +328,13 @@
     {
       "reviewedSite": "30kapel.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-01T20:46:37.480222Z",
+        "lastChangeTime": "2018-10-03T17:12:50.212214Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-10-31T18:39:10.356236377Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -3290,6 +3226,19 @@
       }
     },
     {
+      "reviewedSite": "bestnewautocar.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-03T17:46:55.629887Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-02T17:46:54.787870207Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "betonline.net.pl",
       "mobileSummary": {},
       "desktopSummary": {
@@ -4313,6 +4262,18 @@
       }
     },
     {
+      "reviewedSite": "bunnywomen.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-03T16:04:37.461431Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "buradanizle.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -4471,6 +4432,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "buzzclic.info",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-03T16:04:38.647663Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-02T16:04:38.071381687Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "buzzvivo.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:05:59.878853Z",
@@ -4514,6 +4488,44 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "caetius.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-03T17:47:00.041871Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-02T17:46:59.031331780Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "caffeblog.it",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-03T17:47:01.399779Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
+      "reviewedSite": "call-options.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-03T18:49:38.070559Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-02T18:49:37.350650004Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "camionesporespana.com",
@@ -4604,6 +4616,19 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "caramelmilf.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-03T21:55:00.382623Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-02T21:54:59.803130355Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "caranddriveer.com",
@@ -6243,13 +6268,13 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-03T17:32:40.096463Z",
+        "lastChangeTime": "2018-10-03T17:32:39.539330Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-03T17:32:39.191429Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -11881,13 +11906,13 @@
       "reviewedSite": "hitportal.com.mk",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-03T16:44:08.759023Z",
+        "lastChangeTime": "2018-10-03T16:44:08.125441Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-03T16:44:07.835192Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -15534,13 +15559,13 @@
       "reviewedSite": "lovinglondon.de",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-03T17:36:39.080671Z",
+        "lastChangeTime": "2018-10-03T17:36:38.841628Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-03T17:36:38.595700548Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16323,13 +16348,13 @@
       "reviewedSite": "maschinewerkzeug.de",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-03T18:45:29.694383Z",
+        "lastChangeTime": "2018-10-03T18:45:29.321443Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-03T18:45:29.027493827Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -23333,13 +23358,13 @@
       "reviewedSite": "skipper-bootshandel.de",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-03T16:53:11.186271Z",
+        "lastChangeTime": "2018-10-03T16:53:10.889290Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-03T16:53:10.650730183Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -28069,13 +28094,13 @@
       "reviewedSite": "wba.co.uk",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-03T17:36:38.643823Z",
+        "lastChangeTime": "2018-10-03T17:36:38.277117Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-03T17:36:38.141444488Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
