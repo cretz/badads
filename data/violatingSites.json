@@ -188,13 +188,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-06T00:19:37.892879Z",
+        "lastChangeTime": "2018-10-06T00:19:37.274515Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-06T00:19:36.927807Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -1259,13 +1259,14 @@
       "reviewedSite": "alivefootballstreaming.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-05T14:56:08.865233Z",
+        "lastChangeTime": "2018-10-06T00:37:52.554179Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-05T14:56:08.603244Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -5431,13 +5432,13 @@
     {
       "reviewedSite": "closeupfactory.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-06T06:41:30.932399Z",
+        "lastChangeTime": "2018-10-06T06:41:30.682307Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-06T06:41:30.405954233Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -6814,6 +6815,18 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "dhallywood420.blogspot.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-06T01:55:04.049084Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "dialoguewebcam.com",
@@ -9555,13 +9568,14 @@
       "reviewedSite": "forexone.club",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-07T01:49:47.769791Z",
+        "lastChangeTime": "2018-10-06T05:39:33.775834Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-07T01:49:47.476789420Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -10002,20 +10016,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T13:43:02.485677Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "fuckingsession.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-04T14:38:59.472507Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-03T00:33:39.041022554Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14301,13 +14301,13 @@
     {
       "reviewedSite": "lagioiadellapreghiera.it",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-06T06:41:29.025231Z",
+        "lastChangeTime": "2018-10-06T06:41:28.460052Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-06T06:41:28.297423959Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14864,13 +14864,13 @@
     {
       "reviewedSite": "lesrecettesdezazaetdesescops.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-06T06:41:31.707199Z",
+        "lastChangeTime": "2018-10-06T06:41:31.180816Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-06T06:41:30.910519255Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -21035,13 +21035,13 @@
     {
       "reviewedSite": "prenoms-musulmans.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-06T07:38:13.571199Z",
+        "lastChangeTime": "2018-10-06T07:38:13.265759Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-06T07:38:13.101415098Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -22181,13 +22181,13 @@
     {
       "reviewedSite": "ritholtz.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-06T06:41:30.457871Z",
+        "lastChangeTime": "2018-10-06T06:41:29.729179Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-06T06:41:29.613965397Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -28959,13 +28959,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-06T04:35:41.244527Z",
+        "lastChangeTime": "2018-10-06T04:35:40.704959Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-06T04:35:40.483434291Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
