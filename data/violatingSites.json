@@ -3677,13 +3677,14 @@
       "reviewedSite": "blogstar.hu",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-06T18:10:33.692126Z",
+        "lastChangeTime": "2018-10-08T07:11:51.812952Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-06T18:10:33.543106Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4716,13 +4717,13 @@
       "reviewedSite": "carreleasedate.us",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-08T02:38:43.836911Z",
+        "lastChangeTime": "2018-10-08T02:38:43.417688Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-08T02:38:43.256437614Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7162,7 +7163,15 @@
     },
     {
       "reviewedSite": "djmoremuzic.ng",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-08T03:50:02.176482Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-07T03:50:01.913003123Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-10-05T17:40:32.739238Z",
         "region": [
@@ -7448,6 +7457,26 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "dwergkees.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-08T06:45:00.293606Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-07T06:44:59.822037314Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-08T04:44:06.591715Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "dynamomania.com",
@@ -10819,19 +10848,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "globocase.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-04-27T20:17:43.484997Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "gm-worldmag.com",
@@ -21192,13 +21208,14 @@
     {
       "reviewedSite": "ptitecuisinedepauline.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-05T17:15:28.281570Z",
+        "lastChangeTime": "2018-10-08T07:20:36.253490Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-05T17:15:28.160436958Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
