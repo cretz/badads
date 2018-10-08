@@ -6646,13 +6646,13 @@
       "reviewedSite": "deadlinenews.co.uk",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-07T21:36:13.626959Z",
+        "lastChangeTime": "2018-10-07T21:36:13.172423Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-07T21:36:12.978306Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -10829,6 +10829,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -12101,13 +12102,13 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-07T17:50:58.531199Z",
+        "lastChangeTime": "2018-10-07T17:50:58.075581Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-07T17:50:57.780197Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18826,13 +18827,13 @@
       "reviewedSite": "nursinginpractice.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-07T17:10:52.569839Z",
+        "lastChangeTime": "2018-10-07T17:10:52.037159Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-07T17:10:51.870452Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
