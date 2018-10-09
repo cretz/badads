@@ -10547,13 +10547,14 @@
       "reviewedSite": "fxstreet.com.tr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-07T11:35:04.315318Z",
+        "lastChangeTime": "2018-10-09T07:01:15.796983Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-07T11:35:04.057760946Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14900,20 +14901,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-23T01:34:59.131183354Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "legalnybukmacher.net.pl",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-07T06:38:25.018139Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-14T04:38:27.396377028Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -23785,20 +23772,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "smartmeetings.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-08T21:09:31.489690Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-07T00:40:57.962833Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "smilepub.com",
