@@ -6309,13 +6309,14 @@
     {
       "reviewedSite": "dacnews.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-05T08:00:17.404858Z",
+        "lastChangeTime": "2018-10-08T19:48:39.325249Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-04T08:00:16.934130045Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -7801,13 +7802,14 @@
     {
       "reviewedSite": "edizionecaserta.it",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:07.128014Z",
+        "lastChangeTime": "2018-10-08T21:29:10.350913Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -8899,6 +8901,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "fammtvhd.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-08T19:50:31.912228Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-07T19:50:31.464854500Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "famousviralstories.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:08.756090Z",
@@ -8925,7 +8940,15 @@
     },
     {
       "reviewedSite": "fanaticosdaligarecord.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-08T19:50:32.327795Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-07T19:50:31.942119791Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-10-08T11:36:56.526429Z",
         "region": [
@@ -9080,7 +9103,15 @@
     },
     {
       "reviewedSite": "female-mind-control.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-08T20:51:12.483099Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-07T20:51:12.189581966Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-10-08T13:21:20.934909Z",
         "region": [
@@ -10609,6 +10640,18 @@
       }
     },
     {
+      "reviewedSite": "gamesclips.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-08T16:46:56.903394Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "garaza.rs",
       "mobileSummary": {
         "lastChangeTime": "2018-04-14T16:59:13.012867Z",
@@ -10878,6 +10921,19 @@
       }
     },
     {
+      "reviewedSite": "georgeezblog.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-08T17:44:59.376254Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-07T17:44:58.831649567Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "georgiadogs.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:11.319732Z",
@@ -10964,6 +11020,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "giochieflash.it",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-08T17:45:01.052925Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-07T17:45:00.752703677Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "giornaledimontesilvano.com",
@@ -11327,6 +11396,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "gorilla1919.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-08T23:07:37.549120Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-07T23:07:36.989682141Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "gorillavid.in",
@@ -21228,13 +21310,14 @@
     {
       "reviewedSite": "prenoms-musulmans.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-06T07:38:13.265759Z",
+        "lastChangeTime": "2018-10-08T17:14:46.666145Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-06T07:38:13.101415098Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -23707,13 +23790,14 @@
       "reviewedSite": "smartmeetings.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-07T00:40:58.115022Z",
+        "lastChangeTime": "2018-10-08T21:09:31.489690Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-07T00:40:57.962833Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -27355,6 +27439,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -28489,20 +28574,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-10T11:36:31.845332298Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "who-calls-me.us",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-08T15:45:04.214558Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-07T08:34:59.809939072Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
