@@ -179,23 +179,16 @@
     {
       "reviewedSite": "2020mag.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-16T00:26:23.334975Z",
+        "lastChangeTime": "2018-10-09T15:10:38.272121Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-16T00:26:22.335252Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-06T00:19:37.274515Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-10-06T00:19:36.927807Z",
-        "filterStatus": "ON"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "22cam.net",
@@ -6057,29 +6050,6 @@
       }
     },
     {
-      "reviewedSite": "csakps.hu",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-08T09:42:07.170624Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-11-04T06:40:55.600484161Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-08T09:42:20.881086Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-11-04T06:40:55.242834628Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "csmonitor.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10544,20 +10514,6 @@
       }
     },
     {
-      "reviewedSite": "fxstreet.com.tr",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-09T07:01:15.796983Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-07T11:35:04.057760946Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "g6-team.net",
       "mobileSummary": {},
       "desktopSummary": {
@@ -11936,6 +11892,32 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "hdfilmcenneti1.org",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-09T12:45:16.223670Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-08T12:45:15.321386433Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "hdfilmcukka.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-09T12:45:16.506277Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-08T12:45:16.258968315Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "hdfilmekrani.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -12007,6 +11989,32 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "hdfilmizlep.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-09T12:45:16.941317Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-08T12:45:16.539282719Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "hdfilmizlesinema.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-09T12:45:17.285497Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-08T12:45:16.974196779Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "hdizlesinema.com",
@@ -12223,6 +12231,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "hematoom.nl",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-09T12:45:19.612812Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "henchan.me",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:13.965065Z",
@@ -12253,6 +12273,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-27T18:10:05.066514736Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "hentaimoviez.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-09T13:41:07.313228Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-08T13:41:06.737609413Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -21493,20 +21526,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "ptitecuisinedepauline.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-08T07:20:36.253490Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-05T17:15:28.160436958Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "publico.pt",
       "mobileSummary": {},
       "desktopSummary": {
@@ -26929,18 +26948,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-21T06:34:04.501510869Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "tv2.hu",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-03T20:29:28.109500Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       }
     },
     {
