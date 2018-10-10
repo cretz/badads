@@ -9591,20 +9591,6 @@
       }
     },
     {
-      "reviewedSite": "fleeteurope.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-08T08:01:09.227306Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-03T12:33:47.312469314Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "flixreel.co",
       "mobileSummary": {},
       "desktopSummary": {
@@ -12484,6 +12470,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "hornywhores.info",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-09T16:44:04.425794Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-08T16:44:03.699628277Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "hot4k.org",
@@ -21328,20 +21327,6 @@
       }
     },
     {
-      "reviewedSite": "prenoms-musulmans.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-08T17:14:46.666145Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-06T07:38:13.101415098Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "pressbull.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:32.880963Z",
@@ -21817,22 +21802,24 @@
     {
       "reviewedSite": "radiojadran.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-21T13:33:51.381534Z",
+        "lastChangeTime": "2018-10-09T20:08:27.257122Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-26T05:07:55.597981829Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-21T01:34:41.049246Z",
+        "lastChangeTime": "2018-10-09T20:06:35.688061Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-25T02:59:20.688580792Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -27164,6 +27151,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {
