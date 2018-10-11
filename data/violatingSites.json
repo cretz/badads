@@ -191,7 +191,14 @@
     },
     {
       "reviewedSite": "24kalmar.se",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-11T08:48:09.349420Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-10-11T04:18:09.743305Z",
         "region": [
@@ -295,19 +302,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "30kapel.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-03T17:12:50.212214Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-10-31T18:39:10.356236377Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "33rap.com",
@@ -8421,6 +8415,18 @@
       }
     },
     {
+      "reviewedSite": "eroreal.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-11T08:34:51.777612Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "erotik-sexgeschichten.com",
       "mobileSummary": {
         "lastChangeTime": "2018-09-19T08:33:18.384502Z",
@@ -11376,13 +11382,13 @@
     {
       "reviewedSite": "goroskoptntsfat.appspot.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-11T08:35:55.508223Z",
+        "lastChangeTime": "2018-10-11T08:35:55.090401Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-11T08:35:54.928298932Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -11880,7 +11886,15 @@
     },
     {
       "reviewedSite": "hdfilmcenneti1.org",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-11T14:55:56.246700Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-10T14:55:55.654367553Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-10-09T12:45:16.223670Z",
         "region": [
@@ -11893,7 +11907,15 @@
     },
     {
       "reviewedSite": "hdfilmcukka.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-11T14:55:56.691112Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-10T14:55:56.280281786Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-10-09T12:45:16.506277Z",
         "region": [
@@ -15995,19 +16017,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "lokaltidningensto.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-14T07:51:38.027471Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-10-14T07:51:36.725704Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "lolo.ge",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:22.732343Z",
@@ -19134,13 +19143,13 @@
       "reviewedSite": "novenaclinica.pl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-11T15:37:43.415471Z",
+        "lastChangeTime": "2018-10-11T15:37:42.979886Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-11T15:37:42.860674863Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
