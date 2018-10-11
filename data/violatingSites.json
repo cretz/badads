@@ -198,6 +198,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -1044,13 +1045,13 @@
       "reviewedSite": "aindasoudotempo.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-10T18:58:19.280559Z",
+        "lastChangeTime": "2018-10-10T18:58:18.700647Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-10T18:58:18.491457Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13248,22 +13249,22 @@
     {
       "reviewedSite": "invisionmag.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-10T17:41:02.801423Z",
+        "lastChangeTime": "2018-10-10T17:41:02.416485Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-10T17:41:02.297501429Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-10T21:35:46.711583Z",
+        "lastChangeTime": "2018-10-10T21:35:46.200119Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-10T21:35:46.065554964Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13525,6 +13526,19 @@
       }
     },
     {
+      "reviewedSite": "javti.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-10T17:13:00.416884Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-09T17:13:00.065069048Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "jebovizija.info",
       "mobileSummary": {
         "lastChangeTime": "2018-08-01T17:12:26.172530Z",
@@ -13599,6 +13613,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-23T01:34:58.871047882Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "jornaldamarinha.pt",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-10T21:45:23.823259Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-09T21:45:23.428972295Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -19460,13 +19487,13 @@
     {
       "reviewedSite": "on.pt",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-10T16:42:46.549023Z",
+        "lastChangeTime": "2018-10-10T16:42:46.058739Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-10T16:42:45.838964Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-09-29T16:21:15.468264Z",
@@ -21164,13 +21191,13 @@
       "reviewedSite": "pornsitechoice.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-10T16:34:50.982959Z",
+        "lastChangeTime": "2018-10-10T16:34:50.813961Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-10T16:34:50.351108706Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
