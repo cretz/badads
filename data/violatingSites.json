@@ -2576,13 +2576,14 @@
       "reviewedSite": "badweyntimes.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-05T02:44:26.313210Z",
+        "lastChangeTime": "2018-10-11T21:08:56.290921Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-05T02:44:26.004227Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -11240,13 +11241,14 @@
       "reviewedSite": "golfdom.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-19T17:52:36.472319Z",
+        "lastChangeTime": "2018-10-11T18:00:55.734302Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-19T17:52:35.607230Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12146,13 +12148,13 @@
       "reviewedSite": "healtheconomics.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-11T21:36:43.846671Z",
+        "lastChangeTime": "2018-10-11T21:36:43.431811Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-11T21:36:43.137650690Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13144,6 +13146,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "infomedik.info",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-11T18:46:41.321901Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "infomotori.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13241,6 +13255,19 @@
         "enforcementTime": "2018-04-05T10:11:48.294546Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "instasensi.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-11T18:46:42.222123Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-10T18:46:41.770678181Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "interaktive-fundgrube.de",
@@ -14177,6 +14204,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "kinogo-net.xyz",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-11T22:56:46.796268Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-10T22:56:46.426941936Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -26552,13 +26592,13 @@
       "reviewedSite": "tr-brazzers.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-11T21:36:44.439183Z",
+        "lastChangeTime": "2018-10-11T21:36:43.993486Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-11T21:36:43.792528554Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
