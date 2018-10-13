@@ -6212,13 +6212,13 @@
     {
       "reviewedSite": "cvetymudrosti.com.ua",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-13T14:38:42.611871Z",
+        "lastChangeTime": "2018-10-13T14:38:42.043265Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-13T14:38:41.828517264Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -23431,13 +23431,13 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-13T11:57:55.139151Z",
+        "lastChangeTime": "2018-10-13T11:57:54.202707Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-13T11:57:53.948438Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
