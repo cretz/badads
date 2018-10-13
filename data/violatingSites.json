@@ -17209,13 +17209,13 @@
     {
       "reviewedSite": "media-kljuc.ba",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-13T01:35:10.180255Z",
+        "lastChangeTime": "2018-10-13T01:35:09.856441Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-13T01:35:09.709208911Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-10-12T21:35:27.820418Z",
@@ -29989,6 +29989,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "zuckerporno.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-13T00:06:37.973918Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-12T00:06:37.323454Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "zuri.net",
