@@ -5922,13 +5922,14 @@
       "reviewedSite": "cretadrive.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-19T01:33:46.813270Z",
+        "lastChangeTime": "2018-10-13T23:32:59.426131Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-19T01:33:46.598536720Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -10313,13 +10314,13 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-13T19:29:25.387727Z",
+        "lastChangeTime": "2018-10-13T19:29:24.834519Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-13T19:29:24.672556Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18191,13 +18192,13 @@
       "reviewedSite": "mundook.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-13T22:34:51.451455Z",
+        "lastChangeTime": "2018-10-13T22:34:51.184792Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-13T22:34:51.028412325Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21406,13 +21407,13 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-13T21:26:05.148607Z",
+        "lastChangeTime": "2018-10-13T21:26:04.553225Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-13T21:26:04.283805Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
