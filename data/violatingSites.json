@@ -1820,6 +1820,18 @@
       }
     },
     {
+      "reviewedSite": "ansor.info",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-15T14:54:05.197486Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "antena24.ro",
       "mobileSummary": {
         "lastChangeTime": "2018-09-06T21:40:31.409346Z",
@@ -16928,7 +16940,15 @@
     },
     {
       "reviewedSite": "manufacturingguide.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-15T12:51:37.959629Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-14T12:51:37.619243127Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-10-15T02:09:13.521452Z",
         "region": [
@@ -19033,6 +19053,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "newsheadline247.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-15T15:10:49.805538Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-14T15:10:49.208876458Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "newsitaliane.it",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:27.987306Z",
@@ -19747,6 +19780,19 @@
       }
     },
     {
+      "reviewedSite": "onededi.co",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-15T13:47:43.344900Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-14T13:47:42.716946846Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "onepiece-tube.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:29.466692Z",
@@ -19893,6 +19939,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "ot.se",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-15T15:48:27.342072Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-14T15:48:26.793002474Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "otherbuzz.com",
@@ -20049,6 +20108,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "paidpicks1x2.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-15T15:48:28.857140Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-14T15:48:28.230175898Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "painolympics.org",
@@ -22097,6 +22169,18 @@
         "enforcementTime": "2018-04-20T21:53:25.711606514Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "raidcall.com.ru",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-15T11:25:39.663526Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "rainierland.com",
