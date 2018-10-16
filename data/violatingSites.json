@@ -1590,13 +1590,14 @@
       "reviewedSite": "andreanorrman.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-01T17:52:24.115489Z",
+        "lastChangeTime": "2018-10-16T15:32:06.617777Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-29T16:38:04.808290224Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -5976,6 +5977,7 @@
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -27759,6 +27761,7 @@
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
