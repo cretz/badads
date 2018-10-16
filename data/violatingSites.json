@@ -6451,6 +6451,27 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "datawav.club",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-16T06:21:25.428504Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-15T06:21:24.698336Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-16T06:21:25.150664Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-15T06:21:24.698336Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "dauphingourmet.com",
       "mobileSummary": {
         "lastChangeTime": "2018-06-15T17:56:29.265525Z",
@@ -15672,13 +15693,13 @@
     {
       "reviewedSite": "liveshemalecams.eu",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-16T00:37:55.752367Z",
+        "lastChangeTime": "2018-10-16T00:37:55.288501Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-16T00:37:55.129332693Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -19186,6 +19207,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "nonk.info",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-16T00:58:51.238782Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-15T00:58:50.100749Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "nonkporno.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -21619,6 +21653,19 @@
       }
     },
     {
+      "reviewedSite": "pornzara.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-16T06:44:37.228456Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-15T06:44:36.841191Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "porrvideo.net",
       "mobileSummary": {
         "lastChangeTime": "2018-09-04T10:34:45.723276Z",
@@ -22593,13 +22640,14 @@
     {
       "reviewedSite": "remontoni.guru",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-17T03:35:37.369023Z",
+        "lastChangeTime": "2018-10-16T05:39:44.065222Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-17T03:35:36.554398301Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -24212,7 +24260,15 @@
     },
     {
       "reviewedSite": "socialmediafeed.me",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-16T06:20:26.202585Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-15T06:20:25.842866Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-10-15T04:53:45.761841Z",
         "region": [
