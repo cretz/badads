@@ -10742,7 +10742,7 @@
       "reviewedSite": "geiletaschenporno.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-12T19:37:58.169458Z",
+        "lastChangeTime": "2018-10-17T06:19:52.375303Z",
         "region": [
           "REGION_B"
         ],
@@ -13502,13 +13502,13 @@
       "reviewedSite": "janemarina.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-17T07:38:05.218543Z",
+        "lastChangeTime": "2018-10-17T07:38:04.759741Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-17T07:38:04.587158758Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13786,13 +13786,13 @@
     {
       "reviewedSite": "justalternativeto.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-17T03:35:36.604175Z",
+        "lastChangeTime": "2018-10-17T03:35:36.253559Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-17T03:35:36.087482102Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -16043,13 +16043,13 @@
       "reviewedSite": "localbiz-suceava.ro",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-17T02:36:44.656943Z",
+        "lastChangeTime": "2018-10-17T02:36:44.322641Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-17T02:36:44.055567527Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -19878,6 +19878,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "online-allsports.com.ua",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-17T00:19:48.816920Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "onlydexter.ru",
       "mobileSummary": {
         "lastChangeTime": "2018-08-27T12:33:16.790503Z",
@@ -20036,20 +20048,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "otpercpiheno.blogspot.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-16T20:24:04.131357Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "otrkeyfinder.com",
@@ -25429,6 +25427,26 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "swingerszex.hu",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-17T00:30:18.980265Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-17T00:30:19.282497Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-16T00:30:18.589538Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "swingingcommunity.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -29249,12 +29267,13 @@
       "reviewedSite": "wunderporno.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-13T20:57:11.305466Z",
+        "lastChangeTime": "2018-10-17T00:25:19.538821Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-16T00:25:18.987404Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -30252,6 +30271,18 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-21T17:24:57.214570Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "zurnal24.si",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-17T04:12:50.665166Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
