@@ -5970,19 +5970,6 @@
       }
     },
     {
-      "reviewedSite": "crosswordquizanswers.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:03.918392Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "crunchingbaseteam.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -9912,6 +9899,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "freeadultcomix.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-16T16:34:56.613030Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-15T16:34:56.274642Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "freeblackebonyporn.com",
@@ -19893,7 +19893,7 @@
     {
       "reviewedSite": "onlygayvideo.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-22T18:46:26.961596Z",
+        "lastChangeTime": "2018-10-16T23:11:21.182471Z",
         "region": [
           "REGION_B"
         ],
@@ -19902,7 +19902,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-20T05:59:38.363063Z",
+        "lastChangeTime": "2018-10-16T23:11:20.053014Z",
         "region": [
           "REGION_B"
         ],
@@ -20040,13 +20040,14 @@
     {
       "reviewedSite": "otpercpiheno.blogspot.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:30.012401Z",
+        "lastChangeTime": "2018-10-16T20:24:04.131357Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -21270,7 +21271,7 @@
     {
       "reviewedSite": "pornissimo.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-23T18:50:25.592897Z",
+        "lastChangeTime": "2018-10-16T23:05:20.556571Z",
         "region": [
           "REGION_B"
         ],
@@ -21279,7 +21280,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-17T15:35:39.782145Z",
+        "lastChangeTime": "2018-10-16T23:05:20.837171Z",
         "region": [
           "REGION_B"
         ],
@@ -22466,6 +22467,19 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "reblop.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-16T23:08:22.426416Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-15T23:08:21.946747Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "recettes-plaisir.com",
@@ -24977,13 +24991,13 @@
     {
       "reviewedSite": "srv101.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-16T22:36:54.121007Z",
+        "lastChangeTime": "2018-10-16T22:36:53.606956Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-16T22:36:53.457279995Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -27651,6 +27665,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "ultimate-guitar.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-16T22:05:59.169458Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "ultrasloko.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -27752,19 +27778,6 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
-    },
-    {
-      "reviewedSite": "unscramblewords.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:45.866657Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "untamo.pp.ua",
@@ -28443,6 +28456,18 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "vivud.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-16T22:06:01.360128Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
     },
     {
       "reviewedSite": "vizyonfilmizle.com.tr",
