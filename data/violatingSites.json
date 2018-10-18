@@ -4600,13 +4600,13 @@
     {
       "reviewedSite": "caopornx.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-18T02:36:00.035983Z",
+        "lastChangeTime": "2018-10-18T02:35:59.499411Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-18T02:35:59.283197832Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -9595,13 +9595,13 @@
     {
       "reviewedSite": "floralovezone.blogspot.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-18T05:35:09.138655Z",
+        "lastChangeTime": "2018-10-18T05:35:08.256463Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-18T05:35:08.099346324Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -19873,13 +19873,14 @@
       "reviewedSite": "onededi.co",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-15T13:47:43.344900Z",
+        "lastChangeTime": "2018-10-18T02:08:30.900689Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-14T13:47:42.716946846Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -23967,20 +23968,6 @@
       }
     },
     {
-      "reviewedSite": "simchaspot.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-17T19:46:36.024926Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-22T19:02:14.112688Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "simplyhealth.today",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:38.273388Z",
@@ -26811,13 +26798,13 @@
     {
       "reviewedSite": "topinworld.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-18T00:35:32.696991Z",
+        "lastChangeTime": "2018-10-18T00:35:32.165320Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-18T00:35:32.013876426Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
