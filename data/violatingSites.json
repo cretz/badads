@@ -18162,6 +18162,19 @@
       }
     },
     {
+      "reviewedSite": "mp3telega.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-18T15:56:53.916627Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-17T15:56:53.577167Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "mpeskaivresotithes.gr",
       "mobileSummary": {
         "lastChangeTime": "2018-10-07T07:34:53.134146Z",
@@ -20571,13 +20584,13 @@
     {
       "reviewedSite": "pensiialba.ro",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-18T15:36:30.916079Z",
+        "lastChangeTime": "2018-10-18T15:36:30.323107Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-18T15:36:30.108710495Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -22599,6 +22612,18 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "refinery29.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-18T13:21:59.104503Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      }
+    },
+    {
       "reviewedSite": "refinery29.uk",
       "mobileSummary": {},
       "desktopSummary": {
@@ -23250,13 +23275,13 @@
     {
       "reviewedSite": "scientist.org.ua",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-18T15:36:31.851487Z",
+        "lastChangeTime": "2018-10-18T15:36:31.116882Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-18T15:36:30.846206452Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -26492,19 +26517,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "thinkadvisor.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-28T14:17:30.820329Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "thotsextapes.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:43.567911Z",
@@ -27711,6 +27723,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -28990,13 +29003,14 @@
       "reviewedSite": "wherecanibuystamps.us",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-20T03:40:49.734319Z",
+        "lastChangeTime": "2018-10-18T11:59:48.747785Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-20T03:40:49.185214110Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
