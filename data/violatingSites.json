@@ -18229,13 +18229,13 @@
       "reviewedSite": "mufcbr.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-19T10:39:09.372335Z",
+        "lastChangeTime": "2018-10-19T10:39:08.886706Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-19T10:39:08.755751022Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -19229,6 +19229,18 @@
         "enforcementTime": "2018-08-15T01:33:18.699299798Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "nika-org.kiev.ua",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-19T09:35:15.168425Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "ninjamommers.com",
