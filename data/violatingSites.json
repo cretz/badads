@@ -5545,13 +5545,13 @@
       "reviewedSite": "coinprimeur.nl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-18T17:43:54.342863Z",
+        "lastChangeTime": "2018-10-18T17:43:53.761755Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-18T17:43:53.594816282Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -8532,6 +8532,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "eurovidporn.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-18T20:27:34.199523Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-17T20:27:33.262307Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "eustiu.com",
@@ -13526,20 +13539,6 @@
       }
     },
     {
-      "reviewedSite": "jadorechambery.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-17T16:43:09.866669Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-24T15:36:58.025980886Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "janemarina.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -18420,6 +18419,20 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
+    },
+    {
+      "reviewedSite": "mycarnivalfantasy.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-18T23:05:22.656344Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "underReview": true,
+        "enforcementTime": "2018-11-17T21:10:49.024812Z",
+        "filterStatus": "PAUSED"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "mycookingspot.com",
@@ -23850,20 +23863,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:53:20.965131138Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "shifanews.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-17T09:07:16.463417Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-10-24T00:36:13.949810509Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
