@@ -4499,34 +4499,36 @@
     {
       "reviewedSite": "call-options.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-04T18:42:34.207546Z",
+        "lastChangeTime": "2018-10-20T00:07:39.270302Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-03T18:42:33.421878836Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-03T18:49:38.070559Z",
+        "lastChangeTime": "2018-10-20T00:07:03.519344Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-02T18:49:37.350650004Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
       "reviewedSite": "camionesporespana.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-20T00:28:16.612895Z",
+        "lastChangeTime": "2018-10-20T00:28:16.105303Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-20T00:28:15.858475Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -19897,20 +19899,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-29T16:21:15.186446Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "onededi.co",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-18T02:08:30.900689Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-11-14T13:47:42.716946846Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
