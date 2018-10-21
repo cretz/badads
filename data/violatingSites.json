@@ -16528,13 +16528,13 @@
       "reviewedSite": "macyayinlar.org",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-21T10:44:31.732639Z",
+        "lastChangeTime": "2018-10-21T10:44:31.003460Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-21T10:44:30.817439Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -19806,6 +19806,18 @@
         "enforcementTime": "2018-04-11T14:37:02.861075Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "oin.site",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-21T11:36:08.602183Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "oldladyporn.net",
@@ -23497,18 +23509,6 @@
         "enforcementTime": "2018-08-12T11:28:01.975659979Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "sexfire.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-20T07:36:43.071628Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "sexihikayelerioku.com",
