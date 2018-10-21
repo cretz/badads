@@ -18373,20 +18373,6 @@
       }
     },
     {
-      "reviewedSite": "mycarnivalfantasy.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-18T23:05:22.656344Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-11-17T21:10:49.024812Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "mycookingspot.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -19300,6 +19286,19 @@
         "enforcementTime": "2018-10-03T10:34:31.869490978Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "nonlocalscifi.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-20T23:38:06.475468Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-19T23:38:06.158019Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "nopixels.ru",
