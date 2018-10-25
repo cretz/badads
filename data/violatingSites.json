@@ -2272,20 +2272,6 @@
       }
     },
     {
-      "reviewedSite": "basketincontro.it",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-20T09:39:30.945194Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-07T19:11:10.594859Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "bdsmchatters.com",
       "mobileSummary": {
         "lastChangeTime": "2018-09-19T15:33:09.485796Z",
@@ -3658,19 +3644,6 @@
         "enforcementTime": "2018-11-02T21:54:59.803130355Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "caranddriveer.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-27T06:33:09.181533Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-08-22T17:30:53.424921149Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "carant.in",
@@ -10475,27 +10448,6 @@
       }
     },
     {
-      "reviewedSite": "inaek.gr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-27T05:34:44.556436Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-22T20:02:14.960841021Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-23T07:37:23.533982Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-03-30T20:02:27.643609999Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "indepedants.fr",
       "mobileSummary": {
         "lastChangeTime": "2018-10-07T03:35:57.229206Z",
@@ -13066,26 +13018,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "m-perfectgirls.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-24T19:34:46.177422Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-22T09:40:26.541193Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-22T09:40:26.389896456Z",
-        "filterStatus": "ON"
-      }
     },
     {
       "reviewedSite": "m4sport.hu",
@@ -22670,29 +22602,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "tvnea.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-22T06:49:21.162776Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-19T07:08:53.192878Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "tvnews24.it",
