@@ -278,7 +278,7 @@
     {
       "reviewedSite": "3xszexszexszex.hu",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-17T22:00:13.289889Z",
+        "lastChangeTime": "2018-10-24T18:09:59.231460Z",
         "region": [
           "REGION_B"
         ],
@@ -287,7 +287,7 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-17T22:00:12.881485Z",
+        "lastChangeTime": "2018-10-24T18:09:58.566995Z",
         "region": [
           "REGION_B"
         ],
@@ -4752,13 +4752,14 @@
       "reviewedSite": "cuisineculinaire.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-28T14:33:23.018783Z",
+        "lastChangeTime": "2018-10-24T16:03:13.346222Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-28T14:33:22.290415Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12282,19 +12283,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "lesbenporn.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-21T11:33:28.444391Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-23T06:03:56.306858046Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "lesbiansexvideos.pro",
       "mobileSummary": {
         "lastChangeTime": "2018-07-21T20:05:22.794330Z",
@@ -13056,13 +13044,13 @@
     {
       "reviewedSite": "lyoncapitale.fr",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-24T21:36:35.803823Z",
+        "lastChangeTime": "2018-10-24T21:36:35.196070Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-24T21:36:34.713043Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -18670,6 +18658,19 @@
       }
     },
     {
+      "reviewedSite": "redipgers.ga",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-24T19:36:44.606642Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-23T19:36:44.201435Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "redstatepundit.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:34.752554Z",
@@ -19578,14 +19579,7 @@
     },
     {
       "reviewedSite": "sextapecity.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-24T10:34:14.004755Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-08-23T00:36:57.945598Z",
         "region": [
@@ -22434,19 +22428,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "troyanexpress.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-23T06:12:14.106471Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-08-23T01:34:56.047520415Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "tubesexteen.com",
       "mobileSummary": {
         "lastChangeTime": "2018-08-21T15:33:39.811653Z",
@@ -22763,18 +22744,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-17T08:24:49.213822Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "twerk-sessions.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-22T06:34:05.388908Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       }
     },
     {
