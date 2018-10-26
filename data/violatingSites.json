@@ -3646,19 +3646,6 @@
       }
     },
     {
-      "reviewedSite": "carant.in",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-03T11:45:38.791628Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-10-03T11:45:38.564543481Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "carnafishing.fr",
       "mobileSummary": {
         "lastChangeTime": "2018-09-11T02:36:41.467458Z",
@@ -3976,13 +3963,14 @@
       "reviewedSite": "cio.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-25T13:17:20.549902Z",
+        "lastChangeTime": "2018-10-26T10:10:59.082602Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-24T13:17:18.758801Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14646,13 +14634,14 @@
     {
       "reviewedSite": "mysynonyms.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-27T09:35:36.486143Z",
+        "lastChangeTime": "2018-10-26T09:05:20.006470Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-27T09:35:36.035781065Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -17137,19 +17126,6 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "pornhubo.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-23T12:35:39.103718Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-23T12:35:38.928824781Z",
-        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -20927,15 +20903,7 @@
         "enforcementTime": "2018-09-22T19:39:37.156644821Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-21T05:34:07.803661Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-21T05:34:07.602363844Z",
-        "filterStatus": "ON"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "tatelegratos.blogspot.com",
@@ -21315,29 +21283,8 @@
       }
     },
     {
-      "reviewedSite": "theamateurporno.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-22T05:34:10.218926Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-08-08T02:21:56.076855580Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "thebeast2.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-23T04:35:29.182882Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-23T04:35:29.018606475Z",
-        "filterStatus": "ON"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-08-22T05:34:10.727800Z",
         "region": [
@@ -21957,6 +21904,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-19T04:33:55.126892047Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "toutelatele.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-26T15:22:27.294944Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-25T15:22:26.387270Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -24160,6 +24120,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "xvideospanish.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-26T10:22:29.215357Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-25T10:22:28.744400Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "xvideospanish.net",
