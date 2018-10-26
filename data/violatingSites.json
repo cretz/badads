@@ -10529,15 +10529,7 @@
     },
     {
       "reviewedSite": "infos24.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-23T18:37:29.088504Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-08-15T05:38:35.058569761Z",
-        "filterStatus": "ON"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-08-22T01:34:03.065643Z",
         "region": [
@@ -11636,19 +11628,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "lacontradeportiva.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-22T02:41:39.922249Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:52:36.849592750Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "lacryptofacile.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -11891,18 +11870,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "larazon.es",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:21.171816Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "lasertagfans.de",
@@ -12320,19 +12287,6 @@
       }
     },
     {
-      "reviewedSite": "liftingmakesmehappy.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-11T13:22:50.450116Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-08-11T13:22:50.170357769Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "ligtvizlesene.fr",
       "mobileSummary": {},
       "desktopSummary": {
@@ -12630,19 +12584,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-04T18:34:45.726301187Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "localbiz-valcea.ro",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-22T20:34:21.924280Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-08-22T19:34:10.777545859Z",
         "filterStatus": "ON"
       }
     },
@@ -14029,6 +13970,19 @@
       }
     },
     {
+      "reviewedSite": "mlb.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-25T16:06:18.151687Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-24T16:06:17.756461Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "mlbtigersteamstore.top",
       "mobileSummary": {
         "lastChangeTime": "2018-09-14T04:38:29.404551Z",
@@ -14242,19 +14196,6 @@
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "motooring.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-07T14:35:08.947895Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-07T14:35:08.767329878Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "motosecrets.com",
@@ -14829,13 +14770,14 @@
       "reviewedSite": "nationaldaycalendar.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-25T14:28:08.324183Z",
+        "lastChangeTime": "2018-10-25T20:08:44.300682Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-24T14:28:07.363261Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15065,19 +15007,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-18T06:41:49.776940Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "newcarreleasenews.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-24T07:33:35.399040Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-29T06:07:04.417733218Z",
-        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -16263,19 +16192,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "pantyhose4u.net",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-21T04:34:37.508376Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-21T04:34:37.357225450Z",
-        "filterStatus": "ON"
-      }
     },
     {
       "reviewedSite": "paomazisou.gr",
@@ -17751,13 +17667,14 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-10T01:35:17.767633Z",
+        "lastChangeTime": "2018-10-25T17:04:01.008696Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-10-10T01:35:17.556916861Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18866,19 +18783,6 @@
       }
     },
     {
-      "reviewedSite": "roi-nj.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-04T05:34:09.019613Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-10-04T05:34:08.790597170Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "rojadirectaenhd.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -19802,13 +19706,13 @@
     {
       "reviewedSite": "skyrock.mobi",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-25T23:56:29.661711Z",
+        "lastChangeTime": "2018-10-25T23:56:29.131915Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-25T23:56:28.526946Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
