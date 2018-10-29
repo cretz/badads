@@ -3886,20 +3886,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "cio.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-26T10:10:59.082602Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-11-24T13:17:18.758801Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "ciralihotels.info",
       "mobileSummary": {
         "lastChangeTime": "2018-07-26T17:40:16.194757Z",
@@ -7748,6 +7734,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-25T06:59:24.534107742Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "freedsound.io",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-29T07:35:39.665278Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-28T07:35:38.926869Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -12684,19 +12683,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "lyoncapitale.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-24T21:36:35.196070Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-10-24T21:36:34.713043Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "lyunx.com",
       "mobileSummary": {
         "lastChangeTime": "2018-10-12T17:41:44.781446Z",
@@ -14318,6 +14304,19 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       }
+    },
+    {
+      "reviewedSite": "mydreamfuck.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-10-29T07:39:10.903009Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-28T07:39:10.214394Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "myeasytv.com",
@@ -19467,6 +19466,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "skd.se",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-29T07:52:37.322667Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-28T07:52:37.045206Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "skriptomaniya.ru",
       "mobileSummary": {
         "lastChangeTime": "2018-08-27T07:34:36.980278Z",
@@ -21040,6 +21052,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "thecrimson.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-29T06:38:12.943044Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-28T06:38:12.624612Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "thefinalball.com",
