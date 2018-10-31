@@ -3732,6 +3732,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "ceritaseru.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-30T16:55:13.918059Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-29T16:55:13.605126Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "cesclo2-patchwork-et-tissus.com",
       "mobileSummary": {
         "lastChangeTime": "2018-09-14T01:37:20.618597Z",
@@ -18255,6 +18268,7 @@
           "REGION_A"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       }
     },
@@ -23664,6 +23678,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-12T07:58:01.247823938Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "xcafe.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-10-30T21:33:35.590498Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-11-29T21:33:35.228852Z",
+        "filterStatus": "PENDING"
       }
     },
     {
