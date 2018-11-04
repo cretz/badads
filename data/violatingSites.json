@@ -2535,13 +2535,13 @@
     {
       "reviewedSite": "bunnywomen.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-04T17:49:31.940440Z",
+        "lastChangeTime": "2018-11-03T17:49:31.414603Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-03T17:49:31.217917168Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-10-03T16:04:37.461431Z",
@@ -2784,13 +2784,13 @@
     {
       "reviewedSite": "caramelmilf.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-04T19:57:10.872330Z",
+        "lastChangeTime": "2018-11-03T19:57:09.800130Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-03T19:57:09.680809666Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-11-02T21:54:59.925107Z",
@@ -2817,13 +2817,13 @@
     {
       "reviewedSite": "carreleasedatenews.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-04T19:57:12.377377Z",
+        "lastChangeTime": "2018-11-03T19:57:11.977051Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-03T19:57:11.824905539Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -2855,26 +2855,26 @@
     {
       "reviewedSite": "carwaw.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-04T20:42:44.328761Z",
+        "lastChangeTime": "2018-11-03T20:42:43.633743Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-03T20:42:43.496202540Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "castigados.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-04T20:42:45.091595Z",
+        "lastChangeTime": "2018-11-03T20:42:44.586192Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-03T20:42:44.465573542Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -2941,13 +2941,13 @@
       "reviewedSite": "celebinfoz.club",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-04T20:42:46.882517Z",
+        "lastChangeTime": "2018-11-03T20:42:46.815265Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-03T20:42:46.485165028Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -3030,13 +3030,13 @@
     {
       "reviewedSite": "chelseadaft.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-04T21:39:12.410390Z",
+        "lastChangeTime": "2018-11-03T21:39:12.051514Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-03T21:39:11.797951964Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14533,13 +14533,14 @@
       "reviewedSite": "resultadosdirecto.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-12T09:34:00.706013Z",
+        "lastChangeTime": "2018-11-03T16:55:49.907555Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-12T09:34:00.557129072Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
