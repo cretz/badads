@@ -3821,22 +3821,22 @@
     {
       "reviewedSite": "daiglob.eu",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-05T08:40:22.556622Z",
+        "lastChangeTime": "2018-11-04T08:40:22.347737Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-04T08:40:22.065909087Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-05T08:00:18.434564Z",
+        "lastChangeTime": "2018-11-04T08:00:18.167625Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-04T08:00:17.912726349Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -3892,13 +3892,13 @@
       "reviewedSite": "damahaha.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-05T08:40:23.807207Z",
+        "lastChangeTime": "2018-11-04T08:40:23.313282Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-04T08:40:23.203671827Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -4162,13 +4162,13 @@
     {
       "reviewedSite": "dfggfdh.blogspot.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-05T15:41:55.793810Z",
+        "lastChangeTime": "2018-11-04T15:41:55.687735Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-04T15:41:55.534411Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -8219,20 +8219,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-15T05:38:34.131432628Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "infozone24.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-02T13:41:29.358291Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-11-09T11:52:49.517652930Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -16966,6 +16952,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "tmall.com.pl",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-04T08:38:06.396221Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-04T08:38:05.995468Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "tmzgo.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:43.881348Z",
@@ -16976,6 +16975,27 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "toastpartyrentals.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-04T09:50:37.271666Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-04T09:50:36.629926Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-04T09:50:37.135211Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-04T09:50:36.629926Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "toltsd-fel.xyz",
@@ -17269,6 +17289,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-11T19:24:05.873074Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "trendingdress.club",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-04T13:48:23.727302Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-04T13:48:23.231827Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
