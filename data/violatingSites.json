@@ -4403,13 +4403,13 @@
         "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-05T17:40:32.739238Z",
+        "lastChangeTime": "2018-11-04T17:40:32.598811Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-04T17:40:32.430812166Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -17919,6 +17919,27 @@
       }
     },
     {
+      "reviewedSite": "victorpredict.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-04T20:36:54.659952Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-04T20:36:54.319188Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-04T20:36:54.578666Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-04T20:36:54.145794Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "video-porno-mature.net",
       "mobileSummary": {
         "lastChangeTime": "2018-08-21T11:33:29.968434Z",
@@ -18074,6 +18095,19 @@
       }
     },
     {
+      "reviewedSite": "viral-wonderz.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-04T21:37:17.287331Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-04T21:37:16.896615Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "viralsocialblog.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-28T20:25:31.289893Z",
@@ -18137,6 +18171,27 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "w--w.top",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-04T23:37:38.677787Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-04T23:37:38.157100Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-04T23:37:38.796640Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-04T23:37:38.157100Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "wacowny.com",
