@@ -13973,6 +13973,26 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "sampar.jp",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-06T13:38:43.372625Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "WARNING",
+        "filterStatus": "OFF"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-06T13:38:43.160500Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-06T13:38:42.430674Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "sashamismai.fr",
       "mobileSummary": {
         "lastChangeTime": "2018-10-05T18:12:46.946427Z",
@@ -14111,19 +14131,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-01T19:35:18.597774Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "seksi-hikayeler.blogspot.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-07T09:35:08.064631Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-07T09:35:07.732902173Z",
-        "filterStatus": "ON"
       }
     },
     {
@@ -14592,19 +14599,6 @@
       }
     },
     {
-      "reviewedSite": "skriptomaniya.ru",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-27T07:34:36.980278Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-29T09:20:10.936485602Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "skyblog.com",
       "mobileSummary": {
         "lastChangeTime": "2018-08-24T10:34:15.100616Z",
@@ -15024,19 +15018,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "storstadsmamman.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-23T01:39:57.756504Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-23T01:39:57.598663584Z",
-        "filterStatus": "ON"
-      }
     },
     {
       "reviewedSite": "streamhd.eu",
@@ -16023,7 +16004,7 @@
     {
       "reviewedSite": "topirl.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-19T04:33:56.858492Z",
+        "lastChangeTime": "2018-11-06T09:39:24.729879Z",
         "region": [
           "REGION_B"
         ],
@@ -17391,27 +17372,6 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "wormen.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-17T01:36:10.562635Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-17T01:36:10.365181187Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-17T03:36:30.139974Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-17T03:36:29.929930810Z",
-        "filterStatus": "ON"
-      }
     },
     {
       "reviewedSite": "woundcareadvisor.com",
