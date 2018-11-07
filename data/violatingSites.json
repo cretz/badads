@@ -4,7 +4,7 @@
       "reviewedSite": "0xxx.eu",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-20T05:34:56.727998Z",
+        "lastChangeTime": "2018-11-07T07:40:03.328505Z",
         "region": [
           "REGION_B"
         ],
@@ -250,6 +250,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-21T03:36:03.518149Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "7du.ru",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-07T07:40:04.179332Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-07T07:40:03.532234Z",
         "filterStatus": "PENDING"
       }
     },
@@ -4089,13 +4102,13 @@
     {
       "reviewedSite": "dwergkees.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-08T06:45:00.293606Z",
+        "lastChangeTime": "2018-11-07T06:44:59.985055Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-07T06:44:59.822037314Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-10-08T04:44:06.591715Z",
@@ -4142,27 +4155,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-05T06:33:59.542080667Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "e-sushi.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-06T23:45:19.725235Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-19T07:36:44.430598358Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-06T23:45:19.612507Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-19T02:32:07.761528040Z",
         "filterStatus": "ON"
       }
     },
@@ -5448,7 +5440,7 @@
       "reviewedSite": "freeadultcomix.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-31T01:07:37.734780Z",
+        "lastChangeTime": "2018-11-07T02:39:59.157974Z",
         "region": [
           "REGION_B"
         ],
@@ -11309,7 +11301,7 @@
     {
       "reviewedSite": "onlygayvideo.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-16T23:11:21.182471Z",
+        "lastChangeTime": "2018-11-07T00:17:00.595497Z",
         "region": [
           "REGION_B"
         ],
@@ -11318,7 +11310,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-16T23:11:20.053014Z",
+        "lastChangeTime": "2018-11-07T00:17:00.826144Z",
         "region": [
           "REGION_B"
         ],
@@ -11473,13 +11465,14 @@
       "reviewedSite": "overclockersclub.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-01T17:11:45.417605Z",
+        "lastChangeTime": "2018-11-07T05:55:56.046579Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-01T17:11:45.127146Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12185,6 +12178,20 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-21T19:22:52.600217Z",
         "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "pornleak.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-07T05:00:47.860046Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "underReview": true,
+        "enforcementTime": "2018-12-07T02:11:36.726080Z",
+        "filterStatus": "PAUSED"
       }
     },
     {
