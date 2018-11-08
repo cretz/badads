@@ -267,6 +267,27 @@
       }
     },
     {
+      "reviewedSite": "7dnifutbol.bg",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-07T17:28:32.605792Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-07T17:28:32.002549Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-07T17:28:32.695435Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-07T17:28:32.002549Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "91freeporn.vip",
       "mobileSummary": {
         "lastChangeTime": "2018-10-02T01:44:27.182888Z",
@@ -1363,7 +1384,7 @@
     {
       "reviewedSite": "autocarrumors.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-20T07:34:27.361244Z",
+        "lastChangeTime": "2018-11-07T16:42:46.506919Z",
         "region": [
           "REGION_B"
         ],
@@ -1561,7 +1582,7 @@
     {
       "reviewedSite": "bahissitelerisikayetleri.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-20T09:33:18.522534Z",
+        "lastChangeTime": "2018-11-07T16:42:45.760025Z",
         "region": [
           "REGION_B"
         ],
@@ -1569,7 +1590,15 @@
         "enforcementTime": "2018-09-20T09:33:18.275210652Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-07T16:42:46.335302Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-07T16:42:45.337154Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "balkanvijesti24.com",
@@ -1601,7 +1630,7 @@
       "reviewedSite": "banglachotiz9.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-08-21T09:33:19.120177Z",
+        "lastChangeTime": "2018-11-07T16:42:46.033025Z",
         "region": [
           "REGION_B"
         ],
@@ -2208,18 +2237,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-22T16:49:05.185207Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "brickunderground.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-22T18:33:48.305063Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       }
     },
     {
@@ -4878,13 +4895,13 @@
     {
       "reviewedSite": "fanaticosdaligarecord.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-08T19:50:32.327795Z",
+        "lastChangeTime": "2018-11-07T19:50:32.059890Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-07T19:50:31.942119791Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-11-07T11:36:56.444055Z",
@@ -5906,7 +5923,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-17T09:09:30.324200Z",
+        "lastChangeTime": "2018-11-07T17:28:11.602885Z",
         "region": [
           "REGION_A"
         ],
@@ -6022,13 +6039,13 @@
       "reviewedSite": "georgeezblog.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-08T17:44:59.376254Z",
+        "lastChangeTime": "2018-11-07T17:44:59.030106Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-07T17:44:58.831649567Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -6087,13 +6104,13 @@
       "reviewedSite": "giochieflash.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-08T17:45:01.052925Z",
+        "lastChangeTime": "2018-11-07T17:45:00.951779Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-07T17:45:00.752703677Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -6283,13 +6300,13 @@
       "reviewedSite": "gorilla1919.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-08T23:07:37.549120Z",
+        "lastChangeTime": "2018-11-07T23:07:37.245961Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-07T23:07:36.989682141Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7391,22 +7408,24 @@
     {
       "reviewedSite": "ingyenhdporno.hu",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-17T22:13:10.123097Z",
+        "lastChangeTime": "2018-11-07T17:22:12.850291Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-16T22:13:09.794351Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-17T22:13:10.423669Z",
+        "lastChangeTime": "2018-11-07T17:21:39.842548Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-16T22:13:09.794351Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14743,18 +14762,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "tatelegratos.blogspot.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-08-22T05:34:08.805717Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "tattoopornpics.com",
       "mobileSummary": {
         "lastChangeTime": "2018-09-12T06:33:21.020120Z",
@@ -17251,18 +17258,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "zandxvillas.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-25T17:38:42.989742Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
