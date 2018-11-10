@@ -2975,13 +2975,14 @@
       "reviewedSite": "chicagobusiness.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-31T18:02:57.479851Z",
+        "lastChangeTime": "2018-11-10T15:35:26.622336Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-30T18:02:56.446547Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6777,6 +6778,27 @@
       }
     },
     {
+      "reviewedSite": "habcommunity.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-10T11:53:37.940343Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-10T11:53:36.933074Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-10T11:53:37.694775Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-10T11:53:36.932557Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "hackersportugal.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -6857,13 +6879,13 @@
     {
       "reviewedSite": "hdfilmcenneti1.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-11T14:55:56.246700Z",
+        "lastChangeTime": "2018-11-10T14:55:55.790362Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-10T14:55:55.654367553Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-11-08T12:45:15.442954Z",
@@ -6878,13 +6900,13 @@
     {
       "reviewedSite": "hdfilmcukka.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-11T14:55:56.691112Z",
+        "lastChangeTime": "2018-11-10T14:55:56.414207Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-10T14:55:56.280281786Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-11-08T12:45:16.381584Z",
@@ -12438,13 +12460,14 @@
         "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-09T19:56:27.171053Z",
+        "lastChangeTime": "2018-11-10T08:47:29.965908Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-09T19:56:26.784015Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14247,13 +14270,14 @@
       "reviewedSite": "sedecouvrir.fr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-01T19:35:19.543808Z",
+        "lastChangeTime": "2018-11-10T10:04:56.827324Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-01T19:35:18.597774Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14999,6 +15023,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "sosyalkazan.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-10T13:42:32.876435Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-10T13:42:32.097908Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "sozcu.com.tr",
@@ -17744,6 +17781,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-26T19:13:37.621923719Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "xnxx4arab.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-10T08:47:39.724699Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-10T08:47:39.057642Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
