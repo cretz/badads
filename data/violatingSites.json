@@ -1965,9 +1965,17 @@
     },
     {
       "reviewedSite": "bettingtips365.net",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-11T09:47:11.017892Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-11T09:47:10.003313Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-30T02:37:38.176225Z",
+        "lastChangeTime": "2018-11-11T08:53:53.525571Z",
         "region": [
           "REGION_B"
         ],
@@ -2597,7 +2605,7 @@
       "reviewedSite": "buzzclic.info",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-02T16:04:38.197857Z",
+        "lastChangeTime": "2018-11-11T11:42:13.253740Z",
         "region": [
           "REGION_B"
         ],
@@ -2671,6 +2679,27 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "canlicasinobahis.info",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-11T11:42:13.208236Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-11T11:42:12.529310Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-11T11:42:14.259138Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-11T11:42:12.529310Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "canlimacizle.co",
       "mobileSummary": {},
       "desktopSummary": {
@@ -2712,7 +2741,7 @@
     {
       "reviewedSite": "caramelmilf.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-03T19:57:09.800130Z",
+        "lastChangeTime": "2018-11-11T12:40:09.969296Z",
         "region": [
           "REGION_B"
         ],
@@ -2721,7 +2750,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-02T21:54:59.925107Z",
+        "lastChangeTime": "2018-11-11T12:40:09.737506Z",
         "region": [
           "REGION_B"
         ],
@@ -6109,22 +6138,24 @@
     {
       "reviewedSite": "gay-streaming.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-09T10:39:06.207009Z",
+        "lastChangeTime": "2018-11-11T14:50:52.369700Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-09T10:39:05.510164Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-09T10:39:06.393898Z",
+        "lastChangeTime": "2018-11-11T14:50:33.800784Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-06T12:32:29.490159367Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8997,13 +9028,13 @@
     {
       "reviewedSite": "legoigri.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-12T14:55:46.296178Z",
+        "lastChangeTime": "2018-11-11T14:55:46.086391Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-11T14:55:45.961578225Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -9182,13 +9213,13 @@
       "reviewedSite": "ligtvizlesene.fr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-12T14:13:32.585490Z",
+        "lastChangeTime": "2018-11-11T14:13:31.988567Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-11T14:13:31.872491264Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9389,22 +9420,22 @@
     {
       "reviewedSite": "london-pick.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-12T15:39:56.060282Z",
+        "lastChangeTime": "2018-11-11T15:39:55.930184Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-11T15:39:55.727917199Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-12T14:13:33.126869Z",
+        "lastChangeTime": "2018-11-11T14:13:32.746981Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-11T14:13:32.619532118Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -9690,13 +9721,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-12T15:39:57.158012Z",
+        "lastChangeTime": "2018-11-11T15:39:56.679907Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-11T15:39:56.467857606Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
