@@ -1815,7 +1815,7 @@
     {
       "reviewedSite": "beaver-tube.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-23T21:34:05.732235Z",
+        "lastChangeTime": "2018-11-10T19:46:03.056791Z",
         "region": [
           "REGION_B"
         ],
@@ -3360,7 +3360,7 @@
       "reviewedSite": "coomeet.live",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-23T01:39:56.941825Z",
+        "lastChangeTime": "2018-11-10T19:46:03.507146Z",
         "region": [
           "REGION_B"
         ],
@@ -6419,7 +6419,7 @@
     {
       "reviewedSite": "gnula.top",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-23T22:34:17.389970Z",
+        "lastChangeTime": "2018-11-10T20:44:20.955212Z",
         "region": [
           "REGION_B"
         ],
@@ -6428,7 +6428,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-23T22:34:16.763485Z",
+        "lastChangeTime": "2018-11-10T20:44:20.871570Z",
         "region": [
           "REGION_B"
         ],
@@ -8389,13 +8389,13 @@
     {
       "reviewedSite": "kinogo-net.xyz",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-11T22:56:46.796268Z",
+        "lastChangeTime": "2018-11-10T22:56:46.757342Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-10T22:56:46.426941936Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -12619,6 +12619,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-11T04:37:04.752055425Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "polet.si",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-10T19:46:03.325632Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-10T19:46:02.897383Z",
+        "filterStatus": "PENDING"
       }
     },
     {
