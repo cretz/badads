@@ -2064,7 +2064,7 @@
     {
       "reviewedSite": "bildermeile.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-21T16:34:38.037448Z",
+        "lastChangeTime": "2018-11-12T07:47:56.151060Z",
         "region": [
           "REGION_B"
         ],
@@ -4672,19 +4672,6 @@
       }
     },
     {
-      "reviewedSite": "erotikfilme.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-23T16:34:42.801412Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:52:38.893049172Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "erotische-sexgeschichten.ch",
       "mobileSummary": {
         "lastChangeTime": "2018-08-24T06:42:50.694469Z",
@@ -5864,6 +5851,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T13:43:02.485677Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "fulham-pick.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-12T05:54:51.837923Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-12T05:54:50.950441Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -7369,7 +7369,7 @@
     {
       "reviewedSite": "hot4k.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-27T00:33:47.651929Z",
+        "lastChangeTime": "2018-11-12T00:36:35.652300Z",
         "region": [
           "REGION_B"
         ],
@@ -7378,7 +7378,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-13T00:37:05.348731Z",
+        "lastChangeTime": "2018-11-12T00:36:35.768254Z",
         "region": [
           "REGION_B"
         ],
@@ -7966,7 +7966,7 @@
       "reviewedSite": "javsubtitle.ml",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-26T05:37:39.750231Z",
+        "lastChangeTime": "2018-11-12T01:37:31.652286Z",
         "region": [
           "REGION_A"
         ],
@@ -8521,9 +8521,17 @@
     },
     {
       "reviewedSite": "kodiboss.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-12T03:45:59.559364Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-12T03:45:58.938570Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
-        "lastChangeTime": "2018-08-22T02:41:39.429188Z",
+        "lastChangeTime": "2018-11-12T03:45:59.715756Z",
         "region": [
           "REGION_B"
         ],
@@ -8892,19 +8900,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-05T17:15:31.628859452Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "latinbasket.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-21T04:35:51.797805Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-25T10:05:04.313937728Z",
         "filterStatus": "ON"
       },
       "desktopSummary": {}
@@ -9501,7 +9496,7 @@
     {
       "reviewedSite": "lucrecomfutebol.com.br",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-24T02:36:40.260883Z",
+        "lastChangeTime": "2018-11-12T07:47:56.897962Z",
         "region": [
           "REGION_B"
         ],
@@ -9510,7 +9505,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-24T00:36:15.121639Z",
+        "lastChangeTime": "2018-11-12T07:47:56.707354Z",
         "region": [
           "REGION_B"
         ],
@@ -14177,20 +14172,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "santra.tv",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-09T20:20:17.099584Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-12-09T19:57:12.145094Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "sashamismai.fr",
       "mobileSummary": {
         "lastChangeTime": "2018-10-05T18:12:46.946427Z",
@@ -18353,13 +18334,13 @@
       "reviewedSite": "zuckerporno.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-13T00:06:37.973918Z",
+        "lastChangeTime": "2018-11-12T00:06:37.440291Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-12T00:06:37.323454Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
