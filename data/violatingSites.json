@@ -1454,6 +1454,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "averageheight.space",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-13T14:55:40.433966Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-13T14:55:39.661860Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "avfirm.net",
       "mobileSummary": {},
       "desktopSummary": {
@@ -2187,9 +2200,17 @@
     },
     {
       "reviewedSite": "blademaster666.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-13T14:55:40.693206Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-13T14:55:39.890675Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
-        "lastChangeTime": "2018-09-23T23:34:58.546186Z",
+        "lastChangeTime": "2018-11-13T14:55:40.533941Z",
         "region": [
           "REGION_B"
         ],
@@ -2801,7 +2822,7 @@
     {
       "reviewedSite": "carwaw.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-03T20:42:43.633743Z",
+        "lastChangeTime": "2018-11-13T11:58:03.028458Z",
         "region": [
           "REGION_A"
         ],
@@ -4508,7 +4529,7 @@
     {
       "reviewedSite": "elitni-mebli.kiev.ua",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-09T05:32:54.272069Z",
+        "lastChangeTime": "2018-11-13T14:55:41.058357Z",
         "region": [
           "REGION_B"
         ],
@@ -4871,20 +4892,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "expertreviews.co.uk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-12T12:26:36.156853Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-11-25T06:52:50.728878Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -5329,18 +5336,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "finecooking.tv",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-09-21T19:39:16.072398Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "firstincest.com",
@@ -6122,29 +6117,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "gay-streaming.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-11T14:50:52.369700Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-12-09T10:39:05.510164Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-11T14:50:33.800784Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-09-06T12:32:29.490159367Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "gayhardfuck.com",
@@ -7600,6 +7572,19 @@
         "enforcementTime": "2018-09-06T11:13:51.838248Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "il24.it",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-13T15:41:32.570032Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-13T15:41:32.145227Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "ilcaffe.tv",
@@ -10211,17 +10196,9 @@
     },
     {
       "reviewedSite": "media-kljuc.ba",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-13T01:35:09.856441Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-10-13T01:35:09.709208911Z",
-        "filterStatus": "ON"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-12T21:35:27.820418Z",
+        "lastChangeTime": "2018-11-13T09:44:56.830388Z",
         "region": [
           "REGION_B"
         ],
@@ -10935,19 +10912,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "mytun.ru",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-27T05:39:58.331184Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-10-27T05:39:57.929672147Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "naijahotmag.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -11294,27 +11258,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-09T14:41:59.998582Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "newsdellavalle.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-06T21:40:32.866156Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-10-06T21:40:32.749659834Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-05T22:34:37.089556Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-10-05T22:34:36.912214406Z",
-        "filterStatus": "ON"
       }
     },
     {
