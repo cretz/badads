@@ -4568,7 +4568,7 @@
     {
       "reviewedSite": "englobing.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-24T15:36:07.773525Z",
+        "lastChangeTime": "2018-11-13T02:44:12.098789Z",
         "region": [
           "REGION_A"
         ],
@@ -4670,19 +4670,6 @@
         "enforcementTime": "2018-11-07T10:45:15.655541959Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "erotische-sexgeschichten.ch",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-24T06:42:50.694469Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-26T20:16:00.469605792Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "erotixmons.com",
@@ -5209,20 +5196,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "file.ge",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-12T18:08:11.854680Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-12-01T21:09:44.171113Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "filme-serialeon.com",
@@ -14362,17 +14335,16 @@
     },
     {
       "reviewedSite": "sedecouvrir.fr",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-10T10:04:56.827324Z",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-13T01:57:59.633510Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-12-01T19:35:18.597774Z",
-        "filterStatus": "PAUSED"
-      }
+        "enforcementTime": "2018-12-13T01:57:58.842047Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "sei80.com",
@@ -14752,7 +14724,7 @@
     {
       "reviewedSite": "shemaleporn.com.es",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-29T16:31:45.787283Z",
+        "lastChangeTime": "2018-11-13T07:45:26.504998Z",
         "region": [
           "REGION_B"
         ],
@@ -14760,7 +14732,15 @@
         "enforcementTime": "2018-08-29T16:31:45.408566718Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-13T07:45:26.677469Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-13T07:45:26.069432Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "shorena.ru",
@@ -15179,19 +15159,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "spezial-sexchat.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-08-30T04:32:36.699433Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-08-30T04:32:36.340372633Z",
         "filterStatus": "ON"
       },
       "desktopSummary": {}
