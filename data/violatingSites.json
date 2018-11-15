@@ -1033,6 +1033,27 @@
       }
     },
     {
+      "reviewedSite": "animesexe.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-15T11:59:04.548692Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-15T11:59:04.030672Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-15T11:59:04.802164Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-15T11:59:04.030672Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "anon-ib.co",
       "mobileSummary": {
         "lastChangeTime": "2018-06-13T18:11:23.070993Z",
@@ -7490,19 +7511,6 @@
       }
     },
     {
-      "reviewedSite": "huelvaya.es",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-10-04T20:57:07.632902Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-10-04T20:57:07.466423Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "humourdemecs.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:15.164829Z",
@@ -10463,20 +10471,6 @@
       }
     },
     {
-      "reviewedSite": "mlb.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-14T16:21:11.929716Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-11-24T16:06:17.756461Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "mobilbahis365.org",
       "mobileSummary": {
         "lastChangeTime": "2018-08-24T22:34:15.925112Z",
@@ -11247,22 +11241,24 @@
     {
       "reviewedSite": "newsbreak24.de",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-09T14:42:00.718531Z",
+        "lastChangeTime": "2018-11-15T14:50:50.988655Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-04-20T21:54:15.957323424Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-09T14:42:00.850568Z",
+        "lastChangeTime": "2018-11-15T14:50:19.924255Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-09T14:41:59.998582Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12780,6 +12776,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
@@ -13723,13 +13720,14 @@
       "reviewedSite": "reblop.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-12T21:27:32.596496Z",
+        "lastChangeTime": "2018-11-15T11:02:00.901423Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-15T23:08:21.946747Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15032,17 +15030,17 @@
       }
     },
     {
-      "reviewedSite": "sozcu.com.tr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-09T21:11:31.622990Z",
+      "reviewedSite": "soxporn.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-15T08:23:49.286258Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-12-09T21:11:31.380259Z",
+        "enforcementTime": "2018-12-15T08:23:48.635141Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
+      }
     },
     {
       "reviewedSite": "soziologie-politik.de",
@@ -17842,7 +17840,7 @@
       "reviewedSite": "xtapes.to",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-13T20:57:17.507974Z",
+        "lastChangeTime": "2018-11-15T14:17:09.857547Z",
         "region": [
           "REGION_B"
         ],
@@ -18144,6 +18142,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "youpornbook.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-15T14:02:11.519760Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-15T14:02:11.205866Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "yourbrexit.co.uk",
