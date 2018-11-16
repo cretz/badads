@@ -7414,13 +7414,14 @@
     {
       "reviewedSite": "hotcelebrities-vk.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-09T19:53:59.842245Z",
+        "lastChangeTime": "2018-11-16T07:11:57.016415Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-09T19:53:59.334147Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -7594,20 +7595,6 @@
         "enforcementTime": "2018-09-06T11:13:51.838248Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "il24.it",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-14T18:11:31.486141Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-12-13T15:41:32.145227Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "ilcaffe.tv",
@@ -13327,6 +13314,19 @@
       }
     },
     {
+      "reviewedSite": "pro474.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-16T03:41:29.669884Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-16T03:41:29.037026Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "propertycasualty360.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -13338,6 +13338,19 @@
         "enforcementTime": "2018-11-30T20:51:02.658379Z",
         "filterStatus": "PENDING"
       }
+    },
+    {
+      "reviewedSite": "prostoprikol.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-16T04:42:05.839494Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-16T04:42:05.497268Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "pruvitalka.com",
@@ -13666,6 +13679,19 @@
         "enforcementTime": "2018-08-30T01:32:57.090880736Z",
         "filterStatus": "ON"
       }
+    },
+    {
+      "reviewedSite": "razvitievradost.ru",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-16T07:38:59.918465Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-16T07:38:59.614430Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "read4sport.com",
@@ -17650,13 +17676,13 @@
       "reviewedSite": "wunderporno.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-06T18:14:31.336328Z",
+        "lastChangeTime": "2018-11-16T00:25:19.156293Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-16T00:25:18.987404Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
