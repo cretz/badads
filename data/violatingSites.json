@@ -234,6 +234,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "6sextube.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-15T22:08:08.634881Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-15T22:08:07.806201Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "6tv.dk",
       "mobileSummary": {},
       "desktopSummary": {
@@ -5606,13 +5619,13 @@
       "reviewedSite": "freeadultcomix.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-07T02:39:59.157974Z",
+        "lastChangeTime": "2018-11-15T16:34:56.766565Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-15T16:34:56.274642Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -14430,19 +14443,6 @@
         "enforcementTime": "2018-04-13T05:31:07.389171Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "sexindex.info",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-09T19:08:33.434680Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-12-09T19:08:32.147826Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "sexochapin.com",
