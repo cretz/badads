@@ -1423,6 +1423,19 @@
       }
     },
     {
+      "reviewedSite": "audline.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-17T01:55:05.425446Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-17T01:55:05.102716Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "auto-girl.ru",
       "mobileSummary": {
         "lastChangeTime": "2018-11-12T12:06:39.121338Z",
@@ -3683,19 +3696,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "cuteteentube.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-06T22:37:23.489635Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-12-06T22:37:23.171315Z",
-        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -7031,13 +7031,13 @@
     {
       "reviewedSite": "hdgayporno.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-16T18:30:59.573166Z",
+        "lastChangeTime": "2018-11-17T00:20:07.608366Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-09T19:53:48.425572Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -8428,7 +8428,7 @@
     {
       "reviewedSite": "kinogo-net.xyz",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-10T22:56:46.757342Z",
+        "lastChangeTime": "2018-11-17T01:46:42.832760Z",
         "region": [
           "REGION_B"
         ],
@@ -8582,7 +8582,7 @@
     {
       "reviewedSite": "kroxa.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-11T00:58:25.388107Z",
+        "lastChangeTime": "2018-11-17T05:38:55.711704Z",
         "region": [
           "REGION_B"
         ],
@@ -9715,15 +9715,7 @@
     },
     {
       "reviewedSite": "macyayinlarix.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-11T16:43:29.960064Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-11-11T16:43:29.799025356Z",
-        "filterStatus": "ON"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2018-11-14T11:08:22.049444Z",
         "region": [
@@ -15397,6 +15389,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-07-26T21:27:14.100857991Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "stoma-tolog.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-17T06:37:33.388698Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-17T06:37:32.664181Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
