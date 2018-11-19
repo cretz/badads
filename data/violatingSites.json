@@ -8582,13 +8582,14 @@
     {
       "reviewedSite": "kroxa.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-17T05:38:55.711704Z",
+        "lastChangeTime": "2018-11-18T19:32:26.540943Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-11T00:58:25.193561080Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -15556,13 +15557,14 @@
       "reviewedSite": "szex-tett.info",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-12T21:27:40.192231Z",
+        "lastChangeTime": "2018-11-18T19:27:31.795583Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-12T21:27:39.764692Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -17169,6 +17171,7 @@
           "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
+        "underReview": true,
         "filterStatus": "OFF"
       },
       "desktopSummary": {}
