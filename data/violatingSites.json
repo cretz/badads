@@ -10476,12 +10476,13 @@
       "reviewedSite": "momsonreal.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-13T20:56:38.103083Z",
+        "lastChangeTime": "2018-11-19T14:14:37.681406Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-19T14:14:37.379570Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -13910,13 +13911,14 @@
     {
       "reviewedSite": "ridenews.se",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-16T13:40:06.740022Z",
+        "lastChangeTime": "2018-11-19T11:45:47.611375Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-16T13:40:06.209305Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
