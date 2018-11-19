@@ -12665,19 +12665,6 @@
       }
     },
     {
-      "reviewedSite": "porngun.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-10-01T21:48:20.243443Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "pornincest.me",
       "mobileSummary": {
         "lastChangeTime": "2018-11-09T19:56:32.757068Z",
@@ -14249,20 +14236,6 @@
         "enforcementTime": "2018-08-22T01:32:36.824879879Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "sedecouvrir.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-14T21:29:37.529055Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-12-13T01:57:58.842047Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "sei80.com",
@@ -17027,6 +17000,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "vesti-ukr.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-19T06:37:34.192042Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-19T06:37:33.073439Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "viahold.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -17160,19 +17146,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-15T17:45:05.661382397Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "vipbox.fi",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:46.873202Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "underReview": true,
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
