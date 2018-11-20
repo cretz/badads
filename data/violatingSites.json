@@ -3279,13 +3279,14 @@
       "reviewedSite": "codedfilm.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-13T23:40:27.670726Z",
+        "lastChangeTime": "2018-11-19T16:58:09.070799Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-13T23:40:26.900180Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -6090,18 +6091,6 @@
       }
     },
     {
-      "reviewedSite": "gamcore.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:10.817614Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "gaob11.com",
       "mobileSummary": {
         "lastChangeTime": "2018-11-12T12:06:39.479866Z",
@@ -7871,18 +7860,6 @@
         "enforcementTime": "2018-04-21T01:06:08.461417Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "itscubique.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:17.586158Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "iv.pl",
@@ -11076,18 +11053,6 @@
       }
     },
     {
-      "reviewedSite": "netspor15.tv",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:27.887265Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "netspor20.tv",
       "mobileSummary": {
         "lastChangeTime": "2018-05-27T21:35:18.853096Z",
@@ -11856,18 +11821,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "otherbuzz.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:29.996751Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
     },
     {
       "reviewedSite": "otzov.xyz",
@@ -13656,14 +13609,13 @@
       "reviewedSite": "reblop.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-15T11:02:00.901423Z",
+        "lastChangeTime": "2018-11-19T19:11:08.524266Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-11-15T23:08:21.946747Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -14662,18 +14614,6 @@
       }
     },
     {
-      "reviewedSite": "shqiperiaime.al",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:38.086045Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "shukach.com",
       "mobileSummary": {
         "lastChangeTime": "2018-08-23T15:47:33.098066Z",
@@ -15532,7 +15472,7 @@
       "reviewedSite": "szex-tett.info",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-18T19:27:31.795583Z",
+        "lastChangeTime": "2018-11-19T19:03:35.895407Z",
         "region": [
           "REGION_B"
         ],
