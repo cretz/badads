@@ -8571,20 +8571,6 @@
       }
     },
     {
-      "reviewedSite": "kroxa.org",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-18T19:32:26.540943Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-11-11T00:58:25.193561080Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "kulturwar.com",
       "mobileSummary": {
         "lastChangeTime": "2018-11-06T22:49:36.270189Z",
@@ -11761,26 +11747,26 @@
     {
       "reviewedSite": "onta.site",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-21T21:35:48.574477Z",
+        "lastChangeTime": "2018-11-20T21:35:49.100951Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-20T21:35:48.249612Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
     {
       "reviewedSite": "opecheni.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-21T21:35:49.035208Z",
+        "lastChangeTime": "2018-11-20T21:35:48.934605Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-20T21:35:48.630051Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -16933,13 +16919,13 @@
       "reviewedSite": "vesti-ukr.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-20T13:49:46.444760Z",
+        "lastChangeTime": "2018-11-20T21:13:18.008764Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-19T06:37:33.073439Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -17978,13 +17964,14 @@
     {
       "reviewedSite": "yazilimmutfagi.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-09T19:59:12.586284Z",
+        "lastChangeTime": "2018-11-20T21:44:29.914959Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-09T19:59:11.974922Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
