@@ -1048,22 +1048,24 @@
     {
       "reviewedSite": "animesexe.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-15T11:59:04.548692Z",
+        "lastChangeTime": "2018-11-22T13:48:07.004399Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-15T11:59:04.030672Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-15T11:59:04.802164Z",
+        "lastChangeTime": "2018-11-22T13:48:23.149471Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-15T11:59:04.030672Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -5580,13 +5582,14 @@
       "reviewedSite": "free4ksex.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-26T01:58:13.813847Z",
+        "lastChangeTime": "2018-11-22T13:41:43.886735Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-25T01:58:13.437313Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -8569,6 +8572,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "laacibnet.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-22T09:23:16.133632Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-22T09:23:15.625113Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "labonnesoupe.fr",
       "mobileSummary": {
         "lastChangeTime": "2018-10-05T18:12:49.290908Z",
@@ -11138,20 +11154,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "newsuvscars.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-21T10:25:28.842063Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-11-18T07:42:29.541166Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
