@@ -744,13 +744,13 @@
       "reviewedSite": "allhard.org",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-23T23:49:24.364102Z",
+        "lastChangeTime": "2018-11-22T23:49:24.425732Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-22T23:49:24.087135Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -1027,22 +1027,22 @@
     {
       "reviewedSite": "animepornx.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-23T21:52:45.115890Z",
+        "lastChangeTime": "2018-11-22T21:52:45.405136Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-22T21:52:44.784378Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-23T21:52:45.246939Z",
+        "lastChangeTime": "2018-11-22T21:52:45.366131Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-22T21:52:44.784378Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13154,13 +13154,14 @@
     {
       "reviewedSite": "psychologium.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-09T19:56:48.810449Z",
+        "lastChangeTime": "2018-11-22T20:58:09.193823Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-09T19:56:48.432156Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
