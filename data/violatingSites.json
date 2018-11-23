@@ -1046,29 +1046,6 @@
       }
     },
     {
-      "reviewedSite": "animesexe.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-22T13:48:07.004399Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-12-15T11:59:04.030672Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-22T13:48:23.149471Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-12-15T11:59:04.030672Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "anon-ib.co",
       "mobileSummary": {
         "lastChangeTime": "2018-06-13T18:11:23.070993Z",
@@ -5580,16 +5557,23 @@
     },
     {
       "reviewedSite": "free4ksex.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-22T13:41:43.886735Z",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-23T12:05:57.473893Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
+        "enforcementTime": "2018-12-23T12:05:56.768745Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-23T12:05:57.228956Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-25T01:58:13.437313Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -12803,13 +12787,13 @@
       "reviewedSite": "pornrosa.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-24T11:52:52.086241Z",
+        "lastChangeTime": "2018-11-23T11:52:50.403954Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-23T11:52:50.248131Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13026,20 +13010,6 @@
         "enforcementTime": "2018-06-03T12:30:58.330670Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "prikachi.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-23T07:39:40.811263Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-12-09T19:56:48.051740Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "primetweets.com.ng",
