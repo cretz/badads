@@ -7750,13 +7750,14 @@
         "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-09T11:52:00.814412Z",
+        "lastChangeTime": "2018-11-23T07:34:18.836383Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-09T11:51:59.949762Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -10474,13 +10475,13 @@
     {
       "reviewedSite": "moradu.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-24T00:20:45.324866Z",
+        "lastChangeTime": "2018-11-23T00:20:45.052454Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-23T00:20:44.777599Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -12306,22 +12307,22 @@
     {
       "reviewedSite": "playhentai.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-24T00:35:56.041189Z",
+        "lastChangeTime": "2018-11-23T00:35:55.773794Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-23T00:35:55.529366Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-24T00:35:55.854016Z",
+        "lastChangeTime": "2018-11-23T00:35:55.773899Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-23T00:35:55.387247Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -12767,22 +12768,22 @@
     {
       "reviewedSite": "pornotur.club",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-24T03:42:11.709767Z",
+        "lastChangeTime": "2018-11-23T03:42:11.472126Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-23T03:42:11.326828Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-24T03:42:11.457001Z",
+        "lastChangeTime": "2018-11-23T03:42:11.402006Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-23T03:42:11.251830Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13029,13 +13030,14 @@
     {
       "reviewedSite": "prikachi.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-09T19:56:48.649882Z",
+        "lastChangeTime": "2018-11-23T07:39:40.811263Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-09T19:56:48.051740Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13148,20 +13150,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:51:16.506651001Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "psychologium.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-22T20:58:09.193823Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-12-09T19:56:48.432156Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -15985,13 +15973,13 @@
       "reviewedSite": "time4tv.me",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-24T06:51:20.308912Z",
+        "lastChangeTime": "2018-11-23T06:51:19.794506Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-23T06:51:19.602988Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -17900,22 +17888,22 @@
     {
       "reviewedSite": "yesgay.xyz",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-24T00:17:27.887270Z",
+        "lastChangeTime": "2018-11-23T00:17:27.561545Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-23T00:17:27.405217Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-24T00:17:27.607187Z",
+        "lastChangeTime": "2018-11-23T00:17:27.521753Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-23T00:17:27.405217Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
