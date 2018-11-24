@@ -8957,7 +8957,7 @@
     {
       "reviewedSite": "legoigri.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-11T14:55:46.086391Z",
+        "lastChangeTime": "2018-11-23T16:44:54.368034Z",
         "region": [
           "REGION_B"
         ],
@@ -13311,13 +13311,14 @@
     {
       "reviewedSite": "radioscoop.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:34.241937Z",
+        "lastChangeTime": "2018-11-23T16:27:31.085695Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13555,13 +13556,13 @@
     {
       "reviewedSite": "redipgers.ga",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-24T19:36:44.606642Z",
+        "lastChangeTime": "2018-11-23T19:36:44.717272Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-23T19:36:44.201435Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
