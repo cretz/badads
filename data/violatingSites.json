@@ -9531,7 +9531,7 @@
     {
       "reviewedSite": "lyunx.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-11T17:41:44.580922Z",
+        "lastChangeTime": "2018-11-25T11:40:34.494041Z",
         "region": [
           "REGION_A"
         ],
@@ -16735,6 +16735,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "ul.to",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-25T08:38:01.834110Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-25T08:38:01.312898Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "ultraporn.biz",
       "mobileSummary": {},
       "desktopSummary": {
@@ -16968,6 +16981,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "vgorode-sochi.ru",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-25T11:40:34.796073Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-25T11:40:34.162995Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "viahold.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -17028,6 +17054,32 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "videospatrullacanina.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-25T12:42:08.426012Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-25T12:42:07.922190Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "videospornosgratis.info",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-25T12:42:08.468327Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-25T12:42:07.922222Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "vidup.me",
       "mobileSummary": {},
       "desktopSummary": {
@@ -17063,6 +17115,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-03-23T19:25:49.626949Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "village-pub.ru",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-25T12:42:08.674722Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-25T12:42:08.119576Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -17247,6 +17312,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-30T08:18:36.506856Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "wampychat.eu",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-25T14:39:42.145908Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-25T14:39:41.608668Z",
         "filterStatus": "PENDING"
       }
     },
@@ -17869,13 +17947,13 @@
       "reviewedSite": "xvideospanish.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-26T10:22:29.215357Z",
+        "lastChangeTime": "2018-11-25T10:22:29.036078Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-25T10:22:28.744400Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
