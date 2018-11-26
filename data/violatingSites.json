@@ -2319,18 +2319,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "bonoise-recettes.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-14T14:31:41.122241Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "books2020.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:05:59.066858Z",
@@ -2672,18 +2660,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "caasimada.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:05:59.947843Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -3853,18 +3829,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-07T21:36:12.978306Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "dentistryiq.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:05.055022Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       }
     },
     {
@@ -6415,26 +6379,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "goga.tv",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-15T21:19:24.996476Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-01T21:38:44.279639Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-12-01T21:38:43.846504Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "goldenisles.news",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:12.130913Z",
@@ -7447,18 +7391,6 @@
         "enforcementTime": "2018-08-07T05:49:08.892914Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "humourdemecs.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:15.164829Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "iddaamakami.net",
@@ -9654,18 +9586,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "magazin.ba",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-03-06T16:06:23.507215Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      }
-    },
-    {
       "reviewedSite": "magjtcuisine.com",
       "mobileSummary": {
         "lastChangeTime": "2018-10-06T22:46:15.251112Z",
@@ -9797,7 +9717,7 @@
     {
       "reviewedSite": "mangatopnew.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-14T05:44:55.623565Z",
+        "lastChangeTime": "2018-11-26T01:39:35.495612Z",
         "region": [
           "REGION_A"
         ],
@@ -9806,7 +9726,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-11T17:41:44.930116Z",
+        "lastChangeTime": "2018-11-26T01:39:35.384499Z",
         "region": [
           "REGION_A"
         ],
@@ -11163,18 +11083,6 @@
         "lastChangeTime": "2018-07-10T22:51:33.696052Z",
         "region": [
           "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "noa.al",
-      "mobileSummary": {
-        "lastChangeTime": "2018-05-08T21:23:36.056701Z",
-        "region": [
-          "REGION_B"
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
@@ -13307,20 +13215,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-05-10T06:43:26.821827Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "radioscoop.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-23T16:27:31.085695Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-02-15T15:00:00Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -17056,13 +16950,14 @@
     {
       "reviewedSite": "videospornosgratis.info",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-25T12:42:08.468327Z",
+        "lastChangeTime": "2018-11-26T03:39:22.898223Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-25T12:42:07.922222Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -17638,18 +17533,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-10T07:38:11.166723898Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "worldstarporn.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-03-06T16:06:49.232918Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
