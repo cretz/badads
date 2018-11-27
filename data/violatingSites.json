@@ -2099,15 +2099,16 @@
     {
       "reviewedSite": "bitchyourfamous.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-23T18:05:04.081980Z",
+        "lastChangeTime": "2018-11-27T15:12:08.818771Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T15:12:08.299440Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-01T21:49:46.354561Z",
+        "lastChangeTime": "2018-11-27T15:12:08.901818Z",
         "region": [
           "REGION_A"
         ],
@@ -3939,6 +3940,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "digitalcommerce360.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-27T10:41:33.345675Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T10:41:32.866383Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "dimensionsofdentalhygiene.com",
       "mobileSummary": {
         "lastChangeTime": "2018-05-17T15:30:28.951121Z",
@@ -4228,6 +4242,19 @@
       }
     },
     {
+      "reviewedSite": "e-tribina.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-27T12:42:18.690374Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T12:42:17.977103Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "earhustle411.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -4263,6 +4290,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "ebonyblackporno.biz",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-27T11:41:35.396391Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T11:41:34.420909Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -5381,7 +5421,7 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-01T07:10:12.774412Z",
+        "lastChangeTime": "2018-11-27T15:09:21.575441Z",
         "region": [
           "REGION_B"
         ],
@@ -6847,12 +6887,13 @@
     {
       "reviewedSite": "healthydiet24.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-08-23T18:28:24.199396Z",
+        "lastChangeTime": "2018-11-27T09:15:02.492758Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T09:15:02.077660Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -10037,7 +10078,7 @@
     {
       "reviewedSite": "misputas.eu",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-14T18:47:55.375647Z",
+        "lastChangeTime": "2018-11-27T09:39:19.067522Z",
         "region": [
           "REGION_B"
         ],
@@ -10162,12 +10203,13 @@
       "reviewedSite": "moms-and-son.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-13T20:56:36.291168Z",
+        "lastChangeTime": "2018-11-27T15:09:45.019326Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T15:09:44.455151Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -13158,13 +13200,14 @@
       "reviewedSite": "ratses.gr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-09-19T17:18:46.699964Z",
+        "lastChangeTime": "2018-11-27T10:04:26.966787Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-09-19T17:18:46.540660Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -14079,7 +14122,7 @@
         "filterStatus": "OFF"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-10-31T23:05:09.793547Z",
+        "lastChangeTime": "2018-11-27T15:08:13.681820Z",
         "region": [
           "REGION_B"
         ],
@@ -14150,18 +14193,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-15T07:40:29.992058765Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "sexynudepics.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-09-25T22:08:30.157714Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -17808,15 +17839,7 @@
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-01T09:30:29.527873Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-09-28T16:35:26.747273Z",
-        "filterStatus": "ON"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "yenibastan.com",
