@@ -40,6 +40,19 @@
       }
     },
     {
+      "reviewedSite": "18teenporn.org",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-27T17:38:48.999223Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T17:38:48.455672Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "22cam.net",
       "mobileSummary": {},
       "desktopSummary": {
@@ -103,6 +116,19 @@
         "enforcementTime": "2018-12-09T19:08:41.138959Z",
         "filterStatus": "PENDING"
       }
+    },
+    {
+      "reviewedSite": "3-w.name",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-27T22:39:18.082266Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T22:39:17.634186Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "33rap.com",
@@ -522,6 +548,27 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "agar.blog",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-27T19:49:44.532158Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T19:49:43.698515Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-27T19:49:44.326625Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T19:49:43.579936Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "agfaxweedsolutions.com",
@@ -2960,13 +3007,14 @@
       "reviewedSite": "chicagobusiness.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-12T10:18:49.203156Z",
+        "lastChangeTime": "2018-11-27T18:49:35.846895Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-30T18:02:56.446547Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -4105,6 +4153,27 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "domacipornici.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-27T21:08:44.646980Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T21:08:44.074219Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-27T21:08:44.396347Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T21:08:44.003308Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "dominikanische-republik-info.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -4139,6 +4208,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-08T23:38:12.521691Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "drague-seduction.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-11-27T16:38:58.009462Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T16:38:57.495729Z",
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
@@ -4557,6 +4639,20 @@
       }
     },
     {
+      "reviewedSite": "equisearch.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-27T20:11:04.642238Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "underReview": true,
+        "enforcementTime": "2018-12-27T17:38:48.316062Z",
+        "filterStatus": "PAUSED"
+      }
+    },
+    {
       "reviewedSite": "ericeiraonline.pt",
       "mobileSummary": {
         "lastChangeTime": "2018-11-09T09:42:51.886939Z",
@@ -4674,6 +4770,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-20T21:52:38.204629076Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "eurailpress.de",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-27T16:38:58.017655Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T16:38:57.632662Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -5632,18 +5741,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-09T19:53:10.105461Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "fu3k8.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-06-14T20:27:51.837267Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
       },
       "desktopSummary": {}
     },
@@ -7153,13 +7250,14 @@
     {
       "reviewedSite": "horseracingnation.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-30T00:01:27.776586Z",
+        "lastChangeTime": "2018-11-27T17:52:03.599007Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-29T00:01:26.489987Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -10327,7 +10425,7 @@
     {
       "reviewedSite": "mp3telega.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-17T15:56:53.701384Z",
+        "lastChangeTime": "2018-11-27T18:41:25.214358Z",
         "region": [
           "REGION_B"
         ],
@@ -10976,12 +11074,13 @@
     {
       "reviewedSite": "niceandquite.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-10T22:51:33.696052Z",
+        "lastChangeTime": "2018-11-27T16:04:10.760887Z",
         "region": [
           "REGION_A"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T16:04:10.344135Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -12898,13 +12997,14 @@
       "reviewedSite": "propertycasualty360.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-31T20:51:02.977053Z",
+        "lastChangeTime": "2018-11-27T19:24:01.445759Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-30T20:51:02.658379Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15138,20 +15238,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "szexvagyak.xyz",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-25T18:55:03.337679Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-12-17T10:43:05.106626Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "taban-puani.com",
       "mobileSummary": {
         "lastChangeTime": "2018-11-10T05:51:31.905130Z",
@@ -15550,13 +15636,14 @@
     {
       "reviewedSite": "thehornnews.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-02T01:29:15.612530Z",
+        "lastChangeTime": "2018-11-27T18:35:06.192415Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-02T01:29:15.326724Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -16653,12 +16740,13 @@
     {
       "reviewedSite": "uw.hu",
       "mobileSummary": {
-        "lastChangeTime": "2018-07-03T18:42:20.939800Z",
+        "lastChangeTime": "2018-11-27T16:03:51.940413Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-27T16:03:51.324483Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
