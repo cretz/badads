@@ -10650,19 +10650,6 @@
       }
     },
     {
-      "reviewedSite": "mp3telega.net",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-27T18:41:25.214358Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-11-17T15:56:53.577167Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "mrpiracy.xyz",
       "mobileSummary": {
         "lastChangeTime": "2018-11-09T19:55:29.321410Z",
@@ -11476,6 +11463,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "nublop.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-11-29T13:39:09.630904Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-29T13:39:09.365727Z",
+        "filterStatus": "PENDING"
       }
     },
     {
