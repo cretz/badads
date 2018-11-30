@@ -3223,13 +3223,14 @@
       "reviewedSite": "citiesjournal.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-05-02T17:15:47.109536Z",
+        "lastChangeTime": "2018-11-30T15:38:48.643853Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-05-02T17:15:46.692380Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -3533,19 +3534,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-23T01:39:56.281416872Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "corneey.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-29T16:46:10.107542Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-12-29T16:46:09.784107Z",
-        "filterStatus": "PENDING"
       }
     },
     {
@@ -4272,19 +4260,6 @@
         "enforcementTime": "2018-09-21T20:34:19.604677833Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "dognotebook.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-30T02:02:03.874482Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-11-30T19:00:02.853965Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "domacipornici.net",
@@ -12466,7 +12441,7 @@
     {
       "reviewedSite": "playhentai.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-23T00:35:55.773794Z",
+        "lastChangeTime": "2018-11-30T14:37:50.380559Z",
         "region": [
           "REGION_A"
         ],
@@ -12475,7 +12450,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-23T00:35:55.773899Z",
+        "lastChangeTime": "2018-11-30T14:37:50.213642Z",
         "region": [
           "REGION_A"
         ],
@@ -12915,7 +12890,7 @@
     {
       "reviewedSite": "pornotur.club",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-23T03:42:11.472126Z",
+        "lastChangeTime": "2018-11-30T15:40:07.316079Z",
         "region": [
           "REGION_B"
         ],
@@ -12924,7 +12899,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-23T03:42:11.402006Z",
+        "lastChangeTime": "2018-11-30T15:40:07.254979Z",
         "region": [
           "REGION_B"
         ],
@@ -14752,20 +14727,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-02-15T15:00:00Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "skd.se",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-29T07:55:21.509826Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-11-28T07:52:37.045206Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -16641,27 +16602,6 @@
       }
     },
     {
-      "reviewedSite": "turkmmo.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-30T06:55:59.673873Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-11-30T06:55:59.208141Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-30T06:55:59.595721Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-11-30T06:55:59.208141Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "tuttocurve.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -17400,13 +17340,14 @@
       "reviewedSite": "wacowny.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-10-31T08:18:36.928306Z",
+        "lastChangeTime": "2018-11-30T09:47:27.360331Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-30T08:18:36.506856Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
