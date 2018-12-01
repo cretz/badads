@@ -7675,13 +7675,13 @@
     {
       "reviewedSite": "ilovenovels.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-01T00:09:31.376192Z",
+        "lastChangeTime": "2018-12-01T00:09:31.065793Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-01T00:09:30.912626Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -9994,13 +9994,13 @@
       "reviewedSite": "mapo.al",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-01T07:14:45.321043Z",
+        "lastChangeTime": "2018-12-01T07:14:45.362610Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-01T07:14:45.000680Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -10329,13 +10329,13 @@
       "reviewedSite": "meteo.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-01T01:14:12.635401Z",
+        "lastChangeTime": "2018-12-01T01:14:12.311211Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-01T01:14:12.082822Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -10716,13 +10716,14 @@
       "reviewedSite": "muchohentai.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-30T23:14:12.204928Z",
+        "lastChangeTime": "2018-12-01T06:35:49.302556Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-30T23:14:12.053441Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
