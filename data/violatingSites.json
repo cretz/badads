@@ -2390,6 +2390,19 @@
       }
     },
     {
+      "reviewedSite": "bloggkommentatorerna.se",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-12-01T17:40:37.005529Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-31T17:40:36.776171Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "blogvisaodemercado.pt",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:05:58.780194Z",
@@ -5478,13 +5491,13 @@
     {
       "reviewedSite": "fitnessrxformen.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-01T21:41:47.014167Z",
+        "lastChangeTime": "2018-12-01T21:41:46.008972Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-01T21:41:45.869819Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -9348,13 +9361,13 @@
       "reviewedSite": "link.tl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-01T22:45:07.242654Z",
+        "lastChangeTime": "2018-12-01T22:45:06.705569Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-01T22:45:06.505752Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -11344,22 +11357,22 @@
     {
       "reviewedSite": "norran.se",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-01T22:30:21.040395Z",
+        "lastChangeTime": "2018-12-01T22:30:21.047384Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-01T22:30:20.824569Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-01T22:30:21.255249Z",
+        "lastChangeTime": "2018-12-01T22:30:21.006266Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-01T22:30:20.824569Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -12214,13 +12227,13 @@
     {
       "reviewedSite": "pdxmugshots.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-01T20:29:10.862044Z",
+        "lastChangeTime": "2018-12-01T20:29:10.571759Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-01T20:29:10.266499Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -13502,13 +13515,13 @@
     {
       "reviewedSite": "raidcall.com.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-01T21:40:26.216009Z",
+        "lastChangeTime": "2018-12-01T21:40:25.996694Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-01T21:40:25.875869Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -13709,7 +13722,7 @@
     {
       "reviewedSite": "redipgers.ga",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-23T19:36:44.717272Z",
+        "lastChangeTime": "2018-12-01T16:38:13.644294Z",
         "region": [
           "REGION_B"
         ],
@@ -13717,7 +13730,15 @@
         "enforcementTime": "2018-11-23T19:36:44.201435Z",
         "filterStatus": "ON"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2018-12-01T16:38:13.841722Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2018-12-31T16:38:13.511974Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "redstatepundit.com",
@@ -18457,13 +18478,13 @@
     {
       "reviewedSite": "znayyak.org",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-01T21:39:21.802377Z",
+        "lastChangeTime": "2018-12-01T21:39:21.629010Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-01T21:39:21.473738Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
