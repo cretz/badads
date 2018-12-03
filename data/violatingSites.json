@@ -5727,22 +5727,24 @@
     {
       "reviewedSite": "freehdsport.is",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-09T19:53:01.572770Z",
+        "lastChangeTime": "2018-12-03T06:50:15.714394Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-09T19:53:01.071325Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-09T19:53:01.488609Z",
+        "lastChangeTime": "2018-12-03T06:49:46.604120Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-09T19:53:01.071325Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -9259,20 +9261,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "lifetips.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-12-02T21:43:17.945989Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-12-09T19:54:44.142261Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "ligtvizlesene.fr",
       "mobileSummary": {},
       "desktopSummary": {
@@ -10691,20 +10679,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "muchohentai.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-12-01T06:35:49.302556Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-11-30T23:14:12.053441Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "mufcbr.com",
@@ -16375,20 +16349,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "travelerstoday.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-30T19:47:16.441446Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-12-02T20:36:33.956929Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "travelwhip.com",
