@@ -9261,13 +9261,14 @@
     {
       "reviewedSite": "lifetips.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-09T19:54:44.453708Z",
+        "lastChangeTime": "2018-12-02T21:43:17.945989Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-09T19:54:44.142261Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -9615,13 +9616,13 @@
     {
       "reviewedSite": "lunarlasertag.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-02T19:42:15.356910Z",
+        "lastChangeTime": "2018-12-02T19:42:14.537426Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-02T19:42:14.427491Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -12335,13 +12336,13 @@
     {
       "reviewedSite": "phyziology.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-02T19:47:40.211640Z",
+        "lastChangeTime": "2018-12-02T19:47:39.992316Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-02T19:47:39.798883Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -13499,13 +13500,13 @@
     {
       "reviewedSite": "randoendurosudouest.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-02T21:20:08.498567Z",
+        "lastChangeTime": "2018-12-02T21:20:07.323679Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-02T21:20:07.192744Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -17374,22 +17375,22 @@
     {
       "reviewedSite": "warcenter.cz",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-02T20:43:28.113893Z",
+        "lastChangeTime": "2018-12-02T20:43:27.901229Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-02T20:43:27.720910Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-02T20:43:28.782485Z",
+        "lastChangeTime": "2018-12-02T20:43:27.857391Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-02T20:43:27.720910Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
