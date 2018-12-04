@@ -4241,6 +4241,19 @@
       }
     },
     {
+      "reviewedSite": "diziyo4.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-12-03T18:10:37.933019Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-02T18:10:37.693941Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "dizmir.com",
       "mobileSummary": {
         "lastChangeTime": "2018-11-09T09:42:51.750986Z",
@@ -4950,13 +4963,14 @@
       "reviewedSite": "eurovidporn.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-17T20:27:33.458929Z",
+        "lastChangeTime": "2018-12-03T22:21:46.392518Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-17T20:27:33.262307Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -10854,14 +10868,13 @@
     {
       "reviewedSite": "mysynonyms.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-10-26T09:05:20.006470Z",
+        "lastChangeTime": "2018-12-03T21:42:52.746654Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-10-27T09:35:36.035781065Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14104,13 +14117,14 @@
     {
       "reviewedSite": "salamanca24horas.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-02T06:37:47.540317Z",
+        "lastChangeTime": "2018-12-03T19:01:20.888076Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-02T06:37:47.363180Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -14720,7 +14734,7 @@
     {
       "reviewedSite": "signalng.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-25T05:36:26.277455Z",
+        "lastChangeTime": "2018-12-03T18:52:56.579567Z",
         "region": [
           "REGION_A"
         ],
@@ -14729,7 +14743,7 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-25T05:36:26.231548Z",
+        "lastChangeTime": "2018-12-03T18:52:56.510410Z",
         "region": [
           "REGION_A"
         ],
@@ -15681,19 +15695,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-12T00:36:31.586710909Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "taxidrivermovie.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-09T19:58:04.318042Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-10-07T11:02:29.652620Z",
         "filterStatus": "ON"
       }
     },
@@ -16828,6 +16829,19 @@
       }
     },
     {
+      "reviewedSite": "ultrafullfilmizle.net",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-12-03T18:08:04.147331Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-02T18:08:03.940750Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "ultraporn.biz",
       "mobileSummary": {},
       "desktopSummary": {
@@ -16889,6 +16903,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-10-07T13:44:12.085128962Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "unfbr.de",
+      "mobileSummary": {
+        "lastChangeTime": "2018-12-03T18:52:55.447241Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-02T18:52:55.246798Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -17729,14 +17756,13 @@
       "reviewedSite": "woundcareadvisor.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-01T19:47:03.497335Z",
+        "lastChangeTime": "2018-12-03T22:40:38.101002Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-07-25T11:59:37.951884888Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -18153,6 +18179,19 @@
         ],
         "betterAdsStatus": "WARNING",
         "filterStatus": "OFF"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "xyinya.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-12-03T23:54:27.741645Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-02T23:54:27.563492Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
