@@ -8348,15 +8348,16 @@
     {
       "reviewedSite": "fraccata.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-09-10T18:35:11.369616Z",
+        "lastChangeTime": "2018-12-07T01:25:18.321752Z",
         "region": [
           "REGION_B"
         ],
-        "betterAdsStatus": "WARNING",
-        "filterStatus": "OFF"
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-06T01:25:17.847576Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-27T15:09:21.575441Z",
+        "lastChangeTime": "2018-12-07T01:25:17.949051Z",
         "region": [
           "REGION_B"
         ],
@@ -11431,19 +11432,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-18T14:45:19.189192Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "interlive.it",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-12-05T21:43:47.969534Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-04T21:43:47.483236Z",
-        "filterStatus": "PENDING"
       }
     },
     {
@@ -19393,13 +19381,14 @@
       "reviewedSite": "povsexvideo.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-06T14:41:14.228003Z",
+        "lastChangeTime": "2018-12-07T03:17:12.078594Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-05T14:41:14.048879Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -22673,6 +22662,27 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "stlyrics.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-12-07T01:01:37.790964Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-06T01:01:37.469135Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-12-07T01:01:37.693847Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-06T01:01:37.469135Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "stoma-tolog.com",
