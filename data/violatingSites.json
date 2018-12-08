@@ -803,6 +803,19 @@
       }
     },
     {
+      "reviewedSite": "afallfarewell.com",
+      "mobileSummary": {
+        "lastChangeTime": "2018-12-08T12:33:38.054090Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-07T12:33:37.669168Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "afdah.org",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:05:54.146856Z",
@@ -7121,6 +7134,19 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "escosdupliceerservice.nl",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-12-08T10:33:16.963602Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-07T10:33:16.713763Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "esports.lv",
@@ -16261,14 +16287,13 @@
       "reviewedSite": "naked-galls.info",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-06T21:17:40.003408Z",
+        "lastChangeTime": "2018-12-08T09:47:07.331788Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2018-07-25T20:07:58.822243617Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21549,6 +21574,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "sexiestbbw.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-12-08T10:24:08.967080Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-07T10:24:08.558585Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "sexihikayelerioku.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -21559,6 +21597,27 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-04-13T05:31:07.389171Z",
         "filterStatus": "ON"
+      }
+    },
+    {
+      "reviewedSite": "sexindex.info",
+      "mobileSummary": {
+        "lastChangeTime": "2018-12-08T14:37:29.815928Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-07T14:37:29.102024Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2018-12-08T14:37:29.265074Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-07T14:37:29.102024Z",
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -25963,13 +26022,13 @@
     {
       "reviewedSite": "xclickers.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-08T11:12:14.457950Z",
+        "lastChangeTime": "2018-12-08T11:12:13.920755Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-08T11:12:13.455815Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-11-08T11:12:14.237420Z",
@@ -26654,19 +26713,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-04T02:47:50.013296Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "zagorsk.ru",
-      "mobileSummary": {
-        "lastChangeTime": "2018-11-27T03:38:49.269145Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-12-27T03:38:48.469929Z",
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
