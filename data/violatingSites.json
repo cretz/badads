@@ -2877,13 +2877,14 @@
       "reviewedSite": "beeg.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-09T21:04:15.849945Z",
+        "lastChangeTime": "2018-12-08T02:18:06.676168Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-09T21:04:15.217716Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15147,20 +15148,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-11-14T02:09:14.199406450Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "meetmeonboard.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-12-07T23:48:26.016503Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-04T13:46:05.388077Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
