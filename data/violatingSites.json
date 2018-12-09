@@ -212,19 +212,6 @@
       }
     },
     {
-      "reviewedSite": "2jav.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-09T19:08:41.594955Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-12-09T19:08:41.138959Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "3-w.name",
       "mobileSummary": {
         "lastChangeTime": "2018-11-27T22:39:18.082266Z",
@@ -1556,6 +1543,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "analyseindustrie.nl",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-12-08T16:06:15.433852Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-07T16:06:15.197496Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "anekdot.ws",
@@ -6388,13 +6388,13 @@
     {
       "reviewedSite": "dpo.st",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-08T23:38:13.064848Z",
+        "lastChangeTime": "2018-12-08T23:38:12.692454Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-08T23:38:12.521691Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -8184,29 +8184,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "food-crafting.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-12-06T08:43:19.241086Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-05T01:42:58.064539Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-12-06T08:10:19.001039Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-05T01:42:58.064548Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "foodieshutrecipes.com",
@@ -11089,13 +11066,13 @@
     {
       "reviewedSite": "igfap.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-08T21:09:14.606668Z",
+        "lastChangeTime": "2018-12-08T21:09:14.485391Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-08T21:09:14.282802Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-11-08T21:09:15.300466Z",
@@ -19676,13 +19653,14 @@
       "reviewedSite": "primetweets.com.ng",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-09T15:50:37.544969Z",
+        "lastChangeTime": "2018-12-08T16:07:50.830684Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-09T15:50:36.791808Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -21775,6 +21753,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-08-08T13:58:41.546297Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "sexxxxvideos.net",
+      "mobileSummary": {
+        "lastChangeTime": "2018-12-08T17:15:01.574777Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-07T17:15:01.328333Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -25686,27 +25677,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-19T01:33:44.141633207Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "wette.gratis",
-      "mobileSummary": {
-        "lastChangeTime": "2018-12-04T21:42:29.719361Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-03T21:42:29.595932Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-12-04T21:42:29.787390Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-03T21:42:29.595932Z",
-        "filterStatus": "PENDING"
       }
     },
     {
