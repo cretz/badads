@@ -1248,19 +1248,6 @@
       }
     },
     {
-      "reviewedSite": "alphanews.live",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-12-05T19:50:04.884183Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-04T19:50:04.711601Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "alterak.ru",
       "mobileSummary": {
         "lastChangeTime": "2018-12-10T07:48:46.717292Z",
@@ -6861,27 +6848,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "eatdrinkla.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-12-06T01:42:59.282680Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-05T01:42:58.937743Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-12-06T01:42:59.061450Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-05T01:42:58.937743Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "eattheglobe.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -8267,13 +8233,14 @@
       "reviewedSite": "filmovi.me",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-13T21:52:10.984715Z",
+        "lastChangeTime": "2018-12-14T14:56:24.960818Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-12T21:52:10.879709Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12377,19 +12344,6 @@
       }
     },
     {
-      "reviewedSite": "jnovels.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-12-14T04:53:03.762865Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-13T04:53:02.825405Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "jornaiserevistas.com",
       "mobileSummary": {
         "lastChangeTime": "2018-11-09T19:54:36.447708Z",
@@ -13447,19 +13401,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-06T22:49:35.951448Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "kurslitteratur.se",
-      "mobileSummary": {
-        "lastChangeTime": "2018-12-05T21:43:47.349932Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-04T21:43:47.073261Z",
-        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -26757,13 +26698,14 @@
       "reviewedSite": "virail.bg",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-14T05:05:13.778432Z",
+        "lastChangeTime": "2018-12-14T15:21:03.158357Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-13T05:05:13.528555Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -26808,22 +26750,24 @@
     {
       "reviewedSite": "vision90sports.co.uk",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-13T22:48:36.391248Z",
+        "lastChangeTime": "2018-12-14T10:35:59.125710Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-12T22:48:36.194284Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-12-13T22:48:36.294468Z",
+        "lastChangeTime": "2018-12-14T10:29:46.700455Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-12T22:48:36.133357Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -26855,22 +26799,22 @@
     {
       "reviewedSite": "voetbal-tickets-buitenland.nl",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-14T11:39:22.006058Z",
+        "lastChangeTime": "2018-12-14T11:39:21.942874Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-14T11:39:21.301665Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-14T11:39:22.206526Z",
+        "lastChangeTime": "2018-12-14T11:39:21.895096Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-14T11:39:21.301665Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -27819,27 +27763,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-04T16:25:35.419048Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "xtubeporn.com.es",
-      "mobileSummary": {
-        "lastChangeTime": "2018-12-09T18:42:41.262029Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-12-09T18:42:41.131117Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2018-11-09T18:42:41.484114Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-07-25T13:56:11.834843156Z",
-        "filterStatus": "ON"
       }
     },
     {
