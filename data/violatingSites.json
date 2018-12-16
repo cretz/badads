@@ -383,13 +383,13 @@
     {
       "reviewedSite": "6sextube.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-15T22:08:08.634881Z",
+        "lastChangeTime": "2018-12-15T22:08:07.984886Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-15T22:08:07.806201Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -5189,13 +5189,14 @@
     {
       "reviewedSite": "cold-arms.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-06T04:40:16.807326Z",
+        "lastChangeTime": "2018-12-15T23:26:01.981766Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-05T04:40:16.657173Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -6607,14 +6608,13 @@
     {
       "reviewedSite": "dosluces.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-10T17:06:54.350358Z",
+        "lastChangeTime": "2018-12-15T20:44:15.484053Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2019-01-09T17:04:30.162446Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -6872,14 +6872,13 @@
       "reviewedSite": "eattheglobe.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-10T11:29:21.209031Z",
+        "lastChangeTime": "2018-12-15T20:44:15.536779Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2019-01-09T06:49:34.733022Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -16075,19 +16074,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "minecraftservera.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-12-15T02:41:54.989922Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-14T02:41:54.860471Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "miraguapa.com",
       "mobileSummary": {
         "lastChangeTime": "2018-10-07T03:35:57.624433Z",
@@ -17704,14 +17690,13 @@
       "reviewedSite": "nourishyourglow.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-07T16:22:05.621477Z",
+        "lastChangeTime": "2018-12-15T20:44:15.532864Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2019-01-06T15:40:01.431289Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -24047,14 +24032,13 @@
       "reviewedSite": "tandysinclair.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-11T14:48:54.860751Z",
+        "lastChangeTime": "2018-12-15T20:44:15.669321Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2019-01-10T14:41:35.550283Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
@@ -24147,14 +24131,13 @@
       "reviewedSite": "tasteofmaroc.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-12T10:23:02.384901Z",
+        "lastChangeTime": "2018-12-15T20:44:15.775420Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2019-01-10T14:41:35.665811Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       }
     },
     {
