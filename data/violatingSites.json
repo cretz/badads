@@ -21250,13 +21250,13 @@
     {
       "reviewedSite": "reverse-num.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-16T13:40:06.578265Z",
+        "lastChangeTime": "2018-12-16T13:40:06.342546Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-16T13:40:05.986356Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -21531,13 +21531,13 @@
     {
       "reviewedSite": "rostov-laminat.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-16T15:37:29.758706Z",
+        "lastChangeTime": "2018-12-16T15:37:29.378936Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-16T15:37:29.160923Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -24032,13 +24032,14 @@
       "reviewedSite": "tandysinclair.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-15T20:44:15.669321Z",
+        "lastChangeTime": "2018-12-16T09:26:25.042659Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-10T14:41:35.550283Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -24131,13 +24132,13 @@
       "reviewedSite": "tasteofmaroc.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-15T20:44:15.775420Z",
+        "lastChangeTime": "2018-12-16T10:48:23.452735Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-10T14:41:35.665811Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
