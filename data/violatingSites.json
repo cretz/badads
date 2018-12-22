@@ -1284,13 +1284,14 @@
     {
       "reviewedSite": "ajiriwa.net",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-21T23:40:28.079735Z",
+        "lastChangeTime": "2018-12-22T10:51:30.399842Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-20T23:40:27.080211Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -7444,22 +7445,24 @@
     {
       "reviewedSite": "dizifilmsizle.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-19T20:43:38.427428Z",
+        "lastChangeTime": "2018-12-22T12:09:47.358485Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-18T20:43:38.187584Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-12-19T20:43:38.325510Z",
+        "lastChangeTime": "2018-12-22T12:10:02.907756Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-18T20:43:38.187584Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15448,13 +15451,13 @@
       "reviewedSite": "laacibnet.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-22T09:23:16.133632Z",
+        "lastChangeTime": "2018-12-22T09:23:15.755269Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-22T09:23:15.625113Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
