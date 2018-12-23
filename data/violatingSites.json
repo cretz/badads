@@ -24690,22 +24690,24 @@
     {
       "reviewedSite": "safetyandsecuritycameras.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-06T10:41:38.910206Z",
+        "lastChangeTime": "2018-12-23T12:50:36.680564Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-05T10:41:38.651832Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-12-06T10:41:38.809883Z",
+        "lastChangeTime": "2018-12-23T12:50:00.574110Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-05T10:41:38.649845Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
