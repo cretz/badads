@@ -4362,13 +4362,13 @@
     {
       "reviewedSite": "bitchyourfamous.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-27T15:12:08.818771Z",
+        "lastChangeTime": "2018-12-27T15:12:08.447161Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T15:12:08.299440Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-11-27T15:12:08.901818Z",
@@ -8533,13 +8533,13 @@
       "reviewedSite": "e-tribina.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-27T12:42:18.690374Z",
+        "lastChangeTime": "2018-12-27T12:42:18.192384Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T12:42:17.977103Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -8665,13 +8665,13 @@
     {
       "reviewedSite": "ebonyblackporno.biz",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-27T11:41:35.396391Z",
+        "lastChangeTime": "2018-12-27T11:41:34.639063Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T11:41:34.420909Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -13409,13 +13409,13 @@
     {
       "reviewedSite": "healthydiet24.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-27T09:15:02.492758Z",
+        "lastChangeTime": "2018-12-27T09:15:02.287747Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T09:15:02.077660Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14919,17 +14919,16 @@
     },
     {
       "reviewedSite": "javporn.xyz",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-12-27T06:19:27.518137Z",
+      "mobileSummary": {
+        "lastChangeTime": "2018-12-27T15:15:53.515962Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-25T18:35:57.029053Z",
-        "filterStatus": "PAUSED"
-      }
+        "enforcementTime": "2019-01-26T15:15:53.346506Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "javsubtitle.ml",
@@ -16504,13 +16503,14 @@
       "reviewedSite": "laacibnet.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-22T09:23:15.755269Z",
+        "lastChangeTime": "2018-12-27T15:08:21.498946Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-22T09:23:15.625113Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -19972,13 +19972,13 @@
       "reviewedSite": "moms-and-son.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-27T15:09:45.019326Z",
+        "lastChangeTime": "2018-12-27T15:09:44.607301Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T15:09:44.455151Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -20942,7 +20942,15 @@
     },
     {
       "reviewedSite": "naturafemme.se",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-12-27T08:42:50.985504Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-26T08:42:50.859416Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-12-06T01:42:59.099856Z",
         "region": [
@@ -26363,7 +26371,15 @@
     },
     {
       "reviewedSite": "ritualbrewing.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2018-12-27T08:42:51.033270Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-26T08:42:50.859292Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2018-12-06T01:42:58.715607Z",
         "region": [
