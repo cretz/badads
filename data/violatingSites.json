@@ -9747,13 +9747,13 @@
       "reviewedSite": "familytabletreasures.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-24T12:47:05.344903Z",
+        "lastChangeTime": "2018-12-27T03:46:16.856463Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-23T12:47:05.191366Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -11670,6 +11670,19 @@
       }
     },
     {
+      "reviewedSite": "gaycamx.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2018-12-27T03:41:15.864794Z",
+        "region": [
+          "REGION_A"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-26T03:41:15.564761Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "gayhardfuck.com",
       "mobileSummary": {
         "lastChangeTime": "2018-06-03T08:48:50.418558Z",
@@ -13464,13 +13477,13 @@
     {
       "reviewedSite": "henchan.me",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-27T00:52:54.029330Z",
+        "lastChangeTime": "2018-12-27T00:52:53.396690Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T00:52:53.193319Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14908,13 +14921,14 @@
       "reviewedSite": "javporn.xyz",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-26T18:39:34.273053Z",
+        "lastChangeTime": "2018-12-27T06:19:27.518137Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-25T18:35:57.029053Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -16020,13 +16034,13 @@
     {
       "reviewedSite": "kiss-x-max.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-27T07:38:40.742905Z",
+        "lastChangeTime": "2018-12-27T07:38:40.611416Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T07:38:40.014454Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -20352,13 +20366,13 @@
     {
       "reviewedSite": "mturbogamer.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-27T00:43:06.021896Z",
+        "lastChangeTime": "2018-12-27T00:43:05.976843Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T00:43:05.692006Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -22852,6 +22866,19 @@
       }
     },
     {
+      "reviewedSite": "paivense.pt",
+      "mobileSummary": {
+        "lastChangeTime": "2018-12-27T07:42:00.968510Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-26T07:41:06.670616Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "pansada.com",
       "mobileSummary": {
         "lastChangeTime": "2018-04-01T23:25:48.860080Z",
@@ -23643,13 +23670,13 @@
     {
       "reviewedSite": "place-info.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-18T00:47:03.139099Z",
+        "lastChangeTime": "2018-12-27T05:40:19.841295Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T05:40:19.632953Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -25840,13 +25867,13 @@
     {
       "reviewedSite": "reaxxion.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-27T06:57:26.911947Z",
+        "lastChangeTime": "2018-12-27T06:57:25.897312Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T06:57:25.758897Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -31157,13 +31184,13 @@
       "reviewedSite": "treasuryandrisk.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-30T00:14:33.481451Z",
+        "lastChangeTime": "2018-12-27T05:40:19.835900Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T05:40:19.628479Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -31912,13 +31939,13 @@
       "reviewedSite": "unilidenogren.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-17T17:41:33.273475Z",
+        "lastChangeTime": "2018-12-27T05:40:19.368776Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T05:40:19.228400Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -32758,13 +32785,13 @@
     {
       "reviewedSite": "vts-master.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-27T06:39:14.966108Z",
+        "lastChangeTime": "2018-12-27T06:39:14.533773Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T06:39:14.296703Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -34707,13 +34734,13 @@
     {
       "reviewedSite": "zdravey.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-19T08:43:35.747154Z",
+        "lastChangeTime": "2018-12-27T03:38:48.872741Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T03:38:48.714003Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -34802,13 +34829,13 @@
       "reviewedSite": "zones-telechargement1.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-27T04:43:07.269356Z",
+        "lastChangeTime": "2018-12-27T04:43:07.603881Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T04:43:06.734916Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -34841,13 +34868,13 @@
       "reviewedSite": "zs.gov.cn",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-27T04:43:07.262310Z",
+        "lastChangeTime": "2018-12-27T04:43:07.655103Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-27T04:43:06.734916Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
