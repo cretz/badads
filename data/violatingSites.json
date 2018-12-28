@@ -987,13 +987,13 @@
     {
       "reviewedSite": "adult1080.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-19T04:42:01.052921Z",
+        "lastChangeTime": "2018-12-28T00:39:33.988355Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-28T00:39:33.783813Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -1151,22 +1151,22 @@
     {
       "reviewedSite": "afrotainmenttv.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-28T01:40:32.031285Z",
+        "lastChangeTime": "2018-12-28T01:40:31.468220Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-28T01:40:31.189330Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-28T01:40:31.870580Z",
+        "lastChangeTime": "2018-12-28T01:40:31.393145Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-28T01:40:31.189321Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -2902,13 +2902,13 @@
       "reviewedSite": "ausmalbilder-mandalas.de",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-17T06:41:31.290246Z",
+        "lastChangeTime": "2018-12-28T03:41:47.875116Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-28T03:41:47.706812Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -3123,13 +3123,13 @@
       "reviewedSite": "aworldofpoker.co.uk",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-28T07:37:14.835966Z",
+        "lastChangeTime": "2018-12-28T07:37:14.481025Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-28T07:37:14.306546Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -3208,13 +3208,13 @@
     {
       "reviewedSite": "azlyrics.website",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-28T03:41:48.719270Z",
+        "lastChangeTime": "2018-12-28T03:41:48.331856Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-28T03:41:48.081506Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -9783,19 +9783,6 @@
       }
     },
     {
-      "reviewedSite": "familytabletreasures.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-12-27T18:34:23.513516Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-23T12:47:05.191366Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "fammtvhd.com",
       "mobileSummary": {
         "lastChangeTime": "2018-12-20T23:44:55.633122Z",
@@ -14959,13 +14946,14 @@
     {
       "reviewedSite": "javporn.xyz",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-27T15:15:53.515962Z",
+        "lastChangeTime": "2018-12-28T07:32:27.634446Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-26T15:15:53.346506Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -16214,19 +16202,6 @@
         "enforcementTime": "2019-01-23T10:42:43.125441Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "knowledgenuts.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-12-05T20:45:39.069998Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-04T20:45:38.740683Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "knullaporr.com",
@@ -27033,19 +27008,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-20T23:40:26.187029Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "scishiontvbox.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-12-05T23:41:58.452304Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-04T23:41:58.062345Z",
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
