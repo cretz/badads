@@ -433,19 +433,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "3vids.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-12-05T20:45:37.338408Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-04T20:45:37.175332Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "40plusmature.com",
       "mobileSummary": {
         "lastChangeTime": "2018-12-20T02:40:28.760172Z",
@@ -4579,19 +4566,6 @@
       }
     },
     {
-      "reviewedSite": "bobsvagene.club",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-12-19T21:42:25.625125Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-20T21:58:33.588574219Z",
-        "filterStatus": "ON"
-      }
-    },
-    {
       "reviewedSite": "bombuj.eu",
       "mobileSummary": {
         "lastChangeTime": "2018-03-25T19:14:23.309457Z",
@@ -8645,13 +8619,14 @@
       "reviewedSite": "eatthriveglow.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-06T01:43:00.276442Z",
+        "lastChangeTime": "2018-12-29T14:38:12.317656Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-05T01:43:00.099815Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -13368,13 +13343,14 @@
       "reviewedSite": "hdsexyvideos.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-28T15:53:26.851561Z",
+        "lastChangeTime": "2018-12-29T10:42:40.151224Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-27T15:53:26.754208Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -20243,13 +20219,14 @@
     {
       "reviewedSite": "movies4k.ws",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-06T08:40:28.257944Z",
+        "lastChangeTime": "2018-12-29T09:23:12.680675Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-05T08:40:28.098741Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -27577,22 +27554,24 @@
     {
       "reviewedSite": "sexindex.info",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-08T14:37:29.815928Z",
+        "lastChangeTime": "2018-12-29T08:10:40.106329Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-07T14:37:29.102024Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-12-08T14:37:29.265074Z",
+        "lastChangeTime": "2018-12-29T08:10:52.944125Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-07T14:37:29.102024Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
