@@ -987,13 +987,13 @@
     {
       "reviewedSite": "adulthd.tv",
       "mobileSummary": {
-        "lastChangeTime": "2018-11-30T21:54:46.788167Z",
+        "lastChangeTime": "2018-12-30T21:54:46.394650Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-30T21:54:46.212667Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -5888,19 +5888,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "cemcemii.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-12-25T12:40:05.884182Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-24T12:40:05.752329Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "central28beer.com",
       "mobileSummary": {
         "lastChangeTime": "2018-12-26T18:43:55.138887Z",
@@ -7874,13 +7861,13 @@
       "reviewedSite": "dizilab6.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-30T20:50:35.982030Z",
+        "lastChangeTime": "2018-12-30T20:50:35.212032Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-30T20:50:35.048150Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -27435,13 +27422,14 @@
       "reviewedSite": "sexiestbbw.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-08T10:24:08.967080Z",
+        "lastChangeTime": "2018-12-30T19:53:20.194659Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-07T10:24:08.558585Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
