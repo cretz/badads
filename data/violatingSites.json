@@ -19881,6 +19881,19 @@
       }
     },
     {
+      "reviewedSite": "menulation.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2019-01-01T06:37:43.636747Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-31T06:37:43.319281Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "mercafutbol.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:24.911217Z",
@@ -23039,7 +23052,7 @@
       "reviewedSite": "oradio.az",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-06T09:42:41.832870Z",
+        "lastChangeTime": "2019-01-01T07:43:39.685307Z",
         "region": [
           "REGION_B"
         ],
@@ -26124,6 +26137,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "rajacoli.us",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2019-01-01T07:43:40.350649Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-01-31T07:43:40.214868Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "rakstubiblioteka.lv",
       "mobileSummary": {},
       "desktopSummary": {
@@ -27298,7 +27324,7 @@
       "reviewedSite": "saffletidningen.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-06T10:41:38.927625Z",
+        "lastChangeTime": "2019-01-01T07:43:40.206040Z",
         "region": [
           "REGION_B"
         ],
@@ -28029,25 +28055,15 @@
     {
       "reviewedSite": "sexindex.info",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-29T08:10:40.106329Z",
+        "lastChangeTime": "2019-01-01T07:03:51.992640Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2019-01-07T14:37:29.102024Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2018-12-29T08:10:52.944125Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-07T14:37:29.102024Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "sexochapin.com",
