@@ -10921,13 +10921,13 @@
     {
       "reviewedSite": "fraccata.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-07T01:25:18.321752Z",
+        "lastChangeTime": "2019-01-06T01:25:18.101163Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-06T01:25:17.847576Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2018-12-07T01:25:17.949051Z",
@@ -31586,19 +31586,6 @@
       }
     },
     {
-      "reviewedSite": "tootsweet4two.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2018-12-11T14:41:35.161499Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-10T14:41:35.031932Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "top10alltime.com",
       "mobileSummary": {
         "lastChangeTime": "2018-05-09T17:09:30.803477Z",
@@ -34345,13 +34332,14 @@
       "reviewedSite": "wunderporno.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-16T00:25:19.156293Z",
+        "lastChangeTime": "2019-01-06T04:49:25.276146Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-11-16T00:25:18.987404Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
