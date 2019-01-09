@@ -1065,13 +1065,13 @@
     {
       "reviewedSite": "aes55.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-10T06:49:34.023738Z",
+        "lastChangeTime": "2019-01-09T06:49:33.955505Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-09T06:49:33.772473Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -1677,13 +1677,13 @@
     {
       "reviewedSite": "alterak.ru",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-04T18:45:49.698488Z",
+        "lastChangeTime": "2019-01-09T07:48:46.230640Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-09T07:48:46.089816Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -2088,13 +2088,13 @@
     {
       "reviewedSite": "androidsland.ru",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-04T19:43:22.821720Z",
+        "lastChangeTime": "2019-01-09T07:48:45.968643Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-09T07:48:45.842972Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -3050,13 +3050,13 @@
       "reviewedSite": "avcore.ru",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-10T04:46:44.618773Z",
+        "lastChangeTime": "2019-01-09T04:46:44.776138Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-09T04:46:44.458273Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -6113,13 +6113,13 @@
       "reviewedSite": "chasingchilli.com.au",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-10T05:41:49.478042Z",
+        "lastChangeTime": "2019-01-09T05:41:49.813179Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-09T05:41:49.166800Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -6308,13 +6308,13 @@
       "reviewedSite": "chinesefoodsrecipe.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-10T05:41:49.748942Z",
+        "lastChangeTime": "2019-01-09T05:41:49.773887Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-09T05:41:49.506063Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -7436,6 +7436,19 @@
       }
     },
     {
+      "reviewedSite": "darkovyalkohol.cz",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2019-01-09T00:47:52.082229Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-02-08T00:47:51.862733Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "darksta.com",
       "mobileSummary": {
         "lastChangeTime": "2019-01-03T10:46:55.269736Z",
@@ -8434,13 +8447,13 @@
       "reviewedSite": "dragonflyhomerecipes.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-10T06:49:34.956107Z",
+        "lastChangeTime": "2019-01-09T06:49:34.969478Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-09T06:49:34.701720Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -8804,13 +8817,13 @@
       "reviewedSite": "eattheglobe.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-15T20:44:15.536779Z",
+        "lastChangeTime": "2019-01-09T06:49:34.907914Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-09T06:49:34.733022Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -13751,6 +13764,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "hinaz.ir",
+      "mobileSummary": {
+        "lastChangeTime": "2019-01-09T01:44:12.733204Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-02-08T01:44:12.565494Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "hintfilmiizle.com",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:06:14.375393Z",
@@ -14703,20 +14729,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "investingnews.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-08T21:23:36.210673Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-04T20:45:37.680242Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "invisionmag.com",
@@ -29628,19 +29640,6 @@
       }
     },
     {
-      "reviewedSite": "streamporn.pw",
-      "mobileSummary": {
-        "lastChangeTime": "2018-12-31T15:25:23.161036Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-30T15:25:22.877016Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "streetrace.ee",
       "mobileSummary": {},
       "desktopSummary": {
@@ -35786,6 +35785,19 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-05T18:43:05.897956Z",
         "filterStatus": "ON"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "zoryanchik.com",
+      "mobileSummary": {
+        "lastChangeTime": "2019-01-09T01:44:12.487601Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-02-08T01:44:12.327209Z",
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
