@@ -2893,13 +2893,14 @@
     {
       "reviewedSite": "audline.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-17T01:55:05.319615Z",
+        "lastChangeTime": "2019-01-09T14:10:50.454997Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-17T01:55:05.102716Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -3657,6 +3658,19 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-30T07:42:14.155256Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "bdg.by",
+      "mobileSummary": {
+        "lastChangeTime": "2019-01-09T14:09:33.118524Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-02-08T14:01:51.439707Z",
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
@@ -5980,20 +5994,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-17T00:47:02.741569Z",
         "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "celebzz.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-08T19:37:16.478177Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-11T19:46:49.870983Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -13231,6 +13231,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "have69.net",
+      "mobileSummary": {
+        "lastChangeTime": "2019-01-09T14:09:33.596138Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-02-08T14:00:12.801922Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "haysiyet.info",
       "mobileSummary": {},
       "desktopSummary": {
@@ -14708,13 +14721,14 @@
       "reviewedSite": "interiorbysusan.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-13T22:48:37.420481Z",
+        "lastChangeTime": "2019-01-09T15:18:13.414490Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-12T22:48:37.241206Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -15307,13 +15321,14 @@
       "reviewedSite": "josefinlustig.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-02T19:54:46.824796Z",
+        "lastChangeTime": "2019-01-09T15:16:44.847370Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-01T19:51:03.055771Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18685,13 +18700,13 @@
       "reviewedSite": "macizlee1.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-10T15:39:47.628856Z",
+        "lastChangeTime": "2019-01-09T15:39:47.804833Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-09T15:39:47.495295Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21639,13 +21654,14 @@
       "reviewedSite": "ninamalmstrom.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-02T19:54:47.287548Z",
+        "lastChangeTime": "2019-01-09T15:17:22.620171Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-01T19:51:02.972852Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -33763,13 +33779,13 @@
       "reviewedSite": "was-war-wann.de",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-08T14:48:08.936698Z",
+        "lastChangeTime": "2019-01-09T12:54:35.014863Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-07T14:48:08.795730Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
