@@ -18042,13 +18042,14 @@
     {
       "reviewedSite": "doucolle.net",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:00.942912Z",
+        "lastChangeTime": "2019-01-13T09:07:08.583839Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -31334,13 +31335,14 @@
     {
       "reviewedSite": "in-drive.ru",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-11T11:47:35.134343Z",
+        "lastChangeTime": "2019-01-13T09:02:22.903325Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -37081,19 +37083,6 @@
       }
     },
     {
-      "reviewedSite": "kompozitory-znaki-odarennosti.ru",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:07.837544Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "konkurha.ir",
       "mobileSummary": {
         "lastChangeTime": "2019-01-09T17:53:07.837544Z",
@@ -41271,19 +41260,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "manab3.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-12T01:05:29.448952Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "managementinpractice.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -44334,19 +44310,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "movimentocountry.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-09T17:53:07.941673Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      }
     },
     {
       "reviewedSite": "moy-grecheskiy-sad.ru",
@@ -65939,13 +65902,14 @@
     {
       "reviewedSite": "thmotion.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:12.200832Z",
+        "lastChangeTime": "2019-01-13T09:14:14.007379Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
