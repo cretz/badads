@@ -82,19 +82,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "1000e.ru",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-14T23:49:40.910171Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "1001historyfact.ru",
       "mobileSummary": {
         "lastChangeTime": "2018-03-06T16:05:53.293066Z",
@@ -445,19 +432,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "1bis.ru",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:52:57.135463Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "1finecookie.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -596,19 +570,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "2020carspictures.com",
-      "mobileSummary": {
-        "lastChangeTime": "2018-12-31T06:41:41.104376Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-30T06:41:40.858453Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "20il.co.il",
       "mobileSummary": {
         "lastChangeTime": "2019-01-09T17:52:57.135463Z",
@@ -711,19 +672,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "2bink.blogspot.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-14T07:48:03.795586Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      }
     },
     {
       "reviewedSite": "2ch-2.net",
@@ -938,19 +886,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-04T19:50:02.732633Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "4632.ru",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-14T07:48:04.118734Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -17872,13 +17807,14 @@
       "reviewedSite": "dolny-slask24h.pl",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-31T06:41:42.160565Z",
+        "lastChangeTime": "2019-01-15T07:52:45.695278Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-30T06:41:41.781583Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -26008,13 +25944,14 @@
     {
       "reviewedSite": "gbimonthly.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:04.711624Z",
+        "lastChangeTime": "2019-01-15T03:20:24.505460Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -32252,13 +32189,14 @@
       "reviewedSite": "inspiringkitchen.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-05T12:44:46.771077Z",
+        "lastChangeTime": "2019-01-15T05:58:35.937117Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-05T12:44:46.236226Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -59948,13 +59886,14 @@
       "reviewedSite": "showa102.xyz",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-09T17:53:11.499866Z",
+        "lastChangeTime": "2019-01-15T05:34:42.917890Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
