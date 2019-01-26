@@ -1011,7 +1011,7 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-25T16:03:56.718416Z",
+        "lastChangeTime": "2019-01-26T00:49:49.448442Z",
         "region": [
           "REGION_C"
         ],
@@ -2394,48 +2394,6 @@
         "enforcementTime": "2019-02-15T05:05:22.417031Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "ahliautomotif.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-24T07:14:40.864010Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "ahlimachine.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-24T07:06:41.196205Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "ahliotomotif.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-24T07:19:21.315845Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "aikhockey.se",
@@ -10321,20 +10279,6 @@
       }
     },
     {
-      "reviewedSite": "bristolrovers.co.uk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-24T15:31:13.213008Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-21T03:41:50.879750Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "britishamateurporn.net",
       "mobileSummary": {
         "lastChangeTime": "2019-01-14T20:11:35.857775Z",
@@ -12183,20 +12127,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "ccfc.co.uk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-24T15:33:10.531182Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-23T06:41:51.802677Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -25748,13 +25678,13 @@
       "reviewedSite": "gaycamx.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-27T03:41:15.864794Z",
+        "lastChangeTime": "2019-01-26T03:41:16.021731Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-26T03:41:15.564761Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -27289,20 +27219,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "grimsby-townfc.co.uk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-24T15:34:09.563141Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-23T13:41:23.663784Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "groupnetzh.com",
@@ -43181,20 +43097,6 @@
       }
     },
     {
-      "reviewedSite": "millwallfc.co.uk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-24T15:35:51.982710Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-21T02:45:16.821985Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "mimint.co.kr",
       "mobileSummary": {
         "lastChangeTime": "2019-01-09T17:53:07.990348Z",
@@ -43521,20 +43423,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-09-27T19:39:22.836919Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "mkdons.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-24T15:36:06.639750Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-20T23:40:28.858268Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -44497,22 +44385,24 @@
     {
       "reviewedSite": "mp4gist.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:07.941673Z",
+        "lastChangeTime": "2019-01-26T00:45:11.526234Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-09T17:53:07.941673Z",
+        "lastChangeTime": "2019-01-26T02:01:40.833012Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -49711,13 +49601,13 @@
     {
       "reviewedSite": "paivense.pt",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-27T07:42:00.968510Z",
+        "lastChangeTime": "2019-01-26T07:41:07.034310Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-26T07:41:06.670616Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -57522,13 +57412,14 @@
       "reviewedSite": "sahabat4d.top",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-09T17:53:11.499866Z",
+        "lastChangeTime": "2019-01-26T01:42:23.139723Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
