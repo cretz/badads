@@ -31882,22 +31882,24 @@
     {
       "reviewedSite": "informaticamoderna.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:04.327531Z",
+        "lastChangeTime": "2019-01-27T05:48:47.231636Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-09T17:53:04.327531Z",
+        "lastChangeTime": "2019-01-27T05:46:22.684345Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -37140,20 +37142,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "konverte.lv",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-25T13:22:26.661139Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-23T16:41:57.528546Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "koperangka.top",
@@ -51674,20 +51662,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "plenixclash.co",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-25T16:50:07.888806Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-02-01T04:41:45.922560Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
