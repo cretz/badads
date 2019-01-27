@@ -3327,13 +3327,13 @@
     {
       "reviewedSite": "amateurglobe.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-27T17:06:32.052133Z",
+        "lastChangeTime": "2019-01-26T17:06:32.118607Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-26T17:06:31.863713Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -19031,13 +19031,13 @@
       "reviewedSite": "ebreezeviterbo.it",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-27T18:43:05.368656Z",
+        "lastChangeTime": "2019-01-26T18:43:05.257493Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-26T18:43:04.910008Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21403,13 +21403,14 @@
       "reviewedSite": "famouswikis.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-23T09:42:16.972813Z",
+        "lastChangeTime": "2019-01-26T17:20:03.192891Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-23T09:42:16.295438Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -39992,13 +39993,13 @@
     {
       "reviewedSite": "love-in-nsk.ru",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-27T20:41:27.952884Z",
+        "lastChangeTime": "2019-01-26T20:41:27.881862Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-26T20:41:27.237972Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -42642,25 +42643,15 @@
     {
       "reviewedSite": "merecrute.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-25T12:24:53.043542Z",
+        "lastChangeTime": "2019-01-26T18:44:17.357127Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-25T12:24:15.939296Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
-      }
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "meriken.net",
@@ -47647,14 +47638,13 @@
       "reviewedSite": "nvp.se",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-25T13:21:34.027389Z",
+        "lastChangeTime": "2019-01-26T16:48:39.881079Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2019-01-18T18:41:27.145154Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "ON"
       }
     },
     {
@@ -51717,13 +51707,13 @@
       "reviewedSite": "pluginsc4d.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-27T18:43:04.854122Z",
+        "lastChangeTime": "2019-01-26T18:43:04.913997Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-26T18:43:04.592589Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -55047,20 +55037,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "rakstubiblioteka.lv",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-24T19:35:44.798708Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-18T16:41:09.786800Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -58724,13 +58700,13 @@
       "reviewedSite": "sexe-is-porno.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-27T18:43:05.472414Z",
+        "lastChangeTime": "2019-01-26T18:43:05.198590Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-26T18:43:04.946306Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -60341,13 +60317,13 @@
       "reviewedSite": "sizbunubiliyormusunuz.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-27T18:43:05.331927Z",
+        "lastChangeTime": "2019-01-26T18:43:05.484208Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-26T18:43:05.082258Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -62367,13 +62343,13 @@
     {
       "reviewedSite": "stevensjerseycityford.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-27T23:42:54.887011Z",
+        "lastChangeTime": "2019-01-26T23:42:54.971417Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-26T23:42:54.728478Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
