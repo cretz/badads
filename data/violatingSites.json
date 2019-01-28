@@ -18012,13 +18012,14 @@
       "reviewedSite": "dragonflyhomerecipes.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-09T06:49:34.969478Z",
+        "lastChangeTime": "2019-01-27T16:53:09.968206Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-09T06:49:34.701720Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -19040,20 +19041,6 @@
         "enforcementTime": "2019-01-26T18:43:04.910008Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "echudo.ru",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-26T15:15:01.003982Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "ecoledejulie.fr",
@@ -21399,20 +21386,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "famouswikis.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-26T17:20:03.192891Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-23T09:42:16.295438Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "fanaticosdaligarecord.com",
@@ -38481,13 +38454,13 @@
     {
       "reviewedSite": "learnaudio123.blogspot.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-28T16:43:55.846636Z",
+        "lastChangeTime": "2019-01-27T16:43:55.718674Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-27T16:43:55.550242Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -54167,13 +54140,13 @@
     {
       "reviewedSite": "puntodemarketing.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-28T16:43:55.464263Z",
+        "lastChangeTime": "2019-01-27T16:43:55.393421Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-27T16:43:55.203305Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2019-01-09T17:53:09.810420Z",
@@ -58000,13 +57973,13 @@
       "reviewedSite": "sedeftedavisi.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-12-28T21:41:20.457052Z",
+        "lastChangeTime": "2019-01-27T21:41:20.358637Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-27T21:41:20.236838Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -59026,13 +58999,13 @@
     {
       "reviewedSite": "sextubenl.com",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-28T16:43:55.260225Z",
+        "lastChangeTime": "2019-01-27T16:43:55.244555Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-27T16:43:55.082667Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -61547,22 +61520,22 @@
     {
       "reviewedSite": "spl-bg.eu",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-28T21:41:21.258667Z",
+        "lastChangeTime": "2019-01-27T21:41:20.803539Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-27T21:41:20.284356Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-12-28T21:41:20.858691Z",
+        "lastChangeTime": "2019-01-27T21:41:20.858220Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-27T21:41:20.284361Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
