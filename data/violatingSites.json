@@ -603,7 +603,7 @@
       "reviewedSite": "2ch-news.net",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-30T18:57:02.693250Z",
+        "lastChangeTime": "2019-01-31T06:57:28.749004Z",
         "region": [
           "REGION_C"
         ],
@@ -757,6 +757,19 @@
         "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
       }
+    },
+    {
+      "reviewedSite": "3sexporn.com",
+      "mobileSummary": {
+        "lastChangeTime": "2019-01-31T05:27:33.065895Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-03-02T05:27:32.007756Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "40plusmature.com",
@@ -975,7 +988,7 @@
     {
       "reviewedSite": "5278.live",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-30T09:49:57.050185Z",
+        "lastChangeTime": "2019-01-31T06:57:28.672638Z",
         "region": [
           "REGION_C"
         ],
@@ -984,7 +997,7 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-30T18:57:02.603376Z",
+        "lastChangeTime": "2019-01-31T06:57:28.709951Z",
         "region": [
           "REGION_C"
         ],
@@ -1312,7 +1325,7 @@
     {
       "reviewedSite": "85jav.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-30T09:49:57.390255Z",
+        "lastChangeTime": "2019-01-31T05:27:32.370736Z",
         "region": [
           "REGION_C"
         ],
@@ -1320,7 +1333,15 @@
         "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
       },
-      "desktopSummary": {}
+      "desktopSummary": {
+        "lastChangeTime": "2019-01-31T05:27:32.832788Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "85videos.com",
@@ -1710,6 +1731,19 @@
       "reviewedSite": "abiturient24.com",
       "mobileSummary": {
         "lastChangeTime": "2019-01-09T17:52:57.135463Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "abojaber97.blogspot.com",
+      "mobileSummary": {
+        "lastChangeTime": "2019-01-31T06:57:28.827933Z",
         "region": [
           "REGION_C"
         ],
@@ -14329,6 +14363,19 @@
       }
     },
     {
+      "reviewedSite": "comprerural.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2019-01-31T07:06:08.349228Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "compresuageladeira.com.br",
       "mobileSummary": {
         "lastChangeTime": "2019-01-09T17:53:03.257792Z",
@@ -14910,13 +14957,14 @@
       "reviewedSite": "crazy-tutorial.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-09T17:53:03.257792Z",
+        "lastChangeTime": "2019-01-31T07:02:54.232681Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -18618,19 +18666,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-17T19:47:34.147090Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "dvb.no",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-09T17:53:00.942912Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
       }
     },
@@ -44628,7 +44663,7 @@
     {
       "reviewedSite": "mp4gist.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-30T09:49:57.098032Z",
+        "lastChangeTime": "2019-01-31T06:57:28.641343Z",
         "region": [
           "REGION_C"
         ],
@@ -44637,7 +44672,7 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-30T18:57:02.536504Z",
+        "lastChangeTime": "2019-01-31T06:57:28.574304Z",
         "region": [
           "REGION_C"
         ],
@@ -49500,20 +49535,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "oufc.co.uk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-29T10:40:58.812402Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-21T03:41:51.061778Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "oujanime.com",
       "mobileSummary": {
         "lastChangeTime": "2019-01-10T23:35:18.474863Z",
@@ -53745,13 +53766,14 @@
     {
       "reviewedSite": "portalpoptime.com.br",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:09.810420Z",
+        "lastChangeTime": "2019-01-31T03:04:13.276694Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -55409,13 +55431,13 @@
       "reviewedSite": "rajacoli.us",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-01T07:43:40.350649Z",
+        "lastChangeTime": "2019-01-31T07:43:40.471457Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-31T07:43:40.214868Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -63107,19 +63129,6 @@
       }
     },
     {
-      "reviewedSite": "strikeout.nu",
-      "mobileSummary": {
-        "lastChangeTime": "2018-04-06T01:19:28.656721Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2018-04-06T01:19:28.129433Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "strikerless.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -68608,7 +68617,7 @@
     {
       "reviewedSite": "tuhamster.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-30T09:49:57.285140Z",
+        "lastChangeTime": "2019-01-31T05:27:33.016229Z",
         "region": [
           "REGION_C"
         ],
@@ -74051,20 +74060,6 @@
       }
     },
     {
-      "reviewedSite": "wroughtironandbrassbed.co.uk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-29T11:18:26.365097Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-10T19:40:47.689056Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "wtn24.net",
       "mobileSummary": {
         "lastChangeTime": "2019-01-09T17:53:17.890970Z",
@@ -76347,13 +76342,14 @@
       "reviewedSite": "xxxujizz.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-23T12:17:39.138623Z",
+        "lastChangeTime": "2019-01-31T06:17:03.731538Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
