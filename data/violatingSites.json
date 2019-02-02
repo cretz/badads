@@ -1731,13 +1731,14 @@
       "reviewedSite": "abiem.info",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-18T14:41:28.582592Z",
+        "lastChangeTime": "2019-02-02T14:59:26.432857Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-18T14:41:28.409668Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -21862,13 +21863,14 @@
     {
       "reviewedSite": "fastkashmir.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:00.205115Z",
+        "lastChangeTime": "2019-02-02T08:28:43.482987Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -22053,13 +22055,14 @@
       "reviewedSite": "feins.lv",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-03T18:45:52.986985Z",
+        "lastChangeTime": "2019-02-02T14:58:36.012690Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-02T18:44:23.913825Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -22997,20 +23000,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-05T00:41:22.438218Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "fleetwoodtownfc.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-31T14:16:08.427330Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-23T13:41:23.886909Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -28882,22 +28871,24 @@
     {
       "reviewedSite": "hdsexyvideos.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-31T21:59:24.514245Z",
+        "lastChangeTime": "2019-02-02T08:37:12.570824Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-03-02T21:59:24.410082Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-31T21:41:00.124998Z",
+        "lastChangeTime": "2019-02-02T08:37:00.009286Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-03-02T21:40:59.980365Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -34073,22 +34064,24 @@
     {
       "reviewedSite": "javporn.xyz",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-30T17:54:05.330579Z",
+        "lastChangeTime": "2019-02-02T09:24:16.490302Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-03-01T17:54:05.231406Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-29T19:51:36.201252Z",
+        "lastChangeTime": "2019-02-02T09:24:03.653845Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-28T19:51:36.103487Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -34160,13 +34153,14 @@
       "reviewedSite": "javsexvideo.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-28T12:54:49.735147Z",
+        "lastChangeTime": "2019-02-02T09:27:32.147018Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -39459,13 +39453,13 @@
       "reviewedSite": "lfporn.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-03T12:52:49.283707Z",
+        "lastChangeTime": "2019-02-02T12:52:48.132021Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-02T12:52:47.980074Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -55250,20 +55244,6 @@
       }
     },
     {
-      "reviewedSite": "raamatupidaja.ee",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-31T12:38:51.966001Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-23T06:41:52.368341Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "raccontieroticireali.it",
       "mobileSummary": {},
       "desktopSummary": {
@@ -55352,13 +55332,13 @@
     {
       "reviewedSite": "radcliffecardiology.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-03T14:07:06.266443Z",
+        "lastChangeTime": "2019-02-02T14:07:06.376257Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-02T14:07:06.140512Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2019-01-25T16:54:57.751638Z",
@@ -56252,20 +56232,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "redimps.co.uk",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-31T14:18:27.899098Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-20T23:40:28.751554Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "redipgers.ga",
@@ -60440,13 +60406,13 @@
       "reviewedSite": "showyourdick.org",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-03T12:44:18.171139Z",
+        "lastChangeTime": "2019-02-02T12:44:18.311735Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-02T12:44:17.996483Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -71386,22 +71352,24 @@
     {
       "reviewedSite": "videoblackporn.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-30T17:28:13.433325Z",
+        "lastChangeTime": "2019-02-02T09:25:24.393957Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-03-01T17:28:13.284601Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-29T14:02:43.988305Z",
+        "lastChangeTime": "2019-02-02T09:25:37.761223Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-28T14:02:43.885676Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
