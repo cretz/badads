@@ -15218,29 +15218,6 @@
       }
     },
     {
-      "reviewedSite": "csakps.hu",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-01T13:30:53.444313Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-18T21:42:25.764191Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2019-02-01T13:30:30.045833Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-18T21:42:25.758529Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "ctoutpourvous.com",
       "mobileSummary": {
         "lastChangeTime": "2018-10-11T02:36:40.095996Z",
@@ -18494,13 +18471,13 @@
       "reviewedSite": "dubrovackidnevnik.hr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-04T09:45:15.447356Z",
+        "lastChangeTime": "2019-02-03T09:45:15.401193Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-03T09:45:14.977528Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -55055,13 +55032,14 @@
     {
       "reviewedSite": "quest2fitness.info",
       "mobileSummary": {
-        "lastChangeTime": "2019-02-02T05:45:07.775583Z",
+        "lastChangeTime": "2019-02-03T11:42:50.760866Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-02T05:45:07.488927Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -61243,13 +61221,13 @@
       "reviewedSite": "smartbet.co.ke",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-04T10:47:28.720981Z",
+        "lastChangeTime": "2019-02-03T10:47:28.646421Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-03T10:47:28.199033Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
