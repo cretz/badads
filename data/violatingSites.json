@@ -2707,13 +2707,14 @@
       "reviewedSite": "alexduve.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-22T10:26:19.807947Z",
+        "lastChangeTime": "2019-02-03T04:14:56.986636Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -64457,20 +64458,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "talcmag.gr",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-02-01T15:59:55.500432Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-21T00:41:28.713271Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "talimat.info",
