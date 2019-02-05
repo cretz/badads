@@ -6871,6 +6871,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "badtaste.it",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2019-02-05T05:33:34.054374Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-03-07T05:33:33.962354Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "badzdorov.ru",
       "mobileSummary": {},
       "desktopSummary": {
@@ -9830,19 +9843,6 @@
     },
     {
       "reviewedSite": "bolly-tube.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-09T17:53:01.082544Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "bollywoodhotvideo.com",
       "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2019-01-09T17:53:01.082544Z",
@@ -24186,7 +24186,7 @@
       "reviewedSite": "freevidporn.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2018-11-25T02:26:32.432847Z",
+        "lastChangeTime": "2019-02-05T00:10:51.010231Z",
         "region": [
           "REGION_B"
         ],
@@ -62205,6 +62205,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "soxporn.com",
+      "mobileSummary": {
+        "lastChangeTime": "2019-02-05T00:28:12.312293Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-03-07T00:28:12.216171Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "soyuzpechat.net",
       "mobileSummary": {
         "lastChangeTime": "2019-01-05T13:40:03.420174Z",
@@ -65955,20 +65968,6 @@
         "enforcementTime": "2019-02-07T20:45:41.993917Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "thegay.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-04T12:08:18.423314Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-02-16T01:44:30.086482Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "thegoodlife.ru",
@@ -72803,9 +72802,17 @@
     },
     {
       "reviewedSite": "watchhentaistream.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2019-02-05T00:27:53.969427Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
-        "lastChangeTime": "2018-11-14T22:02:32.777647Z",
+        "lastChangeTime": "2019-02-05T00:00:52.968843Z",
         "region": [
           "REGION_A"
         ],
