@@ -5014,13 +5014,13 @@
       "reviewedSite": "arga-mag.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-10T13:48:17.597646Z",
+        "lastChangeTime": "2019-02-05T13:52:40.904479Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -12999,20 +12999,6 @@
       }
     },
     {
-      "reviewedSite": "chilltv.lv",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-02-04T10:18:30.728370Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-30T14:40:21.969207Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "chinafilms.ru",
       "mobileSummary": {
         "lastChangeTime": "2019-01-23T09:42:15.731763Z",
@@ -15842,7 +15828,7 @@
     {
       "reviewedSite": "danosse.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-02-04T14:17:47.315180Z",
+        "lastChangeTime": "2019-02-05T15:52:32.058354Z",
         "region": [
           "REGION_C"
         ],
@@ -28419,13 +28405,14 @@
       "reviewedSite": "hatterasislandinn.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-07T13:44:50.641898Z",
+        "lastChangeTime": "2019-02-05T14:07:58.480877Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-06T13:44:50.511572Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -34695,22 +34682,24 @@
     {
       "reviewedSite": "jons-online.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-10T22:49:17.715055Z",
+        "lastChangeTime": "2019-02-05T14:25:04.503609Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-09T18:47:57.656183Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-10T22:49:17.678155Z",
+        "lastChangeTime": "2019-02-05T14:24:52.947712Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-09T18:47:57.656189Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -36034,19 +36023,6 @@
         "enforcementTime": "2019-02-01T15:45:15.026541Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "kawarji.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:07.837544Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "kawatlas.web.id",
@@ -50024,19 +50000,6 @@
         "enforcementTime": "2018-06-07T15:27:25.208388Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "paisdelosjuegos.com.mx",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:08.906836Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "paitohk.org",
@@ -64619,22 +64582,24 @@
     {
       "reviewedSite": "tamiltunes.pro",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-30T20:46:37.682586Z",
+        "lastChangeTime": "2019-02-05T14:23:10.420947Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-29T20:48:23.099014Z",
+        "lastChangeTime": "2019-02-05T14:22:58.119180Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -72050,13 +72015,14 @@
     {
       "reviewedSite": "visiteobrasil.com.br",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:17.890970Z",
+        "lastChangeTime": "2019-02-05T14:10:58.112327Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -72590,13 +72556,14 @@
       "reviewedSite": "wapsite.me",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-09T17:53:17.890970Z",
+        "lastChangeTime": "2019-02-05T11:06:21.985976Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -73689,19 +73656,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "wikiwand.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-02-04T22:20:12.698193Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-03-06T22:20:12.603053Z",
-        "filterStatus": "PENDING"
-      }
     },
     {
       "reviewedSite": "wildice.ru",
