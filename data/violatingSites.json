@@ -11233,13 +11233,13 @@
     {
       "reviewedSite": "cadesimu.net",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-07T07:47:30.156268Z",
+        "lastChangeTime": "2019-02-06T07:47:30.141956Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-06T07:47:29.985508Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -12693,13 +12693,13 @@
     {
       "reviewedSite": "channel488.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-07T07:47:30.667781Z",
+        "lastChangeTime": "2019-02-06T07:47:30.582952Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-06T07:47:30.435647Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -13995,13 +13995,13 @@
       "reviewedSite": "cnsoc.org",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-07T02:44:40.708563Z",
+        "lastChangeTime": "2019-02-06T02:44:40.740249Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-06T02:44:40.583426Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -16065,13 +16065,13 @@
       "reviewedSite": "davenporttheatre.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-07T03:44:17.175412Z",
+        "lastChangeTime": "2019-02-06T03:44:17.165271Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-06T03:44:16.906115Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -21445,13 +21445,14 @@
       "reviewedSite": "fairynudes.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-18T16:41:09.365518Z",
+        "lastChangeTime": "2019-02-06T00:11:23.220205Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-18T16:41:09.159499Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -24904,27 +24905,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "funnyjunk.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-24T14:26:21.636046Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-02-23T14:26:21.536049Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-24T13:04:40.312202Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-02-23T13:04:40.208681Z",
         "filterStatus": "PENDING"
       }
     },
@@ -32847,13 +32827,14 @@
       "reviewedSite": "irannaz.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-09T17:53:04.327531Z",
+        "lastChangeTime": "2019-02-06T07:40:27.812689Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -33014,6 +32995,19 @@
         "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
       }
+    },
+    {
+      "reviewedSite": "istinaf.info",
+      "mobileSummary": {
+        "lastChangeTime": "2019-02-06T06:07:27.271133Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-03-08T06:07:27.170521Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "italiaitinerari.it",
@@ -48864,26 +48858,28 @@
       "reviewedSite": "olderlips.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-05T09:42:41.710566Z",
+        "lastChangeTime": "2019-02-06T00:10:59.332648Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-05T09:42:41.457833Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
       "reviewedSite": "olderluck.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-05T09:42:41.664600Z",
+        "lastChangeTime": "2019-02-06T00:10:28.036131Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-05T09:42:41.457830Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -54328,13 +54324,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-07T05:44:26.029085Z",
+        "lastChangeTime": "2019-02-06T05:44:26.026111Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-06T05:44:25.732513Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -69536,13 +69532,14 @@
     {
       "reviewedSite": "uczelnie.edu.pl",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-07T20:47:04.666460Z",
+        "lastChangeTime": "2019-02-06T06:51:14.761028Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-06T20:47:04.509661Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -70566,20 +70563,6 @@
         "enforcementTime": "2018-07-25T19:02:48.726477759Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "uw.hu",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-05T18:02:08.047469Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-02-06T06:20:01.630197Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "uweekly.sg",
