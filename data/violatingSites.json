@@ -10044,20 +10044,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "boomsbeat.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-06T20:12:07.165389Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2018-04-13T12:31:42.296647Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "borofun.ir",
       "mobileSummary": {
         "lastChangeTime": "2019-01-09T17:53:01.082544Z",
@@ -18995,6 +18981,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "easycookingmenu.com",
+      "mobileSummary": {
+        "lastChangeTime": "2019-02-07T06:03:55.756812Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "easyhentai.com",
       "mobileSummary": {
         "lastChangeTime": "2018-12-17T14:47:08.249087Z",
@@ -20750,13 +20749,14 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-10T11:45:30.568896Z",
+        "lastChangeTime": "2019-02-07T07:55:56.401719Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -28503,20 +28503,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "hatterasislandinn.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-02-05T14:07:58.480877Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-02-06T13:44:50.511572Z",
-        "filterStatus": "PAUSED"
-      }
     },
     {
       "reviewedSite": "hausfrauen-pornos.com",
@@ -53222,13 +53208,13 @@
       "reviewedSite": "pornodeblack.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-08T01:20:58.903835Z",
+        "lastChangeTime": "2019-02-07T01:20:58.974437Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-07T01:20:58.649790Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -59472,13 +59458,13 @@
     {
       "reviewedSite": "sex81.net",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-08T07:58:26.174268Z",
+        "lastChangeTime": "2019-02-07T07:58:26.431782Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-07T07:58:25.929749Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -63819,20 +63805,6 @@
         "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "sunporno.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-06T20:33:02.159671Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-02-13T20:10:53.275196Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "sunqzone.xyz",
@@ -69312,13 +69284,13 @@
       "reviewedSite": "tvsdezsportvs.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-08T04:38:46.653176Z",
+        "lastChangeTime": "2019-02-07T04:38:46.214226Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-07T04:38:45.948199Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
