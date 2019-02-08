@@ -2210,6 +2210,19 @@
       }
     },
     {
+      "reviewedSite": "afilmywap360.blogspot.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2019-02-08T04:52:43.832861Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "africashowmag.com",
       "mobileSummary": {
         "lastChangeTime": "2018-10-31T16:40:07.084747Z",
@@ -2349,19 +2362,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "agozy.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-11T07:48:41.164469Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      }
     },
     {
       "reviewedSite": "agriniogoal.gr",
@@ -15933,13 +15933,13 @@
       "reviewedSite": "darkovyalkohol.cz",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-14T04:48:32.210678Z",
+        "lastChangeTime": "2019-02-08T00:47:52.423997Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-08T00:47:51.862733Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -29612,13 +29612,13 @@
     {
       "reviewedSite": "hinaz.ir",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T01:44:12.733204Z",
+        "lastChangeTime": "2019-02-08T01:44:12.800108Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-08T01:44:12.565494Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -51375,6 +51375,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "phimsexhan.pro",
+      "mobileSummary": {
+        "lastChangeTime": "2019-02-08T07:16:28.716433Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "phimsexsub.com",
       "mobileSummary": {
         "lastChangeTime": "2019-01-16T18:31:34.653682Z",
@@ -54270,29 +54283,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
-      }
-    },
-    {
-      "reviewedSite": "primetweets.com.ng",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-06T21:26:47.142215Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2019-02-06T21:25:30.276455Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-02-06T05:44:25.732513Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -69481,20 +69471,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "uczelnie.edu.pl",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-06T06:51:14.761028Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-02-06T20:47:04.509661Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "uddoktarkhoje.com",
       "mobileSummary": {
         "lastChangeTime": "2019-01-09T17:53:17.157630Z",
@@ -78167,13 +78143,13 @@
     {
       "reviewedSite": "zoryanchik.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T01:44:12.487601Z",
+        "lastChangeTime": "2019-02-08T01:44:12.469283Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-08T01:44:12.327209Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
