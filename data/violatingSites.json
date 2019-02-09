@@ -5427,20 +5427,6 @@
       }
     },
     {
-      "reviewedSite": "assaminterview.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-07T15:18:24.861992Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "assistante-maternelle.biz",
       "mobileSummary": {
         "lastChangeTime": "2018-12-04T18:44:16.758211Z",
@@ -32909,22 +32895,22 @@
     {
       "reviewedSite": "istarinsky.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-10T11:44:36.332631Z",
+        "lastChangeTime": "2019-02-09T11:44:36.264694Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-09T11:44:35.966402Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-10T11:44:36.237960Z",
+        "lastChangeTime": "2019-02-09T11:44:36.214146Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-09T11:44:35.965975Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -65947,13 +65933,14 @@
     {
       "reviewedSite": "theloudlaugh.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-02-09T01:47:06.323505Z",
+        "lastChangeTime": "2019-02-09T12:28:57.070988Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-09T01:47:06.183657Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -72841,29 +72828,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "wcmi.us",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-07T17:48:43.279064Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-18T17:41:30.957155Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2019-02-07T17:46:00.115188Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-18T17:41:30.957575Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "we-eat-halal.de",
       "mobileSummary": {},
       "desktopSummary": {
@@ -76102,22 +76066,24 @@
     {
       "reviewedSite": "xxxdan.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-22T08:44:54.979851Z",
+        "lastChangeTime": "2019-02-09T13:30:02.770263Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-21T08:44:54.749223Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-29T23:01:23.729952Z",
+        "lastChangeTime": "2019-02-09T13:29:39.762873Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-20T14:41:10.997220Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
