@@ -2598,7 +2598,7 @@
     {
       "reviewedSite": "alarm-kazan.ru",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-14T05:44:00.234657Z",
+        "lastChangeTime": "2019-02-09T03:39:59.670031Z",
         "region": [
           "REGION_C"
         ],
@@ -11872,6 +11872,19 @@
       "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2019-01-09T17:53:01.082544Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
+      "reviewedSite": "casadoscontos.com.br",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2019-02-09T01:43:50.113623Z",
         "region": [
           "REGION_C"
         ],
@@ -23403,20 +23416,6 @@
         "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "forexnews.pro",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-07T12:55:50.308304Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "formatagendaguru.blogspot.com",
@@ -65948,13 +65947,13 @@
     {
       "reviewedSite": "theloudlaugh.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-10T01:47:06.312723Z",
+        "lastChangeTime": "2019-02-09T01:47:06.323505Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-09T01:47:06.183657Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -71541,13 +71540,13 @@
     {
       "reviewedSite": "videotiktok.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-10T07:42:59.814069Z",
+        "lastChangeTime": "2019-02-09T07:42:59.903318Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-09T07:42:59.648655Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
