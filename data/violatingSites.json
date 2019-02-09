@@ -2390,6 +2390,19 @@
       }
     },
     {
+      "reviewedSite": "aiailah.com",
+      "mobileSummary": {
+        "lastChangeTime": "2019-02-08T21:53:17.920158Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "aikhockey.se",
       "mobileSummary": {},
       "desktopSummary": {
@@ -3758,19 +3771,6 @@
         "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "analdin.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-30T17:06:58.442886Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-03-01T17:06:58.338336Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "analporntube.biz",
@@ -19298,13 +19298,14 @@
       "reviewedSite": "eetimes.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-16T13:21:44.351262Z",
+        "lastChangeTime": "2019-02-08T19:12:24.921859Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-15T13:21:44.257483Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -26100,13 +26101,13 @@
     {
       "reviewedSite": "gemius.lt",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T22:48:48.451586Z",
+        "lastChangeTime": "2019-02-08T22:48:48.254616Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-08T22:48:48.048751Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -41700,20 +41701,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "managementinpractice.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-02-07T15:37:55.770945Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-04T13:46:05.465336Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "manchaazul.com.br",
       "mobileSummary": {
         "lastChangeTime": "2019-01-09T17:53:07.990348Z",
@@ -50891,13 +50878,14 @@
     {
       "reviewedSite": "pentasex.io",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-16T18:59:54.771432Z",
+        "lastChangeTime": "2019-02-08T21:50:03.245384Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-15T18:59:54.514045Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -52262,6 +52250,19 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "pni0.com",
+      "mobileSummary": {
+        "lastChangeTime": "2019-02-08T23:12:37.895412Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-03-10T23:12:37.769327Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "pni3.com",
       "mobileSummary": {
         "lastChangeTime": "2019-01-24T14:35:38.215172Z",
@@ -53202,19 +53203,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2018-12-05T07:59:17.519467Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "pornohaha.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-02-06T21:30:34.136138Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-03-08T21:30:34.041415Z",
-        "filterStatus": "PENDING"
       }
     },
     {
@@ -55700,13 +55688,14 @@
       "reviewedSite": "ratemyprofessors.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-29T23:01:14.938525Z",
+        "lastChangeTime": "2019-02-08T23:17:51.838377Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-21T21:16:38.718921Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -67064,13 +67053,13 @@
     {
       "reviewedSite": "tombolandfordhannibal.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:47:42.041929Z",
+        "lastChangeTime": "2019-02-08T17:47:42.001470Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-08T17:47:41.763905Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -67601,13 +67590,13 @@
       "reviewedSite": "tranny.org.es",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-09T16:47:35.826766Z",
+        "lastChangeTime": "2019-02-08T16:47:35.863543Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-08T16:47:35.653641Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -68084,13 +68073,13 @@
     {
       "reviewedSite": "tubelesbianporn.net",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T16:47:36.886692Z",
+        "lastChangeTime": "2019-02-08T16:47:36.437692Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-08T16:47:36.205321Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -70695,13 +70684,13 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-09T16:47:36.172807Z",
+        "lastChangeTime": "2019-02-08T16:47:36.189147Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-08T16:47:36.026644Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -72876,20 +72865,6 @@
       }
     },
     {
-      "reviewedSite": "wday.ru",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-08T15:50:25.298253Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "we-eat-halal.de",
       "mobileSummary": {},
       "desktopSummary": {
@@ -73039,13 +73014,13 @@
       "reviewedSite": "webigames.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-09T17:47:41.476444Z",
+        "lastChangeTime": "2019-02-08T17:47:41.522257Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-08T17:47:41.305216Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
