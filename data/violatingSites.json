@@ -3070,48 +3070,9 @@
       }
     },
     {
-      "reviewedSite": "almagram.xyz",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-14T05:44:00.365075Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-02-13T05:44:00.226154Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "almanasah.net",
       "mobileSummary": {
         "lastChangeTime": "2019-01-09T17:52:57.135463Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "almlaf.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-14T05:44:00.284628Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "almojaznews.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:47:43.218556Z",
         "region": [
           "REGION_C"
         ],
@@ -39183,20 +39144,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-03T20:43:55.077019Z",
         "filterStatus": "ON"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "lesfetesdulauragais.fr",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-08T12:06:28.554279Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-05T00:41:20.500202Z",
-        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
