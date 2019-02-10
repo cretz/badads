@@ -2979,19 +2979,6 @@
       }
     },
     {
-      "reviewedSite": "alllatestvideosongs.blogspot.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-14T04:48:32.925973Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "allnetworths.com",
       "mobileSummary": {
         "lastChangeTime": "2019-01-04T19:50:04.860099Z",
@@ -3595,13 +3582,13 @@
     {
       "reviewedSite": "amicaledesfedaliens.fr",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-14T04:48:31.433544Z",
+        "lastChangeTime": "2019-02-10T07:48:41.962373Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-10T07:48:41.769613Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -4395,13 +4382,13 @@
     {
       "reviewedSite": "antpress.info",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-14T04:48:31.628202Z",
+        "lastChangeTime": "2019-02-10T07:48:42.493280Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-10T07:48:42.153068Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -51127,13 +51114,14 @@
     {
       "reviewedSite": "petrochenko.ru",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:08.906836Z",
+        "lastChangeTime": "2019-02-10T06:16:50.587566Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
