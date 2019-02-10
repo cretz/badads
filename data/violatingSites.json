@@ -2724,19 +2724,6 @@
       }
     },
     {
-      "reviewedSite": "alhlol.net",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:52:57.135463Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "alhubalilmi.blogspot.com",
       "mobileSummary": {
         "lastChangeTime": "2019-01-04T19:50:04.495032Z",
@@ -2878,19 +2865,6 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "allaboutentertainment2011.blogspot.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-02-02T02:45:22.749624Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-02-02T02:45:22.488435Z",
-        "filterStatus": "ON"
-      }
     },
     {
       "reviewedSite": "allaboutlimassol.com",
@@ -32429,13 +32403,13 @@
       "reviewedSite": "institutionalinvestorsalpha.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-10T16:12:50.337155Z",
+        "lastChangeTime": "2019-02-09T16:12:50.250830Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-09T16:12:49.998320Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -34398,13 +34372,13 @@
     {
       "reviewedSite": "jeffdepangkhan.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-10T16:50:46.481562Z",
+        "lastChangeTime": "2019-02-09T16:50:46.458076Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-09T16:50:46.230464Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -63069,22 +63043,24 @@
     {
       "reviewedSite": "stb.ua",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-11T22:25:45.050094Z",
+        "lastChangeTime": "2019-02-09T22:30:38.078372Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-10T22:25:44.859724Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-11T22:25:45.743188Z",
+        "lastChangeTime": "2019-02-09T22:29:37.453479Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-10T22:25:44.859724Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
