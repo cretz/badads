@@ -8069,13 +8069,13 @@
     {
       "reviewedSite": "belhistory.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-11T22:46:48.199015Z",
+        "lastChangeTime": "2019-02-10T22:46:48.308277Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-10T22:46:48.059907Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -14765,13 +14765,13 @@
     {
       "reviewedSite": "cosmetic-avenue.net",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-11T22:46:48.593305Z",
+        "lastChangeTime": "2019-02-10T22:46:48.698001Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-10T22:46:48.361286Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -40326,13 +40326,14 @@
       "reviewedSite": "lovefoodnourish.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-13T23:40:47.743694Z",
+        "lastChangeTime": "2019-02-10T17:38:38.345571Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-13T23:40:47.623866Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -58618,13 +58619,14 @@
       "reviewedSite": "sedeftedavisi.blogspot.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-27T21:41:20.358637Z",
+        "lastChangeTime": "2019-02-10T22:46:59.235017Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-27T21:41:20.236838Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -65840,20 +65842,6 @@
         "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "theloudlaugh.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-09T12:28:57.070988Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-02-09T01:47:06.183657Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "themaniax.xyz",
@@ -75371,13 +75359,13 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-11T19:29:37.227670Z",
+        "lastChangeTime": "2019-02-10T19:29:37.229658Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-10T19:29:37.072097Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
