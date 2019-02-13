@@ -1792,7 +1792,7 @@
         "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-09T17:52:57.135463Z",
+        "lastChangeTime": "2019-02-13T02:03:18.664639Z",
         "region": [
           "REGION_C"
         ],
@@ -7679,13 +7679,13 @@
     {
       "reviewedSite": "bekesson.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-14T06:48:57.404692Z",
+        "lastChangeTime": "2019-02-13T06:48:57.404405Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-13T06:48:56.984124Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -10092,13 +10092,13 @@
     {
       "reviewedSite": "btvtinfo.blogspot.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-14T05:44:02.031415Z",
+        "lastChangeTime": "2019-02-13T05:44:02.108248Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-13T05:44:01.893969Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -11309,7 +11309,15 @@
     },
     {
       "reviewedSite": "carla-alves.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2019-02-13T06:51:38.310266Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-03-15T06:51:38.064140Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2019-02-12T14:04:20.405108Z",
         "region": [
@@ -14134,19 +14142,6 @@
       "reviewedSite": "cppstudio.ru",
       "mobileSummary": {
         "lastChangeTime": "2019-01-14T06:48:59.648581Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "crazy-fox.ru",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-14T06:48:59.643930Z",
         "region": [
           "REGION_C"
         ],
@@ -21676,19 +21671,6 @@
         "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "follandotube.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:00.205115Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "fomos.kr",
@@ -64307,7 +64289,7 @@
         "filterStatus": "PENDING"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-09T17:53:12.200832Z",
+        "lastChangeTime": "2019-02-13T02:03:17.977535Z",
         "region": [
           "REGION_C"
         ],
@@ -66523,19 +66505,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "uchebniy-center.ru",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:17.157630Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "uddoktarkhoje.com",
       "mobileSummary": {},
       "desktopSummary": {
@@ -66564,13 +66533,13 @@
     {
       "reviewedSite": "ugs0.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-14T01:04:00.885429Z",
+        "lastChangeTime": "2019-02-13T01:03:57.404636Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-13T01:03:57.050342Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -67569,19 +67538,6 @@
       }
     },
     {
-      "reviewedSite": "veja.com.br",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-09T17:53:17.157630Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "veloliberte92et22.com",
       "mobileSummary": {
         "lastChangeTime": "2018-10-10T11:36:36.069213Z",
@@ -68058,22 +68014,24 @@
     {
       "reviewedSite": "viewpackages.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-23T14:27:40.910348Z",
+        "lastChangeTime": "2019-02-13T07:44:28.321604Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-22T19:03:26.825699Z",
+        "lastChangeTime": "2019-02-13T07:44:49.452681Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -68377,19 +68335,6 @@
         "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "vkrumy.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-01T04:41:46.345815Z",
-        "region": [
-          "REGION_UNKNOWN"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-02-01T04:41:46.176109Z",
-        "filterStatus": "ON"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "vmog.my",
@@ -69227,7 +69172,7 @@
       "reviewedSite": "wespai.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-09T17:53:17.890970Z",
+        "lastChangeTime": "2019-02-13T02:03:18.190207Z",
         "region": [
           "REGION_C"
         ],
@@ -69670,7 +69615,7 @@
     {
       "reviewedSite": "wkb.co.kr",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:17.890970Z",
+        "lastChangeTime": "2019-02-13T06:51:39.664095Z",
         "region": [
           "REGION_C"
         ],
