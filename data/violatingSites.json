@@ -5014,19 +5014,6 @@
       }
     },
     {
-      "reviewedSite": "asia2tv.co",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-23T18:15:38.743161Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "asiae.co.kr",
       "mobileSummary": {},
       "desktopSummary": {
@@ -9197,13 +9184,14 @@
     {
       "reviewedSite": "bnat-cool.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-09T17:53:01.082544Z",
+        "lastChangeTime": "2019-02-14T14:38:20.641724Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -12754,13 +12742,14 @@
     {
       "reviewedSite": "citypages.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-16T19:09:47.780282Z",
+        "lastChangeTime": "2019-02-14T15:20:47.841247Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-15T19:09:47.647743Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -22573,13 +22562,13 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {
-        "lastChangeTime": "2019-01-15T13:25:18.786282Z",
+        "lastChangeTime": "2019-02-14T13:25:18.810458Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-14T13:25:18.581100Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -42828,7 +42817,15 @@
     },
     {
       "reviewedSite": "msphubz.com",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2019-02-14T14:09:41.403027Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2019-02-13T20:54:27.007724Z",
         "region": [
@@ -47015,7 +47012,15 @@
     },
     {
       "reviewedSite": "one2ball.net",
-      "mobileSummary": {},
+      "mobileSummary": {
+        "lastChangeTime": "2019-02-14T13:36:15.295553Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      },
       "desktopSummary": {
         "lastChangeTime": "2019-02-13T21:21:48.659497Z",
         "region": [
@@ -47673,19 +47678,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "otomoto.pl",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-28T22:01:17.138715Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-02-27T22:01:17.048630Z",
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
@@ -59607,6 +59599,19 @@
       }
     },
     {
+      "reviewedSite": "soccerhot.com",
+      "mobileSummary": {
+        "lastChangeTime": "2019-02-14T14:05:46.795387Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
       "reviewedSite": "soccerjumbotv.me",
       "mobileSummary": {},
       "desktopSummary": {
@@ -62647,14 +62652,13 @@
     {
       "reviewedSite": "taradxxx.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-02-14T01:58:19.248565Z",
+        "lastChangeTime": "2019-02-14T14:34:16.536540Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -70362,6 +70366,19 @@
         "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
       }
+    },
+    {
+      "reviewedSite": "xn--72c9ahy0cd3b3jk6cs.com",
+      "mobileSummary": {
+        "lastChangeTime": "2019-02-14T14:36:36.808481Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
     },
     {
       "reviewedSite": "xn--80aa3aiwo.xn--p1ai",
