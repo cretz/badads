@@ -1781,16 +1781,7 @@
     },
     {
       "reviewedSite": "accountantsdaily.com.au",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-12T22:24:49.956421Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
         "lastChangeTime": "2019-02-13T02:03:18.664639Z",
         "region": [
@@ -9182,20 +9173,6 @@
       }
     },
     {
-      "reviewedSite": "bnat-cool.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-14T14:38:20.641724Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
-    },
-    {
       "reviewedSite": "bo2dl.ir",
       "mobileSummary": {
         "lastChangeTime": "2019-01-09T17:53:01.082544Z",
@@ -11270,29 +11247,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "carla-alves.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-13T10:32:19.695265Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-03-15T06:51:38.064140Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2019-02-13T10:31:55.997882Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-03-14T14:04:20.234126Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "carnafishing.fr",
       "mobileSummary": {
         "lastChangeTime": "2019-01-04T08:41:55.390507Z",
@@ -12738,20 +12692,6 @@
         "enforcementTime": "2018-10-03T11:45:36.121707752Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "citypages.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-14T15:20:47.841247Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-02-15T19:09:47.647743Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "citypeopleonline.com",
@@ -30112,13 +30052,14 @@
       "reviewedSite": "industriepharma.fr",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-13T06:47:03.458379Z",
+        "lastChangeTime": "2019-02-14T17:11:42.758454Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-13T06:47:02.798424Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -35137,6 +35078,19 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "kisscosplay.moe",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2019-02-14T18:27:36.674857Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      }
     },
     {
       "reviewedSite": "kitchengadgetgirl.com",
@@ -52071,6 +52025,19 @@
       }
     },
     {
+      "reviewedSite": "pox.pl",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2019-02-14T18:53:44.319187Z",
+        "region": [
+          "REGION_B"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-03-16T18:53:44.215808Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "pozdravlend.ru",
       "mobileSummary": {
         "lastChangeTime": "2019-01-09T17:53:09.810420Z",
@@ -67916,13 +67883,14 @@
     {
       "reviewedSite": "vidz7.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-02-13T20:29:20.734873Z",
+        "lastChangeTime": "2019-02-14T20:03:28.730898Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-13T20:29:20.517138Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -70370,13 +70338,13 @@
     {
       "reviewedSite": "xn--72c9ahy0cd3b3jk6cs.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-02-14T14:36:36.808481Z",
+        "lastChangeTime": "2019-02-14T20:39:49.034047Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
