@@ -4359,6 +4359,29 @@
       "desktopSummary": {}
     },
     {
+      "reviewedSite": "apo.com.br",
+      "mobileSummary": {
+        "lastChangeTime": "2019-02-15T14:31:11.924032Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "underReview": true,
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PAUSED"
+      },
+      "desktopSummary": {
+        "lastChangeTime": "2019-02-15T14:31:43.279572Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "underReview": true,
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PAUSED"
+      }
+    },
+    {
       "reviewedSite": "apoel365.net",
       "mobileSummary": {},
       "desktopSummary": {
@@ -23121,23 +23144,16 @@
     },
     {
       "reviewedSite": "futasrolnoknek.hu",
-      "mobileSummary": {
-        "lastChangeTime": "2019-01-23T16:41:57.253525Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-01-23T16:41:57.151070Z",
-        "filterStatus": "ON"
-      },
+      "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-23T16:41:57.208151Z",
+        "lastChangeTime": "2019-02-15T13:27:29.333206Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-23T16:41:57.081224Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -52064,27 +52080,6 @@
       }
     },
     {
-      "reviewedSite": "pox.pl",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-15T00:51:18.426185Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-03-17T00:51:18.338914Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {
-        "lastChangeTime": "2019-02-14T18:53:44.319187Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-03-16T18:53:44.215808Z",
-        "filterStatus": "PENDING"
-      }
-    },
-    {
       "reviewedSite": "pozdravlend.ru",
       "mobileSummary": {
         "lastChangeTime": "2019-01-09T17:53:09.810420Z",
@@ -56058,20 +56053,6 @@
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-01-05T10:41:38.649845Z",
         "filterStatus": "ON"
-      }
-    },
-    {
-      "reviewedSite": "safetysolutions.net.au",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-02-14T02:20:46.352595Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
       }
     },
     {
@@ -62679,14 +62660,13 @@
     {
       "reviewedSite": "taradxxx.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-02-15T02:08:10.023789Z",
+        "lastChangeTime": "2019-02-15T12:47:52.533109Z",
         "region": [
           "REGION_C"
         ],
         "betterAdsStatus": "FAILING",
-        "underReview": true,
         "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
+        "filterStatus": "PENDING"
       },
       "desktopSummary": {}
     },
@@ -65739,7 +65719,7 @@
     {
       "reviewedSite": "trueteenclips.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-02-15T01:00:59.661272Z",
+        "lastChangeTime": "2019-02-15T13:42:54.039648Z",
         "region": [
           "REGION_A"
         ],
@@ -67381,13 +67361,13 @@
     {
       "reviewedSite": "varporn.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-16T15:22:43.782286Z",
+        "lastChangeTime": "2019-02-15T15:21:45.964845Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-15T15:21:45.357355Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {
         "lastChangeTime": "2019-01-16T15:28:13.851519Z",
@@ -67583,20 +67563,6 @@
         "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
       }
-    },
-    {
-      "reviewedSite": "veritas-a.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-15T00:09:59.975764Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-07-09T19:00:00Z",
-        "filterStatus": "PAUSED"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "vermelhinhoba.com.br",
