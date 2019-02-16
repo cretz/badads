@@ -9733,22 +9733,24 @@
     {
       "reviewedSite": "brazilianporn.com.es",
       "mobileSummary": {
-        "lastChangeTime": "2018-12-18T08:41:59.275830Z",
+        "lastChangeTime": "2019-02-15T18:02:48.822803Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-07-12T18:01:38.185843118Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {
-        "lastChangeTime": "2018-12-18T08:41:59.311519Z",
+        "lastChangeTime": "2019-02-15T18:02:39.683936Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2018-12-12T17:39:04.459100Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       }
     },
     {
@@ -11710,13 +11712,13 @@
     {
       "reviewedSite": "celtabettv.com",
       "mobileSummary": {
-        "lastChangeTime": "2019-02-12T06:51:31.783087Z",
+        "lastChangeTime": "2019-02-15T18:51:33.262654Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-15T18:51:32.638600Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -30091,20 +30093,6 @@
       "desktopSummary": {}
     },
     {
-      "reviewedSite": "industriepharma.fr",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-02-14T17:11:42.758454Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "underReview": true,
-        "enforcementTime": "2019-01-13T06:47:02.798424Z",
-        "filterStatus": "PAUSED"
-      }
-    },
-    {
       "reviewedSite": "indycenterbrasil.com.br",
       "mobileSummary": {},
       "desktopSummary": {
@@ -34218,6 +34206,19 @@
       }
     },
     {
+      "reviewedSite": "kazefuri.com",
+      "mobileSummary": {},
+      "desktopSummary": {
+        "lastChangeTime": "2019-02-15T20:59:06.351710Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      }
+    },
+    {
       "reviewedSite": "kazmirtube.com",
       "mobileSummary": {
         "lastChangeTime": "2019-01-09T17:53:07.837544Z",
@@ -34952,13 +34953,14 @@
     {
       "reviewedSite": "kinokrad.co",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-23T15:55:51.379836Z",
+        "lastChangeTime": "2019-02-15T17:22:11.809562Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-02-22T15:55:51.277955Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -38286,6 +38288,19 @@
       "reviewedSite": "lokerkerjapt.blogspot.com",
       "mobileSummary": {
         "lastChangeTime": "2019-01-09T17:53:07.990348Z",
+        "region": [
+          "REGION_C"
+        ],
+        "betterAdsStatus": "FAILING",
+        "enforcementTime": "2019-07-09T19:00:00Z",
+        "filterStatus": "PENDING"
+      },
+      "desktopSummary": {}
+    },
+    {
+      "reviewedSite": "lokerpekerjaan.com",
+      "mobileSummary": {
+        "lastChangeTime": "2019-02-15T23:13:20.541753Z",
         "region": [
           "REGION_C"
         ],
@@ -47336,19 +47351,6 @@
         "filterStatus": "ON"
       },
       "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "openingsuren.com",
-      "mobileSummary": {},
-      "desktopSummary": {
-        "lastChangeTime": "2019-01-22T19:10:01.913936Z",
-        "region": [
-          "REGION_B"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-02-21T19:06:57.940541Z",
-        "filterStatus": "PENDING"
-      }
     },
     {
       "reviewedSite": "openloadav.club",
@@ -58413,13 +58415,13 @@
       "reviewedSite": "shotgunworld.com",
       "mobileSummary": {},
       "desktopSummary": {
-        "lastChangeTime": "2019-01-16T19:44:33.236400Z",
+        "lastChangeTime": "2019-02-15T19:44:33.488277Z",
         "region": [
           "REGION_A"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-15T19:44:33.092721Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       }
     },
     {
@@ -65646,13 +65648,14 @@
     {
       "reviewedSite": "tribunaem.info",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-19T04:43:48.443637Z",
+        "lastChangeTime": "2019-02-15T20:37:51.785427Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
+        "underReview": true,
         "enforcementTime": "2019-01-19T04:43:48.134438Z",
-        "filterStatus": "ON"
+        "filterStatus": "PAUSED"
       },
       "desktopSummary": {}
     },
@@ -65715,19 +65718,6 @@
         "enforcementTime": "2018-09-16T19:35:40.618215344Z",
         "filterStatus": "ON"
       }
-    },
-    {
-      "reviewedSite": "trueteenclips.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-15T13:42:54.039648Z",
-        "region": [
-          "REGION_A"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-03-17T01:00:59.266452Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
     },
     {
       "reviewedSite": "trupornolabs.org",
@@ -70796,13 +70786,13 @@
     {
       "reviewedSite": "xnxxsexporn.net",
       "mobileSummary": {
-        "lastChangeTime": "2019-01-16T19:07:10.939582Z",
+        "lastChangeTime": "2019-02-15T19:07:11.096924Z",
         "region": [
           "REGION_B"
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-15T19:07:10.819587Z",
-        "filterStatus": "PENDING"
+        "filterStatus": "ON"
       },
       "desktopSummary": {}
     },
@@ -70815,19 +70805,6 @@
         ],
         "betterAdsStatus": "FAILING",
         "enforcementTime": "2019-02-27T17:03:19.212311Z",
-        "filterStatus": "PENDING"
-      },
-      "desktopSummary": {}
-    },
-    {
-      "reviewedSite": "xorgasmo.com",
-      "mobileSummary": {
-        "lastChangeTime": "2019-02-12T14:04:21.573263Z",
-        "region": [
-          "REGION_C"
-        ],
-        "betterAdsStatus": "FAILING",
-        "enforcementTime": "2019-07-09T19:00:00Z",
         "filterStatus": "PENDING"
       },
       "desktopSummary": {}
